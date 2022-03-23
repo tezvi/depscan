@@ -1,0 +1,67 @@
+<?php
+/**
+ * Configure your github API user and token in format "user:token".
+ */
+const GITHUB_AUTH = 'user:token';
+
+/**
+ * Add Awesome-made-by style project README.MD URLS per country.
+ */
+$mdUrls = [
+    'brazil'  => 'https://raw.githubusercontent.com/felipefialho/awesome-made-by-brazilians/master/README.md',
+    'russia'  => 'https://raw.githubusercontent.com/igoradamenko/awesome-made-by-russians/master/README.md',
+    'india'   => 'https://raw.githubusercontent.com/jeswinsimon/awesome-made-by-indians/master/README.md',
+    'japan'   => 'https://raw.githubusercontent.com/mvximenko/awesome-made-by-japanese/main/README.md',
+    'ukraine' => 'https://raw.githubusercontent.com/chernivtsijs/made-in-ukraine/master/README.md',
+    'germany' => 'https://raw.githubusercontent.com/mvximenko/awesome-made-by-germans/main/README.md',
+    'angola'  => 'https://raw.githubusercontent.com/joaroque/awesome-made-by-angolans/main/README.md',
+    'china'   => 'https://raw.githubusercontent.com/JN-H/awesome-made-by-chinese/master/README.md',
+    'albania' => 'https://raw.githubusercontent.com/redjanym/awesome-made-by-albanians/master/README.md',
+    'mexico'  => 'https://raw.githubusercontent.com/kinduff/awesome-made-by-mexicans/main/README.md',
+];
+
+/*
+* Add IonicaBizau JSON sources per country.
+*/
+$jsonUrls = [
+    'turkey'      => 'https://raw.githubusercontent.com/IonicaBizau/made-in-turkey/master/package.json',
+    'romania'     => 'https://raw.githubusercontent.com/IonicaBizau/made-in-romania/master/package.json',
+    'serbia'      => 'https://raw.githubusercontent.com/IonicaBizau/made-in-serbia/master/package.json',
+    'russia'      => 'https://raw.githubusercontent.com/IonicaBizau/made-in-russia/master/package.json',
+    'brazil'      => 'https://raw.githubusercontent.com/IonicaBizau/made-in-brazil/master/package.json',
+    'belarus'     => 'https://raw.githubusercontent.com/IonicaBizau/made-in-belarus/master/package.json',
+    'italy'       => 'https://raw.githubusercontent.com/IonicaBizau/made-in-italy/master/package.json',
+    'chile'       => 'https://raw.githubusercontent.com/IonicaBizau/made-in-chile/master/package.json',
+    'bosnia'      => 'https://raw.githubusercontent.com/IonicaBizau/made-in-bosnia/master/package.json',
+    'colombia'    => 'https://raw.githubusercontent.com/IonicaBizau/made-in-colombia/master/package.json',
+    'poland'      => 'https://raw.githubusercontent.com/IonicaBizau/made-in-poland/master/package.json',
+    'india'       => 'https://raw.githubusercontent.com/IonicaBizau/made-in-india/master/package.json',
+    'netherlands' => 'https://raw.githubusercontent.com/IonicaBizau/made-in-netherlands/master/package.json',
+    'bulgaria'    => 'https://raw.githubusercontent.com/IonicaBizau/made-in-bulgaria/master/package.json',
+    'bolivia'     => 'https://raw.githubusercontent.com/IonicaBizau/made-in-bolivia/master/package.json',
+    'ukraine'     => 'https://raw.githubusercontent.com/IonicaBizau/made-in-ukraine/master/package.json',
+    'venezuela'   => 'https://raw.githubusercontent.com/IonicaBizau/made-in-venezuela/master/package.json',
+    'uruguay'     => 'https://raw.githubusercontent.com/IonicaBizau/made-in-uruguay/master/package.json',
+    'spain'       => 'https://raw.githubusercontent.com/IonicaBizau/made-in-spain/master/package.json',
+    'slovenia'    => 'https://raw.githubusercontent.com/IonicaBizau/made-in-slovenia/master/package.json',
+    'slovakia'    => 'https://raw.githubusercontent.com/IonicaBizau/made-in-slovakia/master/package.json',
+    'portugal'    => 'https://raw.githubusercontent.com/IonicaBizau/made-in-portugal/master/package.json',
+    'peru'        => 'https://raw.githubusercontent.com/IonicaBizau/made-in-peru/master/package.json',
+    'paraguay'    => 'https://raw.githubusercontent.com/IonicaBizau/made-in-paraguay/master/package.json',
+    'moldova'     => 'https://raw.githubusercontent.com/IonicaBizau/made-in-moldova/master/package.json',
+    'malta'       => 'https://raw.githubusercontent.com/IonicaBizau/made-in-malta/master/package.json',
+    'lithuania'   => 'https://raw.githubusercontent.com/IonicaBizau/made-in-lithuania/master/package.json',
+    'latvia'      => 'https://raw.githubusercontent.com/IonicaBizau/made-in-latvia/master/package.json',
+    'guyana'      => 'https://raw.githubusercontent.com/IonicaBizau/made-in-guyana/master/package.json',
+    'greece'      => 'https://raw.githubusercontent.com/IonicaBizau/made-in-greece/master/package.json',
+    'france'      => 'https://raw.githubusercontent.com/IonicaBizau/made-in-france/master/package.json',
+    'finland'     => 'https://raw.githubusercontent.com/IonicaBizau/made-in-finland/master/package.json',
+    'estonia'     => 'https://raw.githubusercontent.com/IonicaBizau/made-in-estonia/master/package.json',
+    'ecuador'     => 'https://raw.githubusercontent.com/IonicaBizau/made-in-ecuador/master/package.json',
+    'denmark'     => 'https://raw.githubusercontent.com/IonicaBizau/made-in-denmark/master/package.json',
+    'croatia'     => 'https://raw.githubusercontent.com/IonicaBizau/made-in-croatia/master/package.json',
+    'belgium'     => 'https://raw.githubusercontent.com/IonicaBizau/made-in-belgium/master/package.json',
+    'austria'     => 'https://raw.githubusercontent.com/IonicaBizau/made-in-austria/master/package.json',
+    'argentina'   => 'https://raw.githubusercontent.com/IonicaBizau/made-in-argentina/master/package.json',
+    'albania'     => 'https://raw.githubusercontent.com/IonicaBizau/made-in-albania/master/package.json',
+];
