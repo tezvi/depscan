@@ -151,9 +151,9 @@ Before you run php script create config.php file from template php-scrapper/conf
    ```sh
    git clone https://github.com/tezvi/depscan.git
    ```
-3. Update php script `php-scrapper/index.php` and insert your own GitHub API key and modify country list if needed and then run the script.
+3. Update php script `php-scrapper/scrapper.php` and insert your own GitHub API key and modify country list if needed and then run the script.
    ```sh
-   php -f php-scrapper/index.php
+   php -f php-scrapper/scrapper.php
    ```
 4. Open DepScanWin in Visual Studio or other supported IDE and build project. Execute DepScanWin from project's bin directory.
 

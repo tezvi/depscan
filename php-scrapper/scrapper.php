@@ -14,13 +14,10 @@
  */
 pcntl_async_signals(true);
 
-// -----------------------------------
-// No need to modify bellow this line.
-// ----------------------------------
-
 const USER_AGENT          = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36';
 const PATTERN_MD_LINE     = '/\[(?<title>(.+?))\]\((?<url>.+?)\)/';
 const PATTERN_GITHUB_LINE = '/github\.com\/(?<user>[^\/]+)(\/(?<project>[^\/]+))?/i';
+const CURL_MAX_RETRIES    = 3;
 
 class DepEntry implements JsonSerializable
 {
@@ -110,7 +107,7 @@ function extractRepoFromUrl(string $url)
  * @throws AccessDeniedException
  * @throws NotFoundException
  */
-function httpGet(string $url)
+function httpGet(string $url, int &$errorRetries = 0)
 {
     logger('Fetching url: ' . $url);
     $ch = curl_init();
@@ -123,6 +120,10 @@ function httpGet(string $url)
         $responseData = curl_exec($ch);
         $statusCode   = (int) curl_getinfo($ch, CURLINFO_HTTP_CODE);
         $errorMsg     = curl_error($ch);
+
+        if (!$statusCode && $errorMsg && $errorRetries <= CURL_MAX_RETRIES) {
+            return httpGet($url, ++$errorRetries);
+        }
 
         if ($statusCode === 302 || $statusCode === 301) {
             $json = json_decode($responseData);
@@ -169,7 +170,7 @@ function handleCurlError(int $statusCode, $responseData, string $url, string $er
         }
 
         throw new RuntimeException(
-            sprintf('Unable to fetch URL %s, statrus: %s, error: %s', $url, $statusCode, $errorMsg)
+            sprintf('Unable to fetch URL %s, status: %s, error: %s', $url, $statusCode, $errorMsg)
         );
     }
 
@@ -396,7 +397,7 @@ function outputObjectToXml($object, DOMNode $node, DOMDocument $dom)
             if (is_bool($value)) {
                 $value = $value ? 'true' : 'false';
             }
-            $node->appendChild($dom->createElement(ucfirst($name), htmlspecialchars($value)));
+            $node->appendChild($dom->createElement(ucfirst($name), encodeSpecialChars($value)));
             continue;
         }
         $childrenNode = $dom->createElement(ucfirst($name));
@@ -409,9 +410,14 @@ function outputObjectToXml($object, DOMNode $node, DOMDocument $dom)
                 outputObjectToXml($item, $childNode, $dom);
             }
         } else {
-            $childrenNode->nodeValue = implode('; ', $value);
+            $childrenNode->nodeValue = encodeSpecialChars(implode('; ', $value));
         }
     }
+}
+
+function encodeSpecialChars(string $value): string
+{
+    return htmlspecialchars($value, ENT_QUOTES | ENT_SUBSTITUTE | ENT_DISALLOWED);
 }
 
 function getDepsXml(Registry $registry): DOMDocument
@@ -422,7 +428,7 @@ function getDepsXml(Registry $registry): DOMDocument
 
     foreach ($registry->deps as $dep) {
         $depEl = $dom->createElement('Dependency');
-        $depEl->setAttribute('name', $dep->repoName);
+        $depEl->setAttribute('name', encodeSpecialChars($dep->repoName));
         outputObjectToXml($dep, $depEl, $dom);
         $rootEl->appendChild($depEl);
     }
@@ -483,16 +489,18 @@ function readExistingLog(Registry $registry)
     logger(sprintf('Loaded %d dependencies from previous output file', $registry->count()));
 }
 
-function saveOutput(Registry $registry, bool $partial = false)
+function saveOutput(Registry $registry)
 {
     if (!$registry->count()) {
         return;
     }
 
     $outputDir  = __DIR__ . DIRECTORY_SEPARATOR;
-    $outputFile = $partial ? 'partial_log.xml' : 'output.xml';
-    $outputPath = $outputDir . DIRECTORY_SEPARATOR . $outputFile;
-    getDepsXml($registry)->save($outputPath);
+    $outputPath = $outputDir . DIRECTORY_SEPARATOR . 'output.xml';
+    getDepsXml($registry)->save($outputPath . '.tmp');
+    if (!rename($outputPath . '.tmp', $outputPath)) {
+        throw new RuntimeException('Unable to publish output filr to ' . $outputPath);
+    }
 }
 
 const OUTPUT_FILE = __DIR__ . DIRECTORY_SEPARATOR . 'output.xml';
@@ -504,7 +512,7 @@ $sigIntHandler = function($signal) use ($depRegistry) {
         case SIGINT:
         case SIGHUP:
             logger(sprintf('Caught %s signal, saving partial data', $signal));
-            saveOutput($depRegistry, true);
+            saveOutput($depRegistry);
             exit(0);
     }
 };
@@ -546,6 +554,6 @@ try {
 }
 catch (Throwable $exception) {
     logger('Fatal error: ' . $exception);
-    saveOutput($depRegistry, true);
+    saveOutput($depRegistry);
     exit(1);
 }
