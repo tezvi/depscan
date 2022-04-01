@@ -1,0 +1,3811 @@
+<?xml version="1.0"?>
+<Dependencies>
+    <Dependency name="bjrmatos/electron-workers">
+        <Url>https://github.com/bjrmatos/electron-workers</Url>
+        <Name>electron-workers</Name>
+        <Title>electron-workers</Title>
+        <RepoName>bjrmatos/electron-workers</RepoName>
+        <Description>Run electron scripts in managed workers :rocket:</Description>
+        <Owner>bjrmatos</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>bjrmatos</Name>
+                <User>bjrmatos</User>
+                <Url>https://github.com/bjrmatos</Url>
+                <Location>Lima, Peru</Location>
+                <Email>bjrmatos@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>142</WatchersCount>
+        <ForksCount>16</ForksCount>
+        <OpenIssuesCount>19</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2022-02-06T16:20:52Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="zmandel/Plus-for-Trello">
+        <Url>https://github.com/zmandel/Plus-for-Trello</Url>
+        <Name>Plus-for-Trello</Name>
+        <Title>Plus-for-Trello</Title>
+        <RepoName>zmandel/Plus-for-Trello</RepoName>
+        <Description>Plus for Trello chrome extension, web &amp; mobile app</Description>
+        <Owner>zmandel</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>zmandel</Name>
+                <User>zmandel</User>
+                <Url>https://github.com/zmandel</Url>
+                <Location>Peru</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; HTML; Batchfile</LanguageTags>
+        <WatchersCount>126</WatchersCount>
+        <ForksCount>24</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2022-02-06T23:44:18Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="bjrmatos/electron-html-to">
+        <Url>https://github.com/bjrmatos/electron-html-to</Url>
+        <Name>electron-html-to</Name>
+        <Title>electron-html-to</Title>
+        <RepoName>bjrmatos/electron-html-to</RepoName>
+        <Description>Highly scalable html conversion using electron workers :rocket:</Description>
+        <Owner>bjrmatos</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>bjrmatos</Name>
+                <User>bjrmatos</User>
+                <Url>https://github.com/bjrmatos</Url>
+                <Location>Lima, Peru</Location>
+                <Email>bjrmatos@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>54</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>6</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2021-08-13T08:14:31Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="bjrmatos/jsreport-electron-pdf">
+        <Url>https://github.com/bjrmatos/jsreport-electron-pdf</Url>
+        <Name>jsreport-electron-pdf</Name>
+        <Title>jsreport-electron-pd&#x2026;</Title>
+        <RepoName>bjrmatos/jsreport-electron-pdf</RepoName>
+        <Description>jsreport recipe which renders pdf from html using electron :rocket:</Description>
+        <Owner>bjrmatos</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>bjrmatos</Name>
+                <User>bjrmatos</User>
+                <Url>https://github.com/bjrmatos</Url>
+                <Location>Lima, Peru</Location>
+                <Email>bjrmatos@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>53</WatchersCount>
+        <ForksCount>7</ForksCount>
+        <OpenIssuesCount>5</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2022-01-23T11:19:31Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jansanchez/gulp-css-url-versioner">
+        <Url>https://github.com/jansanchez/gulp-css-url-versioner</Url>
+        <Name>gulp-css-url-versioner</Name>
+        <Title>gulp-css-url-version&#x2026;</Title>
+        <RepoName>jansanchez/gulp-css-url-versioner</RepoName>
+        <Description>A gulp plugin for versioning the CSS property: url</Description>
+        <Owner>jansanchez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jansanchez</Name>
+                <User>jansanchez</User>
+                <Url>https://github.com/jansanchez</Url>
+                <Location>Lima, Peru</Location>
+                <Email>joejansanchez@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CoffeeScript; CSS</LanguageTags>
+        <WatchersCount>19</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2017-07-01T01:34:14Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jansanchez/gulp-email">
+        <Url>https://github.com/jansanchez/gulp-email</Url>
+        <Name>gulp-email</Name>
+        <Title>gulp-email</Title>
+        <RepoName>jansanchez/gulp-email</RepoName>
+        <Description>A gulp plugin to send emails with or without attachments from a stream of html.</Description>
+        <Owner>jansanchez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jansanchez</Name>
+                <User>jansanchez</User>
+                <Url>https://github.com/jansanchez</Url>
+                <Location>Lima, Peru</Location>
+                <Email>joejansanchez@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>18</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2021-05-17T16:41:22Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="bjrmatos/sequelize-auto-import">
+        <Url>https://github.com/bjrmatos/sequelize-auto-import</Url>
+        <Name>sequelize-auto-import</Name>
+        <Title>sequelize-auto-impor&#x2026;</Title>
+        <RepoName>bjrmatos/sequelize-auto-import</RepoName>
+        <Description>Import sequelize models automagically :sparkles:</Description>
+        <Owner>bjrmatos</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>bjrmatos</Name>
+                <User>bjrmatos</User>
+                <Url>https://github.com/bjrmatos</Url>
+                <Location>Lima, Peru</Location>
+                <Email>bjrmatos@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>17</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>8</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2020-08-07T23:48:05Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="lupomontero/horseshoe">
+        <Url>https://github.com/lupomontero/horseshoe</Url>
+        <Name>horseshoe</Name>
+        <Title>horseshoe</Title>
+        <RepoName>lupomontero/horseshoe</RepoName>
+        <Description>A wrapper around nodemailer used for sending email using handlebars templates.</Description>
+        <Owner>lupomontero</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>lupomontero</Name>
+                <User>lupomontero</User>
+                <Url>https://github.com/lupomontero</Url>
+                <Location>Lima, Peru</Location>
+                <Email>lupomontero@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML</LanguageTags>
+        <WatchersCount>15</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2021-08-31T03:15:55Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="bjrmatos/json-schema-sugar">
+        <Url>https://github.com/bjrmatos/json-schema-sugar</Url>
+        <Name>json-schema-sugar</Name>
+        <Title>json-schema-sugar</Title>
+        <RepoName>bjrmatos/json-schema-sugar</RepoName>
+        <Description>Create a JSON Schema without the pain of writing it :icecream:</Description>
+        <Owner>bjrmatos</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>bjrmatos</Name>
+                <User>bjrmatos</User>
+                <Url>https://github.com/bjrmatos</Url>
+                <Location>Lima, Peru</Location>
+                <Email>bjrmatos@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>20</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2022-02-06T09:39:49Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="lupomontero/node-cppspeed">
+        <Url>https://github.com/lupomontero/node-cppspeed</Url>
+        <Name>node-cppspeed</Name>
+        <Title>node-cppspeed</Title>
+        <RepoName>lupomontero/node-cppspeed</RepoName>
+        <Description>Node.js modules speed test: C++ vs JavaScript</Description>
+        <Owner>lupomontero</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>lupomontero</Name>
+                <User>lupomontero</User>
+                <Url>https://github.com/lupomontero</Url>
+                <Location>Lima, Peru</Location>
+                <Email>lupomontero@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; C++; Python</LanguageTags>
+        <WatchersCount>16</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2019-11-03T21:19:29Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jansanchez/jscomplex">
+        <Url>https://github.com/jansanchez/jscomplex</Url>
+        <Name>jscomplex</Name>
+        <Title>jscomplex</Title>
+        <RepoName>jansanchez/jscomplex</RepoName>
+        <Description>A colorful reporter for maintainability index via escomplex</Description>
+        <Owner>jansanchez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jansanchez</Name>
+                <User>jansanchez</User>
+                <Url>https://github.com/jansanchez</Url>
+                <Location>Lima, Peru</Location>
+                <Email>joejansanchez@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>15</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2020-10-29T07:22:14Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jansanchez/mydependencies">
+        <Url>https://github.com/jansanchez/mydependencies</Url>
+        <Name>mydependencies</Name>
+        <Title>mydependencies</Title>
+        <RepoName>jansanchez/mydependencies</RepoName>
+        <Description>Reader of dependencies from package.json on terminal</Description>
+        <Owner>jansanchez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jansanchez</Name>
+                <User>jansanchez</User>
+                <Url>https://github.com/jansanchez</Url>
+                <Location>Lima, Peru</Location>
+                <Email>joejansanchez@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CoffeeScript</LanguageTags>
+        <WatchersCount>10</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2017-09-10T22:53:56Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jansanchez/es2015-nodejs-boilerplate">
+        <Url>https://github.com/jansanchez/es2015-nodejs-boilerplate</Url>
+        <Name>es2015-nodejs-boilerplate</Name>
+        <Title>es2015-nodejs-boiler&#x2026;</Title>
+        <RepoName>jansanchez/es2015-nodejs-boilerplate</RepoName>
+        <Description>es2015 nodejs boilerplate. Includes: babel, xo, webpack and pm2</Description>
+        <Owner>jansanchez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jansanchez</Name>
+                <User>jansanchez</User>
+                <Url>https://github.com/jansanchez</Url>
+                <Location>Lima, Peru</Location>
+                <Email>joejansanchez@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>10</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2018-04-02T01:24:41Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="erikfloresq/skeletor">
+        <Url>https://github.com/erikfloresq/skeletor</Url>
+        <Name>skeletor</Name>
+        <Title>skeletor</Title>
+        <RepoName>erikfloresq/skeletor</RepoName>
+        <Description>Estructura base para un proyecto basado en jade, stylus, es2015. Se usa gulp para la gesti&#xF3;n de tareas. &#x1F480;</Description>
+        <Owner>erikfloresq</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>erikfloresq</Name>
+                <User>erikfloresq</User>
+                <Url>https://github.com/erikfloresq</Url>
+                <Location>Montevideo, Uruguay</Location>
+                <Email>erikfloresq@icloud.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; Pug; Stylus</LanguageTags>
+        <WatchersCount>11</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2021-06-02T01:16:33Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ghondar/PelisTime">
+        <Url>https://github.com/ghondar/PelisTime</Url>
+        <Name>PelisTime</Name>
+        <Title>PelisTime</Title>
+        <RepoName>ghondar/PelisTime</RepoName>
+        <Description>Mira pel&#xED;culas y series en espa&#xF1;ol en HD y full HD al instante.</Description>
+        <Owner>ghondar</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ghondar</Name>
+                <User>ghondar</User>
+                <Url>https://github.com/ghondar</Url>
+                <Location>Lima, Peru</Location>
+                <Email>abgv9221@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; HTML</LanguageTags>
+        <WatchersCount>10</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2020-10-08T11:21:12Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="lupomontero/couchmin">
+        <Url>https://github.com/lupomontero/couchmin</Url>
+        <Name>couchmin</Name>
+        <Title>couchmin</Title>
+        <RepoName>lupomontero/couchmin</RepoName>
+        <Description>A command line tool to manage multiple local and remote CouchDB servers.</Description>
+        <Owner>lupomontero</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>lupomontero</Name>
+                <User>lupomontero</User>
+                <Url>https://github.com/lupomontero</Url>
+                <Location>Lima, Peru</Location>
+                <Email>lupomontero@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>9</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2017-09-08T04:15:30Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="lupomontero/jQuery.locationPicker">
+        <Url>https://github.com/lupomontero/jQuery.locationPicker</Url>
+        <Name>jQuery.locationPicker</Name>
+        <Title>jQuery.locationPicke&#x2026;</Title>
+        <RepoName>lupomontero/jQuery.locationPicker</RepoName>
+        <Description/>
+        <Owner>lupomontero</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>lupomontero</Name>
+                <User>lupomontero</User>
+                <Url>https://github.com/lupomontero</Url>
+                <Location>Lima, Peru</Location>
+                <Email>lupomontero@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; PHP; CSS</LanguageTags>
+        <WatchersCount>9</WatchersCount>
+        <ForksCount>7</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2015-12-05T08:42:48Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="bjrmatos/curso-reactjs">
+        <Url>https://github.com/bjrmatos/curso-reactjs</Url>
+        <Name>curso-reactjs</Name>
+        <Title>curso-reactjs</Title>
+        <RepoName>bjrmatos/curso-reactjs</RepoName>
+        <Description>Demos y Ejemplos para el curso de React.js</Description>
+        <Owner>bjrmatos</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>bjrmatos</Name>
+                <User>bjrmatos</User>
+                <Url>https://github.com/bjrmatos</Url>
+                <Location>Lima, Peru</Location>
+                <Email>bjrmatos@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2016-07-29T22:28:58Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ghondar/universal-redux-boilerplate">
+        <Url>https://github.com/ghondar/universal-redux-boilerplate</Url>
+        <Name>universal-redux-boilerplate</Name>
+        <Title>universal-redux-boil&#x2026;</Title>
+        <RepoName>ghondar/universal-redux-boilerplate</RepoName>
+        <Description>Un simple boilerplate para el uso de universal js con react, redux y react-router</Description>
+        <Owner>ghondar</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ghondar</Name>
+                <User>ghondar</User>
+                <Url>https://github.com/ghondar</Url>
+                <Location>Lima, Peru</Location>
+                <Email>abgv9221@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2018-03-15T16:33:29Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="juanpablocs/jade-php-twig">
+        <Url>https://github.com/juanpablocs/jade-php-twig</Url>
+        <Name>jade-php-twig</Name>
+        <Title>jade-php-twig</Title>
+        <RepoName>juanpablocs/jade-php-twig</RepoName>
+        <Description>jade with php inspired in twig</Description>
+        <Owner>juanpablocs</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>juanpablocs</Name>
+                <User>juanpablocs</User>
+                <Url>https://github.com/juanpablocs</Url>
+                <Location>Lima, Peru</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2018-07-10T21:13:40Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="android-sos/Ionic2Pokedex">
+        <Url>https://github.com/android-sos/Ionic2Pokedex</Url>
+        <Name>Ionic2Pokedex</Name>
+        <Title>Ionic2Pokedex</Title>
+        <RepoName>android-sos/Ionic2Pokedex</RepoName>
+        <Description>Ionic 2 Pokedex</Description>
+        <Owner>android-sos</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>android-sos</Name>
+                <User>android-sos</User>
+                <Url>https://github.com/android-sos</Url>
+                <Location>Peru, Lima.</Location>
+                <Email>samuel.ospina36@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; HTML; TypeScript</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2016-11-16T22:00:20Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jansanchez/generator-hubot-trendy">
+        <Url>https://github.com/jansanchez/generator-hubot-trendy</Url>
+        <Name>generator-hubot-trendy</Name>
+        <Title>generator-hubot-tren&#x2026;</Title>
+        <RepoName>jansanchez/generator-hubot-trendy</RepoName>
+        <Description>A Yeoman generator for creating your own chatbot using the Hubot framework</Description>
+        <Owner>jansanchez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jansanchez</Name>
+                <User>jansanchez</User>
+                <Url>https://github.com/jansanchez</Url>
+                <Location>Lima, Peru</Location>
+                <Email>joejansanchez@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; Shell; Batchfile</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2017-05-15T04:07:22Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="merunga/redux-todos">
+        <Url>https://github.com/merunga/redux-todos</Url>
+        <Name>redux-todos</Name>
+        <Title>redux-todos</Title>
+        <RepoName>merunga/redux-todos</RepoName>
+        <Description/>
+        <Owner>merunga</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>merunga</Name>
+                <User>merunga</User>
+                <Url>https://github.com/merunga</Url>
+                <Location>Lima, Peru</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>31</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2019-05-18T19:15:34Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="juanpablocs/mvhost">
+        <Url>https://github.com/juanpablocs/mvhost</Url>
+        <Name>mvhost</Name>
+        <Title>mvhost</Title>
+        <RepoName>juanpablocs/mvhost</RepoName>
+        <Description>create simple virtualhost for apache2 with npm</Description>
+        <Owner>juanpablocs</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>juanpablocs</Name>
+                <User>juanpablocs</User>
+                <Url>https://github.com/juanpablocs</Url>
+                <Location>Lima, Peru</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; ApacheConf</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2021-06-24T13:22:12Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="marti1125/Earthquake">
+        <Url>https://github.com/marti1125/Earthquake</Url>
+        <Name>Earthquake</Name>
+        <Title>Earthquake</Title>
+        <RepoName>marti1125/Earthquake</RepoName>
+        <Description>List of Earthquake</Description>
+        <Owner>marti1125</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>marti1125</Name>
+                <User>marti1125</User>
+                <Url>https://github.com/marti1125</Url>
+                <Location>Montevideo, Uruguay</Location>
+                <Email>marti1125@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; HTML</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2021-09-28T13:53:08Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="lupomontero/couchdb-oauth">
+        <Url>https://github.com/lupomontero/couchdb-oauth</Url>
+        <Name>couchdb-oauth</Name>
+        <Title>couchdb-oauth</Title>
+        <RepoName>lupomontero/couchdb-oauth</RepoName>
+        <Description>A CouchDB OAuth working example in Node.js</Description>
+        <Owner>lupomontero</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>lupomontero</Name>
+                <User>lupomontero</User>
+                <Url>https://github.com/lupomontero</Url>
+                <Location>Lima, Peru</Location>
+                <Email>lupomontero@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2022-02-04T18:54:51Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="zmandel/htmlService-get-set-data">
+        <Url>https://github.com/zmandel/htmlService-get-set-data</Url>
+        <Name>htmlService-get-set-data</Name>
+        <Title>htmlService-get-set-&#x2026;</Title>
+        <RepoName>zmandel/htmlService-get-set-data</RepoName>
+        <Description>for Google Apps Script HtmlService. Set and get a data object on an htmlOutput</Description>
+        <Owner>zmandel</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>zmandel</Name>
+                <User>zmandel</User>
+                <Url>https://github.com/zmandel</Url>
+                <Location>Peru</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML</LanguageTags>
+        <WatchersCount>9</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2021-01-22T03:23:37Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="lupomontero/backbone-validator">
+        <Url>https://github.com/lupomontero/backbone-validator</Url>
+        <Name>backbone-validator</Name>
+        <Title>backbone-validator</Title>
+        <RepoName>lupomontero/backbone-validator</RepoName>
+        <Description/>
+        <Owner>lupomontero</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>lupomontero</Name>
+                <User>lupomontero</User>
+                <Url>https://github.com/lupomontero</Url>
+                <Location>Lima, Peru</Location>
+                <Email>lupomontero@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2019-04-21T21:23:12Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jansanchez/css-url-versioner">
+        <Url>https://github.com/jansanchez/css-url-versioner</Url>
+        <Name>css-url-versioner</Name>
+        <Title>css-url-versioner</Title>
+        <RepoName>jansanchez/css-url-versioner</RepoName>
+        <Description>A node package for css url versioner</Description>
+        <Owner>jansanchez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jansanchez</Name>
+                <User>jansanchez</User>
+                <Url>https://github.com/jansanchez</Url>
+                <Location>Lima, Peru</Location>
+                <Email>joejansanchez@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CoffeeScript; Shell; CSS</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2018-12-27T20:32:49Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="juanpablocs/jade-atomic">
+        <Url>https://github.com/juanpablocs/jade-atomic</Url>
+        <Name>jade-atomic</Name>
+        <Title>jade-atomic</Title>
+        <RepoName>juanpablocs/jade-atomic</RepoName>
+        <Description>atomic design for jade</Description>
+        <Owner>juanpablocs</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>juanpablocs</Name>
+                <User>juanpablocs</User>
+                <Url>https://github.com/juanpablocs</Url>
+                <Location>Lima, Peru</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2018-07-10T21:13:49Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jansanchez/gulp-recursive-concat">
+        <Url>https://github.com/jansanchez/gulp-recursive-concat</Url>
+        <Name>gulp-recursive-concat</Name>
+        <Title>gulp-recursive-conca&#x2026;</Title>
+        <RepoName>jansanchez/gulp-recursive-concat</RepoName>
+        <Description>A Gulp recursive concatenation</Description>
+        <Owner>jansanchez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jansanchez</Name>
+                <User>jansanchez</User>
+                <Url>https://github.com/jansanchez</Url>
+                <Location>Lima, Peru</Location>
+                <Email>joejansanchez@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2018-12-27T20:32:00Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="marti1125/CoderWall-Badges">
+        <Url>https://github.com/marti1125/CoderWall-Badges</Url>
+        <Name>CoderWall-Badges</Name>
+        <Title>CoderWall-Badges</Title>
+        <RepoName>marti1125/CoderWall-Badges</RepoName>
+        <Description>CoderWall-Badges</Description>
+        <Owner>marti1125</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>marti1125</Name>
+                <User>marti1125</User>
+                <Url>https://github.com/marti1125</Url>
+                <Location>Montevideo, Uruguay</Location>
+                <Email>marti1125@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; Java</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2017-05-27T04:49:54Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="lupomontero/jsperu-streams">
+        <Url>https://github.com/lupomontero/jsperu-streams</Url>
+        <Name>jsperu-streams</Name>
+        <Title>jsperu-streams</Title>
+        <RepoName>lupomontero/jsperu-streams</RepoName>
+        <Description>Notas y ejemplos para presentaci&#xF3;n en reuni&#xF3;n de JavaScript Per&#xFA; 10 Dic 2012</Description>
+        <Owner>lupomontero</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>lupomontero</Name>
+                <User>lupomontero</User>
+                <Url>https://github.com/lupomontero</Url>
+                <Location>Lima, Peru</Location>
+                <Email>lupomontero@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2013-12-07T06:46:19Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="romelgomez/jqtree-spring-mvc-gae-example">
+        <Url>https://github.com/romelgomez/jqtree-spring-mvc-gae-example</Url>
+        <Name>jqtree-spring-mvc-gae-example</Name>
+        <Title>jqtree-spring-mvc-ga&#x2026;</Title>
+        <RepoName>romelgomez/jqtree-spring-mvc-gae-example</RepoName>
+        <Description>JqTree, Spring MVC, GoogleAppEngine; Example:</Description>
+        <Owner>romelgomez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>romelgomez</Name>
+                <User>romelgomez</User>
+                <Url>https://github.com/romelgomez</Url>
+                <Location>Peru</Location>
+                <Email>bmxandcode@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; Java</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>4</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2020-10-14T16:12:03Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jansanchez/jade-examples">
+        <Url>https://github.com/jansanchez/jade-examples</Url>
+        <Name>jade-examples</Name>
+        <Title>jade-examples</Title>
+        <RepoName>jansanchez/jade-examples</RepoName>
+        <Description>Jade Examples</Description>
+        <Owner>jansanchez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jansanchez</Name>
+                <User>jansanchez</User>
+                <Url>https://github.com/jansanchez</Url>
+                <Location>Lima, Peru</Location>
+                <Email>joejansanchez@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CoffeeScript; CSS</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2017-07-27T18:52:41Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="carloshs92/mocha-tutorial-primeros-pasos">
+        <Url>https://github.com/carloshs92/mocha-tutorial-primeros-pasos</Url>
+        <Name>mocha-tutorial-primeros-pasos</Name>
+        <Title>mocha-tutorial-prime&#x2026;</Title>
+        <RepoName>carloshs92/mocha-tutorial-primeros-pasos</RepoName>
+        <Description>Ejercicio demo para el uso de Mocha</Description>
+        <Owner>carloshs92</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>carloshs92</Name>
+                <User>carloshs92</User>
+                <Url>https://github.com/carloshs92</Url>
+                <Location>Lima, Peru</Location>
+                <Email>carlos.hs.92@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; CSS</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2019-06-21T00:23:56Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="marti1125/SubeAlMetro">
+        <Url>https://github.com/marti1125/SubeAlMetro</Url>
+        <Name>SubeAlMetro</Name>
+        <Title>SubeAlMetro</Title>
+        <RepoName>marti1125/SubeAlMetro</RepoName>
+        <Description>Metro de Lima</Description>
+        <Owner>marti1125</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>marti1125</Name>
+                <User>marti1125</User>
+                <Url>https://github.com/marti1125</Url>
+                <Location>Montevideo, Uruguay</Location>
+                <Email>marti1125@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; HTML</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2021-09-28T13:55:22Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="bjrmatos/chrome-page-eval">
+        <Url>https://github.com/bjrmatos/chrome-page-eval</Url>
+        <Name>chrome-page-eval</Name>
+        <Title>chrome-page-eval</Title>
+        <RepoName>bjrmatos/chrome-page-eval</RepoName>
+        <Description>Evaluate a script function on a page with Chrome &#x1F52E;</Description>
+        <Owner>bjrmatos</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>bjrmatos</Name>
+                <User>bjrmatos</User>
+                <Url>https://github.com/bjrmatos</Url>
+                <Location>Lima, Peru</Location>
+                <Email>bjrmatos@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2022-03-18T15:52:27Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="bjrmatos/jsreport-pug">
+        <Url>https://github.com/bjrmatos/jsreport-pug</Url>
+        <Name>jsreport-pug</Name>
+        <Title>jsreport-pug</Title>
+        <RepoName>bjrmatos/jsreport-pug</RepoName>
+        <Description>Use pug templating engine in jsreport</Description>
+        <Owner>bjrmatos</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>bjrmatos</Name>
+                <User>bjrmatos</User>
+                <Url>https://github.com/bjrmatos</Url>
+                <Location>Lima, Peru</Location>
+                <Email>bjrmatos@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2020-08-31T01:11:01Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jansanchez/npmrun">
+        <Url>https://github.com/jansanchez/npmrun</Url>
+        <Name>npmrun</Name>
+        <Title>npmrun</Title>
+        <RepoName>jansanchez/npmrun</RepoName>
+        <Description>nr, an alias for `npm run`</Description>
+        <Owner>jansanchez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jansanchez</Name>
+                <User>jansanchez</User>
+                <Url>https://github.com/jansanchez</Url>
+                <Location>Lima, Peru</Location>
+                <Email>joejansanchez@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2022-03-02T03:03:26Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="merunga/hablemosquechua">
+        <Url>https://github.com/merunga/hablemosquechua</Url>
+        <Name>hablemosquechua</Name>
+        <Title>hablemosquechua</Title>
+        <RepoName>merunga/hablemosquechua</RepoName>
+        <Description>experimento tecno-socio-cultural restableciendo conexiones... (beta) en desarrollo por @marianocrowe @sankaypillo @kikomayorga @escuelab @runasimipi
+        </Description>
+        <Owner>merunga</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>merunga</Name>
+                <User>merunga</User>
+                <Url>https://github.com/merunga</Url>
+                <Location>Lima, Peru</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CoffeeScript; CSS; HTML; Shell</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2020-05-22T22:14:19Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="lavaldi/users-graphql-example">
+        <Url>https://github.com/lavaldi/users-graphql-example</Url>
+        <Name>users-graphql-example</Name>
+        <Title>users-graphql-exampl&#x2026;</Title>
+        <RepoName>lavaldi/users-graphql-example</RepoName>
+        <Description>A small example using graphql</Description>
+        <Owner>lavaldi</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>lavaldi</Name>
+                <User>lavaldi</User>
+                <Url>https://github.com/lavaldi</Url>
+                <Location>Lima, Peru</Location>
+                <Email>claumavaldivieso@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2017-12-20T21:07:00Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="merunga/opendata-rios-peru">
+        <Url>https://github.com/merunga/opendata-rios-peru</Url>
+        <Name>opendata-rios-peru</Name>
+        <Title>opendata-rios-peru</Title>
+        <RepoName>merunga/opendata-rios-peru</RepoName>
+        <Description>Mapa hidrografico en openlayers del Peru</Description>
+        <Owner>merunga</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>merunga</Name>
+                <User>merunga</User>
+                <Url>https://github.com/merunga</Url>
+                <Location>Lima, Peru</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; PHP; Shell</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2014-09-09T18:46:57Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jansanchez/didactic-react">
+        <Url>https://github.com/jansanchez/didactic-react</Url>
+        <Name>didactic-react</Name>
+        <Title>didactic-react</Title>
+        <RepoName>jansanchez/didactic-react</RepoName>
+        <Description>didactic react</Description>
+        <Owner>jansanchez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jansanchez</Name>
+                <User>jansanchez</User>
+                <Url>https://github.com/jansanchez</Url>
+                <Location>Lima, Peru</Location>
+                <Email>joejansanchez@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2018-08-13T03:18:22Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jansanchez/redmine-issues">
+        <Url>https://github.com/jansanchez/redmine-issues</Url>
+        <Name>redmine-issues</Name>
+        <Title>redmine-issues</Title>
+        <RepoName>jansanchez/redmine-issues</RepoName>
+        <Description>Redmine Issues Rest API Client for node.js</Description>
+        <Owner>jansanchez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jansanchez</Name>
+                <User>jansanchez</User>
+                <Url>https://github.com/jansanchez</Url>
+                <Location>Lima, Peru</Location>
+                <Email>joejansanchez@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2015-02-05T15:02:51Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="juaneladio/Metropolitano-Mobile">
+        <Url>https://github.com/juaneladio/Metropolitano-Mobile</Url>
+        <Name>Metropolitano-Mobile</Name>
+        <Title>Metropolitano-Mobile</Title>
+        <RepoName>juaneladio/Metropolitano-Mobile</RepoName>
+        <Description>[OBSOLETO: Ver https://github.com/juaneladio/metropolitano ] Proyecto en JQuery Mobile para construir una web m&#xF3;vil con informaci&#xF3;n del servicio de
+            transporte Metropolitano en Lima, Per&#xFA;.
+        </Description>
+        <Owner>juaneladio</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>juaneladio</Name>
+                <User>juaneladio</User>
+                <Url>https://github.com/juaneladio</Url>
+                <Location>Lima, Peru</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2014-02-15T19:10:23Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="lupomontero/banoffee">
+        <Url>https://github.com/lupomontero/banoffee</Url>
+        <Name>banoffee</Name>
+        <Title>banoffee</Title>
+        <RepoName>lupomontero/banoffee</RepoName>
+        <Description/>
+        <Owner>lupomontero</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>lupomontero</Name>
+                <User>lupomontero</User>
+                <Url>https://github.com/lupomontero</Url>
+                <Location>Lima, Peru</Location>
+                <Email>lupomontero@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2019-07-02T14:39:17Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="erikfloresq/servo">
+        <Url>https://github.com/erikfloresq/servo</Url>
+        <Name>servo</Name>
+        <Title>servo</Title>
+        <RepoName>erikfloresq/servo</RepoName>
+        <Description>servo is my server dummy &#x1F984;</Description>
+        <Owner>erikfloresq</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>erikfloresq</Name>
+                <User>erikfloresq</User>
+                <Url>https://github.com/erikfloresq</Url>
+                <Location>Montevideo, Uruguay</Location>
+                <Email>erikfloresq@icloud.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; Pug; CSS</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2021-05-25T22:21:49Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jerson/raml-js-webservice-generator-old">
+        <Url>https://github.com/jerson/raml-js-webservice-generator-old</Url>
+        <Name>raml-js-webservice-generator-old</Name>
+        <Title>raml-js-webservice-g&#x2026;</Title>
+        <RepoName>jerson/raml-js-webservice-generator-old</RepoName>
+        <Description>RAML webservice generator .. is still in development!!</Description>
+        <Owner>jerson</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jerson</Name>
+                <User>jerson</User>
+                <Url>https://github.com/jerson</Url>
+                <Location>Lima, Per&#xFA;</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; CSS; PHP</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2017-06-24T15:44:51Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="lupomontero/jQuery.suggest">
+        <Url>https://github.com/lupomontero/jQuery.suggest</Url>
+        <Name>jQuery.suggest</Name>
+        <Title>jQuery.suggest</Title>
+        <RepoName>lupomontero/jQuery.suggest</RepoName>
+        <Description/>
+        <Owner>lupomontero</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>lupomontero</Name>
+                <User>lupomontero</User>
+                <Url>https://github.com/lupomontero</Url>
+                <Location>Lima, Peru</Location>
+                <Email>lupomontero@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2013-09-29T22:10:26Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="marti1125/paint">
+        <Url>https://github.com/marti1125/paint</Url>
+        <Name>paint</Name>
+        <Title>paint</Title>
+        <RepoName>marti1125/paint</RepoName>
+        <Description>paint</Description>
+        <Owner>marti1125</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>marti1125</Name>
+                <User>marti1125</User>
+                <Url>https://github.com/marti1125</Url>
+                <Location>Montevideo, Uruguay</Location>
+                <Email>marti1125@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2016-10-27T13:29:39Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ghondar/lowdb-recursive">
+        <Url>https://github.com/ghondar/lowdb-recursive</Url>
+        <Name>lowdb-recursive</Name>
+        <Title>lowdb-recursive</Title>
+        <RepoName>ghondar/lowdb-recursive</RepoName>
+        <Description>Flat JSON file database recursive</Description>
+        <Owner>ghondar</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ghondar</Name>
+                <User>ghondar</User>
+                <Url>https://github.com/ghondar</Url>
+                <Location>Lima, Peru</Location>
+                <Email>abgv9221@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>80</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2019-10-10T00:57:50Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jansanchez/pageres-demo">
+        <Url>https://github.com/jansanchez/pageres-demo</Url>
+        <Name>pageres-demo</Name>
+        <Title>pageres-demo</Title>
+        <RepoName>jansanchez/pageres-demo</RepoName>
+        <Description>Demo del uso de pageres con Gulp.js</Description>
+        <Owner>jansanchez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jansanchez</Name>
+                <User>jansanchez</User>
+                <Url>https://github.com/jansanchez</Url>
+                <Location>Lima, Peru</Location>
+                <Email>joejansanchez@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2015-12-01T14:06:09Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jansanchez/gulp-primeros-pasos">
+        <Url>https://github.com/jansanchez/gulp-primeros-pasos</Url>
+        <Name>gulp-primeros-pasos</Name>
+        <Title>gulp-primeros-pasos</Title>
+        <RepoName>jansanchez/gulp-primeros-pasos</RepoName>
+        <Description>Primeros pasos con gulp</Description>
+        <Owner>jansanchez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jansanchez</Name>
+                <User>jansanchez</User>
+                <Url>https://github.com/jansanchez</Url>
+                <Location>Lima, Peru</Location>
+                <Email>joejansanchez@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2018-08-30T21:50:40Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ghondar/PelisTime-Mobile">
+        <Url>https://github.com/ghondar/PelisTime-Mobile</Url>
+        <Name>PelisTime-Mobile</Name>
+        <Title>PelisTime-Mobile</Title>
+        <RepoName>ghondar/PelisTime-Mobile</RepoName>
+        <Description>Mira pel&#xED;culas y series en espa&#xF1;ol en HD y full HD al instante desde tu celular.</Description>
+        <Owner>ghondar</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ghondar</Name>
+                <User>ghondar</User>
+                <Url>https://github.com/ghondar</Url>
+                <Location>Lima, Peru</Location>
+                <Email>abgv9221@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; Java</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2016-04-22T11:21:23Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jansanchez/compresor-de-imagenes">
+        <Url>https://github.com/jansanchez/compresor-de-imagenes</Url>
+        <Name>compresor-de-imagenes</Name>
+        <Title>compresor-de-imagene&#x2026;</Title>
+        <RepoName>jansanchez/compresor-de-imagenes</RepoName>
+        <Description>Compresor de im&#xE1;genes con Gulp</Description>
+        <Owner>jansanchez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jansanchez</Name>
+                <User>jansanchez</User>
+                <Url>https://github.com/jansanchez</Url>
+                <Location>Lima, Peru</Location>
+                <Email>joejansanchez@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2016-07-14T20:07:57Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alejandrogarciasalas/Google-docs-clone">
+        <Url>https://github.com/alejandrogarciasalas/Google-docs-clone</Url>
+        <Name>Google-docs-clone</Name>
+        <Title>Google-docs-clone</Title>
+        <RepoName>alejandrogarciasalas/Google-docs-clone</RepoName>
+        <Description>A simple google docs clone made with socket.io</Description>
+        <Owner>alejandrogarciasalas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alejandrogarciasalas</Name>
+                <User>alejandrogarciasalas</User>
+                <Url>https://github.com/alejandrogarciasalas</Url>
+                <Location>Lima, Per&#xFA; &#x2192; California, USA</Location>
+                <Email>garciasalasalejandro@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2021-11-15T09:43:41Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="bjrmatos/grunt-external-config">
+        <Url>https://github.com/bjrmatos/grunt-external-config</Url>
+        <Name>grunt-external-config</Name>
+        <Title>grunt-external-confi&#x2026;</Title>
+        <RepoName>bjrmatos/grunt-external-config</RepoName>
+        <Description>Example of split grunt config file in multiple files</Description>
+        <Owner>bjrmatos</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>bjrmatos</Name>
+                <User>bjrmatos</User>
+                <Url>https://github.com/bjrmatos</Url>
+                <Location>Lima, Peru</Location>
+                <Email>bjrmatos@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2014-12-13T20:13:23Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Rub21/tofix-cli">
+        <Url>https://github.com/Rub21/tofix-cli</Url>
+        <Name>tofix-cli</Name>
+        <Title>tofix-cli</Title>
+        <RepoName>Rub21/tofix-cli</RepoName>
+        <Description/>
+        <Owner>Rub21</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Rub21</Name>
+                <User>Rub21</User>
+                <Url>https://github.com/Rub21</Url>
+                <Location>Ayacucho-Peru</Location>
+                <Email>rub2106@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2018-11-22T00:04:37Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Rub21/openhuamanga">
+        <Url>https://github.com/Rub21/openhuamanga</Url>
+        <Name>openhuamanga</Name>
+        <Title>openhuamanga</Title>
+        <RepoName>Rub21/openhuamanga</RepoName>
+        <Description>Primera aplicacion web para proyecto Open Data de la Municipalidad de Humanga</Description>
+        <Owner>Rub21</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Rub21</Name>
+                <User>Rub21</User>
+                <Url>https://github.com/Rub21</Url>
+                <Location>Ayacucho-Peru</Location>
+                <Email>rub2106@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>10</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2014-06-01T05:37:58Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Rub21/registro-ayacucho">
+        <Url>https://github.com/Rub21/registro-ayacucho</Url>
+        <Name>registro-ayacucho</Name>
+        <Title>registro-ayacucho</Title>
+        <RepoName>Rub21/registro-ayacucho</RepoName>
+        <Description/>
+        <Owner>Rub21</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Rub21</Name>
+                <User>Rub21</User>
+                <Url>https://github.com/Rub21</Url>
+                <Location>Ayacucho-Peru</Location>
+                <Email>rub2106@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2016-12-08T00:07:08Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Rub21/osrm-local-server">
+        <Url>https://github.com/Rub21/osrm-local-server</Url>
+        <Name>osrm-local-server</Name>
+        <Title>osrm-local-server</Title>
+        <RepoName>Rub21/osrm-local-server</RepoName>
+        <Description/>
+        <Owner>Rub21</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Rub21</Name>
+                <User>Rub21</User>
+                <Url>https://github.com/Rub21</Url>
+                <Location>Ayacucho-Peru</Location>
+                <Email>rub2106@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2018-09-13T16:07:32Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="merunga/laboratoria-redux">
+        <Url>https://github.com/merunga/laboratoria-redux</Url>
+        <Name>laboratoria-redux</Name>
+        <Title>laboratoria-redux</Title>
+        <RepoName>merunga/laboratoria-redux</RepoName>
+        <Description/>
+        <Owner>merunga</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>merunga</Name>
+                <User>merunga</User>
+                <Url>https://github.com/merunga</Url>
+                <Location>Lima, Peru</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; CSS</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2018-03-22T03:14:00Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="romelgomez/jqtree-angularjs-firebase-example">
+        <Url>https://github.com/romelgomez/jqtree-angularjs-firebase-example</Url>
+        <Name>jqtree-angularjs-firebase-example</Name>
+        <Title>jqtree-angularjs-fir&#x2026;</Title>
+        <RepoName>romelgomez/jqtree-angularjs-firebase-example</RepoName>
+        <Description/>
+        <Owner>romelgomez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>romelgomez</Name>
+                <User>romelgomez</User>
+                <Url>https://github.com/romelgomez</Url>
+                <Location>Peru</Location>
+                <Email>bmxandcode@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; ApacheConf; HTML; CSS</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2019-10-28T12:46:53Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="romelgomez/angular-firebase-login-example">
+        <Url>https://github.com/romelgomez/angular-firebase-login-example</Url>
+        <Name>angular-firebase-login-example</Name>
+        <Title>angular-firebase-log&#x2026;</Title>
+        <RepoName>romelgomez/angular-firebase-login-example</RepoName>
+        <Description/>
+        <Owner>romelgomez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>romelgomez</Name>
+                <User>romelgomez</User>
+                <Url>https://github.com/romelgomez</Url>
+                <Location>Peru</Location>
+                <Email>bmxandcode@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; CSS</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2017-03-05T15:49:46Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ghondar/react-create-app-redux-boilerplate">
+        <Url>https://github.com/ghondar/react-create-app-redux-boilerplate</Url>
+        <Name>react-create-app-redux-boilerplate</Name>
+        <Title>react-create-app-red&#x2026;</Title>
+        <RepoName>ghondar/react-create-app-redux-boilerplate</RepoName>
+        <Description/>
+        <Owner>ghondar</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ghondar</Name>
+                <User>ghondar</User>
+                <Url>https://github.com/ghondar</Url>
+                <Location>Lima, Peru</Location>
+                <Email>abgv9221@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2018-10-28T23:04:28Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="erikfloresq/react101">
+        <Url>https://github.com/erikfloresq/react101</Url>
+        <Name>react101</Name>
+        <Title>react101</Title>
+        <RepoName>erikfloresq/react101</RepoName>
+        <Description/>
+        <Owner>erikfloresq</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>erikfloresq</Name>
+                <User>erikfloresq</User>
+                <Url>https://github.com/erikfloresq</Url>
+                <Location>Montevideo, Uruguay</Location>
+                <Email>erikfloresq@icloud.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="Rub21/Ayacucho">
+        <Url>https://github.com/Rub21/Ayacucho</Url>
+        <Name>Ayacucho</Name>
+        <Title>Ayacucho</Title>
+        <RepoName>Rub21/Ayacucho</RepoName>
+        <Description/>
+        <Owner>Rub21</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Rub21</Name>
+                <User>Rub21</User>
+                <Url>https://github.com/Rub21</Url>
+                <Location>Ayacucho-Peru</Location>
+                <Email>rub2106@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2016-12-08T00:06:30Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="lavaldi/docker-critical-css">
+        <Url>https://github.com/lavaldi/docker-critical-css</Url>
+        <Name>docker-critical-css</Name>
+        <Title>docker-critical-css</Title>
+        <RepoName>lavaldi/docker-critical-css</RepoName>
+        <Description>Critical CSS with Docker, puppeteer and critical</Description>
+        <Owner>lavaldi</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>lavaldi</Name>
+                <User>lavaldi</User>
+                <Url>https://github.com/lavaldi</Url>
+                <Location>Lima, Peru</Location>
+                <Email>claumavaldivieso@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; Makefile</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2017-12-18T19:20:44Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="lupomontero/capot">
+        <Url>https://github.com/lupomontero/capot</Url>
+        <Name>capot</Name>
+        <Title>capot</Title>
+        <RepoName>lupomontero/capot</RepoName>
+        <Description/>
+        <Owner>lupomontero</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>lupomontero</Name>
+                <User>lupomontero</User>
+                <Url>https://github.com/lupomontero</Url>
+                <Location>Lima, Peru</Location>
+                <Email>lupomontero@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2019-09-03T16:05:48Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="lizzie136/flashbitacora">
+        <Url>https://github.com/lizzie136/flashbitacora</Url>
+        <Name>flashbitacora</Name>
+        <Title>flashbitacora</Title>
+        <RepoName>lizzie136/flashbitacora</RepoName>
+        <Description>ejercicio con algunos HTML5 APIs</Description>
+        <Owner>lizzie136</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>lizzie136</Name>
+                <User>lizzie136</User>
+                <Url>https://github.com/lizzie136</Url>
+                <Location>New York</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; HTML</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>21</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2018-05-10T00:13:02Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="lupomontero/timer">
+        <Url>https://github.com/lupomontero/timer</Url>
+        <Name>timer</Name>
+        <Title>timer</Title>
+        <RepoName>lupomontero/timer</RepoName>
+        <Description>Timer is a simple coundown app useful for talks and presentations</Description>
+        <Owner>lupomontero</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>lupomontero</Name>
+                <User>lupomontero</User>
+                <Url>https://github.com/lupomontero</Url>
+                <Location>Lima, Peru</Location>
+                <Email>lupomontero@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>12</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2020-11-17T15:26:58Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Wesitos/matheo">
+        <Url>https://github.com/Wesitos/matheo</Url>
+        <Name>matheo</Name>
+        <Title>matheo</Title>
+        <RepoName>Wesitos/matheo</RepoName>
+        <Description/>
+        <Owner>Wesitos</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Wesitos</Name>
+                <User>Wesitos</User>
+                <Url>https://github.com/Wesitos</Url>
+                <Location>Lima, Peru</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; Python; CSS; C++</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2017-06-25T14:45:31Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="marti1125/vertical-navigation">
+        <Url>https://github.com/marti1125/vertical-navigation</Url>
+        <Name>vertical-navigation</Name>
+        <Title>vertical-navigation</Title>
+        <RepoName>marti1125/vertical-navigation</RepoName>
+        <Description>jQuery Plugin</Description>
+        <Owner>marti1125</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>marti1125</Name>
+                <User>marti1125</User>
+                <Url>https://github.com/marti1125</Url>
+                <Location>Montevideo, Uruguay</Location>
+                <Email>marti1125@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; CSS</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2015-12-26T01:26:20Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="raymicha/ScrollParallax">
+        <Url>https://github.com/raymicha/ScrollParallax</Url>
+        <Name>ScrollParallax</Name>
+        <Title>ScrollParallax</Title>
+        <RepoName>raymicha/ScrollParallax</RepoName>
+        <Description/>
+        <Owner>raymicha</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>raymicha</Name>
+                <User>raymicha</User>
+                <Url>https://github.com/raymicha</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2013-10-11T05:29:58Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="marti1125/Drawl">
+        <Url>https://github.com/marti1125/Drawl</Url>
+        <Name>Drawl</Name>
+        <Title>Drawl</Title>
+        <RepoName>marti1125/Drawl</RepoName>
+        <Description>A simple drawing app for Firefox OS.</Description>
+        <Owner>marti1125</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>marti1125</Name>
+                <User>marti1125</User>
+                <Url>https://github.com/marti1125</Url>
+                <Location>Montevideo, Uruguay</Location>
+                <Email>marti1125@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2016-03-03T10:33:16Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jansanchez/jquery-plugins">
+        <Url>https://github.com/jansanchez/jquery-plugins</Url>
+        <Name>jquery-plugins</Name>
+        <Title>jquery-plugins</Title>
+        <RepoName>jansanchez/jquery-plugins</RepoName>
+        <Description>jquery-plugins</Description>
+        <Owner>jansanchez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jansanchez</Name>
+                <User>jansanchez</User>
+                <Url>https://github.com/jansanchez</Url>
+                <Location>Lima, Peru</Location>
+                <Email>joejansanchez@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CoffeeScript; CSS; Scala</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2015-10-04T20:56:45Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="marti1125/Mozillians_on_Twitter">
+        <Url>https://github.com/marti1125/Mozillians_on_Twitter</Url>
+        <Name>Mozillians_on_Twitter</Name>
+        <Title>Mozillians_on_Twitte&#x2026;</Title>
+        <RepoName>marti1125/Mozillians_on_Twitter</RepoName>
+        <Description>Mozillians on Twitter</Description>
+        <Owner>marti1125</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>marti1125</Name>
+                <User>marti1125</User>
+                <Url>https://github.com/marti1125</Url>
+                <Location>Montevideo, Uruguay</Location>
+                <Email>marti1125@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2021-10-26T12:43:56Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jansanchez/bitbucket-payload">
+        <Url>https://github.com/jansanchez/bitbucket-payload</Url>
+        <Name>bitbucket-payload</Name>
+        <Title>bitbucket-payload</Title>
+        <RepoName>jansanchez/bitbucket-payload</RepoName>
+        <Description>A payload reader for Bitbucket webhooks</Description>
+        <Owner>jansanchez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jansanchez</Name>
+                <User>jansanchez</User>
+                <Url>https://github.com/jansanchez</Url>
+                <Location>Lima, Peru</Location>
+                <Email>joejansanchez@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2017-10-17T20:07:41Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="juanpablocs/jp-router">
+        <Url>https://github.com/juanpablocs/jp-router</Url>
+        <Name>jp-router</Name>
+        <Title>jp-router</Title>
+        <RepoName>juanpablocs/jp-router</RepoName>
+        <Description>Simple Router Controller JS</Description>
+        <Owner>juanpablocs</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>juanpablocs</Name>
+                <User>juanpablocs</User>
+                <Url>https://github.com/juanpablocs</Url>
+                <Location>Lima, Peru</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2018-07-10T21:14:35Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jansanchez/api-with-loopback">
+        <Url>https://github.com/jansanchez/api-with-loopback</Url>
+        <Name>api-with-loopback</Name>
+        <Title>api-with-loopback</Title>
+        <RepoName>jansanchez/api-with-loopback</RepoName>
+        <Description>API REST build with Loopback.io (NodeJS).</Description>
+        <Owner>jansanchez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jansanchez</Name>
+                <User>jansanchez</User>
+                <Url>https://github.com/jansanchez</Url>
+                <Location>Lima, Peru</Location>
+                <Email>joejansanchez@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; Shell; Makefile</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2017-06-08T15:58:30Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="bjrmatos/jsreport-with-authorization-server-sample">
+        <Url>https://github.com/bjrmatos/jsreport-with-authorization-server-sample</Url>
+        <Name>jsreport-with-authorization-server-sample</Name>
+        <Title>jsreport-with-author&#x2026;</Title>
+        <RepoName>bjrmatos/jsreport-with-authorization-server-sample</RepoName>
+        <Description>Sample demonstrating how to delegate authentication in jsreport to an external authorization server to support Single Sign On</Description>
+        <Owner>bjrmatos</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>bjrmatos</Name>
+                <User>bjrmatos</User>
+                <Url>https://github.com/bjrmatos</Url>
+                <Location>Lima, Peru</Location>
+                <Email>bjrmatos@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2021-11-25T17:00:06Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="juanpablocs/front-silex">
+        <Url>https://github.com/juanpablocs/front-silex</Url>
+        <Name>front-silex</Name>
+        <Title>front-silex</Title>
+        <RepoName>juanpablocs/front-silex</RepoName>
+        <Description>Skeleton: Silex framework php and webpack + es6 + sass architecture frontend demo</Description>
+        <Owner>juanpablocs</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>juanpablocs</Name>
+                <User>juanpablocs</User>
+                <Url>https://github.com/juanpablocs</Url>
+                <Location>Lima, Peru</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; PHP; HTML; CSS</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2018-07-10T21:18:07Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="android-sos/ionic1todos">
+        <Url>https://github.com/android-sos/ionic1todos</Url>
+        <Name>ionic1todos</Name>
+        <Title>ionic1todos</Title>
+        <RepoName>android-sos/ionic1todos</RepoName>
+        <Description/>
+        <Owner>android-sos</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>android-sos</Name>
+                <User>android-sos</User>
+                <Url>https://github.com/android-sos</Url>
+                <Location>Peru, Lima.</Location>
+                <Email>samuel.ospina36@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; HTML</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2016-10-14T22:48:44Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="emedinaa/android-clean-architecture">
+        <Url>https://github.com/emedinaa/android-clean-architecture</Url>
+        <Name>android-clean-architecture</Name>
+        <Title>android-clean-archit&#x2026;</Title>
+        <RepoName>emedinaa/android-clean-architecture</RepoName>
+        <Description>Sample Android app using clean architecture</Description>
+        <Owner>emedinaa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>emedinaa</Name>
+                <User>emedinaa</User>
+                <Url>https://github.com/emedinaa</Url>
+                <Location>Lima, Peru</Location>
+                <Email>emedinaa@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>36</WatchersCount>
+        <ForksCount>10</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2021-12-03T03:54:24Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="emedinaa/android-modular-apps">
+        <Url>https://github.com/emedinaa/android-modular-apps</Url>
+        <Name>android-modular-apps</Name>
+        <Title>android-modular-apps</Title>
+        <RepoName>emedinaa/android-modular-apps</RepoName>
+        <Description>How build modular applications in Android</Description>
+        <Owner>emedinaa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>emedinaa</Name>
+                <User>emedinaa</User>
+                <Url>https://github.com/emedinaa</Url>
+                <Location>Lima, Peru</Location>
+                <Email>emedinaa@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>24</WatchersCount>
+        <ForksCount>12</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2020-03-29T10:34:51Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jeqo/talk-kafka-zipkin">
+        <Url>https://github.com/jeqo/talk-kafka-zipkin</Url>
+        <Name>talk-kafka-zipkin</Name>
+        <Title>talk-kafka-zipkin</Title>
+        <RepoName>jeqo/talk-kafka-zipkin</RepoName>
+        <Description>Demo material from talk about tracing Kafka-based applications with Zipkin</Description>
+        <Owner>jeqo</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jeqo</Name>
+                <User>jeqo</User>
+                <Url>https://github.com/jeqo</Url>
+                <Location>Per&#xFA;</Location>
+                <Email>quilcate.jorge@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; Makefile</LanguageTags>
+        <WatchersCount>66</WatchersCount>
+        <ForksCount>13</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2022-02-22T09:58:01Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="emedinaa/android-mvp">
+        <Url>https://github.com/emedinaa/android-mvp</Url>
+        <Name>android-mvp</Name>
+        <Title>android-mvp</Title>
+        <RepoName>emedinaa/android-mvp</RepoName>
+        <Description>Ejemplo de como implementar el Patr&#xF3;n MVP ( Model - View - Presenter) en Android</Description>
+        <Owner>emedinaa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>emedinaa</Name>
+                <User>emedinaa</User>
+                <Url>https://github.com/emedinaa</Url>
+                <Location>Lima, Peru</Location>
+                <Email>emedinaa@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>22</WatchersCount>
+        <ForksCount>12</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2021-11-15T09:49:40Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jeqo/post-kafka-rewind-consumer-offset">
+        <Url>https://github.com/jeqo/post-kafka-rewind-consumer-offset</Url>
+        <Name>post-kafka-rewind-consumer-offset</Name>
+        <Title>post-kafka-rewind-co&#x2026;</Title>
+        <RepoName>jeqo/post-kafka-rewind-consumer-offset</RepoName>
+        <Description>Post: Kafka - Rewind Consumer Offset</Description>
+        <Owner>jeqo</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jeqo</Name>
+                <User>jeqo</User>
+                <Url>https://github.com/jeqo</Url>
+                <Location>Per&#xFA;</Location>
+                <Email>quilcate.jorge@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>22</WatchersCount>
+        <ForksCount>10</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2020-03-23T22:15:16Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jmarkstar/GpsTrackerDemo">
+        <Url>https://github.com/jmarkstar/GpsTrackerDemo</Url>
+        <Name>GpsTrackerDemo</Name>
+        <Title>GpsTrackerDemo</Title>
+        <RepoName>jmarkstar/GpsTrackerDemo</RepoName>
+        <Description>This little android project is using AlarmManager and JobScheduler to get Location in an interval time.</Description>
+        <Owner>jmarkstar</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jmarkstar</Name>
+                <User>jmarkstar</User>
+                <Url>https://github.com/jmarkstar</Url>
+                <Location>Australia</Location>
+                <Email>jmarkstar.1991@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>20</WatchersCount>
+        <ForksCount>7</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2021-09-11T09:22:02Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jmarkstar/SQLiteNativo">
+        <Url>https://github.com/jmarkstar/SQLiteNativo</Url>
+        <Name>SQLiteNativo</Name>
+        <Title>SQLiteNativo</Title>
+        <RepoName>jmarkstar/SQLiteNativo</RepoName>
+        <Description>Este proyecto es un App que b&#xE1;sicamente usa la base de datos SQLite para poder crear un mantenimiento, brinda la introducci&#xF3;n a SQLiteOpenHelper,
+            Adapters y algunos componentes UI utiles para comenzar en android.
+        </Description>
+        <Owner>jmarkstar</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jmarkstar</Name>
+                <User>jmarkstar</User>
+                <Url>https://github.com/jmarkstar</Url>
+                <Location>Australia</Location>
+                <Email>jmarkstar.1991@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>10</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2018-05-07T19:32:57Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jeqo/post-kafka-opentracing">
+        <Url>https://github.com/jeqo/post-kafka-opentracing</Url>
+        <Name>post-kafka-opentracing</Name>
+        <Title>post-kafka-opentraci&#x2026;</Title>
+        <RepoName>jeqo/post-kafka-opentracing</RepoName>
+        <Description>Post: Tracing Kafka Applications</Description>
+        <Owner>jeqo</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jeqo</Name>
+                <User>jeqo</User>
+                <Url>https://github.com/jeqo</Url>
+                <Location>Per&#xFA;</Location>
+                <Email>quilcate.jorge@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; Shell; Batchfile</LanguageTags>
+        <WatchersCount>18</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2021-08-25T09:03:23Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="emedinaa/Android-Backendless">
+        <Url>https://github.com/emedinaa/Android-Backendless</Url>
+        <Name>Android-Backendless</Name>
+        <Title>Android-Backendless</Title>
+        <RepoName>emedinaa/Android-Backendless</RepoName>
+        <Description>Sample Login Android + REST API Backendless</Description>
+        <Owner>emedinaa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>emedinaa</Name>
+                <User>emedinaa</User>
+                <Url>https://github.com/emedinaa</Url>
+                <Location>Lima, Peru</Location>
+                <Email>emedinaa@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2020-05-25T14:43:39Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jmarkstar/TuristHelper">
+        <Url>https://github.com/jmarkstar/TuristHelper</Url>
+        <Name>TuristHelper</Name>
+        <Title>TuristHelper</Title>
+        <RepoName>jmarkstar/TuristHelper</RepoName>
+        <Description>Demo App using foursquare API and google maps directions API.</Description>
+        <Owner>jmarkstar</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jmarkstar</Name>
+                <User>jmarkstar</User>
+                <Url>https://github.com/jmarkstar</Url>
+                <Location>Australia</Location>
+                <Email>jmarkstar.1991@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2021-01-06T13:21:30Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="emedinaa/android_custom_dialog_fragment">
+        <Url>https://github.com/emedinaa/android_custom_dialog_fragment</Url>
+        <Name>android_custom_dialog_fragment</Name>
+        <Title>android_custom_dialo&#x2026;</Title>
+        <RepoName>emedinaa/android_custom_dialog_fragment</RepoName>
+        <Description>DialogFragment with custom layout</Description>
+        <Owner>emedinaa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>emedinaa</Name>
+                <User>emedinaa</User>
+                <Url>https://github.com/emedinaa</Url>
+                <Location>Lima, Peru</Location>
+                <Email>emedinaa@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>10</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2021-10-26T18:21:44Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kerpie/Elephant">
+        <Url>https://github.com/kerpie/Elephant</Url>
+        <Name>Elephant</Name>
+        <Title>Elephant</Title>
+        <RepoName>kerpie/Elephant</RepoName>
+        <Description>Annotation Processor to apply the Memoization technique in Utils-like classes</Description>
+        <Owner>kerpie</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kerpie</Name>
+                <User>kerpie</User>
+                <Url>https://github.com/kerpie</Url>
+                <Location>Tacna, Peru</Location>
+                <Email>k4torce@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2017-07-06T01:31:12Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="emedinaa/Android-Multiple-Product-Flavors">
+        <Url>https://github.com/emedinaa/Android-Multiple-Product-Flavors</Url>
+        <Name>Android-Multiple-Product-Flavors</Name>
+        <Title>Android-Multiple-Pro&#x2026;</Title>
+        <RepoName>emedinaa/Android-Multiple-Product-Flavors</RepoName>
+        <Description>Android Multiple Product Flavors</Description>
+        <Owner>emedinaa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>emedinaa</Name>
+                <User>emedinaa</User>
+                <Url>https://github.com/emedinaa</Url>
+                <Location>Lima, Peru</Location>
+                <Email>emedinaa@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2017-08-16T13:18:31Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="emedinaa/android_parse">
+        <Url>https://github.com/emedinaa/android_parse</Url>
+        <Name>android_parse</Name>
+        <Title>android_parse</Title>
+        <RepoName>emedinaa/android_parse</RepoName>
+        <Description>Migrar aplicaci&#xF3;n android de Parse a Backendless usando REST API</Description>
+        <Owner>emedinaa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>emedinaa</Name>
+                <User>emedinaa</User>
+                <Url>https://github.com/emedinaa</Url>
+                <Location>Lima, Peru</Location>
+                <Email>emedinaa@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2016-11-17T01:37:53Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="emedinaa/Pokedex-Kotlin">
+        <Url>https://github.com/emedinaa/Pokedex-Kotlin</Url>
+        <Name>Pokedex-Kotlin</Name>
+        <Title>Pokedex-Kotlin</Title>
+        <RepoName>emedinaa/Pokedex-Kotlin</RepoName>
+        <Description>Kotlin for Android Developers</Description>
+        <Owner>emedinaa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>emedinaa</Name>
+                <User>emedinaa</User>
+                <Url>https://github.com/emedinaa</Url>
+                <Location>Lima, Peru</Location>
+                <Email>emedinaa@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; Kotlin</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2019-02-02T07:04:22Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jmarkstar/GreenDaoExamples">
+        <Url>https://github.com/jmarkstar/GreenDaoExamples</Url>
+        <Name>GreenDaoExamples</Name>
+        <Title>GreenDaoExamples</Title>
+        <RepoName>jmarkstar/GreenDaoExamples</RepoName>
+        <Description>This little android project is an example which containts a CRUD using ORM GreenDao, the app is using RecyclerView, CardView and SnackBar.</Description>
+        <Owner>jmarkstar</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jmarkstar</Name>
+                <User>jmarkstar</User>
+                <Url>https://github.com/jmarkstar</Url>
+                <Location>Australia</Location>
+                <Email>jmarkstar.1991@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2018-05-07T19:32:54Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jorgenro1/Arduino_Android">
+        <Url>https://github.com/jorgenro1/Arduino_Android</Url>
+        <Name>Arduino_Android</Name>
+        <Title>Arduino_Android</Title>
+        <RepoName>jorgenro1/Arduino_Android</RepoName>
+        <Description>Esta aplicaci&#xF3;n fue elaborada como un demo para la presentacion "Demo Code Live: Android y Arduino" celebrada en el CTIC-UNI en el evento Arduino Day
+            2014. Para la comunicacion se uso un modulo Bluetooth que se conecto al Arduino
+        </Description>
+        <Owner>jorgenro1</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jorgenro1</Name>
+                <User>jorgenro1</User>
+                <Url>https://github.com/jorgenro1</Url>
+                <Location>Lima-Peru</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; Arduino</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2016-10-06T06:59:09Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kerpie/Scrolling_Techniques_For_Android">
+        <Url>https://github.com/kerpie/Scrolling_Techniques_For_Android</Url>
+        <Name>Scrolling_Techniques_For_Android</Name>
+        <Title>Scrolling_Techniques&#x2026;</Title>
+        <RepoName>kerpie/Scrolling_Techniques_For_Android</RepoName>
+        <Description>Scrolling techniques using the Android Design Support Library</Description>
+        <Owner>kerpie</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kerpie</Name>
+                <User>kerpie</User>
+                <Url>https://github.com/kerpie</Url>
+                <Location>Tacna, Peru</Location>
+                <Email>k4torce@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>14</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2016-02-14T14:43:08Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="emedinaa/monkey">
+        <Url>https://github.com/emedinaa/monkey</Url>
+        <Name>monkey</Name>
+        <Title>monkey</Title>
+        <RepoName>emedinaa/monkey</RepoName>
+        <Description>Librer&#xED;a Http basada en Volley . "Es como usar Volley pero con sabor a retrofit" https://developer.android.com/training/volley/index.html</Description>
+        <Owner>emedinaa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>emedinaa</Name>
+                <User>emedinaa</User>
+                <Url>https://github.com/emedinaa</Url>
+                <Location>Lima, Peru</Location>
+                <Email>emedinaa@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2015-11-26T01:12:21Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jeqo/java-ee-rxjava-kafka-avro">
+        <Url>https://github.com/jeqo/java-ee-rxjava-kafka-avro</Url>
+        <Name>java-ee-rxjava-kafka-avro</Name>
+        <Title>java-ee-rxjava-kafka&#x2026;</Title>
+        <RepoName>jeqo/java-ee-rxjava-kafka-avro</RepoName>
+        <Description>Enabling Kafka as Event Source using Avro as Event Serializer/Deserializer and RxJava in a Java EE 7 application</Description>
+        <Owner>jeqo</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jeqo</Name>
+                <User>jeqo</User>
+                <Url>https://github.com/jeqo</Url>
+                <Location>Per&#xFA;</Location>
+                <Email>quilcate.jorge@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; HTML</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2021-10-19T01:14:38Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jeqo/talk-kafka-messaging-logs">
+        <Url>https://github.com/jeqo/talk-kafka-messaging-logs</Url>
+        <Name>talk-kafka-messaging-logs</Name>
+        <Title>talk-kafka-messaging&#x2026;</Title>
+        <RepoName>jeqo/talk-kafka-messaging-logs</RepoName>
+        <Description>Talk: From Messaging to Logs with Apache Kafka</Description>
+        <Owner>jeqo</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jeqo</Name>
+                <User>jeqo</User>
+                <Url>https://github.com/jeqo</Url>
+                <Location>Per&#xFA;</Location>
+                <Email>quilcate.jorge@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; Shell; Batchfile</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2018-05-29T05:41:17Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jmarkstar/AndroidPaginationMvpDemo">
+        <Url>https://github.com/jmarkstar/AndroidPaginationMvpDemo</Url>
+        <Name>AndroidPaginationMvpDemo</Name>
+        <Title>AndroidPaginationMvp&#x2026;</Title>
+        <RepoName>jmarkstar/AndroidPaginationMvpDemo</RepoName>
+        <Description>This demo contents some lists with pagination and orientation changes support.</Description>
+        <Owner>jmarkstar</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jmarkstar</Name>
+                <User>jmarkstar</User>
+                <Url>https://github.com/jmarkstar</Url>
+                <Location>Australia</Location>
+                <Email>jmarkstar.1991@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2018-05-07T19:32:45Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jeqo/talk-observing-distributed-systems">
+        <Url>https://github.com/jeqo/talk-observing-distributed-systems</Url>
+        <Name>talk-observing-distributed-systems</Name>
+        <Title>talk-observing-distr&#x2026;</Title>
+        <RepoName>jeqo/talk-observing-distributed-systems</RepoName>
+        <Description/>
+        <Owner>jeqo</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jeqo</Name>
+                <User>jeqo</User>
+                <Url>https://github.com/jeqo</Url>
+                <Location>Per&#xFA;</Location>
+                <Email>quilcate.jorge@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; Dockerfile; HTML</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2020-10-13T08:47:34Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jmarkstar/ChuckNorrisMVP">
+        <Url>https://github.com/jmarkstar/ChuckNorrisMVP</Url>
+        <Name>ChuckNorrisMVP</Name>
+        <Title>ChuckNorrisMVP</Title>
+        <RepoName>jmarkstar/ChuckNorrisMVP</RepoName>
+        <Description>This demo is consuming this http://www.icndb.com/api/ API REST to get Chuck Norris jokes xD, I'm using MVP Pattern with ThreadPoolExecutor and dagger 2.
+        </Description>
+        <Owner>jmarkstar</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jmarkstar</Name>
+                <User>jmarkstar</User>
+                <Url>https://github.com/jmarkstar</Url>
+                <Location>Australia</Location>
+                <Email>jmarkstar.1991@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2018-05-07T19:32:47Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="emedinaa/sharedpreferenceshelper">
+        <Url>https://github.com/emedinaa/sharedpreferenceshelper</Url>
+        <Name>sharedpreferenceshelper</Name>
+        <Title>sharedpreferenceshel&#x2026;</Title>
+        <RepoName>emedinaa/sharedpreferenceshelper</RepoName>
+        <Description>SharedPreferencesHelper manages a local shared preferences in Android App</Description>
+        <Owner>emedinaa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>emedinaa</Name>
+                <User>emedinaa</User>
+                <Url>https://github.com/emedinaa</Url>
+                <Location>Lima, Peru</Location>
+                <Email>emedinaa@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2017-04-18T21:06:33Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="pablo-johnson/PopularMovies">
+        <Url>https://github.com/pablo-johnson/PopularMovies</Url>
+        <Name>PopularMovies</Name>
+        <Title>PopularMovies</Title>
+        <RepoName>pablo-johnson/PopularMovies</RepoName>
+        <Description>Popular movies project for Udacity Android Nanodegree</Description>
+        <Owner>pablo-johnson</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>pablo-johnson</Name>
+                <User>pablo-johnson</User>
+                <Url>https://github.com/pablo-johnson</Url>
+                <Location>Erfurt, Germany</Location>
+                <Email>pablo.88j@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2016-10-12T22:31:58Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="emedinaa/android_canvas_animation">
+        <Url>https://github.com/emedinaa/android_canvas_animation</Url>
+        <Name>android_canvas_animation</Name>
+        <Title>android_canvas_anima&#x2026;</Title>
+        <RepoName>emedinaa/android_canvas_animation</RepoName>
+        <Description>Ejemplo de como crear un animaci&#xF3;n usando canvas - Android</Description>
+        <Owner>emedinaa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>emedinaa</Name>
+                <User>emedinaa</User>
+                <Url>https://github.com/emedinaa</Url>
+                <Location>Lima, Peru</Location>
+                <Email>emedinaa@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2020-10-11T06:50:41Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="emedinaa/google-io-extended-lima-2014">
+        <Url>https://github.com/emedinaa/google-io-extended-lima-2014</Url>
+        <Name>google-io-extended-lima-2014</Name>
+        <Title>google-io-extended-l&#x2026;</Title>
+        <RepoName>emedinaa/google-io-extended-lima-2014</RepoName>
+        <Description>Ejemplo App Android L - RecyclerView, CardView</Description>
+        <Owner>emedinaa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>emedinaa</Name>
+                <User>emedinaa</User>
+                <Url>https://github.com/emedinaa</Url>
+                <Location>Lima, Peru</Location>
+                <Email>emedinaa@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; Groovy</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2017-01-17T19:40:24Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ameison/abcdroid">
+        <Url>https://github.com/ameison/abcdroid</Url>
+        <Name>abcdroid</Name>
+        <Title>abcdroid</Title>
+        <RepoName>ameison/abcdroid</RepoName>
+        <Description>Este repositorio contiene los demos usado en mi blog</Description>
+        <Owner>ameison</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ameison</Name>
+                <User>ameison</User>
+                <Url>https://github.com/ameison</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>10</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2015-01-23T15:42:53Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jubre/ConvertirNumeroDecimalToRomano">
+        <Url>https://github.com/jubre/ConvertirNumeroDecimalToRomano</Url>
+        <Name>ConvertirNumeroDecimalToRomano</Name>
+        <Title>ConvertirNumeroDecim&#x2026;</Title>
+        <RepoName>jubre/ConvertirNumeroDecimalToRomano</RepoName>
+        <Description>Alternativa de solucion al Coding Dojo de Conversion de Numeros Decimales a Romanos</Description>
+        <Owner>jubre</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jubre</Name>
+                <User>jubre</User>
+                <Url>https://github.com/jubre</Url>
+                <Location>Lima - Peru</Location>
+                <Email>junior.corman@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2018-04-18T08:02:40Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jmarkstar/AndroidUploadingLongFiles">
+        <Url>https://github.com/jmarkstar/AndroidUploadingLongFiles</Url>
+        <Name>AndroidUploadingLongFiles</Name>
+        <Title>AndroidUploadingLong&#x2026;</Title>
+        <RepoName>jmarkstar/AndroidUploadingLongFiles</RepoName>
+        <Description>Simple demo about uploading Long files using a service and retrofit 2</Description>
+        <Owner>jmarkstar</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jmarkstar</Name>
+                <User>jmarkstar</User>
+                <Url>https://github.com/jmarkstar</Url>
+                <Location>Australia</Location>
+                <Email>jmarkstar.1991@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2018-05-07T20:16:49Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jmarkstar/CursoAndroidIntermedio">
+        <Url>https://github.com/jmarkstar/CursoAndroidIntermedio</Url>
+        <Name>CursoAndroidIntermedio</Name>
+        <Title>CursoAndroidIntermed&#x2026;</Title>
+        <RepoName>jmarkstar/CursoAndroidIntermedio</RepoName>
+        <Description>Curso de android Intermedio</Description>
+        <Owner>jmarkstar</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jmarkstar</Name>
+                <User>jmarkstar</User>
+                <Url>https://github.com/jmarkstar</Url>
+                <Location>Australia</Location>
+                <Email>jmarkstar.1991@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2018-05-07T19:32:07Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jeqo/poc-akka">
+        <Url>https://github.com/jeqo/poc-akka</Url>
+        <Name>poc-akka</Name>
+        <Title>poc-akka</Title>
+        <RepoName>jeqo/poc-akka</RepoName>
+        <Description>akka proof of concept</Description>
+        <Owner>jeqo</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jeqo</Name>
+                <User>jeqo</User>
+                <Url>https://github.com/jeqo</Url>
+                <Location>Per&#xFA;</Location>
+                <Email>quilcate.jorge@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2018-07-18T22:20:31Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kerpie/Camera">
+        <Url>https://github.com/kerpie/Camera</Url>
+        <Name>Camera</Name>
+        <Title>Camera</Title>
+        <RepoName>kerpie/Camera</RepoName>
+        <Description/>
+        <Owner>kerpie</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kerpie</Name>
+                <User>kerpie</User>
+                <Url>https://github.com/kerpie</Url>
+                <Location>Tacna, Peru</Location>
+                <Email>k4torce@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2015-10-06T14:47:23Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jvalenciag/VaadinSpringShiroMongoDB">
+        <Url>https://github.com/jvalenciag/VaadinSpringShiroMongoDB</Url>
+        <Name>VaadinSpringShiroMongoDB</Name>
+        <Title>VaadinSpringShiroMon&#x2026;</Title>
+        <RepoName>jvalenciag/VaadinSpringShiroMongoDB</RepoName>
+        <Description>Example of integration</Description>
+        <Owner>jvalenciag</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jvalenciag</Name>
+                <User>jvalenciag</User>
+                <Url>https://github.com/jvalenciag</Url>
+                <Location>Arequipa, Peru</Location>
+                <Email>jvalenciag4@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; CSS; JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2021-04-06T20:29:06Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jhoon/spotify-streamer">
+        <Url>https://github.com/jhoon/spotify-streamer</Url>
+        <Name>spotify-streamer</Name>
+        <Title>spotify-streamer</Title>
+        <RepoName>jhoon/spotify-streamer</RepoName>
+        <Description>Spotify Streamer, Project 2 in the Udacity Android Nanodegree</Description>
+        <Owner>jhoon</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jhoon</Name>
+                <User>jhoon</User>
+                <Url>https://github.com/jhoon</Url>
+                <Location>Lima, Peru</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2016-06-15T16:09:31Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="necritos/BeaconApp">
+        <Url>https://github.com/necritos/BeaconApp</Url>
+        <Name>BeaconApp</Name>
+        <Title>BeaconApp</Title>
+        <RepoName>necritos/BeaconApp</RepoName>
+        <Description/>
+        <Owner>necritos</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>necritos</Name>
+                <User>necritos</User>
+                <Url>https://github.com/necritos</Url>
+                <Location>Peru</Location>
+                <Email>manuelriosvega@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2015-09-13T12:41:50Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="emedinaa/Firebase-Android">
+        <Url>https://github.com/emedinaa/Firebase-Android</Url>
+        <Name>Firebase-Android</Name>
+        <Title>Firebase-Android</Title>
+        <RepoName>emedinaa/Firebase-Android</RepoName>
+        <Description>Firebase examples for Android</Description>
+        <Owner>emedinaa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>emedinaa</Name>
+                <User>emedinaa</User>
+                <Url>https://github.com/emedinaa</Url>
+                <Location>Lima, Peru</Location>
+                <Email>emedinaa@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2018-05-30T15:46:49Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="emedinaa/android_exception_handler">
+        <Url>https://github.com/emedinaa/android_exception_handler</Url>
+        <Name>android_exception_handler</Name>
+        <Title>android_exception_ha&#x2026;</Title>
+        <RepoName>emedinaa/android_exception_handler</RepoName>
+        <Description>Global exception handling on android</Description>
+        <Owner>emedinaa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>emedinaa</Name>
+                <User>emedinaa</User>
+                <Url>https://github.com/emedinaa</Url>
+                <Location>Lima, Peru</Location>
+                <Email>emedinaa@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2017-09-08T05:58:26Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="emedinaa/android_drupal">
+        <Url>https://github.com/emedinaa/android_drupal</Url>
+        <Name>android_drupal</Name>
+        <Title>android_drupal</Title>
+        <RepoName>emedinaa/android_drupal</RepoName>
+        <Description>Ejemplo de android con drupal</Description>
+        <Owner>emedinaa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>emedinaa</Name>
+                <User>emedinaa</User>
+                <Url>https://github.com/emedinaa</Url>
+                <Location>Lima, Peru</Location>
+                <Email>emedinaa@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2015-06-03T00:27:48Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="emedinaa/Congreso-Online-MovilAPp-2015">
+        <Url>https://github.com/emedinaa/Congreso-Online-MovilAPp-2015</Url>
+        <Name>Congreso-Online-MovilAPp-2015</Name>
+        <Title>Congreso-Online-Movi&#x2026;</Title>
+        <RepoName>emedinaa/Congreso-Online-MovilAPp-2015</RepoName>
+        <Description>Charla en el Congreso Online M&#xF3;vilAPp 2015 - Consumir servicios REST usando Volley y Retrofit en Android</Description>
+        <Owner>emedinaa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>emedinaa</Name>
+                <User>emedinaa</User>
+                <Url>https://github.com/emedinaa</Url>
+                <Location>Lima, Peru</Location>
+                <Email>emedinaa@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2020-02-04T18:14:45Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="emedinaa/android-maven">
+        <Url>https://github.com/emedinaa/android-maven</Url>
+        <Name>android-maven</Name>
+        <Title>android-maven</Title>
+        <RepoName>emedinaa/android-maven</RepoName>
+        <Description>Ejemplo de como crear una dependencia local usando el plugin de Maven para Gradle</Description>
+        <Owner>emedinaa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>emedinaa</Name>
+                <User>emedinaa</User>
+                <Url>https://github.com/emedinaa</Url>
+                <Location>Lima, Peru</Location>
+                <Email>emedinaa@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2017-04-06T15:14:24Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jmarkstar/ubl4sunatbinding">
+        <Url>https://github.com/jmarkstar/ubl4sunatbinding</Url>
+        <Name>ubl4sunatbinding</Name>
+        <Title>ubl4sunatbinding</Title>
+        <RepoName>jmarkstar/ubl4sunatbinding</RepoName>
+        <Description>Esta libreria contiene todas las clases necesarias para construir los archivos xml que sunat solicita, contiene las clases convertidas desde los xsd usando
+            JAXB.
+        </Description>
+        <Owner>jmarkstar</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jmarkstar</Name>
+                <User>jmarkstar</User>
+                <Url>https://github.com/jmarkstar</Url>
+                <Location>Australia</Location>
+                <Email>jmarkstar.1991@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2018-01-29T20:47:42Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="emedinaa/limaGameJam2013">
+        <Url>https://github.com/emedinaa/limaGameJam2013</Url>
+        <Name>limaGameJam2013</Name>
+        <Title>limaGameJam2013</Title>
+        <RepoName>emedinaa/limaGameJam2013</RepoName>
+        <Description>limaGameJam2013</Description>
+        <Owner>emedinaa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>emedinaa</Name>
+                <User>emedinaa</User>
+                <Url>https://github.com/emedinaa</Url>
+                <Location>Lima, Peru</Location>
+                <Email>emedinaa@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; Shell; Perl; C++; C; Objective-C</LanguageTags>
+        <WatchersCount>1</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2020-07-03T20:16:58Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="emedinaa/fragment_activity">
+        <Url>https://github.com/emedinaa/fragment_activity</Url>
+        <Name>fragment_activity</Name>
+        <Title>fragment_activity</Title>
+        <RepoName>emedinaa/fragment_activity</RepoName>
+        <Description>Ejemplo de comunicaci&#xF3;n entre fragments y activity</Description>
+        <Owner>emedinaa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>emedinaa</Name>
+                <User>emedinaa</User>
+                <Url>https://github.com/emedinaa</Url>
+                <Location>Lima, Peru</Location>
+                <Email>emedinaa@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2016-11-16T19:14:27Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jaime-olivares/zipstorer">
+        <Url>https://github.com/jaime-olivares/zipstorer</Url>
+        <Name>zipstorer</Name>
+        <Title>zipstorer</Title>
+        <RepoName>jaime-olivares/zipstorer</RepoName>
+        <Description>A Pure C# Class to Store Files in Zip</Description>
+        <Owner>jaime-olivares</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jaime-olivares</Name>
+                <User>jaime-olivares</User>
+                <Url>https://github.com/jaime-olivares</Url>
+                <Location>Lima, Peru</Location>
+                <Email>jaime_olivares@hotmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#; Visual Basic .NET</LanguageTags>
+        <WatchersCount>157</WatchersCount>
+        <ForksCount>63</ForksCount>
+        <OpenIssuesCount>6</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2022-03-05T14:12:33Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="wilsonvargas/ButtonCirclePlugin">
+        <Url>https://github.com/wilsonvargas/ButtonCirclePlugin</Url>
+        <Name>ButtonCirclePlugin</Name>
+        <Title>ButtonCirclePlugin</Title>
+        <RepoName>wilsonvargas/ButtonCirclePlugin</RepoName>
+        <Description>Circle Buttons with icon for your Xamarin.Forms Applications</Description>
+        <Owner>wilsonvargas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>wilsonvargas</Name>
+                <User>wilsonvargas</User>
+                <Url>https://github.com/wilsonvargas</Url>
+                <Location>Peru</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#; PowerShell; Shell; Batchfile</LanguageTags>
+        <WatchersCount>96</WatchersCount>
+        <ForksCount>18</ForksCount>
+        <OpenIssuesCount>12</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2022-02-23T20:56:54Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jaime-olivares/wpf-propertygrid">
+        <Url>https://github.com/jaime-olivares/wpf-propertygrid</Url>
+        <Name>wpf-propertygrid</Name>
+        <Title>wpf-propertygrid</Title>
+        <RepoName>jaime-olivares/wpf-propertygrid</RepoName>
+        <Description>Repackaging of Workflow Foundation's property grid for general use in WPF applications</Description>
+        <Owner>jaime-olivares</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jaime-olivares</Name>
+                <User>jaime-olivares</User>
+                <Url>https://github.com/jaime-olivares</Url>
+                <Location>Lima, Peru</Location>
+                <Email>jaime_olivares@hotmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#</LanguageTags>
+        <WatchersCount>51</WatchersCount>
+        <ForksCount>21</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2022-03-07T14:36:50Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="wilsonvargas/EntryValidatorPlugin">
+        <Url>https://github.com/wilsonvargas/EntryValidatorPlugin</Url>
+        <Name>EntryValidatorPlugin</Name>
+        <Title>EntryValidatorPlugin</Title>
+        <RepoName>wilsonvargas/EntryValidatorPlugin</RepoName>
+        <Description>Entry validators for your Xamarin.Forms Applications</Description>
+        <Owner>wilsonvargas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>wilsonvargas</Name>
+                <User>wilsonvargas</User>
+                <Url>https://github.com/wilsonvargas</Url>
+                <Location>Peru</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#; PowerShell; Shell; Batchfile</LanguageTags>
+        <WatchersCount>16</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2022-02-23T21:50:06Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="wilsonvargas/ScreenshotPlugin">
+        <Url>https://github.com/wilsonvargas/ScreenshotPlugin</Url>
+        <Name>ScreenshotPlugin</Name>
+        <Title>ScreenshotPlugin</Title>
+        <RepoName>wilsonvargas/ScreenshotPlugin</RepoName>
+        <Description>A simple Screenshot plugin for Xamarin and Windows to get and save screenshot in yours apps.</Description>
+        <Owner>wilsonvargas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>wilsonvargas</Name>
+                <User>wilsonvargas</User>
+                <Url>https://github.com/wilsonvargas</Url>
+                <Location>Peru</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#; PowerShell; Shell</LanguageTags>
+        <WatchersCount>32</WatchersCount>
+        <ForksCount>13</ForksCount>
+        <OpenIssuesCount>8</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2022-03-24T01:23:49Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="wilsonvargas/GradientNavigationToolbarXamarinForms">
+        <Url>https://github.com/wilsonvargas/GradientNavigationToolbarXamarinForms</Url>
+        <Name>GradientNavigationToolbarXamarinForms</Name>
+        <Title>GradientNavigationTo&#x2026;</Title>
+        <RepoName>wilsonvargas/GradientNavigationToolbarXamarinForms</RepoName>
+        <Description>This is a small sample application showing how to custom a Navigation Page (Toolbar on Android or UINavigationBar on iOS)</Description>
+        <Owner>wilsonvargas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>wilsonvargas</Name>
+                <User>wilsonvargas</User>
+                <Url>https://github.com/wilsonvargas</Url>
+                <Location>Peru</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#; PowerShell; Shell</LanguageTags>
+        <WatchersCount>16</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2022-02-23T21:50:13Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="wilsonvargas/QRManager">
+        <Url>https://github.com/wilsonvargas/QRManager</Url>
+        <Name>QRManager</Name>
+        <Title>QRManager</Title>
+        <RepoName>wilsonvargas/QRManager</RepoName>
+        <Description>This is an example that uses ZXing.Net.Mobile for Forms. See more information here:</Description>
+        <Owner>wilsonvargas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>wilsonvargas</Name>
+                <User>wilsonvargas</User>
+                <Url>https://github.com/wilsonvargas</Url>
+                <Location>Peru</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#</LanguageTags>
+        <WatchersCount>19</WatchersCount>
+        <ForksCount>14</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2022-02-23T21:14:49Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="wilsonvargas/SearchBarNavigationPage">
+        <Url>https://github.com/wilsonvargas/SearchBarNavigationPage</Url>
+        <Name>SearchBarNavigationPage</Name>
+        <Title>SearchBarNavigationP&#x2026;</Title>
+        <RepoName>wilsonvargas/SearchBarNavigationPage</RepoName>
+        <Description>This is a small sample showing how to add a search bar to Navigation Page (Toolbar on Android or UINavigationBar on iOS)</Description>
+        <Owner>wilsonvargas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>wilsonvargas</Name>
+                <User>wilsonvargas</User>
+                <Url>https://github.com/wilsonvargas</Url>
+                <Location>Peru</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#; PowerShell; Shell</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2022-02-24T18:14:00Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jesulink2514/Xamarin.ProgressStatusBar">
+        <Url>https://github.com/jesulink2514/Xamarin.ProgressStatusBar</Url>
+        <Name>Xamarin.ProgressStatusBar</Name>
+        <Title>Xamarin.ProgressStat&#x2026;</Title>
+        <RepoName>jesulink2514/Xamarin.ProgressStatusBar</RepoName>
+        <Description>A cross-platform control to represent a status bar</Description>
+        <Owner>jesulink2514</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jesulink2514</Name>
+                <User>jesulink2514</User>
+                <Url>https://github.com/jesulink2514</Url>
+                <Location>Lima, Peru</Location>
+                <Email>jesus.angulo@outlook.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#</LanguageTags>
+        <WatchersCount>10</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2020-11-29T23:09:23Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="wilsonvargas/SimpleLoginXamarinForms">
+        <Url>https://github.com/wilsonvargas/SimpleLoginXamarinForms</Url>
+        <Name>SimpleLoginXamarinForms</Name>
+        <Title>SimpleLoginXamarinFo&#x2026;</Title>
+        <RepoName>wilsonvargas/SimpleLoginXamarinForms</RepoName>
+        <Description>This is a simple example how to do a login using Xamarin.Form. The theoretical part can be found in the following link:</Description>
+        <Owner>wilsonvargas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>wilsonvargas</Name>
+                <User>wilsonvargas</User>
+                <Url>https://github.com/wilsonvargas</Url>
+                <Location>Peru</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2019-05-13T12:38:46Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jesulink2514/CardDemoXamarin">
+        <Url>https://github.com/jesulink2514/CardDemoXamarin</Url>
+        <Name>CardDemoXamarin</Name>
+        <Title>CardDemoXamarin</Title>
+        <RepoName>jesulink2514/CardDemoXamarin</RepoName>
+        <Description>Sample using XamarinFastEntryBehavior to create a credit card form with card type detection in Xamarin.Forms</Description>
+        <Owner>jesulink2514</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jesulink2514</Name>
+                <User>jesulink2514</User>
+                <Url>https://github.com/jesulink2514</Url>
+                <Location>Lima, Peru</Location>
+                <Email>jesus.angulo@outlook.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2021-07-30T06:33:30Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jaime-olivares/coordinate">
+        <Url>https://github.com/jaime-olivares/coordinate</Url>
+        <Name>coordinate</Name>
+        <Title>coordinate</Title>
+        <RepoName>jaime-olivares/coordinate</RepoName>
+        <Description>C# Classes to store, handle, and retrieve geodesic coordinates, in memory, database, and XML, according to the ISO 6709 standard</Description>
+        <Owner>jaime-olivares</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jaime-olivares</Name>
+                <User>jaime-olivares</User>
+                <Url>https://github.com/jaime-olivares</Url>
+                <Location>Lima, Peru</Location>
+                <Email>jaime_olivares@hotmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2021-10-11T14:27:02Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jaime-olivares/bzip2">
+        <Url>https://github.com/jaime-olivares/bzip2</Url>
+        <Name>bzip2</Name>
+        <Title>bzip2</Title>
+        <RepoName>jaime-olivares/bzip2</RepoName>
+        <Description>A pure C# implementation of the bzip2 compressor</Description>
+        <Owner>jaime-olivares</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jaime-olivares</Name>
+                <User>jaime-olivares</User>
+                <Url>https://github.com/jaime-olivares</Url>
+                <Location>Lima, Peru</Location>
+                <Email>jaime_olivares@hotmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2021-06-24T03:21:56Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jesulink2514/Xamarin.Forms.Redux-Sample">
+        <Url>https://github.com/jesulink2514/Xamarin.Forms.Redux-Sample</Url>
+        <Name>Xamarin.Forms.Redux-Sample</Name>
+        <Title>Xamarin.Forms.Redux-&#x2026;</Title>
+        <RepoName>jesulink2514/Xamarin.Forms.Redux-Sample</RepoName>
+        <Description>Sample using Redux architecture with Xamarin.Forms</Description>
+        <Owner>jesulink2514</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jesulink2514</Name>
+                <User>jesulink2514</User>
+                <Url>https://github.com/jesulink2514</Url>
+                <Location>Lima, Peru</Location>
+                <Email>jesus.angulo@outlook.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2019-10-14T16:09:31Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="emiaj/windmill">
+        <Url>https://github.com/emiaj/windmill</Url>
+        <Name>windmill</Name>
+        <Title>windmill</Title>
+        <RepoName>emiaj/windmill</RepoName>
+        <Description>FubuMVC Permissions Module</Description>
+        <Owner>emiaj</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>emiaj</Name>
+                <User>emiaj</User>
+                <Url>https://github.com/emiaj</Url>
+                <Location>Brisbane, Australia</Location>
+                <Email>jaime.febres@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#; Ruby</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2016-12-08T10:25:47Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="emiaj/YouGrade">
+        <Url>https://github.com/emiaj/YouGrade</Url>
+        <Name>YouGrade</Name>
+        <Title>YouGrade</Title>
+        <RepoName>emiaj/YouGrade</RepoName>
+        <Description>MS MVC3 project (http://www.codeproject.com/KB/aspnet/YouGradeMVC.aspx) ported to the FubuMVC framework, the AngularJS version of this project can be found
+            here https://github.com/emiaj/spa-yougrade
+        </Description>
+        <Owner>emiaj</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>emiaj</Name>
+                <User>emiaj</User>
+                <Url>https://github.com/emiaj</Url>
+                <Location>Brisbane, Australia</Location>
+                <Email>jaime.febres@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#; Ruby; ASP</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2014-05-06T03:00:52Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="emiaj/FubuMvcSparkProjectTemplate">
+        <Url>https://github.com/emiaj/FubuMvcSparkProjectTemplate</Url>
+        <Name>FubuMvcSparkProjectTemplate</Name>
+        <Title>FubuMvcSparkProjectT&#x2026;</Title>
+        <RepoName>emiaj/FubuMvcSparkProjectTemplate</RepoName>
+        <Description>VS project template to quickly create FUBU MVC ready apps that use the Spark view engine.</Description>
+        <Owner>emiaj</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>emiaj</Name>
+                <User>emiaj</User>
+                <Url>https://github.com/emiaj</Url>
+                <Location>Brisbane, Australia</Location>
+                <Email>jaime.febres@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#; Ruby; Shell; ASP; JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Peru</CountryOrigin>
+        <UpdatedAt>2014-03-04T04:25:00Z</UpdatedAt>
+    </Dependency>
+</Dependencies>

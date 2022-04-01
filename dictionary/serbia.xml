@@ -1,0 +1,3389 @@
+<?xml version="1.0"?>
+<Dependencies>
+    <Dependency name="toorshia/justgage">
+        <Url>https://github.com/toorshia/justgage</Url>
+        <Name>justgage</Name>
+        <Title>justgage</Title>
+        <RepoName>toorshia/justgage</RepoName>
+        <Description>JustGage is a handy JavaScript plugin for generating and animating nice &amp; clean dashboard gauges. It is based on Rapha&#xEB;l library for vector drawing.
+        </Description>
+        <Owner>toorshia</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>toorshia</Name>
+                <User>toorshia</User>
+                <Url>https://github.com/toorshia</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>pindjur@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>1795</WatchersCount>
+        <ForksCount>467</ForksCount>
+        <OpenIssuesCount>49</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2022-03-15T20:39:40Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="dvLden/Vidage">
+        <Url>https://github.com/dvLden/Vidage</Url>
+        <Name>Vidage</Name>
+        <Title>Vidage</Title>
+        <RepoName>dvLden/Vidage</RepoName>
+        <Description>Your solution to full-screen background video &amp; image combined.</Description>
+        <Owner>dvLden</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>dvLden</Name>
+                <User>dvLden</User>
+                <Url>https://github.com/dvLden</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; SCSS</LanguageTags>
+        <WatchersCount>1578</WatchersCount>
+        <ForksCount>80</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2022-02-26T00:59:09Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="limonte/sweetalert2">
+        <Url>https://github.com/limonte/sweetalert2</Url>
+        <Name>sweetalert2</Name>
+        <Title>sweetalert2</Title>
+        <RepoName>limonte/sweetalert2</RepoName>
+        <Description>A beautiful, responsive, highly customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes. Zero dependencies.</Description>
+        <Owner>limonte</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>limonte</Name>
+                <User>limonte</User>
+                <Url>https://github.com/limonte</Url>
+                <Location>Finland (Eastern European Time)</Location>
+                <Email>limon.monte@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; SCSS; HTML; Shell; CSS; TypeScript</LanguageTags>
+        <WatchersCount>14295</WatchersCount>
+        <ForksCount>1432</ForksCount>
+        <OpenIssuesCount>11</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2022-03-22T18:29:09Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="draganbabic/uni-form">
+        <Url>https://github.com/draganbabic/uni-form</Url>
+        <Name>uni-form</Name>
+        <Title>uni-form</Title>
+        <RepoName>draganbabic/uni-form</RepoName>
+        <Description>Uni-Form is a framework that standardizes form markup and styles it with CSS giving you two most widely used layout options to choose from. Anyone can get nice
+            looking, well structured, highly customizable, accessible and usable forms. To put it simply: it makes a developer's life a lot easier. Support &#x2192;
+            http://getsatisfaction.com/uni-form
+        </Description>
+        <Owner>draganbabic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>draganbabic</Name>
+                <User>draganbabic</User>
+                <Url>https://github.com/draganbabic</Url>
+                <Location>Novi Sad, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>513</WatchersCount>
+        <ForksCount>75</ForksCount>
+        <OpenIssuesCount>6</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2022-03-21T11:09:36Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="goschevski/apy">
+        <Url>https://github.com/goschevski/apy</Url>
+        <Name>apy</Name>
+        <Title>apy</Title>
+        <RepoName>goschevski/apy</RepoName>
+        <Description>Apy is a simple client-side library for making rest api ajax calls.</Description>
+        <Owner>goschevski</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>goschevski</Name>
+                <User>goschevski</User>
+                <Url>https://github.com/goschevski</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>67</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2021-04-05T13:43:46Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rukavina/live-css-editor">
+        <Url>https://github.com/rukavina/live-css-editor</Url>
+        <Name>live-css-editor</Name>
+        <Title>live-css-editor</Title>
+        <RepoName>rukavina/live-css-editor</RepoName>
+        <Description>jquery online css editor, themeroller like tool for customizing your web page</Description>
+        <Owner>rukavina</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rukavina</Name>
+                <User>rukavina</User>
+                <Url>https://github.com/rukavina</Url>
+                <Location>Nis, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS</LanguageTags>
+        <WatchersCount>82</WatchersCount>
+        <ForksCount>30</ForksCount>
+        <OpenIssuesCount>6</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2022-02-19T11:17:51Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="stojanovic/vreme">
+        <Url>https://github.com/stojanovic/vreme</Url>
+        <Name>vreme</Name>
+        <Title>vreme</Title>
+        <RepoName>stojanovic/vreme</RepoName>
+        <Description>Date formatting by example</Description>
+        <Owner>stojanovic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>stojanovic</Name>
+                <User>stojanovic</User>
+                <Url>https://github.com/stojanovic</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>mail@slobodan.me</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>31</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>6</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2021-02-13T20:13:24Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="goschevski/vojvoda">
+        <Url>https://github.com/goschevski/vojvoda</Url>
+        <Name>vojvoda</Name>
+        <Title>vojvoda</Title>
+        <RepoName>goschevski/vojvoda</RepoName>
+        <Description>Backbone View extension for managing subviews</Description>
+        <Owner>goschevski</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>goschevski</Name>
+                <User>goschevski</User>
+                <Url>https://github.com/goschevski</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML</LanguageTags>
+        <WatchersCount>29</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2017-10-02T19:07:20Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="goschevski/fronty">
+        <Url>https://github.com/goschevski/fronty</Url>
+        <Name>fronty</Name>
+        <Title>fronty</Title>
+        <RepoName>goschevski/fronty</RepoName>
+        <Description>Fronty is a boilerplate for starting new front-end projects</Description>
+        <Owner>goschevski</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>goschevski</Name>
+                <User>goschevski</User>
+                <Url>https://github.com/goschevski</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; HTML</LanguageTags>
+        <WatchersCount>25</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2019-12-10T03:56:37Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="goschevski/image-loader">
+        <Url>https://github.com/goschevski/image-loader</Url>
+        <Name>image-loader</Name>
+        <Title>image-loader</Title>
+        <RepoName>goschevski/image-loader</RepoName>
+        <Description>Image loader is plugin that loads image selected by input file field without uploading it on server.</Description>
+        <Owner>goschevski</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>goschevski</Name>
+                <User>goschevski</User>
+                <Url>https://github.com/goschevski</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML</LanguageTags>
+        <WatchersCount>15</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2020-10-20T16:23:00Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="goschevski/tagster">
+        <Url>https://github.com/goschevski/tagster</Url>
+        <Name>tagster</Name>
+        <Title>tagster</Title>
+        <RepoName>goschevski/tagster</RepoName>
+        <Description>Tagster is simple library which is helping you create html strings with ease.</Description>
+        <Owner>goschevski</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>goschevski</Name>
+                <User>goschevski</User>
+                <Url>https://github.com/goschevski</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>15</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2019-10-01T04:16:42Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="vranac/responsive-screenshots">
+        <Url>https://github.com/vranac/responsive-screenshots</Url>
+        <Name>responsive-screenshots</Name>
+        <Title>responsive-screensho&#x2026;</Title>
+        <RepoName>vranac/responsive-screenshots</RepoName>
+        <Description>CasperJS script for taking screenshots on responsive screensizes</Description>
+        <Owner>vranac</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>vranac</Name>
+                <User>vranac</User>
+                <Url>https://github.com/vranac</Url>
+                <Location>Novi Sad, Vojvodina, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>14</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2019-06-20T03:40:00Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="toorshia/jam">
+        <Url>https://github.com/toorshia/jam</Url>
+        <Name>jam</Name>
+        <Title>jam</Title>
+        <RepoName>toorshia/jam</RepoName>
+        <Description>JAM - Simple Facebook style menu for Sencha Touch 2 based apps</Description>
+        <Owner>toorshia</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>toorshia</Name>
+                <User>toorshia</User>
+                <Url>https://github.com/toorshia</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>pindjur@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; Ruby</LanguageTags>
+        <WatchersCount>12</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>5</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2015-08-20T09:42:51Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ManInTheBox/nodejs.rs">
+        <Url>https://github.com/ManInTheBox/nodejs.rs</Url>
+        <Name>nodejs.rs</Name>
+        <Title>nodejs.rs</Title>
+        <RepoName>ManInTheBox/nodejs.rs</RepoName>
+        <Description>Sajt srpske Node.js zajednice - Serbian Node.js community website</Description>
+        <Owner>ManInTheBox</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ManInTheBox</Name>
+                <User>ManInTheBox</User>
+                <Url>https://github.com/ManInTheBox</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>stankovic.zarko@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; Ruby</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>11</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2018-01-22T20:56:04Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="aleksandara/yeoman-generator-requirejs-jasmine-karma">
+        <Url>https://github.com/aleksandara/yeoman-generator-requirejs-jasmine-karma</Url>
+        <Name>yeoman-generator-requirejs-jasmine-karma</Name>
+        <Title>yeoman-generator-req&#x2026;</Title>
+        <RepoName>aleksandara/yeoman-generator-requirejs-jasmine-karma</RepoName>
+        <Description>A generator for yeoman (RequireJS, Jasmine, Karma)</Description>
+        <Owner>aleksandara</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>aleksandara</Name>
+                <User>aleksandara</User>
+                <Url>https://github.com/aleksandara</Url>
+                <Location>Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML</LanguageTags>
+        <WatchersCount>9</WatchersCount>
+        <ForksCount>8</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2018-03-01T13:53:09Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="stojanovic/huh">
+        <Url>https://github.com/stojanovic/huh</Url>
+        <Name>huh</Name>
+        <Title>huh</Title>
+        <RepoName>stojanovic/huh</RepoName>
+        <Description>"Virus due to computers having unsafe sex." - Random BOFH-style excuses</Description>
+        <Owner>stojanovic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>stojanovic</Name>
+                <User>stojanovic</User>
+                <Url>https://github.com/stojanovic</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>mail@slobodan.me</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>33</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2021-12-23T06:06:32Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="stojanovic/souffleur">
+        <Url>https://github.com/stojanovic/souffleur</Url>
+        <Name>souffleur</Name>
+        <Title>souffleur</Title>
+        <RepoName>stojanovic/souffleur</RepoName>
+        <Description>Simple command line prompt with retry for empty answers</Description>
+        <Owner>stojanovic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>stojanovic</Name>
+                <User>stojanovic</User>
+                <Url>https://github.com/stojanovic</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>mail@slobodan.me</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>21</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2021-01-28T10:06:39Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kodi/JS-Object-Expire">
+        <Url>https://github.com/kodi/JS-Object-Expire</Url>
+        <Name>JS-Object-Expire</Name>
+        <Title>JS-Object-Expire</Title>
+        <RepoName>kodi/JS-Object-Expire</RepoName>
+        <Description>Javascript Self-Expiring Objects</Description>
+        <Owner>kodi</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kodi</Name>
+                <User>kodi</User>
+                <Url>https://github.com/kodi</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>dragan@bajcic.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>10</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2019-06-25T03:22:47Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="vranac/link-checker">
+        <Url>https://github.com/vranac/link-checker</Url>
+        <Name>link-checker</Name>
+        <Title>link-checker</Title>
+        <RepoName>vranac/link-checker</RepoName>
+        <Description>quick and dirty link checker for web page</Description>
+        <Owner>vranac</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>vranac</Name>
+                <User>vranac</User>
+                <Url>https://github.com/vranac</Url>
+                <Location>Novi Sad, Vojvodina, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2015-03-25T19:14:16Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="stojanovic/fuckyou">
+        <Url>https://github.com/stojanovic/fuckyou</Url>
+        <Name>fuckyou</Name>
+        <Title>fuckyou</Title>
+        <RepoName>stojanovic/fuckyou</RepoName>
+        <Description>Kill any process (&#x256F;&#xB0;&#x25A1;&#xB0;&#xFF09;&#x256F;&#xFE35; ss&#x1DD;&#x254;o&#x279;d</Description>
+        <Owner>stojanovic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>stojanovic</Name>
+                <User>stojanovic</User>
+                <Url>https://github.com/stojanovic</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>mail@slobodan.me</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; Ruby</LanguageTags>
+        <WatchersCount>13</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>4</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2020-11-06T16:01:02Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="goschevski/gulp-base64-inline">
+        <Url>https://github.com/goschevski/gulp-base64-inline</Url>
+        <Name>gulp-base64-inline</Name>
+        <Title>gulp-base64-inline</Title>
+        <RepoName>goschevski/gulp-base64-inline</RepoName>
+        <Description>Inline images you want with base64.</Description>
+        <Owner>goschevski</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>goschevski</Name>
+                <User>goschevski</User>
+                <Url>https://github.com/goschevski</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>14</WatchersCount>
+        <ForksCount>8</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2020-07-16T10:29:53Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kodi/MVC4Node.js">
+        <Url>https://github.com/kodi/MVC4Node.js</Url>
+        <Name>MVC4Node.js</Name>
+        <Title>MVC4Node.js</Title>
+        <RepoName>kodi/MVC4Node.js</RepoName>
+        <Description>MVC Framework for Node.js</Description>
+        <Owner>kodi</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kodi</Name>
+                <User>kodi</User>
+                <Url>https://github.com/kodi</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>dragan@bajcic.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2013-05-02T07:50:47Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kodi/nodius">
+        <Url>https://github.com/kodi/nodius</Url>
+        <Name>nodius</Name>
+        <Title>nodius</Title>
+        <RepoName>kodi/nodius</RepoName>
+        <Description>Monitoring System based on Node.js</Description>
+        <Owner>kodi</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kodi</Name>
+                <User>kodi</User>
+                <Url>https://github.com/kodi</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>dragan@bajcic.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2013-10-18T06:59:18Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rubystream/alchemist.js">
+        <Url>https://github.com/rubystream/alchemist.js</Url>
+        <Name>alchemist.js</Name>
+        <Title>alchemist.js</Title>
+        <RepoName>rubystream/alchemist.js</RepoName>
+        <Description>alchemist.js</Description>
+        <Owner>rubystream</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rubystream</Name>
+                <User>rubystream</User>
+                <Url>https://github.com/rubystream</Url>
+                <Location>Barcelona, Spain</Location>
+                <Email>dejan.dimic@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2021-09-07T20:33:14Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="stojanovic/space-explorer-bot">
+        <Url>https://github.com/stojanovic/space-explorer-bot</Url>
+        <Name>space-explorer-bot</Name>
+        <Title>space-explorer-bot</Title>
+        <RepoName>stojanovic/space-explorer-bot</RepoName>
+        <Description>A small FB Messenger chat bot using NASA API and Claudia Bot Builder.</Description>
+        <Owner>stojanovic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>stojanovic</Name>
+                <User>stojanovic</User>
+                <Url>https://github.com/stojanovic</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>mail@slobodan.me</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>57</WatchersCount>
+        <ForksCount>24</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2021-11-17T18:56:05Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="zmilan/yo-generator-express-angularjs">
+        <Url>https://github.com/zmilan/yo-generator-express-angularjs</Url>
+        <Name>yo-generator-express-angularjs</Name>
+        <Title>yo-generator-express&#x2026;</Title>
+        <RepoName>zmilan/yo-generator-express-angularjs</RepoName>
+        <Description>Advanced AngularJS project generator for Yeoman.</Description>
+        <Owner>zmilan</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>zmilan</Name>
+                <User>zmilan</User>
+                <Url>https://github.com/zmilan</Url>
+                <Location>Kranj, Slovenia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2014-08-18T21:25:59Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rukavina/tetatet">
+        <Url>https://github.com/rukavina/tetatet</Url>
+        <Name>tetatet</Name>
+        <Title>tetatet</Title>
+        <RepoName>rukavina/tetatet</RepoName>
+        <Description>WebRTC video chat</Description>
+        <Owner>rukavina</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rukavina</Name>
+                <User>rukavina</User>
+                <Url>https://github.com/rukavina</Url>
+                <Location>Nis, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2014-04-22T18:44:20Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Gavrisimo/psychic-meme">
+        <Url>https://github.com/Gavrisimo/psychic-meme</Url>
+        <Name>psychic-meme</Name>
+        <Title>psychic-meme</Title>
+        <RepoName>Gavrisimo/psychic-meme</RepoName>
+        <Description>Clone of http://dillinger.io/ using https://github.com/coreyti/showdown/</Description>
+        <Owner>Gavrisimo</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Gavrisimo</Name>
+                <User>Gavrisimo</User>
+                <Url>https://github.com/Gavrisimo</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>milos@gavrilovic.rs</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; CSS</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2021-05-18T07:57:45Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="anbud/MarkovComposer">
+        <Url>https://github.com/anbud/MarkovComposer</Url>
+        <Name>MarkovComposer</Name>
+        <Title>MarkovComposer</Title>
+        <RepoName>anbud/MarkovComposer</RepoName>
+        <Description>Algorithmic composer based on machine learning using a second order Markov chain.</Description>
+        <Owner>anbud</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>anbud</Name>
+                <User>anbud</User>
+                <Url>https://github.com/anbud</Url>
+                <Location>Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>112</WatchersCount>
+        <ForksCount>22</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2022-02-20T00:25:52Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="neuroph/neuroph">
+        <Url>https://github.com/neuroph/neuroph</Url>
+        <Name>neuroph</Name>
+        <Title>neuroph</Title>
+        <RepoName>neuroph/neuroph</RepoName>
+        <Description>Java Neural Network Framework Neuroph</Description>
+        <Owner>neuroph</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>neuroph</Name>
+                <User>neuroph</User>
+                <Url>https://github.com/neuroph</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>sevarac@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; HTML; Roff; GLSL</LanguageTags>
+        <WatchersCount>335</WatchersCount>
+        <ForksCount>177</ForksCount>
+        <OpenIssuesCount>32</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2022-02-09T10:29:45Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="vanjakom/BloomFilterExample">
+        <Url>https://github.com/vanjakom/BloomFilterExample</Url>
+        <Name>BloomFilterExample</Name>
+        <Title>BloomFilterExample</Title>
+        <RepoName>vanjakom/BloomFilterExample</RepoName>
+        <Description>Bloom filter implemented in Java with support for multiple hashers</Description>
+        <Owner>vanjakom</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>vanjakom</Name>
+                <User>vanjakom</User>
+                <Url>https://github.com/vanjakom</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>vanjakom@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; Shell</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2017-01-19T12:15:39Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="anbud/PxlSort">
+        <Url>https://github.com/anbud/PxlSort</Url>
+        <Name>PxlSort</Name>
+        <Title>PxlSort</Title>
+        <RepoName>anbud/PxlSort</RepoName>
+        <Description>Pixel sorting using radix sort.</Description>
+        <Owner>anbud</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>anbud</Name>
+                <User>anbud</User>
+                <Url>https://github.com/anbud</Url>
+                <Location>Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>21</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2022-02-02T02:18:04Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="vanjakom/MultipleOutputsExample">
+        <Url>https://github.com/vanjakom/MultipleOutputsExample</Url>
+        <Name>MultipleOutputsExample</Name>
+        <Title>MultipleOutputsExamp&#x2026;</Title>
+        <RepoName>vanjakom/MultipleOutputsExample</RepoName>
+        <Description>Hadoop Multiple Outputs example</Description>
+        <Owner>vanjakom</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>vanjakom</Name>
+                <User>vanjakom</User>
+                <Url>https://github.com/vanjakom</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>vanjakom@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; Shell</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2015-09-30T06:39:45Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="luksha/push-admin-java-library">
+        <Url>https://github.com/luksha/push-admin-java-library</Url>
+        <Name>push-admin-java-library</Name>
+        <Title>push-admin-java-libr&#x2026;</Title>
+        <RepoName>luksha/push-admin-java-library</RepoName>
+        <Description>push-admin-java-library</Description>
+        <Owner>luksha</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>luksha</Name>
+                <User>luksha</User>
+                <Url>https://github.com/luksha</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>luksha@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2013-09-25T15:12:10Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="vanjakom/HadoopPlayground">
+        <Url>https://github.com/vanjakom/HadoopPlayground</Url>
+        <Name>HadoopPlayground</Name>
+        <Title>HadoopPlayground</Title>
+        <RepoName>vanjakom/HadoopPlayground</RepoName>
+        <Description>this repository will handle Hadoop code</Description>
+        <Owner>vanjakom</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>vanjakom</Name>
+                <User>vanjakom</User>
+                <Url>https://github.com/vanjakom</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>vanjakom@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; Shell</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2013-10-31T23:12:00Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="vanjakom/base">
+        <Url>https://github.com/vanjakom/base</Url>
+        <Name>base</Name>
+        <Title>base</Title>
+        <RepoName>vanjakom/base</RepoName>
+        <Description>Required projects for our architecture</Description>
+        <Owner>vanjakom</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>vanjakom</Name>
+                <User>vanjakom</User>
+                <Url>https://github.com/vanjakom</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>vanjakom@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; Shell; Python; JavaScript; C++; C; PHP; Perl; Objective-C; Smalltalk; Ruby</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2014-02-25T15:13:33Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="StefanKovac/flex-layout-attribute">
+        <Url>https://github.com/StefanKovac/flex-layout-attribute</Url>
+        <Name>flex-layout-attribute</Name>
+        <Title>flex-layout-attribut&#x2026;</Title>
+        <RepoName>StefanKovac/flex-layout-attribute</RepoName>
+        <Description>HTML layout helper based on CSS flexbox specification &#x2014;</Description>
+        <Owner>StefanKovac</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>StefanKovac</Name>
+                <User>StefanKovac</User>
+                <Url>https://github.com/StefanKovac</Url>
+                <Location>Novi Sad, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>CSS; JavaScript</LanguageTags>
+        <WatchersCount>708</WatchersCount>
+        <ForksCount>57</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2021-12-11T21:50:33Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="bmanojlovic/log4c">
+        <Url>https://github.com/bmanojlovic/log4c</Url>
+        <Name>log4c</Name>
+        <Title>log4c</Title>
+        <RepoName>bmanojlovic/log4c</RepoName>
+        <Description>Fork of Log4c project</Description>
+        <Owner>bmanojlovic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>bmanojlovic</Name>
+                <User>bmanojlovic</User>
+                <Url>https://github.com/bmanojlovic</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C; Shell; C++</LanguageTags>
+        <WatchersCount>65</WatchersCount>
+        <ForksCount>28</ForksCount>
+        <OpenIssuesCount>4</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2022-03-20T07:12:22Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="TheDushan/OpenWolf">
+        <Url>https://github.com/TheDushan/OpenWolf</Url>
+        <Name>OpenWolf</Name>
+        <Title>OpenWolf</Title>
+        <RepoName>TheDushan/OpenWolf</RepoName>
+        <Description/>
+        <Owner>TheDushan</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>TheDushan</Name>
+                <User>TheDushan</User>
+                <Url>https://github.com/TheDushan</Url>
+                <Location>Serbia</Location>
+                <Email>dusanjocic@msn.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="bmanojlovic/mod_authn_dovecot">
+        <Url>https://github.com/bmanojlovic/mod_authn_dovecot</Url>
+        <Name>mod_authn_dovecot</Name>
+        <Title>mod_authn_dovecot</Title>
+        <RepoName>bmanojlovic/mod_authn_dovecot</RepoName>
+        <Description>Apache authentication against Dovecot authentication daemon</Description>
+        <Owner>bmanojlovic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>bmanojlovic</Name>
+                <User>bmanojlovic</User>
+                <Url>https://github.com/bmanojlovic</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C; M4; Makefile; Shell</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2022-03-06T01:21:56Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ljmocic/PJiSP">
+        <Url>https://github.com/ljmocic/PJiSP</Url>
+        <Name>PJiSP</Name>
+        <Title>PJiSP</Title>
+        <RepoName>ljmocic/PJiSP</RepoName>
+        <Description>E2 - Programski jezici i strukture podataka</Description>
+        <Owner>ljmocic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ljmocic</Name>
+                <User>ljmocic</User>
+                <Url>https://github.com/ljmocic</Url>
+                <Location>Earth</Location>
+                <Email>ljubisa.mocic@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>7</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2019-12-17T11:53:23Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="dezelin/liboptical">
+        <Url>https://github.com/dezelin/liboptical</Url>
+        <Name>liboptical</Name>
+        <Title>liboptical</Title>
+        <RepoName>dezelin/liboptical</RepoName>
+        <Description>Library written in C programming language for burning CD-R, CD-RW, DVD-R, DVD+R, DVD-RW, DVD+RW, DVD-RAM, Blue Ray and many other types of optical media.
+            Supports POSIX, BSD and Win32 operating systems.
+        </Description>
+        <Owner>dezelin</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>dezelin</Name>
+                <User>dezelin</User>
+                <Url>https://github.com/dezelin</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2021-04-06T12:32:32Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="bmanojlovic/sendsms">
+        <Url>https://github.com/bmanojlovic/sendsms</Url>
+        <Name>sendsms</Name>
+        <Title>sendsms</Title>
+        <RepoName>bmanojlovic/sendsms</RepoName>
+        <Description>SMS client server application that extends smstools package</Description>
+        <Owner>bmanojlovic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>bmanojlovic</Name>
+                <User>bmanojlovic</User>
+                <Url>https://github.com/bmanojlovic</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C; Go; PHP; Makefile</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2022-01-19T17:18:03Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="dancsi/PedestrianSimulator">
+        <Url>https://github.com/dancsi/PedestrianSimulator</Url>
+        <Name>PedestrianSimulator</Name>
+        <Title>PedestrianSimulator</Title>
+        <RepoName>dancsi/PedestrianSimulator</RepoName>
+        <Description/>
+        <Owner>dancsi</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>dancsi</Name>
+                <User>dancsi</User>
+                <Url>https://github.com/dancsi</Url>
+                <Location>Paris, France</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; C; TeX; Mathematica; Perl</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2018-03-16T07:39:46Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="al3ksandar/AckoOS">
+        <Url>https://github.com/al3ksandar/AckoOS</Url>
+        <Name>AckoOS</Name>
+        <Title>AckoOS</Title>
+        <RepoName>al3ksandar/AckoOS</RepoName>
+        <Description/>
+        <Owner>al3ksandar</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>al3ksandar</Name>
+                <User>al3ksandar</User>
+                <Url>https://github.com/al3ksandar</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; C</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2021-04-29T15:12:52Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="filippetrovic/UdpNinja">
+        <Url>https://github.com/filippetrovic/UdpNinja</Url>
+        <Name>UdpNinja</Name>
+        <Title>UdpNinja</Title>
+        <RepoName>filippetrovic/UdpNinja</RepoName>
+        <Description/>
+        <Owner>filippetrovic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>filippetrovic</Name>
+                <User>filippetrovic</User>
+                <Url>https://github.com/filippetrovic</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2017-01-23T22:19:21Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jovanpn/hashids.as">
+        <Url>https://github.com/jovanpn/hashids.as</Url>
+        <Name>hashids.as</Name>
+        <Title>hashids.as</Title>
+        <RepoName>jovanpn/hashids.as</RepoName>
+        <Description>ActionScript 3 version of Hashids library from http://hashids.org/</Description>
+        <Owner>jovanpn</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jovanpn</Name>
+                <User>jovanpn</User>
+                <Url>https://github.com/jovanpn</Url>
+                <Location>Para&#x107;in, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>ActionScript</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2021-01-10T17:54:16Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="goranjovic/chromeclojure">
+        <Url>https://github.com/goranjovic/chromeclojure</Url>
+        <Name>chromeclojure</Name>
+        <Title>chromeclojure</Title>
+        <RepoName>goranjovic/chromeclojure</RepoName>
+        <Description>A Clojure Plugin for Google Chrome.</Description>
+        <Owner>goranjovic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>goranjovic</Name>
+                <User>goranjovic</User>
+                <Url>https://github.com/goranjovic</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>goranjovic@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>HTML; Clojure</LanguageTags>
+        <WatchersCount>16</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2018-02-15T16:51:52Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="nevenavv/OWand">
+        <Url>https://github.com/nevenavv/OWand</Url>
+        <Name>OWand</Name>
+        <Title>OWand</Title>
+        <RepoName>nevenavv/OWand</RepoName>
+        <Description>Dev tool/Leiningen plugin for Magic Potion &lt;-&gt; OWL transformation.</Description>
+        <Owner>nevenavv</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>nevenavv</Name>
+                <User>nevenavv</User>
+                <Url>https://github.com/nevenavv</Url>
+                <Location>Serbia</Location>
+                <Email>nevenavv@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Clojure</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2013-11-05T06:59:06Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="scyth/go-webproject">
+        <Url>https://github.com/scyth/go-webproject</Url>
+        <Name>go-webproject</Name>
+        <Title>go-webproject</Title>
+        <RepoName>scyth/go-webproject</RepoName>
+        <Description>Web application framework written in Go Programming Language</Description>
+        <Owner>scyth</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>scyth</Name>
+                <User>scyth</User>
+                <Url>https://github.com/scyth</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>scyth@unixreich.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Go</LanguageTags>
+        <WatchersCount>24</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2021-02-11T16:51:22Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="fastfn/dendrite">
+        <Url>https://github.com/fastfn/dendrite</Url>
+        <Name>dendrite</Name>
+        <Title>dendrite</Title>
+        <RepoName>fastfn/dendrite</RepoName>
+        <Description>Dendrite is a Go package that implements distributed hash table (DHT) based on Chord Protocol.</Description>
+        <Owner>fastfn</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>fastfn</Name>
+                <User>fastfn</User>
+                <Url>https://github.com/fastfn</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Go; Protocol Buffer; Shell</LanguageTags>
+        <WatchersCount>29</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2020-07-07T07:45:09Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="hepek/Ramblings">
+        <Url>https://github.com/hepek/Ramblings</Url>
+        <Name>Ramblings</Name>
+        <Title>Ramblings</Title>
+        <RepoName>hepek/Ramblings</RepoName>
+        <Description>Random posts on Haskell, Scheme and stuff</Description>
+        <Owner>hepek</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>hepek</Name>
+                <User>hepek</User>
+                <Url>https://github.com/hepek</Url>
+                <Location>Ni&#x161;, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Haskell</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2018-05-29T17:01:29Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="hepek/MPEG-TS">
+        <Url>https://github.com/hepek/MPEG-TS</Url>
+        <Name>MPEG-TS</Name>
+        <Title>MPEG-TS</Title>
+        <RepoName>hepek/MPEG-TS</RepoName>
+        <Description>Haskell implementation of mpegts parser</Description>
+        <Owner>hepek</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>hepek</Name>
+                <User>hepek</User>
+                <Url>https://github.com/hepek</Url>
+                <Location>Ni&#x161;, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Haskell</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2017-03-28T18:16:34Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Manca/face-detection">
+        <Url>https://github.com/Manca/face-detection</Url>
+        <Name>face-detection</Name>
+        <Title>face-detection</Title>
+        <RepoName>Manca/face-detection</RepoName>
+        <Description>My Face Detection application written in Matlab.</Description>
+        <Owner>Manca</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Manca</Name>
+                <User>Manca</User>
+                <Url>https://github.com/Manca</Url>
+                <Location>Seattle, WA</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>MATLAB</LanguageTags>
+        <WatchersCount>22</WatchersCount>
+        <ForksCount>19</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2022-01-16T09:34:34Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="radianttap/WatchRingGenerator">
+        <Url>https://github.com/radianttap/WatchRingGenerator</Url>
+        <Name>WatchRingGenerator</Name>
+        <Title>WatchRingGenerator</Title>
+        <RepoName>radianttap/WatchRingGenerator</RepoName>
+        <Description>iOS app to generate series of PNG images, to be used in WatchKit apps</Description>
+        <Owner>radianttap</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>radianttap</Name>
+                <User>radianttap</User>
+                <Url>https://github.com/radianttap</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C</LanguageTags>
+        <WatchersCount>150</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2022-02-06T10:08:36Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="mperovic/KOAProgressBar">
+        <Url>https://github.com/mperovic/KOAProgressBar</Url>
+        <Name>KOAProgressBar</Name>
+        <Title>KOAProgressBar</Title>
+        <RepoName>mperovic/KOAProgressBar</RepoName>
+        <Description>Custom progress bar for iOS 5.0+</Description>
+        <Owner>mperovic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>mperovic</Name>
+                <User>mperovic</User>
+                <Url>https://github.com/mperovic</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>miroslav.perovic@icloud.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C</LanguageTags>
+        <WatchersCount>73</WatchersCount>
+        <ForksCount>18</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2022-03-03T19:52:03Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="radianttap/RTFlyoutMenu">
+        <Url>https://github.com/radianttap/RTFlyoutMenu</Url>
+        <Name>RTFlyoutMenu</Name>
+        <Title>RTFlyoutMenu</Title>
+        <RepoName>radianttap/RTFlyoutMenu</RepoName>
+        <Description>Fly-out (drop-down) menu component for iPad</Description>
+        <Owner>radianttap</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>radianttap</Name>
+                <User>radianttap</User>
+                <Url>https://github.com/radianttap</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C</LanguageTags>
+        <WatchersCount>41</WatchersCount>
+        <ForksCount>9</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2018-12-26T09:20:45Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="mperovic/PAStepper">
+        <Url>https://github.com/mperovic/PAStepper</Url>
+        <Name>PAStepper</Name>
+        <Title>PAStepper</Title>
+        <RepoName>mperovic/PAStepper</RepoName>
+        <Description>Complete replacement for UIStepper control</Description>
+        <Owner>mperovic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>mperovic</Name>
+                <User>mperovic</User>
+                <Url>https://github.com/mperovic</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>miroslav.perovic@icloud.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C</LanguageTags>
+        <WatchersCount>29</WatchersCount>
+        <ForksCount>10</ForksCount>
+        <OpenIssuesCount>4</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2021-02-08T21:53:11Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="radianttap/RTCleanNavigationBar">
+        <Url>https://github.com/radianttap/RTCleanNavigationBar</Url>
+        <Name>RTCleanNavigationBar</Name>
+        <Title>RTCleanNavigationBar</Title>
+        <RepoName>radianttap/RTCleanNavigationBar</RepoName>
+        <Description>UINavigationBar subclass that removes the shadow image while retaining translucency effect in iOS 7 and up</Description>
+        <Owner>radianttap</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>radianttap</Name>
+                <User>radianttap</User>
+                <Url>https://github.com/radianttap</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C</LanguageTags>
+        <WatchersCount>14</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2019-02-10T01:49:04Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="radianttap/RTWalkthrough">
+        <Url>https://github.com/radianttap/RTWalkthrough</Url>
+        <Name>RTWalkthrough</Name>
+        <Title>RTWalkthrough</Title>
+        <RepoName>radianttap/RTWalkthrough</RepoName>
+        <Description>An Objective-C clone of github/ariok/BWWalkthrough (a bit improved in the process)</Description>
+        <Owner>radianttap</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>radianttap</Name>
+                <User>radianttap</User>
+                <Url>https://github.com/radianttap</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C</LanguageTags>
+        <WatchersCount>12</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2018-12-26T09:25:27Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="radianttap/NSFileManager-Utilities">
+        <Url>https://github.com/radianttap/NSFileManager-Utilities</Url>
+        <Name>NSFileManager-Utilities</Name>
+        <Title>NSFileManager-Utilit&#x2026;</Title>
+        <RepoName>radianttap/NSFileManager-Utilities</RepoName>
+        <Description/>
+        <Owner>radianttap</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>radianttap</Name>
+                <User>radianttap</User>
+                <Url>https://github.com/radianttap</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C</LanguageTags>
+        <WatchersCount>10</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2018-12-26T09:32:26Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="radianttap/RTFlowLayout">
+        <Url>https://github.com/radianttap/RTFlowLayout</Url>
+        <Name>RTFlowLayout</Name>
+        <Title>RTFlowLayout</Title>
+        <RepoName>radianttap/RTFlowLayout</RepoName>
+        <Description>Like UICollectionViewFlowLayout, but with additional supplementary views.</Description>
+        <Owner>radianttap</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>radianttap</Name>
+                <User>radianttap</User>
+                <Url>https://github.com/radianttap</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2018-12-26T09:19:22Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="nmarkovic04/Phoney">
+        <Url>https://github.com/nmarkovic04/Phoney</Url>
+        <Name>Phoney</Name>
+        <Title>Phoney</Title>
+        <RepoName>nmarkovic04/Phoney</RepoName>
+        <Description>Camera and sensor simulator library for iOS</Description>
+        <Owner>nmarkovic04</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>nmarkovic04</Name>
+                <User>nmarkovic04</User>
+                <Url>https://github.com/nmarkovic04</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>nikola.markovic.xd@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2020-07-12T02:12:09Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="radianttap/UITableView-NSFetchedResultsController">
+        <Url>https://github.com/radianttap/UITableView-NSFetchedResultsController</Url>
+        <Name>UITableView-NSFetchedResultsController</Name>
+        <Title>UITableView-NSFetche&#x2026;</Title>
+        <RepoName>radianttap/UITableView-NSFetchedResultsController</RepoName>
+        <Description>UITV and NSFRC, sitting in a tree, forever happy</Description>
+        <Owner>radianttap</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>radianttap</Name>
+                <User>radianttap</User>
+                <Url>https://github.com/radianttap</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C; Ruby</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2018-12-26T09:20:12Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="MrNickBarker/iOSAccordionPanels">
+        <Url>https://github.com/MrNickBarker/iOSAccordionPanels</Url>
+        <Name>iOSAccordionPanels</Name>
+        <Title>iOSAccordionPanels</Title>
+        <RepoName>MrNickBarker/iOSAccordionPanels</RepoName>
+        <Description>Prototype of resizable accordion panels for iOS.</Description>
+        <Owner>MrNickBarker</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>MrNickBarker</Name>
+                <User>MrNickBarker</User>
+                <Url>https://github.com/MrNickBarker</Url>
+                <Location>Novi Sad, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2020-05-10T20:06:34Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="radianttap/RTGraphLayout">
+        <Url>https://github.com/radianttap/RTGraphLayout</Url>
+        <Name>RTGraphLayout</Name>
+        <Title>RTGraphLayout</Title>
+        <RepoName>radianttap/RTGraphLayout</RepoName>
+        <Description>UICollectionViewFlowLayout subclass acting like zoomable bar chart</Description>
+        <Owner>radianttap</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>radianttap</Name>
+                <User>radianttap</User>
+                <Url>https://github.com/radianttap</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2018-12-26T09:19:47Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="nmarkovic04/XDNumberPicker">
+        <Url>https://github.com/nmarkovic04/XDNumberPicker</Url>
+        <Name>XDNumberPicker</Name>
+        <Title>XDNumberPicker</Title>
+        <RepoName>nmarkovic04/XDNumberPicker</RepoName>
+        <Description>NumberPicker control for iOS</Description>
+        <Owner>nmarkovic04</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>nmarkovic04</Name>
+                <User>nmarkovic04</User>
+                <Url>https://github.com/nmarkovic04</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>nikola.markovic.xd@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2015-06-15T08:58:29Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="radianttap/UILabel-FontName">
+        <Url>https://github.com/radianttap/UILabel-FontName</Url>
+        <Name>UILabel-FontName</Name>
+        <Title>UILabel-FontName</Title>
+        <RepoName>radianttap/UILabel-FontName</RepoName>
+        <Description>UIAppearance for UILabel font name</Description>
+        <Owner>radianttap</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>radianttap</Name>
+                <User>radianttap</User>
+                <Url>https://github.com/radianttap</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2018-12-26T09:32:12Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="radianttap/RTTabBarController">
+        <Url>https://github.com/radianttap/RTTabBarController</Url>
+        <Name>RTTabBarController</Name>
+        <Title>RTTabBarController</Title>
+        <RepoName>radianttap/RTTabBarController</RepoName>
+        <Description>Highly customizable and feature-rich replacement for UITabBarController</Description>
+        <Owner>radianttap</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>radianttap</Name>
+                <User>radianttap</User>
+                <Url>https://github.com/radianttap</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C</LanguageTags>
+        <WatchersCount>1</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2020-01-07T10:01:08Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="FilipMiletic/DotfilesArch">
+        <Url>https://github.com/FilipMiletic/DotfilesArch</Url>
+        <Name>DotfilesArch</Name>
+        <Title>DotfilesArch</Title>
+        <RepoName>FilipMiletic/DotfilesArch</RepoName>
+        <Description/>
+        <Owner>FilipMiletic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>FilipMiletic</Name>
+                <User>FilipMiletic</User>
+                <Url>https://github.com/FilipMiletic</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Perl; Shell; Vim script</LanguageTags>
+        <WatchersCount>1</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2022-01-05T13:34:33Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="markomarkovic/simple-php-git-deploy">
+        <Url>https://github.com/markomarkovic/simple-php-git-deploy</Url>
+        <Name>simple-php-git-deploy</Name>
+        <Title>simple-php-git-deplo&#x2026;</Title>
+        <RepoName>markomarkovic/simple-php-git-deploy</RepoName>
+        <Description>Automatically deploy the code using PHP and Git</Description>
+        <Owner>markomarkovic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>markomarkovic</Name>
+                <User>markomarkovic</User>
+                <Url>https://github.com/markomarkovic</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>1050</WatchersCount>
+        <ForksCount>288</ForksCount>
+        <OpenIssuesCount>25</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2022-02-14T15:09:28Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="nenad-zivkovic/yii2-advanced-template">
+        <Url>https://github.com/nenad-zivkovic/yii2-advanced-template</Url>
+        <Name>yii2-advanced-template</Name>
+        <Title>yii2-advanced-templa&#x2026;</Title>
+        <RepoName>nenad-zivkovic/yii2-advanced-template</RepoName>
+        <Description>Yii2 improved advanced application template that can bake you cookies</Description>
+        <Owner>nenad-zivkovic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>nenad-zivkovic</Name>
+                <User>nenad-zivkovic</User>
+                <Url>https://github.com/nenad-zivkovic</Url>
+                <Location>Serbia</Location>
+                <Email>contact@freetuts.org</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; CSS; Batchfile; ApacheConf</LanguageTags>
+        <WatchersCount>92</WatchersCount>
+        <ForksCount>69</ForksCount>
+        <OpenIssuesCount>8</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2022-03-14T05:47:46Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="nenad-zivkovic/yii2-basic-template">
+        <Url>https://github.com/nenad-zivkovic/yii2-basic-template</Url>
+        <Name>yii2-basic-template</Name>
+        <Title>yii2-basic-template</Title>
+        <RepoName>nenad-zivkovic/yii2-basic-template</RepoName>
+        <Description>Yii2 improved basic application template that can bake you cookies</Description>
+        <Owner>nenad-zivkovic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>nenad-zivkovic</Name>
+                <User>nenad-zivkovic</User>
+                <Url>https://github.com/nenad-zivkovic</Url>
+                <Location>Serbia</Location>
+                <Email>contact@freetuts.org</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; CSS; Batchfile; ApacheConf</LanguageTags>
+        <WatchersCount>49</WatchersCount>
+        <ForksCount>28</ForksCount>
+        <OpenIssuesCount>4</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2022-03-07T13:52:59Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="robertbasic/blog-examples">
+        <Url>https://github.com/robertbasic/blog-examples</Url>
+        <Name>blog-examples</Name>
+        <Title>blog-examples</Title>
+        <RepoName>robertbasic/blog-examples</RepoName>
+        <Description/>
+        <Owner>robertbasic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>robertbasic</Name>
+                <User>robertbasic</User>
+                <Url>https://github.com/robertbasic</Url>
+                <Location>Indjija, Serbia</Location>
+                <Email>robertbasic.com@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; JavaScript; Shell</LanguageTags>
+        <WatchersCount>19</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2020-01-12T05:42:27Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="robertbasic/phpplaneta">
+        <Url>https://github.com/robertbasic/phpplaneta</Url>
+        <Name>phpplaneta</Name>
+        <Title>phpplaneta</Title>
+        <RepoName>robertbasic/phpplaneta</RepoName>
+        <Description>Source code behind http://phpplaneta.net/</Description>
+        <Owner>robertbasic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>robertbasic</Name>
+                <User>robertbasic</User>
+                <Url>https://github.com/robertbasic</Url>
+                <Location>Indjija, Serbia</Location>
+                <Email>robertbasic.com@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; JavaScript</LanguageTags>
+        <WatchersCount>9</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>6</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2018-01-22T20:58:55Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="markomarkovic/cakephp-plugin-configurator">
+        <Url>https://github.com/markomarkovic/cakephp-plugin-configurator</Url>
+        <Name>cakephp-plugin-configurator</Name>
+        <Title>cakephp-plugin-confi&#x2026;</Title>
+        <RepoName>markomarkovic/cakephp-plugin-configurator</RepoName>
+        <Description>:no_entry: [DEPRECATED] CakePHP Plugin for easy database managed site-wide configurations</Description>
+        <Owner>markomarkovic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>markomarkovic</Name>
+                <User>markomarkovic</User>
+                <Url>https://github.com/markomarkovic</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2020-09-15T09:15:33Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="turshija/KGB-Game-Panel-Restarter">
+        <Url>https://github.com/turshija/KGB-Game-Panel-Restarter</Url>
+        <Name>KGB-Game-Panel-Restarter</Name>
+        <Title>KGB-Game-Panel-Resta&#x2026;</Title>
+        <RepoName>turshija/KGB-Game-Panel-Restarter</RepoName>
+        <Description>Skripta pomocu koje je moguce restartovati servere koji su se zakucali, pod uslovom da su serveri kod KGB Hostinga</Description>
+        <Owner>turshija</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>turshija</Name>
+                <User>turshija</User>
+                <Url>https://github.com/turshija</Url>
+                <Location>Serbia, Novi Sad</Location>
+                <Email>turshija@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; JavaScript; CSS</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>7</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2021-09-28T10:42:13Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="bojanz/efq_views">
+        <Url>https://github.com/bojanz/efq_views</Url>
+        <Name>efq_views</Name>
+        <Title>efq_views</Title>
+        <RepoName>bojanz/efq_views</RepoName>
+        <Description/>
+        <Owner>bojanz</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>bojanz</Name>
+                <User>bojanz</User>
+                <Url>https://github.com/bojanz</Url>
+                <Location>Serbia</Location>
+                <Email>bojanz@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="bojanz/state_machine">
+        <Url>https://github.com/bojanz/state_machine</Url>
+        <Name>state_machine</Name>
+        <Title>state_machine</Title>
+        <RepoName>bojanz/state_machine</RepoName>
+        <Description/>
+        <Owner>bojanz</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>bojanz</Name>
+                <User>bojanz</User>
+                <Url>https://github.com/bojanz</Url>
+                <Location>Serbia</Location>
+                <Email>bojanz@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="el22or/drs1">
+        <Url>https://github.com/el22or/drs1</Url>
+        <Name>drs1</Name>
+        <Title>drs1</Title>
+        <RepoName>el22or/drs1</RepoName>
+        <Description>Drupal Serbia community site theme</Description>
+        <Owner>el22or</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>el22or</Name>
+                <User>el22or</User>
+                <Url>https://github.com/el22or</Url>
+                <Location>Novi Sad, Serbia</Location>
+                <Email>draganeror@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; JavaScript</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2017-06-16T03:32:38Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="robertbasic/perfi">
+        <Url>https://github.com/robertbasic/perfi</Url>
+        <Name>perfi</Name>
+        <Title>perfi</Title>
+        <RepoName>robertbasic/perfi</RepoName>
+        <Description>Personal finances</Description>
+        <Owner>robertbasic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>robertbasic</Name>
+                <User>robertbasic</User>
+                <Url>https://github.com/robertbasic</Url>
+                <Location>Indjija, Serbia</Location>
+                <Email>robertbasic.com@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; HTML; ApacheConf; Gherkin</LanguageTags>
+        <WatchersCount>1</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2017-08-23T09:10:47Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="markomarkovic/cakephp-plugin-image_editor">
+        <Url>https://github.com/markomarkovic/cakephp-plugin-image_editor</Url>
+        <Name>cakephp-plugin-image_editor</Name>
+        <Title>cakephp-plugin-image&#x2026;</Title>
+        <RepoName>markomarkovic/cakephp-plugin-image_editor</RepoName>
+        <Description>:no_entry: [DEPRECATED] A plugin for easy image manipulation</Description>
+        <Owner>markomarkovic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>markomarkovic</Name>
+                <User>markomarkovic</User>
+                <Url>https://github.com/markomarkovic</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2018-02-07T21:58:38Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="bojanz/array-object-benchmark">
+        <Url>https://github.com/bojanz/array-object-benchmark</Url>
+        <Name>array-object-benchmark</Name>
+        <Title>array-object-benchma&#x2026;</Title>
+        <RepoName>bojanz/array-object-benchmark</RepoName>
+        <Description/>
+        <Owner>bojanz</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>bojanz</Name>
+                <User>bojanz</User>
+                <Url>https://github.com/bojanz</Url>
+                <Location>Serbia</Location>
+                <Email>bojanz@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2020-05-19T15:24:22Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="robertbasic/mockery-hard-dependency">
+        <Url>https://github.com/robertbasic/mockery-hard-dependency</Url>
+        <Name>mockery-hard-dependency</Name>
+        <Title>mockery-hard-depende&#x2026;</Title>
+        <RepoName>robertbasic/mockery-hard-dependency</RepoName>
+        <Description/>
+        <Owner>robertbasic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>robertbasic</Name>
+                <User>robertbasic</User>
+                <Url>https://github.com/robertbasic</Url>
+                <Location>Indjija, Serbia</Location>
+                <Email>robertbasic.com@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2018-12-20T17:10:55Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ldusan84/magento2-simple-product-feed">
+        <Url>https://github.com/ldusan84/magento2-simple-product-feed</Url>
+        <Name>magento2-simple-product-feed</Name>
+        <Title>magento2-simple-prod&#x2026;</Title>
+        <RepoName>ldusan84/magento2-simple-product-feed</RepoName>
+        <Description>A simple Magento 2 product feed example</Description>
+        <Owner>ldusan84</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ldusan84</Name>
+                <User>ldusan84</User>
+                <Url>https://github.com/ldusan84</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>16</WatchersCount>
+        <ForksCount>8</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2021-04-19T01:46:44Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="bojanz/fakedin">
+        <Url>https://github.com/bojanz/fakedin</Url>
+        <Name>fakedin</Name>
+        <Title>fakedin</Title>
+        <RepoName>bojanz/fakedin</RepoName>
+        <Description>FakedIn is a professional network powered by Drupal Commerce.</Description>
+        <Owner>bojanz</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>bojanz</Name>
+                <User>bojanz</User>
+                <Url>https://github.com/bojanz</Url>
+                <Location>Serbia</Location>
+                <Email>bojanz@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; Shell</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2020-06-19T08:29:33Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="markomarkovic/cakephp-plugin-persona">
+        <Url>https://github.com/markomarkovic/cakephp-plugin-persona</Url>
+        <Name>cakephp-plugin-persona</Name>
+        <Title>cakephp-plugin-perso&#x2026;</Title>
+        <RepoName>markomarkovic/cakephp-plugin-persona</RepoName>
+        <Description>:no_entry: [DEPRECATED] Mozilla Persona CakePHP Plugin</Description>
+        <Owner>markomarkovic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>markomarkovic</Name>
+                <User>markomarkovic</User>
+                <Url>https://github.com/markomarkovic</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2018-02-07T21:58:55Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="bojanz/address">
+        <Url>https://github.com/bojanz/address</Url>
+        <Name>address</Name>
+        <Title>address</Title>
+        <RepoName>bojanz/address</RepoName>
+        <Description>Address handling for Go.</Description>
+        <Owner>bojanz</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>bojanz</Name>
+                <User>bojanz</User>
+                <Url>https://github.com/bojanz</Url>
+                <Location>Serbia</Location>
+                <Email>bojanz@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Go</LanguageTags>
+        <WatchersCount>44</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2022-03-19T03:46:58Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ldusan84/Trip-Card-Sorter">
+        <Url>https://github.com/ldusan84/Trip-Card-Sorter</Url>
+        <Name>Trip-Card-Sorter</Name>
+        <Title>Trip-Card-Sorter</Title>
+        <RepoName>ldusan84/Trip-Card-Sorter</RepoName>
+        <Description>Solution to common trip card sorting problem</Description>
+        <Owner>ldusan84</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ldusan84</Name>
+                <User>ldusan84</User>
+                <Url>https://github.com/ldusan84</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>1</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2018-02-14T22:27:27Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ldusan84/DusanSimpleBundle">
+        <Url>https://github.com/ldusan84/DusanSimpleBundle</Url>
+        <Name>DusanSimpleBundle</Name>
+        <Title>DusanSimpleBundle</Title>
+        <RepoName>ldusan84/DusanSimpleBundle</RepoName>
+        <Description>OroCRM Simple CRUD bundle</Description>
+        <Owner>ldusan84</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ldusan84</Name>
+                <User>ldusan84</User>
+                <Url>https://github.com/ldusan84</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2017-01-06T22:05:09Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="grakic/meetrq">
+        <Url>https://github.com/grakic/meetrq</Url>
+        <Name>meetrq</Name>
+        <Title>meetrq</Title>
+        <RepoName>grakic/meetrq</RepoName>
+        <Description>Meeting request form - Sample Laravel 5 web app</Description>
+        <Owner>grakic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>grakic</Name>
+                <User>grakic</User>
+                <Url>https://github.com/grakic</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>grakic@devbase.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2016-01-30T22:57:48Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="robertbasic/code-samples">
+        <Url>https://github.com/robertbasic/code-samples</Url>
+        <Name>code-samples</Name>
+        <Title>code-samples</Title>
+        <RepoName>robertbasic/code-samples</RepoName>
+        <Description>Different code samples to use in talks</Description>
+        <Owner>robertbasic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>robertbasic</Name>
+                <User>robertbasic</User>
+                <Url>https://github.com/robertbasic</Url>
+                <Location>Indjija, Serbia</Location>
+                <Email>robertbasic.com@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2014-01-09T03:51:33Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="MeanEYE/Sunflower">
+        <Url>https://github.com/MeanEYE/Sunflower</Url>
+        <Name>Sunflower</Name>
+        <Title>Sunflower</Title>
+        <RepoName>MeanEYE/Sunflower</RepoName>
+        <Description>Small and highly customizable twin-panel file manager for Linux with support for plugins.</Description>
+        <Owner>MeanEYE</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>MeanEYE</Name>
+                <User>MeanEYE</User>
+                <Url>https://github.com/MeanEYE</Url>
+                <Location>Serbia</Location>
+                <Email>meaneye.rcf@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; Makefile; CSS</LanguageTags>
+        <WatchersCount>392</WatchersCount>
+        <ForksCount>40</ForksCount>
+        <OpenIssuesCount>108</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2022-03-19T14:18:41Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jocicmarko/kaggle-dsb2-keras">
+        <Url>https://github.com/jocicmarko/kaggle-dsb2-keras</Url>
+        <Name>kaggle-dsb2-keras</Name>
+        <Title>kaggle-dsb2-keras</Title>
+        <RepoName>jocicmarko/kaggle-dsb2-keras</RepoName>
+        <Description>Keras tutorial for Kaggle 2nd Annual Data Science Bowl</Description>
+        <Owner>jocicmarko</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jocicmarko</Name>
+                <User>jocicmarko</User>
+                <Url>https://github.com/jocicmarko</Url>
+                <Location>Cupertino, California</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>176</WatchersCount>
+        <ForksCount>80</ForksCount>
+        <OpenIssuesCount>4</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2021-11-14T17:20:34Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jocicmarko/ultrasound-nerve-segmentation">
+        <Url>https://github.com/jocicmarko/ultrasound-nerve-segmentation</Url>
+        <Name>ultrasound-nerve-segmentation</Name>
+        <Title>ultrasound-nerve-seg&#x2026;</Title>
+        <RepoName>jocicmarko/ultrasound-nerve-segmentation</RepoName>
+        <Description>Deep Learning Tutorial for Kaggle Ultrasound Nerve Segmentation competition, using Keras</Description>
+        <Owner>jocicmarko</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jocicmarko</Name>
+                <User>jocicmarko</User>
+                <Url>https://github.com/jocicmarko</Url>
+                <Location>Cupertino, California</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>914</WatchersCount>
+        <ForksCount>328</ForksCount>
+        <OpenIssuesCount>53</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2022-03-10T15:59:25Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="integricho/path-of-a-pyqter">
+        <Url>https://github.com/integricho/path-of-a-pyqter</Url>
+        <Name>path-of-a-pyqter</Name>
+        <Title>path-of-a-pyqter</Title>
+        <RepoName>integricho/path-of-a-pyqter</RepoName>
+        <Description>lessons on using python and qt</Description>
+        <Owner>integricho</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>integricho</Name>
+                <User>integricho</User>
+                <Url>https://github.com/integricho</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>43</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2021-11-08T10:46:16Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="foxbunny/acl.py">
+        <Url>https://github.com/foxbunny/acl.py</Url>
+        <Name>acl.py</Name>
+        <Title>acl.py</Title>
+        <RepoName>foxbunny/acl.py</RepoName>
+        <Description>authentication framework for web.py</Description>
+        <Owner>foxbunny</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>foxbunny</Name>
+                <User>foxbunny</User>
+                <Url>https://github.com/foxbunny</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>11</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>7</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2017-07-27T15:15:29Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="integricho/mutant-sample-app">
+        <Url>https://github.com/integricho/mutant-sample-app</Url>
+        <Name>mutant-sample-app</Name>
+        <Title>mutant-sample-app</Title>
+        <RepoName>integricho/mutant-sample-app</RepoName>
+        <Description>A CRUD interface for django-mutant just for demonstration</Description>
+        <Owner>integricho</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>integricho</Name>
+                <User>integricho</User>
+                <Url>https://github.com/integricho</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>14</WatchersCount>
+        <ForksCount>9</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2020-05-28T08:05:40Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Atlantic777/c4sh">
+        <Url>https://github.com/Atlantic777/c4sh</Url>
+        <Name>c4sh</Name>
+        <Title>c4sh</Title>
+        <RepoName>Atlantic777/c4sh</RepoName>
+        <Description>C4sh - cashdesk module (checkout) - Patched to work!</Description>
+        <Owner>Atlantic777</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Atlantic777</Name>
+                <User>Atlantic777</User>
+                <Url>https://github.com/Atlantic777</Url>
+                <Location>Switzerland</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; JavaScript; CSS; Shell</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2015-07-30T15:40:48Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="foxbunny/Timetrack">
+        <Url>https://github.com/foxbunny/Timetrack</Url>
+        <Name>Timetrack</Name>
+        <Title>Timetrack</Title>
+        <RepoName>foxbunny/Timetrack</RepoName>
+        <Description>Simple stupid time tracker</Description>
+        <Owner>foxbunny</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>foxbunny</Name>
+                <User>foxbunny</User>
+                <Url>https://github.com/foxbunny</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2014-02-03T11:21:19Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="foxbunny/django-sr-locale">
+        <Url>https://github.com/foxbunny/django-sr-locale</Url>
+        <Name>django-sr-locale</Name>
+        <Title>django-sr-locale</Title>
+        <RepoName>foxbunny/django-sr-locale</RepoName>
+        <Description>Serbian translations for Django</Description>
+        <Owner>foxbunny</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>foxbunny</Name>
+                <User>foxbunny</User>
+                <Url>https://github.com/foxbunny</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2019-08-13T14:13:36Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="foxbunny/HTTPy-RPC">
+        <Url>https://github.com/foxbunny/HTTPy-RPC</Url>
+        <Name>HTTPy-RPC</Name>
+        <Title>HTTPy-RPC</Title>
+        <RepoName>foxbunny/HTTPy-RPC</RepoName>
+        <Description>Example implementation of a simple HTTP-based RPC protocol.</Description>
+        <Owner>foxbunny</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>foxbunny</Name>
+                <User>foxbunny</User>
+                <Url>https://github.com/foxbunny</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; JavaScript</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2018-07-18T16:18:14Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="integricho/django-skel-modular-js-example">
+        <Url>https://github.com/integricho/django-skel-modular-js-example</Url>
+        <Name>django-skel-modular-js-example</Name>
+        <Title>django-skel-modular-&#x2026;</Title>
+        <RepoName>integricho/django-skel-modular-js-example</RepoName>
+        <Description/>
+        <Owner>integricho</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>integricho</Name>
+                <User>integricho</User>
+                <Url>https://github.com/integricho</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="bosko/rmre">
+        <Url>https://github.com/bosko/rmre</Url>
+        <Name>rmre</Name>
+        <Title>rmre</Title>
+        <RepoName>bosko/rmre</RepoName>
+        <Description>Rails 3 models reverse engineering</Description>
+        <Owner>bosko</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>bosko</Name>
+                <User>bosko</User>
+                <Url>https://github.com/bosko</Url>
+                <Location>Novi Sad, Serbia</Location>
+                <Email>bosko.ivanisevic@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>123</WatchersCount>
+        <ForksCount>37</ForksCount>
+        <OpenIssuesCount>9</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2022-01-25T01:23:00Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="inem/tequila">
+        <Url>https://github.com/inem/tequila</Url>
+        <Name>tequila</Name>
+        <Title>tequila</Title>
+        <RepoName>inem/tequila</RepoName>
+        <Description>Powerful HAML-like JSON generation language</Description>
+        <Owner>inem</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>inem</Name>
+                <User>inem</User>
+                <Url>https://github.com/inem</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>nemytchenko@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>90</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>8</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2019-08-13T14:27:40Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="inem/xilence">
+        <Url>https://github.com/inem/xilence</Url>
+        <Name>xilence</Name>
+        <Title>xilence</Title>
+        <RepoName>inem/xilence</RepoName>
+        <Description>Rails backtrace silencer for ajax requests</Description>
+        <Owner>inem</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>inem</Name>
+                <User>inem</User>
+                <Url>https://github.com/inem</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>nemytchenko@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>30</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2021-07-22T11:13:21Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="inem/handcar">
+        <Url>https://github.com/inem/handcar</Url>
+        <Name>handcar</Name>
+        <Title>handcar</Title>
+        <RepoName>inem/handcar</RepoName>
+        <Description>Server-side console.log() for your Rails application</Description>
+        <Owner>inem</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>inem</Name>
+                <User>inem</User>
+                <Url>https://github.com/inem</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>nemytchenko@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>24</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2019-08-13T14:27:40Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="markoa/r2flickr">
+        <Url>https://github.com/markoa/r2flickr</Url>
+        <Name>r2flickr</Name>
+        <Title>r2flickr</Title>
+        <RepoName>markoa/r2flickr</RepoName>
+        <Description>r2flickr is a Ruby implementation of the Flickr API, forked from rflickr.</Description>
+        <Owner>markoa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>markoa</Name>
+                <User>markoa</User>
+                <Url>https://github.com/markoa</Url>
+                <Location>Novi Sad, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>21</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2019-08-18T06:34:05Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="markoa/rspec-intro">
+        <Url>https://github.com/markoa/rspec-intro</Url>
+        <Name>rspec-intro</Name>
+        <Title>rspec-intro</Title>
+        <RepoName>markoa/rspec-intro</RepoName>
+        <Description/>
+        <Owner>markoa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>markoa</Name>
+                <User>markoa</User>
+                <Url>https://github.com/markoa</Url>
+                <Location>Novi Sad, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>15</WatchersCount>
+        <ForksCount>13</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2021-09-03T02:01:57Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="bosko/gem-exefy">
+        <Url>https://github.com/bosko/gem-exefy</Url>
+        <Name>gem-exefy</Name>
+        <Title>gem-exefy</Title>
+        <RepoName>bosko/gem-exefy</RepoName>
+        <Description>RubyGems plugin for replacing Windows batch files used in Gems with executables with same name.</Description>
+        <Owner>bosko</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>bosko</Name>
+                <User>bosko</User>
+                <Url>https://github.com/bosko</Url>
+                <Location>Novi Sad, Serbia</Location>
+                <Email>bosko.ivanisevic@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; C</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2016-07-10T09:22:47Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="miloshadzic/pasta">
+        <Url>https://github.com/miloshadzic/pasta</Url>
+        <Name>pasta</Name>
+        <Title>pasta</Title>
+        <RepoName>miloshadzic/pasta</RepoName>
+        <Description>Silly pastebin-like sinatra application</Description>
+        <Owner>miloshadzic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>miloshadzic</Name>
+                <User>miloshadzic</User>
+                <Url>https://github.com/miloshadzic</Url>
+                <Location>Beograd, Serbia</Location>
+                <Email>milos@rightfold.io</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2019-07-12T11:39:41Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jablan/spreadshoot">
+        <Url>https://github.com/jablan/spreadshoot</Url>
+        <Name>spreadshoot</Name>
+        <Title>spreadshoot</Title>
+        <RepoName>jablan/spreadshoot</RepoName>
+        <Description>Ruby DSL for creating Excel spreadsheets</Description>
+        <Owner>jablan</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jablan</Name>
+                <User>jablan</User>
+                <Url>https://github.com/jablan</Url>
+                <Location>Hamburg</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2021-01-15T09:55:02Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="markoa/gradmx">
+        <Url>https://github.com/markoa/gradmx</Url>
+        <Name>gradmx</Name>
+        <Title>gradmx</Title>
+        <RepoName>markoa/gradmx</RepoName>
+        <Description>University project, Rails and Tokyo Cabinet exploration on a minimal event platform</Description>
+        <Owner>markoa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>markoa</Name>
+                <User>markoa</User>
+                <Url>https://github.com/markoa</Url>
+                <Location>Novi Sad, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; JavaScript</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2021-01-15T09:55:06Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="inem/lazibi">
+        <Url>https://github.com/inem/lazibi</Url>
+        <Name>lazibi</Name>
+        <Title>lazibi</Title>
+        <RepoName>inem/lazibi</RepoName>
+        <Description>Lazibi is a pre-processor that allows one to use Python style indenting in Ruby.</Description>
+        <Owner>inem</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>inem</Name>
+                <User>inem</User>
+                <Url>https://github.com/inem</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>nemytchenko@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2013-11-13T08:40:21Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="markoa/scripts">
+        <Url>https://github.com/markoa/scripts</Url>
+        <Name>scripts</Name>
+        <Title>scripts</Title>
+        <RepoName>markoa/scripts</RepoName>
+        <Description>Tumblr client script, and more to come</Description>
+        <Owner>markoa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>markoa</Name>
+                <User>markoa</User>
+                <Url>https://github.com/markoa</Url>
+                <Location>Novi Sad, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2019-08-13T13:43:22Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jablan/collectinject">
+        <Url>https://github.com/jablan/collectinject</Url>
+        <Name>collectinject</Name>
+        <Title>collectinject</Title>
+        <RepoName>jablan/collectinject</RepoName>
+        <Description>CollectInject - a tiny MapReduce implementation in Ruby</Description>
+        <Owner>jablan</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jablan</Name>
+                <User>jablan</User>
+                <Url>https://github.com/jablan</Url>
+                <Location>Hamburg</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2021-10-10T03:00:33Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jablan/blue_colr">
+        <Url>https://github.com/jablan/blue_colr</Url>
+        <Name>blue_colr</Name>
+        <Title>blue_colr</Title>
+        <RepoName>jablan/blue_colr</RepoName>
+        <Description>Database based process launcher</Description>
+        <Owner>jablan</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jablan</Name>
+                <User>jablan</User>
+                <Url>https://github.com/jablan</Url>
+                <Location>Hamburg</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2013-10-07T00:56:40Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jablan/polumenta">
+        <Url>https://github.com/jablan/polumenta</Url>
+        <Name>polumenta</Name>
+        <Title>polumenta</Title>
+        <RepoName>jablan/polumenta</RepoName>
+        <Description>Polumenta generator clone</Description>
+        <Owner>jablan</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jablan</Name>
+                <User>jablan</User>
+                <Url>https://github.com/jablan</Url>
+                <Location>Hamburg</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; HTML</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2021-01-15T09:55:02Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jablan/sequel_diff">
+        <Url>https://github.com/jablan/sequel_diff</Url>
+        <Name>sequel_diff</Name>
+        <Title>sequel_diff</Title>
+        <RepoName>jablan/sequel_diff</RepoName>
+        <Description>Web app for diffing the data in the database</Description>
+        <Owner>jablan</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jablan</Name>
+                <User>jablan</User>
+                <Url>https://github.com/jablan</Url>
+                <Location>Hamburg</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2014-01-16T06:48:37Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="inem/gitforms">
+        <Url>https://github.com/inem/gitforms</Url>
+        <Name>gitforms</Name>
+        <Title>gitforms</Title>
+        <RepoName>inem/gitforms</RepoName>
+        <Description>Easy way to contribute to open source projects</Description>
+        <Owner>inem</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>inem</Name>
+                <User>inem</User>
+                <Url>https://github.com/inem</Url>
+                <Location>Belgrade, Serbia</Location>
+                <Email>nemytchenko@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; Shell</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2021-07-22T11:12:12Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="markoa/tabla">
+        <Url>https://github.com/markoa/tabla</Url>
+        <Name>tabla</Name>
+        <Title>tabla</Title>
+        <RepoName>markoa/tabla</RepoName>
+        <Description>Lightweight note-taking app with wiki capabilities built with Rails</Description>
+        <Owner>markoa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>markoa</Name>
+                <User>markoa</User>
+                <Url>https://github.com/markoa</Url>
+                <Location>Novi Sad, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; JavaScript</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2019-08-13T13:51:09Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="markoa/chef-solo-mnmal">
+        <Url>https://github.com/markoa/chef-solo-mnmal</Url>
+        <Name>chef-solo-mnmal</Name>
+        <Title>chef-solo-mnmal</Title>
+        <RepoName>markoa/chef-solo-mnmal</RepoName>
+        <Description>Minimal working configuration for chef-solo.</Description>
+        <Owner>markoa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>markoa</Name>
+                <User>markoa</User>
+                <Url>https://github.com/markoa</Url>
+                <Location>Novi Sad, Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2013-10-23T18:05:32Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="nmilinkovic/Skadi">
+        <Url>https://github.com/nmilinkovic/Skadi</Url>
+        <Name>Skadi</Name>
+        <Title>Skadi</Title>
+        <RepoName>nmilinkovic/Skadi</RepoName>
+        <Description>Skadi is a lightweight Dependency Injection container written in Scala</Description>
+        <Owner>nmilinkovic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>nmilinkovic</Name>
+                <User>nmilinkovic</User>
+                <Url>https://github.com/nmilinkovic</Url>
+                <Location>Novi Sad, Serbia</Location>
+                <Email>nikola1981@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2019-08-13T14:21:32Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="olujicz/ansible-phabricator">
+        <Url>https://github.com/olujicz/ansible-phabricator</Url>
+        <Name>ansible-phabricator</Name>
+        <Title>ansible-phabricator</Title>
+        <RepoName>olujicz/ansible-phabricator</RepoName>
+        <Description>Ansible playbooks for Phabricator installations with Vagrant on Debian 7</Description>
+        <Owner>olujicz</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>olujicz</Name>
+                <User>olujicz</User>
+                <Url>https://github.com/olujicz</Url>
+                <Location>Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Shell; PHP</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2019-12-09T14:27:19Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="olujicz/bash-scripts">
+        <Url>https://github.com/olujicz/bash-scripts</Url>
+        <Name>bash-scripts</Name>
+        <Title>bash-scripts</Title>
+        <RepoName>olujicz/bash-scripts</RepoName>
+        <Description>My bash scripts</Description>
+        <Owner>olujicz</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>olujicz</Name>
+                <User>olujicz</User>
+                <Url>https://github.com/olujicz</Url>
+                <Location>Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Shell</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2020-04-23T11:45:54Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Paget96/L_SPEED">
+        <Url>https://github.com/Paget96/L_SPEED</Url>
+        <Name>L_SPEED</Name>
+        <Title>L_SPEED</Title>
+        <RepoName>Paget96/L_SPEED</RepoName>
+        <Description>Forum discussion</Description>
+        <Owner>Paget96</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Paget96</Name>
+                <User>Paget96</User>
+                <Url>https://github.com/Paget96</Url>
+                <Location>Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Shell</LanguageTags>
+        <WatchersCount>158</WatchersCount>
+        <ForksCount>23</ForksCount>
+        <OpenIssuesCount>5</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2022-03-20T05:59:53Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Paget96/AdBlocker">
+        <Url>https://github.com/Paget96/AdBlocker</Url>
+        <Name>AdBlocker</Name>
+        <Title>AdBlocker</Title>
+        <RepoName>Paget96/AdBlocker</RepoName>
+        <Description/>
+        <Owner>Paget96</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Paget96</Name>
+                <User>Paget96</User>
+                <Url>https://github.com/Paget96</Url>
+                <Location>Serbia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Shell</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2016-10-09T15:52:21Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="mekanix/fish">
+        <Url>https://github.com/mekanix/fish</Url>
+        <Name>fish</Name>
+        <Title>fish</Title>
+        <RepoName>mekanix/fish</RepoName>
+        <Description/>
+        <Owner>mekanix</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>mekanix</Name>
+                <User>mekanix</User>
+                <Url>https://github.com/mekanix</Url>
+                <Location>Europe, Serbia, Vojvodina, Novi Sad</Location>
+                <Email>meka@tilda.center</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="vlasar/vim-web-dev">
+        <Url>https://github.com/vlasar/vim-web-dev</Url>
+        <Name>vim-web-dev</Name>
+        <Title>vim-web-dev</Title>
+        <RepoName>vlasar/vim-web-dev</RepoName>
+        <Description/>
+        <Owner>vlasar</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>vlasar</Name>
+                <User>vlasar</User>
+                <Url>https://github.com/vlasar</Url>
+                <Location>Subotica, Serbia</Location>
+                <Email>vladimir@vladimirsaric.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="sfsgagi/gitvim">
+        <Url>https://github.com/sfsgagi/gitvim</Url>
+        <Name>gitvim</Name>
+        <Title>gitvim</Title>
+        <RepoName>sfsgagi/gitvim</RepoName>
+        <Description>My vim</Description>
+        <Owner>sfsgagi</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>sfsgagi</Name>
+                <User>sfsgagi</User>
+                <Url>https://github.com/sfsgagi</Url>
+                <Location>San Mateo, CA</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Vim script; Shell; Ruby</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Serbia</CountryOrigin>
+        <UpdatedAt>2019-08-13T15:00:06Z</UpdatedAt>
+    </Dependency>
+</Dependencies>

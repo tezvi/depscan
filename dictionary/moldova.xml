@@ -1,0 +1,2447 @@
+<?xml version="1.0"?>
+<Dependencies>
+    <Dependency name="alexeisavca/webtorrentapp">
+        <Url>https://github.com/alexeisavca/webtorrentapp</Url>
+        <Name>webtorrentapp</Name>
+        <Title>webtorrentapp</Title>
+        <RepoName>alexeisavca/webtorrentapp</RepoName>
+        <Description>Webtorrent App</Description>
+        <Owner>alexeisavca</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alexeisavca</Name>
+                <User>alexeisavca</User>
+                <Url>https://github.com/alexeisavca</Url>
+                <Location>Chi&#x219;in&#x103;u, Republic of Moldova</Location>
+                <Email>savca.alexei@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML</LanguageTags>
+        <WatchersCount>283</WatchersCount>
+        <ForksCount>18</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2022-01-27T16:51:52Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Igor10k/ikSelect">
+        <Url>https://github.com/Igor10k/ikSelect</Url>
+        <Name>ikSelect</Name>
+        <Title>ikSelect</Title>
+        <RepoName>Igor10k/ikSelect</RepoName>
+        <Description>Stylize html selects using jQuery</Description>
+        <Owner>Igor10k</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Igor10k</Name>
+                <User>Igor10k</User>
+                <Url>https://github.com/Igor10k</Url>
+                <Location>Moldova</Location>
+                <Email>me@igorkozlov.me</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML</LanguageTags>
+        <WatchersCount>144</WatchersCount>
+        <ForksCount>16</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2021-08-15T13:34:16Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="vova07/yii2-imperavi-widget">
+        <Url>https://github.com/vova07/yii2-imperavi-widget</Url>
+        <Name>yii2-imperavi-widget</Name>
+        <Title>yii2-imperavi-widget</Title>
+        <RepoName>vova07/yii2-imperavi-widget</RepoName>
+        <Description>Imperavi Redactor widget for Yii 2</Description>
+        <Owner>vova07</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>vova07</Name>
+                <User>vova07</User>
+                <Url>https://github.com/vova07</Url>
+                <Location>Chi&#x219;in&#x103;u, Moldova</Location>
+                <Email>bazillio07@yandex.ru</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; PHP; CSS</LanguageTags>
+        <WatchersCount>251</WatchersCount>
+        <ForksCount>104</ForksCount>
+        <OpenIssuesCount>15</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2022-01-08T16:50:00Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Krekotun/fabium-markup">
+        <Url>https://github.com/Krekotun/fabium-markup</Url>
+        <Name>fabium-markup</Name>
+        <Title>fabium-markup</Title>
+        <RepoName>Krekotun/fabium-markup</RepoName>
+        <Description>+100 for productivity</Description>
+        <Owner>Krekotun</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Krekotun</Name>
+                <User>Krekotun</User>
+                <Url>https://github.com/Krekotun</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; SCSS; Pug</LanguageTags>
+        <WatchersCount>110</WatchersCount>
+        <ForksCount>20</ForksCount>
+        <OpenIssuesCount>7</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2021-12-11T18:53:00Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="pulviscriptor/agario-client">
+        <Url>https://github.com/pulviscriptor/agario-client</Url>
+        <Name>agario-client</Name>
+        <Title>agario-client</Title>
+        <RepoName>pulviscriptor/agario-client</RepoName>
+        <Description>Node.js agar.io client implementation</Description>
+        <Owner>pulviscriptor</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>pulviscriptor</Name>
+                <User>pulviscriptor</User>
+                <Url>https://github.com/pulviscriptor</Url>
+                <Location>Chi&#x219;in&#x103;u, Moldova</Location>
+                <Email>pulviscriptor@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>79</WatchersCount>
+        <ForksCount>44</ForksCount>
+        <OpenIssuesCount>22</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2022-01-10T13:52:07Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Shogun147/Katana">
+        <Url>https://github.com/Shogun147/Katana</Url>
+        <Name>Katana</Name>
+        <Title>Katana</Title>
+        <RepoName>Shogun147/Katana</RepoName>
+        <Description/>
+        <Owner>Shogun147</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Shogun147</Name>
+                <User>Shogun147</User>
+                <Url>https://github.com/Shogun147</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="alexeisavca/keyframes.js">
+        <Url>https://github.com/alexeisavca/keyframes.js</Url>
+        <Name>keyframes.js</Name>
+        <Title>keyframes.js</Title>
+        <RepoName>alexeisavca/keyframes.js</RepoName>
+        <Description>A functional animation library</Description>
+        <Owner>alexeisavca</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alexeisavca</Name>
+                <User>alexeisavca</User>
+                <Url>https://github.com/alexeisavca</Url>
+                <Location>Chi&#x219;in&#x103;u, Republic of Moldova</Location>
+                <Email>savca.alexei@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>41</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2021-12-24T09:27:00Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="micnic/simpleS">
+        <Url>https://github.com/micnic/simpleS</Url>
+        <Name>simpleS</Name>
+        <Title>simpleS</Title>
+        <RepoName>micnic/simpleS</RepoName>
+        <Description>Simple Web Framework for Node.JS</Description>
+        <Owner>micnic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>micnic</Name>
+                <User>micnic</User>
+                <Url>https://github.com/micnic</Url>
+                <Location>Moldova</Location>
+                <Email>micnic90@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>46</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2020-03-12T07:03:05Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="pulviscriptor/agario-devtools">
+        <Url>https://github.com/pulviscriptor/agario-devtools</Url>
+        <Name>agario-devtools</Name>
+        <Title>agario-devtools</Title>
+        <RepoName>pulviscriptor/agario-devtools</RepoName>
+        <Description>Node.js agar.io developer tools</Description>
+        <Owner>pulviscriptor</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>pulviscriptor</Name>
+                <User>pulviscriptor</User>
+                <Url>https://github.com/pulviscriptor</Url>
+                <Location>Chi&#x219;in&#x103;u, Moldova</Location>
+                <Email>pulviscriptor@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>15</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2018-09-28T17:05:36Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="vitalyrotari/foundation-sites-loader">
+        <Url>https://github.com/vitalyrotari/foundation-sites-loader</Url>
+        <Name>foundation-sites-loader</Name>
+        <Title>foundation-sites-loa&#x2026;</Title>
+        <RepoName>vitalyrotari/foundation-sites-loader</RepoName>
+        <Description>Webpack Loader for the Sass version Foundation Sites</Description>
+        <Owner>vitalyrotari</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>vitalyrotari</Name>
+                <User>vitalyrotari</User>
+                <Url>https://github.com/vitalyrotari</Url>
+                <Location>Chisiau, Moldova Republic of</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2020-05-19T03:04:47Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="micnic/simpleT">
+        <Url>https://github.com/micnic/simpleT</Url>
+        <Name>simpleT</Name>
+        <Title>simpleT</Title>
+        <RepoName>micnic/simpleT</RepoName>
+        <Description>Simple Template Engine for Node.js</Description>
+        <Owner>micnic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>micnic</Name>
+                <User>micnic</User>
+                <Url>https://github.com/micnic</Url>
+                <Location>Moldova</Location>
+                <Email>micnic90@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2021-12-08T21:35:13Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="vova07/yii2-start-themes">
+        <Url>https://github.com/vova07/yii2-start-themes</Url>
+        <Name>yii2-start-themes</Name>
+        <Title>yii2-start-themes</Title>
+        <RepoName>vova07/yii2-start-themes</RepoName>
+        <Description>The themes extension for Yii2-Start application.</Description>
+        <Owner>vova07</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>vova07</Name>
+                <User>vova07</User>
+                <Url>https://github.com/vova07</Url>
+                <Location>Chi&#x219;in&#x103;u, Moldova</Location>
+                <Email>bazillio07@yandex.ru</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; PHP; HTML</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>10</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2017-09-02T20:04:02Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="slavcodev/js-audio-tags">
+        <Url>https://github.com/slavcodev/js-audio-tags</Url>
+        <Name>js-audio-tags</Name>
+        <Title>js-audio-tags</Title>
+        <RepoName>slavcodev/js-audio-tags</RepoName>
+        <Description>JavaScript library to read tags from audio files. Using HTML5 FileAPI.</Description>
+        <Owner>slavcodev</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>slavcodev</Name>
+                <User>slavcodev</User>
+                <Url>https://github.com/slavcodev</Url>
+                <Location>Spain</Location>
+                <Email>slavcopost@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2022-01-05T16:50:29Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Shogun147/Jinsoku">
+        <Url>https://github.com/Shogun147/Jinsoku</Url>
+        <Name>Jinsoku</Name>
+        <Title>Jinsoku</Title>
+        <RepoName>Shogun147/Jinsoku</RepoName>
+        <Description>High performance Javascript template engine inspired by Jade's power and doT's speed.</Description>
+        <Owner>Shogun147</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Shogun147</Name>
+                <User>Shogun147</User>
+                <Url>https://github.com/Shogun147</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2020-08-20T21:08:16Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="micnic/recache">
+        <Url>https://github.com/micnic/recache</Url>
+        <Name>recache</Name>
+        <Title>recache</Title>
+        <RepoName>micnic/recache</RepoName>
+        <Description>File system cache for Node.JS</Description>
+        <Owner>micnic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>micnic</Name>
+                <User>micnic</User>
+                <Url>https://github.com/micnic</Url>
+                <Location>Moldova</Location>
+                <Email>micnic90@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>21</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2022-02-05T11:47:55Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Shogun147/Katana-ToDo">
+        <Url>https://github.com/Shogun147/Katana-ToDo</Url>
+        <Name>Katana-ToDo</Name>
+        <Title>Katana-ToDo</Title>
+        <RepoName>Shogun147/Katana-ToDo</RepoName>
+        <Description/>
+        <Owner>Shogun147</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Shogun147</Name>
+                <User>Shogun147</User>
+                <Url>https://github.com/Shogun147</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="Igor10k/playmdsucks">
+        <Url>https://github.com/Igor10k/playmdsucks</Url>
+        <Name>playmdsucks</Name>
+        <Title>playmdsucks</Title>
+        <RepoName>Igor10k/playmdsucks</RepoName>
+        <Description>A Safari extension that replaces video with &lt;video&gt; on play.md</Description>
+        <Owner>Igor10k</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Igor10k</Name>
+                <User>Igor10k</User>
+                <Url>https://github.com/Igor10k</Url>
+                <Location>Moldova</Location>
+                <Email>me@igorkozlov.me</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2014-10-23T14:56:31Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Igor10k/steamwall">
+        <Url>https://github.com/Igor10k/steamwall</Url>
+        <Name>steamwall</Name>
+        <Title>steamwall</Title>
+        <RepoName>Igor10k/steamwall</RepoName>
+        <Description>Generate a unique wallpaper using games from your Steam library</Description>
+        <Owner>Igor10k</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Igor10k</Name>
+                <User>Igor10k</User>
+                <Url>https://github.com/Igor10k</Url>
+                <Location>Moldova</Location>
+                <Email>me@igorkozlov.me</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; HTML</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2017-01-16T23:17:24Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Igor10k/infigames">
+        <Url>https://github.com/Igor10k/infigames</Url>
+        <Name>infigames</Name>
+        <Title>infigames</Title>
+        <RepoName>Igor10k/infigames</RepoName>
+        <Description>A webapp that helps you keep a library of games you played</Description>
+        <Owner>Igor10k</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Igor10k</Name>
+                <User>Igor10k</User>
+                <Url>https://github.com/Igor10k</Url>
+                <Location>Moldova</Location>
+                <Email>me@igorkozlov.me</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2018-10-23T14:39:20Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="a2xchip/a2x-redactor-js-plugin">
+        <Url>https://github.com/a2xchip/a2x-redactor-js-plugin</Url>
+        <Name>a2x-redactor-js-plugin</Name>
+        <Title>a2x-redactor-js-plug&#x2026;</Title>
+        <RepoName>a2xchip/a2x-redactor-js-plugin</RepoName>
+        <Description>The plugin for popular html5 wysiwyg redactor editor v8.2.2</Description>
+        <Owner>a2xchip</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>a2xchip</Name>
+                <User>a2xchip</User>
+                <Url>https://github.com/a2xchip</Url>
+                <Location/>
+                <Email>alex@jeliuc.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2016-06-29T10:26:30Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="a2xchip/a2x-text-counter">
+        <Url>https://github.com/a2xchip/a2x-text-counter</Url>
+        <Name>a2x-text-counter</Name>
+        <Title>a2x-text-counter</Title>
+        <RepoName>a2xchip/a2x-text-counter</RepoName>
+        <Description>jQuery text counter plugin</Description>
+        <Owner>a2xchip</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>a2xchip</Name>
+                <User>a2xchip</User>
+                <Url>https://github.com/a2xchip</Url>
+                <Location/>
+                <Email>alex@jeliuc.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2017-07-02T13:24:42Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="micnic/simpleR">
+        <Url>https://github.com/micnic/simpleR</Url>
+        <Name>simpleR</Name>
+        <Title>simpleR</Title>
+        <RepoName>micnic/simpleR</RepoName>
+        <Description>Simple Script Reloader for Node.JS</Description>
+        <Owner>micnic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>micnic</Name>
+                <User>micnic</User>
+                <Url>https://github.com/micnic</Url>
+                <Location>Moldova</Location>
+                <Email>micnic90@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2019-06-05T10:59:06Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alexeisavca/elmy">
+        <Url>https://github.com/alexeisavca/elmy</Url>
+        <Name>elmy</Name>
+        <Title>elmy</Title>
+        <RepoName>alexeisavca/elmy</RepoName>
+        <Description/>
+        <Owner>alexeisavca</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alexeisavca</Name>
+                <User>alexeisavca</User>
+                <Url>https://github.com/alexeisavca</Url>
+                <Location>Chi&#x219;in&#x103;u, Republic of Moldova</Location>
+                <Email>savca.alexei@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2017-06-13T02:35:11Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="micnic/simpleU">
+        <Url>https://github.com/micnic/simpleU</Url>
+        <Name>simpleU</Name>
+        <Title>simpleU</Title>
+        <RepoName>micnic/simpleU</RepoName>
+        <Description>Simple Unit Testing Tool for Node.JS</Description>
+        <Owner>micnic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>micnic</Name>
+                <User>micnic</User>
+                <Url>https://github.com/micnic</Url>
+                <Location>Moldova</Location>
+                <Email>micnic90@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2018-05-27T15:54:14Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Igor10k/DarkCorner.bowtie">
+        <Url>https://github.com/Igor10k/DarkCorner.bowtie</Url>
+        <Name>DarkCorner.bowtie</Name>
+        <Title>DarkCorner.bowtie</Title>
+        <RepoName>Igor10k/DarkCorner.bowtie</RepoName>
+        <Description>Bowtie music controller theme</Description>
+        <Owner>Igor10k</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Igor10k</Name>
+                <User>Igor10k</User>
+                <Url>https://github.com/Igor10k</Url>
+                <Location>Moldova</Location>
+                <Email>me@igorkozlov.me</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; HTML</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2017-06-09T04:06:12Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="vgaidarji/CustomProgressControls">
+        <Url>https://github.com/vgaidarji/CustomProgressControls</Url>
+        <Name>CustomProgressControls</Name>
+        <Title>CustomProgressContro&#x2026;</Title>
+        <RepoName>vgaidarji/CustomProgressControls</RepoName>
+        <Description>Custom progress controls for Android</Description>
+        <Owner>vgaidarji</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>vgaidarji</Name>
+                <User>vgaidarji</User>
+                <Url>https://github.com/vgaidarji</Url>
+                <Location>Moldova</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>11</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2017-12-03T07:43:06Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kemonoske/Clommunicate">
+        <Url>https://github.com/kemonoske/Clommunicate</Url>
+        <Name>Clommunicate</Name>
+        <Title>Clommunicate</Title>
+        <RepoName>kemonoske/Clommunicate</RepoName>
+        <Description>I will use this repository for my coursework.</Description>
+        <Owner>kemonoske</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kemonoske</Name>
+                <User>kemonoske</User>
+                <Url>https://github.com/kemonoske</Url>
+                <Location>Moldova, Singera</Location>
+                <Email>kemonoske@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; PHP; Shell</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2019-08-13T15:10:26Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="vgaidarji/android-db-tricks">
+        <Url>https://github.com/vgaidarji/android-db-tricks</Url>
+        <Name>android-db-tricks</Name>
+        <Title>android-db-tricks</Title>
+        <RepoName>vgaidarji/android-db-tricks</RepoName>
+        <Description>Demonstrates work with databases on Android (plain SQL, ORM's).</Description>
+        <Owner>vgaidarji</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>vgaidarji</Name>
+                <User>vgaidarji</User>
+                <Url>https://github.com/vgaidarji</Url>
+                <Location>Moldova</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>1</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2019-06-09T00:35:36Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="omuleanu/ValueInjecter">
+        <Url>https://github.com/omuleanu/ValueInjecter</Url>
+        <Name>ValueInjecter</Name>
+        <Title>ValueInjecter</Title>
+        <RepoName>omuleanu/ValueInjecter</RepoName>
+        <Description>convention based mapper</Description>
+        <Owner>omuleanu</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>omuleanu</Name>
+                <User>omuleanu</User>
+                <Url>https://github.com/omuleanu</Url>
+                <Location>Moldova</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#</LanguageTags>
+        <WatchersCount>248</WatchersCount>
+        <ForksCount>40</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2022-02-25T13:58:49Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="omuleanu/imager">
+        <Url>https://github.com/omuleanu/imager</Url>
+        <Name>imager</Name>
+        <Title>imager</Title>
+        <RepoName>omuleanu/imager</RepoName>
+        <Description>image resizing and cropping</Description>
+        <Owner>omuleanu</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>omuleanu</Name>
+                <User>omuleanu</User>
+                <Url>https://github.com/omuleanu</Url>
+                <Location>Moldova</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2020-10-28T05:39:22Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kozakovi4/osu-chat">
+        <Url>https://github.com/kozakovi4/osu-chat</Url>
+        <Name>osu-chat</Name>
+        <Title>osu-chat</Title>
+        <RepoName>kozakovi4/osu-chat</RepoName>
+        <Description/>
+        <Owner>kozakovi4</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kozakovi4</Name>
+                <User>kozakovi4</User>
+                <Url>https://github.com/kozakovi4</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#</LanguageTags>
+        <WatchersCount>1</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2017-12-11T17:18:28Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rockzill/ZTE-RedBull-Nubia-v2.5">
+        <Url>https://github.com/rockzill/ZTE-RedBull-Nubia-v2.5</Url>
+        <Name>ZTE-RedBull-Nubia-v2.5</Name>
+        <Title>ZTE-RedBull-Nubia-v2&#x2026;</Title>
+        <RepoName>rockzill/ZTE-RedBull-Nubia-v2.5</RepoName>
+        <Description/>
+        <Owner>rockzill</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rockzill</Name>
+                <User>rockzill</User>
+                <Url>https://github.com/rockzill</Url>
+                <Location>Stockholm, Sweden</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="TeslineServices/RohosLogonMobile">
+        <Url>https://github.com/TeslineServices/RohosLogonMobile</Url>
+        <Name>RohosLogonMobile</Name>
+        <Title>RohosLogonMobile</Title>
+        <RepoName>TeslineServices/RohosLogonMobile</RepoName>
+        <Description>Rohos Logon Key client for mobile devices (Android, iOS, etc)</Description>
+        <Owner>TeslineServices</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>TeslineServices</Name>
+                <User>TeslineServices</User>
+                <Url>https://github.com/TeslineServices</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; Objective-C; C; CMake; Ruby</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2022-02-24T22:08:37Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="lisnic1990/Isometric-Map-Editor-v1.0.0">
+        <Url>https://github.com/lisnic1990/Isometric-Map-Editor-v1.0.0</Url>
+        <Name>Isometric-Map-Editor-v1.0.0</Name>
+        <Title>Isometric-Map-Editor&#x2026;</Title>
+        <RepoName>lisnic1990/Isometric-Map-Editor-v1.0.0</RepoName>
+        <Description>Isometric-Map-Editor-v1.0.0</Description>
+        <Owner>lisnic1990</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>lisnic1990</Name>
+                <User>lisnic1990</User>
+                <Url>https://github.com/lisnic1990</Url>
+                <Location>Moldova, Chisinau</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>ActionScript</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2016-09-22T09:43:36Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="chorny/smart-comments">
+        <Url>https://github.com/chorny/smart-comments</Url>
+        <Name>smart-comments</Name>
+        <Title>smart-comments</Title>
+        <RepoName>chorny/smart-comments</RepoName>
+        <Description>Perl programming module for easier debugging</Description>
+        <Owner>chorny</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>chorny</Name>
+                <User>chorny</User>
+                <Url>https://github.com/chorny</Url>
+                <Location>Kishinev, Moldova</Location>
+                <Email>alexchorny@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Perl</LanguageTags>
+        <WatchersCount>13</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2022-03-03T14:23:47Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="chorny/test-warn">
+        <Url>https://github.com/chorny/test-warn</Url>
+        <Name>test-warn</Name>
+        <Title>test-warn</Title>
+        <RepoName>chorny/test-warn</RepoName>
+        <Description>Perl extension to test methods for warnings</Description>
+        <Owner>chorny</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>chorny</Name>
+                <User>chorny</User>
+                <Url>https://github.com/chorny</Url>
+                <Location>Kishinev, Moldova</Location>
+                <Email>alexchorny@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Perl; Perl 6</LanguageTags>
+        <WatchersCount>9</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2019-10-03T14:50:26Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="chorny/Apache-Session">
+        <Url>https://github.com/chorny/Apache-Session</Url>
+        <Name>Apache-Session</Name>
+        <Title>Apache-Session</Title>
+        <RepoName>chorny/Apache-Session</RepoName>
+        <Description>A persistence framework for session data</Description>
+        <Owner>chorny</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>chorny</Name>
+                <User>chorny</User>
+                <Url>https://github.com/chorny</Url>
+                <Location>Kishinev, Moldova</Location>
+                <Email>alexchorny@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Perl; Limbo; Raku</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>7</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2020-09-18T22:07:34Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="chorny/XML-Parser">
+        <Url>https://github.com/chorny/XML-Parser</Url>
+        <Name>XML-Parser</Name>
+        <Title>XML-Parser</Title>
+        <RepoName>chorny/XML-Parser</RepoName>
+        <Description/>
+        <Owner>chorny</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>chorny</Name>
+                <User>chorny</User>
+                <Url>https://github.com/chorny</Url>
+                <Location>Kishinev, Moldova</Location>
+                <Email>alexchorny@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Perl; C</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>24</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2019-07-09T12:03:47Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="chorny/Perl6-Say">
+        <Url>https://github.com/chorny/Perl6-Say</Url>
+        <Name>Perl6-Say</Name>
+        <Title>Perl6-Say</Title>
+        <RepoName>chorny/Perl6-Say</RepoName>
+        <Description>'print' -- but no newline needed</Description>
+        <Owner>chorny</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>chorny</Name>
+                <User>chorny</User>
+                <Url>https://github.com/chorny</Url>
+                <Location>Kishinev, Moldova</Location>
+                <Email>alexchorny@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Perl</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2019-08-13T14:34:58Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="chorny/Tie-IxHash">
+        <Url>https://github.com/chorny/Tie-IxHash</Url>
+        <Name>Tie-IxHash</Name>
+        <Title>Tie-IxHash</Title>
+        <RepoName>chorny/Tie-IxHash</RepoName>
+        <Description>ordered associative arrays for Perl</Description>
+        <Owner>chorny</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>chorny</Name>
+                <User>chorny</User>
+                <Url>https://github.com/chorny</Url>
+                <Location>Kishinev, Moldova</Location>
+                <Email>alexchorny@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Perl</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2019-01-26T20:49:48Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="chorny/Hook-LexWrap">
+        <Url>https://github.com/chorny/Hook-LexWrap</Url>
+        <Name>Hook-LexWrap</Name>
+        <Title>Hook-LexWrap</Title>
+        <RepoName>chorny/Hook-LexWrap</RepoName>
+        <Description>Lexically scoped subroutine wrappers for Perl programming</Description>
+        <Owner>chorny</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>chorny</Name>
+                <User>chorny</User>
+                <Url>https://github.com/chorny</Url>
+                <Location>Kishinev, Moldova</Location>
+                <Email>alexchorny@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Perl; Perl 6</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2017-02-23T10:58:43Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="chorny/Win32API-File">
+        <Url>https://github.com/chorny/Win32API-File</Url>
+        <Name>Win32API-File</Name>
+        <Title>Win32API-File</Title>
+        <RepoName>chorny/Win32API-File</RepoName>
+        <Description>Perl programming module for low-level access to Win32 system API calls for files/dirs.</Description>
+        <Owner>chorny</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>chorny</Name>
+                <User>chorny</User>
+                <Url>https://github.com/chorny</Url>
+                <Location>Kishinev, Moldova</Location>
+                <Email>alexchorny@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Perl; C; XS; C++</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>7</ForksCount>
+        <OpenIssuesCount>5</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2019-05-31T19:14:45Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="chorny/Linux-Distribution">
+        <Url>https://github.com/chorny/Linux-Distribution</Url>
+        <Name>Linux-Distribution</Name>
+        <Title>Linux-Distribution</Title>
+        <RepoName>chorny/Linux-Distribution</RepoName>
+        <Description>Perl programming extension to guess on which Linux distribution we are running.</Description>
+        <Owner>chorny</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>chorny</Name>
+                <User>chorny</User>
+                <Url>https://github.com/chorny</Url>
+                <Location>Kishinev, Moldova</Location>
+                <Email>alexchorny@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Perl</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>6</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2020-10-05T20:40:29Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="chorny/DateTime-Format-Epoch">
+        <Url>https://github.com/chorny/DateTime-Format-Epoch</Url>
+        <Name>DateTime-Format-Epoch</Name>
+        <Title>DateTime-Format-Epoc&#x2026;</Title>
+        <RepoName>chorny/DateTime-Format-Epoch</RepoName>
+        <Description>Convert DateTimes to/from epoch seconds</Description>
+        <Owner>chorny</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>chorny</Name>
+                <User>chorny</User>
+                <Url>https://github.com/chorny</Url>
+                <Location>Kishinev, Moldova</Location>
+                <Email>alexchorny@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Perl; Perl 6</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2015-04-17T11:07:52Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="chorny/Text-ParseWords">
+        <Url>https://github.com/chorny/Text-ParseWords</Url>
+        <Name>Text-ParseWords</Name>
+        <Title>Text-ParseWords</Title>
+        <RepoName>chorny/Text-ParseWords</RepoName>
+        <Description>Perl programming module to parse text into an array of tokens or array of arrays</Description>
+        <Owner>chorny</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>chorny</Name>
+                <User>chorny</User>
+                <Url>https://github.com/chorny</Url>
+                <Location>Kishinev, Moldova</Location>
+                <Email>alexchorny@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Perl</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2022-03-06T17:10:50Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="chorny/SweetPea">
+        <Url>https://github.com/chorny/SweetPea</Url>
+        <Name>SweetPea</Name>
+        <Title>SweetPea</Title>
+        <RepoName>chorny/SweetPea</RepoName>
+        <Description>A micro web framework that doesn't get in the way, or suck.</Description>
+        <Owner>chorny</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>chorny</Name>
+                <User>chorny</User>
+                <Url>https://github.com/chorny</Url>
+                <Location>Kishinev, Moldova</Location>
+                <Email>alexchorny@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Perl</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2016-06-11T01:48:11Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="chorny/EUMM-upgrade">
+        <Url>https://github.com/chorny/EUMM-upgrade</Url>
+        <Name>EUMM-upgrade</Name>
+        <Title>EUMM-upgrade</Title>
+        <RepoName>chorny/EUMM-upgrade</RepoName>
+        <Description>Perl tool to upgrade ExtUtils::MakeMaker-based Makefile.PL</Description>
+        <Owner>chorny</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>chorny</Name>
+                <User>chorny</User>
+                <Url>https://github.com/chorny</Url>
+                <Location>Kishinev, Moldova</Location>
+                <Email>alexchorny@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Perl</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2017-01-14T00:44:56Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="chorny/lacuna-cluster">
+        <Url>https://github.com/chorny/lacuna-cluster</Url>
+        <Name>lacuna-cluster</Name>
+        <Title>lacuna-cluster</Title>
+        <RepoName>chorny/lacuna-cluster</RepoName>
+        <Description/>
+        <Owner>chorny</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>chorny</Name>
+                <User>chorny</User>
+                <Url>https://github.com/chorny</Url>
+                <Location>Kishinev, Moldova</Location>
+                <Email>alexchorny@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Perl</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2014-09-08T21:23:40Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="chorny/ping-continuous">
+        <Url>https://github.com/chorny/ping-continuous</Url>
+        <Name>ping-continuous</Name>
+        <Title>ping-continuous</Title>
+        <RepoName>chorny/ping-continuous</RepoName>
+        <Description>collect and display information about host availability</Description>
+        <Owner>chorny</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>chorny</Name>
+                <User>chorny</User>
+                <Url>https://github.com/chorny</Url>
+                <Location>Kishinev, Moldova</Location>
+                <Email>alexchorny@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Perl; Shell</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2019-08-13T14:16:58Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="chorny/Roman">
+        <Url>https://github.com/chorny/Roman</Url>
+        <Name>Roman</Name>
+        <Title>Roman</Title>
+        <RepoName>chorny/Roman</RepoName>
+        <Description>Perl programming module for conversion between Roman and Arabic numerals.</Description>
+        <Owner>chorny</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>chorny</Name>
+                <User>chorny</User>
+                <Url>https://github.com/chorny</Url>
+                <Location>Kishinev, Moldova</Location>
+                <Email>alexchorny@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Perl</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2020-07-12T14:11:32Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="lex0r/zendscaffolding">
+        <Url>https://github.com/lex0r/zendscaffolding</Url>
+        <Name>zendscaffolding</Name>
+        <Title>zendscaffolding</Title>
+        <RepoName>lex0r/zendscaffolding</RepoName>
+        <Description>CRUD component for Zend Framework</Description>
+        <Owner>lex0r</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>lex0r</Name>
+                <User>lex0r</User>
+                <Url>https://github.com/lex0r</Url>
+                <Location>London</Location>
+                <Email>oroshchuk@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; JavaScript</LanguageTags>
+        <WatchersCount>44</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>5</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2019-08-13T14:52:03Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="dyatlov/Expedia-PHP-API">
+        <Url>https://github.com/dyatlov/Expedia-PHP-API</Url>
+        <Name>Expedia-PHP-API</Name>
+        <Title>Expedia-PHP-API</Title>
+        <RepoName>dyatlov/Expedia-PHP-API</RepoName>
+        <Description>PHP Wrapper for Expedia API</Description>
+        <Owner>dyatlov</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>dyatlov</Name>
+                <User>dyatlov</User>
+                <Url>https://github.com/dyatlov</Url>
+                <Location>Amsterdam, Netherlands</Location>
+                <Email>md.xytop@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>21</WatchersCount>
+        <ForksCount>19</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2020-02-26T01:17:23Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="dyatlov/php-sandbox">
+        <Url>https://github.com/dyatlov/php-sandbox</Url>
+        <Name>php-sandbox</Name>
+        <Title>php-sandbox</Title>
+        <RepoName>dyatlov/php-sandbox</RepoName>
+        <Description/>
+        <Owner>dyatlov</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>dyatlov</Name>
+                <User>dyatlov</User>
+                <Url>https://github.com/dyatlov</Url>
+                <Location>Amsterdam, Netherlands</Location>
+                <Email>md.xytop@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2019-08-26T19:39:42Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="igariok1990/solid-principles-php">
+        <Url>https://github.com/igariok1990/solid-principles-php</Url>
+        <Name>solid-principles-php</Name>
+        <Title>solid-principles-php</Title>
+        <RepoName>igariok1990/solid-principles-php</RepoName>
+        <Description>File agile principles (solid principles in php)</Description>
+        <Owner>igariok1990</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>igariok1990</Name>
+                <User>igariok1990</User>
+                <Url>https://github.com/igariok1990</Url>
+                <Location>Calgary, Canada</Location>
+                <Email>igariok.ciobanu@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>9</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2022-01-26T05:48:37Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Ekstazi/transactionbehavior">
+        <Url>https://github.com/Ekstazi/transactionbehavior</Url>
+        <Name>transactionbehavior</Name>
+        <Title>transactionbehavior</Title>
+        <RepoName>Ekstazi/transactionbehavior</RepoName>
+        <Description>yii cactiverecord behavior for transactional save</Description>
+        <Owner>Ekstazi</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Ekstazi</Name>
+                <User>Ekstazi</User>
+                <Url>https://github.com/Ekstazi</Url>
+                <Location>Republic of Moldova, Balti</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2020-05-11T12:22:18Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rodgermd/21may">
+        <Url>https://github.com/rodgermd/21may</Url>
+        <Name>21may</Name>
+        <Title>21may</Title>
+        <RepoName>rodgermd/21may</RepoName>
+        <Description/>
+        <Owner>rodgermd</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rodgermd</Name>
+                <User>rodgermd</User>
+                <Url>https://github.com/rodgermd</Url>
+                <Location>Moldova, Chisinau</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; HTML; JavaScript; CSS; Ruby; ApacheConf</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2015-09-12T13:03:00Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rodgermd/CodeSamples">
+        <Url>https://github.com/rodgermd/CodeSamples</Url>
+        <Name>CodeSamples</Name>
+        <Title>CodeSamples</Title>
+        <RepoName>rodgermd/CodeSamples</RepoName>
+        <Description>code samples</Description>
+        <Owner>rodgermd</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rodgermd</Name>
+                <User>rodgermd</User>
+                <Url>https://github.com/rodgermd</Url>
+                <Location>Moldova, Chisinau</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2014-08-19T06:26:01Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rodgermd/sofort2-bundle">
+        <Url>https://github.com/rodgermd/sofort2-bundle</Url>
+        <Name>sofort2-bundle</Name>
+        <Title>sofort2-bundle</Title>
+        <RepoName>rodgermd/sofort2-bundle</RepoName>
+        <Description>Symfony2 Bundle for Sofort PHP Library 2.x</Description>
+        <Owner>rodgermd</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rodgermd</Name>
+                <User>rodgermd</User>
+                <Url>https://github.com/rodgermd</Url>
+                <Location>Moldova, Chisinau</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2016-04-28T11:11:32Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alxolr/php-dp">
+        <Url>https://github.com/alxolr/php-dp</Url>
+        <Name>php-dp</Name>
+        <Title>php-dp</Title>
+        <RepoName>alxolr/php-dp</RepoName>
+        <Description>A collection of code examples for the GOF design patterns, followed by a short description and GOF Wild Cards</Description>
+        <Owner>alxolr</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alxolr</Name>
+                <User>alxolr</User>
+                <Url>https://github.com/alxolr</Url>
+                <Location>Chisinau, Moldova</Location>
+                <Email>alxolr@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2020-05-19T14:02:59Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rodgermd/contest-nominations">
+        <Url>https://github.com/rodgermd/contest-nominations</Url>
+        <Name>contest-nominations</Name>
+        <Title>contest-nominations</Title>
+        <RepoName>rodgermd/contest-nominations</RepoName>
+        <Description/>
+        <Owner>rodgermd</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rodgermd</Name>
+                <User>rodgermd</User>
+                <Url>https://github.com/rodgermd</Url>
+                <Location>Moldova, Chisinau</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; CoffeeScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2014-12-11T20:13:28Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rodgermd/PersonalTranslationsWidget">
+        <Url>https://github.com/rodgermd/PersonalTranslationsWidget</Url>
+        <Name>PersonalTranslationsWidget</Name>
+        <Title>PersonalTranslations&#x2026;</Title>
+        <RepoName>rodgermd/PersonalTranslationsWidget</RepoName>
+        <Description>Translations widget for Entity using Gedmo personal translations</Description>
+        <Owner>rodgermd</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rodgermd</Name>
+                <User>rodgermd</User>
+                <Url>https://github.com/rodgermd</Url>
+                <Location>Moldova, Chisinau</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; HTML</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2016-10-07T11:53:53Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rodgermd/wipi">
+        <Url>https://github.com/rodgermd/wipi</Url>
+        <Name>wipi</Name>
+        <Title>wipi</Title>
+        <RepoName>rodgermd/wipi</RepoName>
+        <Description/>
+        <Owner>rodgermd</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rodgermd</Name>
+                <User>rodgermd</User>
+                <Url>https://github.com/rodgermd</Url>
+                <Location>Moldova, Chisinau</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2014-08-19T06:25:39Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rodgermd/sofort2-lib">
+        <Url>https://github.com/rodgermd/sofort2-lib</Url>
+        <Name>sofort2-lib</Name>
+        <Title>sofort2-lib</Title>
+        <RepoName>rodgermd/sofort2-lib</RepoName>
+        <Description>Sofort PHP Library 2.x</Description>
+        <Owner>rodgermd</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rodgermd</Name>
+                <User>rodgermd</User>
+                <Url>https://github.com/rodgermd</Url>
+                <Location>Moldova, Chisinau</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2016-07-20T08:36:38Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rodgermd/IbanApiDebundle">
+        <Url>https://github.com/rodgermd/IbanApiDebundle</Url>
+        <Name>IbanApiDebundle</Name>
+        <Title>IbanApiDebundle</Title>
+        <RepoName>rodgermd/IbanApiDebundle</RepoName>
+        <Description>http://www.iban-api.de/soap-service/ integration</Description>
+        <Owner>rodgermd</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rodgermd</Name>
+                <User>rodgermd</User>
+                <Url>https://github.com/rodgermd</Url>
+                <Location>Moldova, Chisinau</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; JavaScript; CoffeeScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2014-08-19T06:25:09Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rodgermd/mura-show.com">
+        <Url>https://github.com/rodgermd/mura-show.com</Url>
+        <Name>mura-show.com</Name>
+        <Title>mura-show.com</Title>
+        <RepoName>rodgermd/mura-show.com</RepoName>
+        <Description/>
+        <Owner>rodgermd</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rodgermd</Name>
+                <User>rodgermd</User>
+                <Url>https://github.com/rodgermd</Url>
+                <Location>Moldova, Chisinau</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; HTML; CSS; JavaScript; Go; Python; Gherkin; Ruby; ApacheConf</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2016-01-26T19:49:01Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rodgermd/MailchimpWrapperBundle">
+        <Url>https://github.com/rodgermd/MailchimpWrapperBundle</Url>
+        <Name>MailchimpWrapperBundle</Name>
+        <Title>MailchimpWrapperBund&#x2026;</Title>
+        <RepoName>rodgermd/MailchimpWrapperBundle</RepoName>
+        <Description/>
+        <Owner>rodgermd</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rodgermd</Name>
+                <User>rodgermd</User>
+                <Url>https://github.com/rodgermd</Url>
+                <Location>Moldova, Chisinau</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2014-08-19T06:25:22Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rodgermd/RodgerSfTools">
+        <Url>https://github.com/rodgermd/RodgerSfTools</Url>
+        <Name>RodgerSfTools</Name>
+        <Title>RodgerSfTools</Title>
+        <RepoName>rodgermd/RodgerSfTools</RepoName>
+        <Description>Usefull tools for sf2</Description>
+        <Owner>rodgermd</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rodgermd</Name>
+                <User>rodgermd</User>
+                <Url>https://github.com/rodgermd</Url>
+                <Location>Moldova, Chisinau</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; HTML</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2016-02-26T11:13:11Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rodgermd/strava-client-bundle">
+        <Url>https://github.com/rodgermd/strava-client-bundle</Url>
+        <Name>strava-client-bundle</Name>
+        <Title>strava-client-bundle</Title>
+        <RepoName>rodgermd/strava-client-bundle</RepoName>
+        <Description/>
+        <Owner>rodgermd</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rodgermd</Name>
+                <User>rodgermd</User>
+                <Url>https://github.com/rodgermd</Url>
+                <Location>Moldova, Chisinau</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2014-08-19T06:25:17Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="vladimarius/imapy">
+        <Url>https://github.com/vladimarius/imapy</Url>
+        <Name>imapy</Name>
+        <Title>imapy</Title>
+        <RepoName>vladimarius/imapy</RepoName>
+        <Description>Imapy: Imap for Humans</Description>
+        <Owner>vladimarius</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>vladimarius</Name>
+                <User>vladimarius</User>
+                <Url>https://github.com/vladimarius</Url>
+                <Location>Chisinau, Moldova</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>228</WatchersCount>
+        <ForksCount>24</ForksCount>
+        <OpenIssuesCount>9</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2021-11-25T11:50:59Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="vladimarius/pyap">
+        <Url>https://github.com/vladimarius/pyap</Url>
+        <Name>pyap</Name>
+        <Title>pyap</Title>
+        <RepoName>vladimarius/pyap</RepoName>
+        <Description>Python address detector and parser</Description>
+        <Owner>vladimarius</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>vladimarius</Name>
+                <User>vladimarius</User>
+                <Url>https://github.com/vladimarius</Url>
+                <Location>Chisinau, Moldova</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>157</WatchersCount>
+        <ForksCount>45</ForksCount>
+        <OpenIssuesCount>20</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2022-03-16T18:41:11Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="vladimirnani/DjangoCommands">
+        <Url>https://github.com/vladimirnani/DjangoCommands</Url>
+        <Name>DjangoCommands</Name>
+        <Title>DjangoCommands</Title>
+        <RepoName>vladimirnani/DjangoCommands</RepoName>
+        <Description>ST2/ST3 plugin for managing django project</Description>
+        <Owner>vladimirnani</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>vladimirnani</Name>
+                <User>vladimirnani</User>
+                <Url>https://github.com/vladimirnani</Url>
+                <Location>Nederlands</Location>
+                <Email>vladimirnani@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>29</WatchersCount>
+        <ForksCount>14</ForksCount>
+        <OpenIssuesCount>9</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2021-09-23T14:05:33Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ralienpp/reyaml">
+        <Url>https://github.com/ralienpp/reyaml</Url>
+        <Name>reyaml</Name>
+        <Title>reyaml</Title>
+        <RepoName>ralienpp/reyaml</RepoName>
+        <Description>A parser of humane YAML files - it tolerates comments, inline comments, whitespace; as well as catches some basic syntax errors for you.</Description>
+        <Owner>ralienpp</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ralienpp</Name>
+                <User>ralienpp</User>
+                <Url>https://github.com/ralienpp</Url>
+                <Location>Moldova</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>9</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2021-08-10T21:31:34Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="warvariuc/mykde">
+        <Url>https://github.com/warvariuc/mykde</Url>
+        <Name>mykde</Name>
+        <Title>mykde</Title>
+        <RepoName>warvariuc/mykde</RepoName>
+        <Description>Tweaks framework for KDE on Kubuntu</Description>
+        <Owner>warvariuc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>warvariuc</Name>
+                <User>warvariuc</User>
+                <Url>https://github.com/warvariuc</Url>
+                <Location>Moldova, Chisinau</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; CMake; Shell; Emacs Lisp</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>4</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2019-12-23T00:14:11Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ardevelop/ardaemon">
+        <Url>https://github.com/ardevelop/ardaemon</Url>
+        <Name>ardaemon</Name>
+        <Title>ardaemon</Title>
+        <RepoName>ardevelop/ardaemon</RepoName>
+        <Description/>
+        <Owner>ardevelop</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ardevelop</Name>
+                <User>ardevelop</User>
+                <Url>https://github.com/ardevelop</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="eRadu80/parse-lxr">
+        <Url>https://github.com/eRadu80/parse-lxr</Url>
+        <Name>parse-lxr</Name>
+        <Title>parse-lxr</Title>
+        <RepoName>eRadu80/parse-lxr</RepoName>
+        <Description/>
+        <Owner>eRadu80</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>eRadu80</Name>
+                <User>eRadu80</User>
+                <Url>https://github.com/eRadu80</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="gnunixon/python-yumpu-sdk">
+        <Url>https://github.com/gnunixon/python-yumpu-sdk</Url>
+        <Name>python-yumpu-sdk</Name>
+        <Title>python-yumpu-sdk</Title>
+        <RepoName>gnunixon/python-yumpu-sdk</RepoName>
+        <Description/>
+        <Owner>gnunixon</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>gnunixon</Name>
+                <User>gnunixon</User>
+                <Url>https://github.com/gnunixon</Url>
+                <Location>Moldova</Location>
+                <Email>mail@viorel-roman.org</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>1</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2018-04-30T11:51:33Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ardevelop/momentpy">
+        <Url>https://github.com/ardevelop/momentpy</Url>
+        <Name>momentpy</Name>
+        <Title>momentpy</Title>
+        <RepoName>ardevelop/momentpy</RepoName>
+        <Description/>
+        <Owner>ardevelop</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ardevelop</Name>
+                <User>ardevelop</User>
+                <Url>https://github.com/ardevelop</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="warvariuc/kde-wallpaper">
+        <Url>https://github.com/warvariuc/kde-wallpaper</Url>
+        <Name>kde-wallpaper</Name>
+        <Title>kde-wallpaper</Title>
+        <RepoName>warvariuc/kde-wallpaper</RepoName>
+        <Description/>
+        <Owner>warvariuc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>warvariuc</Name>
+                <User>warvariuc</User>
+                <Url>https://github.com/warvariuc</Url>
+                <Location>Moldova, Chisinau</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2016-02-29T01:45:23Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alisnic/nyny">
+        <Url>https://github.com/alisnic/nyny</Url>
+        <Name>nyny</Name>
+        <Title>nyny</Title>
+        <RepoName>alisnic/nyny</RepoName>
+        <Description>a (ridiculously) small and powerful web framework.</Description>
+        <Owner>alisnic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alisnic</Name>
+                <User>alisnic</User>
+                <Url>https://github.com/alisnic</Url>
+                <Location>Chisinau, Moldova</Location>
+                <Email>andrei.lisnic@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; HTML</LanguageTags>
+        <WatchersCount>314</WatchersCount>
+        <ForksCount>17</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2022-03-23T09:14:59Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alisnic/stackprof-webnav">
+        <Url>https://github.com/alisnic/stackprof-webnav</Url>
+        <Name>stackprof-webnav</Name>
+        <Title>stackprof-webnav</Title>
+        <RepoName>alisnic/stackprof-webnav</RepoName>
+        <Description>Web UI for viewing stackprof dumps</Description>
+        <Owner>alisnic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alisnic</Name>
+                <User>alisnic</User>
+                <Url>https://github.com/alisnic</Url>
+                <Location>Chisinau, Moldova</Location>
+                <Email>andrei.lisnic@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; Ruby; Haml; CSS</LanguageTags>
+        <WatchersCount>140</WatchersCount>
+        <ForksCount>16</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2022-02-05T22:50:29Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alisnic/sinatra_activerecord_sample">
+        <Url>https://github.com/alisnic/sinatra_activerecord_sample</Url>
+        <Name>sinatra_activerecord_sample</Name>
+        <Title>sinatra_activerecord&#x2026;</Title>
+        <RepoName>alisnic/sinatra_activerecord_sample</RepoName>
+        <Description>Sample Sinatra skeleton with ActiveRecord</Description>
+        <Owner>alisnic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alisnic</Name>
+                <User>alisnic</User>
+                <Url>https://github.com/alisnic</Url>
+                <Location>Chisinau, Moldova</Location>
+                <Email>andrei.lisnic@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>20</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2020-11-14T07:22:05Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kron4eg/confrider">
+        <Url>https://github.com/kron4eg/confrider</Url>
+        <Name>confrider</Name>
+        <Title>confrider</Title>
+        <RepoName>kron4eg/confrider</RepoName>
+        <Description>manage config options like i18n</Description>
+        <Owner>kron4eg</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kron4eg</Name>
+                <User>kron4eg</User>
+                <Url>https://github.com/kron4eg</Url>
+                <Location>Moldova</Location>
+                <Email>artiom@hey.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2020-06-02T19:43:14Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="vitaliel/cia_rails">
+        <Url>https://github.com/vitaliel/cia_rails</Url>
+        <Name>cia_rails</Name>
+        <Title>cia_rails</Title>
+        <RepoName>vitaliel/cia_rails</RepoName>
+        <Description>Continuous Integration(CI) builder for Rails applications, very simple, no database is needed for runtime.</Description>
+        <Owner>vitaliel</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>vitaliel</Name>
+                <User>vitaliel</User>
+                <Url>https://github.com/vitaliel</Url>
+                <Location>Moldova, Chisinau</Location>
+                <Email>vitalie.lazu@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2019-08-13T13:52:43Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alisnic/naked_rail">
+        <Url>https://github.com/alisnic/naked_rail</Url>
+        <Name>naked_rail</Name>
+        <Title>naked_rail</Title>
+        <RepoName>alisnic/naked_rail</RepoName>
+        <Description>A naked Rails 3.2.13 app with useful stuff added for rapid development.</Description>
+        <Owner>alisnic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alisnic</Name>
+                <User>alisnic</User>
+                <Url>https://github.com/alisnic</Url>
+                <Location>Chisinau, Moldova</Location>
+                <Email>andrei.lisnic@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; JavaScript</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2019-12-05T07:48:34Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="vitaliel/stage_demo">
+        <Url>https://github.com/vitaliel/stage_demo</Url>
+        <Name>stage_demo</Name>
+        <Title>stage_demo</Title>
+        <RepoName>vitaliel/stage_demo</RepoName>
+        <Description>assembla stage demo</Description>
+        <Owner>vitaliel</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>vitaliel</Name>
+                <User>vitaliel</User>
+                <Url>https://github.com/vitaliel</Url>
+                <Location>Moldova, Chisinau</Location>
+                <Email>vitalie.lazu@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; JavaScript</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2019-08-13T13:25:50Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="vitaliel/breakout-wparser">
+        <Url>https://github.com/vitaliel/breakout-wparser</Url>
+        <Name>breakout-wparser</Name>
+        <Title>breakout-wparser</Title>
+        <RepoName>vitaliel/breakout-wparser</RepoName>
+        <Description>Wiki templates parser for breakout</Description>
+        <Owner>vitaliel</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>vitaliel</Name>
+                <User>vitaliel</User>
+                <Url>https://github.com/vitaliel</Url>
+                <Location>Moldova, Chisinau</Location>
+                <Email>vitalie.lazu@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2019-08-13T14:06:22Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="vitaliel/shelper">
+        <Url>https://github.com/vitaliel/shelper</Url>
+        <Name>shelper</Name>
+        <Title>shelper</Title>
+        <RepoName>vitaliel/shelper</RepoName>
+        <Description>Ruby jabber agent to help system administrators. Configure your servers from your favorite IM.</Description>
+        <Owner>vitaliel</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>vitaliel</Name>
+                <User>vitaliel</User>
+                <Url>https://github.com/vitaliel</Url>
+                <Location>Moldova, Chisinau</Location>
+                <Email>vitalie.lazu@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2019-08-13T13:42:50Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="vitaliel/table_view">
+        <Url>https://github.com/vitaliel/table_view</Url>
+        <Name>table_view</Name>
+        <Title>table_view</Title>
+        <RepoName>vitaliel/table_view</RepoName>
+        <Description>Rails plugin that will help you to draw useful html tables with grouping, summaries. Do not count anymore columns for table colspan.</Description>
+        <Owner>vitaliel</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>vitaliel</Name>
+                <User>vitaliel</User>
+                <Url>https://github.com/vitaliel</Url>
+                <Location>Moldova, Chisinau</Location>
+                <Email>vitalie.lazu@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2019-08-13T13:45:15Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kron4eg/to_slug">
+        <Url>https://github.com/kron4eg/to_slug</Url>
+        <Name>to_slug</Name>
+        <Title>to_slug</Title>
+        <RepoName>kron4eg/to_slug</RepoName>
+        <Description>slug any string wtih tans_table</Description>
+        <Owner>kron4eg</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kron4eg</Name>
+                <User>kron4eg</User>
+                <Url>https://github.com/kron4eg</Url>
+                <Location>Moldova</Location>
+                <Email>artiom@hey.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2019-08-13T14:22:58Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="vitaliel/breakout_integration">
+        <Url>https://github.com/vitaliel/breakout_integration</Url>
+        <Name>breakout_integration</Name>
+        <Title>breakout_integration</Title>
+        <RepoName>vitaliel/breakout_integration</RepoName>
+        <Description>testing breakout integration</Description>
+        <Owner>vitaliel</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>vitaliel</Name>
+                <User>vitaliel</User>
+                <Url>https://github.com/vitaliel</Url>
+                <Location>Moldova, Chisinau</Location>
+                <Email>vitalie.lazu@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; Perl; Shell</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2019-08-13T13:24:59Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="roman-munteanu/akka-spray-demo">
+        <Url>https://github.com/roman-munteanu/akka-spray-demo</Url>
+        <Name>akka-spray-demo</Name>
+        <Title>akka-spray-demo</Title>
+        <RepoName>roman-munteanu/akka-spray-demo</RepoName>
+        <Description>A demo for learning AKKA and Spray</Description>
+        <Owner>roman-munteanu</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>roman-munteanu</Name>
+                <User>roman-munteanu</User>
+                <Url>https://github.com/roman-munteanu</Url>
+                <Location>Moldova</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala; JavaScript; CSS; HTML</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2015-10-30T17:08:48Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="horosgrisa/autoenv">
+        <Url>https://github.com/horosgrisa/autoenv</Url>
+        <Name>autoenv</Name>
+        <Title>autoenv</Title>
+        <RepoName>horosgrisa/autoenv</RepoName>
+        <Description>Autoenv for zsh</Description>
+        <Owner>horosgrisa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>horosgrisa</Name>
+                <User>horosgrisa</User>
+                <Url>https://github.com/horosgrisa</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Shell</LanguageTags>
+        <WatchersCount>149</WatchersCount>
+        <ForksCount>17</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2022-03-16T06:21:13Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="horosgrisa/zpm">
+        <Url>https://github.com/horosgrisa/zpm</Url>
+        <Name>zpm</Name>
+        <Title>zpm</Title>
+        <RepoName>horosgrisa/zpm</RepoName>
+        <Description>Zpm&#x2014; Zsh Plugin Manager</Description>
+        <Owner>horosgrisa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>horosgrisa</Name>
+                <User>horosgrisa</User>
+                <Url>https://github.com/horosgrisa</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Shell; Makefile</LanguageTags>
+        <WatchersCount>222</WatchersCount>
+        <ForksCount>11</ForksCount>
+        <OpenIssuesCount>10</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt>2022-03-25T04:54:34Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="mancunianetz/CheckBox">
+        <Url>https://github.com/mancunianetz/CheckBox</Url>
+        <Name>CheckBox</Name>
+        <Title>CheckBox</Title>
+        <RepoName>mancunianetz/CheckBox</RepoName>
+        <Description/>
+        <Owner>mancunianetz</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>mancunianetz</Name>
+                <User>mancunianetz</User>
+                <Url>https://github.com/mancunianetz</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Moldova</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+</Dependencies>

@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<Dependencies>
+    <Dependency name="JoshuaKissoon/Kademlia">
+        <Url>https://github.com/JoshuaKissoon/Kademlia</Url>
+        <Name>Kademlia</Name>
+        <Title>Kademlia</Title>
+        <RepoName>JoshuaKissoon/Kademlia</RepoName>
+        <Description>A Java implementation of Kademlia Routing Protocol and DHT</Description>
+        <Owner>JoshuaKissoon</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>JoshuaKissoon</Name>
+                <User>JoshuaKissoon</User>
+                <Url>https://github.com/JoshuaKissoon</Url>
+                <Location>Georgetown, Guyana</Location>
+                <Email>JoshuaKissoon [at] gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>171</WatchersCount>
+        <ForksCount>70</ForksCount>
+        <OpenIssuesCount>5</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Guyana</CountryOrigin>
+        <UpdatedAt>2022-03-16T19:01:55Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="JoshuaKissoon/DOSNA">
+        <Url>https://github.com/JoshuaKissoon/DOSNA</Url>
+        <Name>DOSNA</Name>
+        <Title>DOSNA</Title>
+        <RepoName>JoshuaKissoon/DOSNA</RepoName>
+        <Description>DOSNA (Distributed Online Social Network Architecture) is an Architecture that can serve as a core for DOSNs.</Description>
+        <Owner>JoshuaKissoon</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>JoshuaKissoon</Name>
+                <User>JoshuaKissoon</User>
+                <Url>https://github.com/JoshuaKissoon</Url>
+                <Location>Georgetown, Guyana</Location>
+                <Email>JoshuaKissoon [at] gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>21</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Guyana</CountryOrigin>
+        <UpdatedAt>2021-10-15T20:50:35Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="JoshuaKissoon/SocialKademlia">
+        <Url>https://github.com/JoshuaKissoon/SocialKademlia</Url>
+        <Name>SocialKademlia</Name>
+        <Title>SocialKademlia</Title>
+        <RepoName>JoshuaKissoon/SocialKademlia</RepoName>
+        <Description>Kademlia Routing Protocol with improvements for Decentralized Social Networks.</Description>
+        <Owner>JoshuaKissoon</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>JoshuaKissoon</Name>
+                <User>JoshuaKissoon</User>
+                <Url>https://github.com/JoshuaKissoon</Url>
+                <Location>Georgetown, Guyana</Location>
+                <Email>JoshuaKissoon [at] gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Guyana</CountryOrigin>
+        <UpdatedAt>2021-06-01T10:01:03Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="JoshuaKissoon/Likir">
+        <Url>https://github.com/JoshuaKissoon/Likir</Url>
+        <Name>Likir</Name>
+        <Title>Likir</Title>
+        <RepoName>JoshuaKissoon/Likir</RepoName>
+        <Description>Likir is a DHT designed and initially developed by some university students. More info found here http://likir.di.unito.it/details.html</Description>
+        <Owner>JoshuaKissoon</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>JoshuaKissoon</Name>
+                <User>JoshuaKissoon</User>
+                <Url>https://github.com/JoshuaKissoon</Url>
+                <Location>Georgetown, Guyana</Location>
+                <Email>JoshuaKissoon [at] gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Guyana</CountryOrigin>
+        <UpdatedAt>2019-04-17T07:48:16Z</UpdatedAt>
+    </Dependency>
+</Dependencies>

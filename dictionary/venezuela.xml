@@ -1,0 +1,3862 @@
+<?xml version="1.0"?>
+<Dependencies>
+    <Dependency name="AlexR1712/messenger-to-telegram">
+        <Url>https://github.com/AlexR1712/messenger-to-telegram</Url>
+        <Name>messenger-to-telegram</Name>
+        <Title>messenger-to-telegra&#x2026;</Title>
+        <RepoName>AlexR1712/messenger-to-telegram</RepoName>
+        <Description>Connect your Facebook Messenger Account to your Telegram Messenger and Erase the Messenger App</Description>
+        <Owner>AlexR1712</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>AlexR1712</Name>
+                <User>AlexR1712</User>
+                <Url>https://github.com/AlexR1712</Url>
+                <Location>Barquisimeto, Lara, Venezuela</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; Dockerfile</LanguageTags>
+        <WatchersCount>64</WatchersCount>
+        <ForksCount>17</ForksCount>
+        <OpenIssuesCount>11</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2022-02-09T21:53:26Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rich-97/snake-game-p5">
+        <Url>https://github.com/rich-97/snake-game-p5</Url>
+        <Name>snake-game-p5</Name>
+        <Title>snake-game-p5</Title>
+        <RepoName>rich-97/snake-game-p5</RepoName>
+        <Description>The Snake Game made with p5.js :snake::video_game:.</Description>
+        <Owner>rich-97</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rich-97</Name>
+                <User>rich-97</User>
+                <Url>https://github.com/rich-97</Url>
+                <Location>Colombia, Santa Marta</Location>
+                <Email>morenoricardo237@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; CSS</LanguageTags>
+        <WatchersCount>18</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-07-12T19:43:47Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jobsamuel/node-instagram-analytics">
+        <Url>https://github.com/jobsamuel/node-instagram-analytics</Url>
+        <Name>node-instagram-analytics</Name>
+        <Title>node-instagram-analy&#x2026;</Title>
+        <RepoName>jobsamuel/node-instagram-analytics</RepoName>
+        <Description>NodeJS module for Instagram Analytics</Description>
+        <Owner>jobsamuel</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jobsamuel</Name>
+                <User>jobsamuel</User>
+                <Url>https://github.com/jobsamuel</Url>
+                <Location>Maracaibo, Venezuela.</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>12</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2018-09-13T14:17:49Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="aranajhonny/hyper-criollo">
+        <Url>https://github.com/aranajhonny/hyper-criollo</Url>
+        <Name>hyper-criollo</Name>
+        <Title>hyper-criollo</Title>
+        <RepoName>aranajhonny/hyper-criollo</RepoName>
+        <Description>Hyper theme based in vaporwave colors.</Description>
+        <Owner>aranajhonny</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>aranajhonny</Name>
+                <User>aranajhonny</User>
+                <Url>https://github.com/aranajhonny</Url>
+                <Location>Colombia / Venezuela</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>11</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2020-10-12T15:24:57Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jobsamuel/venezuela-js">
+        <Url>https://github.com/jobsamuel/venezuela-js</Url>
+        <Name>venezuela-js</Name>
+        <Title>venezuela-js</Title>
+        <RepoName>jobsamuel/venezuela-js</RepoName>
+        <Description>Analiza, verifica, utiliza y muestra la organizaci&#xF3;n territorial de Venezuela con Javascript.</Description>
+        <Owner>jobsamuel</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jobsamuel</Name>
+                <User>jobsamuel</User>
+                <Url>https://github.com/jobsamuel</Url>
+                <Location>Maracaibo, Venezuela.</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>18</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2022-03-01T21:50:44Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rich-97/calculator">
+        <Url>https://github.com/rich-97/calculator</Url>
+        <Name>calculator</Name>
+        <Title>calculator</Title>
+        <RepoName>rich-97/calculator</RepoName>
+        <Description>A calculator made with html, css and pure javascript.</Description>
+        <Owner>rich-97</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rich-97</Name>
+                <User>rich-97</User>
+                <Url>https://github.com/rich-97</Url>
+                <Location>Colombia, Santa Marta</Location>
+                <Email>morenoricardo237@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; CSS</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-07-12T19:43:45Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="hgouveia/node-downloader-helper">
+        <Url>https://github.com/hgouveia/node-downloader-helper</Url>
+        <Name>node-downloader-helper</Name>
+        <Title>node-downloader-help&#x2026;</Title>
+        <RepoName>hgouveia/node-downloader-helper</RepoName>
+        <Description>A simple http file downloader for node.js</Description>
+        <Owner>hgouveia</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>hgouveia</Name>
+                <User>hgouveia</User>
+                <Url>https://github.com/hgouveia</Url>
+                <Location>Guatire, Venezuela</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>166</WatchersCount>
+        <ForksCount>38</ForksCount>
+        <OpenIssuesCount>4</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2022-03-24T08:02:17Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="willicab/sismos-ve">
+        <Url>https://github.com/willicab/sismos-ve</Url>
+        <Name>sismos-ve</Name>
+        <Title>sismos-ve</Title>
+        <RepoName>willicab/sismos-ve</RepoName>
+        <Description>Vista interactiva de los sismos en Venezuela</Description>
+        <Owner>willicab</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>willicab</Name>
+                <User>willicab</User>
+                <Url>https://github.com/willicab</Url>
+                <Location>Caracas, Venezuela</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; PHP; CSS; ApacheConf</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2017-06-02T04:07:23Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jobsamuel/mongofire">
+        <Url>https://github.com/jobsamuel/mongofire</Url>
+        <Name>mongofire</Name>
+        <Title>mongofire</Title>
+        <RepoName>jobsamuel/mongofire</RepoName>
+        <Description>Export collections from MongoDB to Firebase</Description>
+        <Owner>jobsamuel</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jobsamuel</Name>
+                <User>jobsamuel</User>
+                <Url>https://github.com/jobsamuel</Url>
+                <Location>Maracaibo, Venezuela.</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2018-02-26T13:13:59Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rich-97/req-ajax">
+        <Url>https://github.com/rich-97/req-ajax</Url>
+        <Name>req-ajax</Name>
+        <Title>req-ajax</Title>
+        <RepoName>rich-97/req-ajax</RepoName>
+        <Description>Standalone library for ajax requests.</Description>
+        <Owner>rich-97</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rich-97</Name>
+                <User>rich-97</User>
+                <Url>https://github.com/rich-97</Url>
+                <Location>Colombia, Santa Marta</Location>
+                <Email>morenoricardo237@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-07-12T19:43:44Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="aranajhonny/ig-upload">
+        <Url>https://github.com/aranajhonny/ig-upload</Url>
+        <Name>ig-upload</Name>
+        <Title>ig-upload</Title>
+        <RepoName>aranajhonny/ig-upload</RepoName>
+        <Description>A tiny command line tool for upload images to instagram.</Description>
+        <Owner>aranajhonny</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>aranajhonny</Name>
+                <User>aranajhonny</User>
+                <Url>https://github.com/aranajhonny</Url>
+                <Location>Colombia / Venezuela</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>11</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2022-03-07T20:21:39Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="chamini2/hapi-auth-ip-whitelist">
+        <Url>https://github.com/chamini2/hapi-auth-ip-whitelist</Url>
+        <Name>hapi-auth-ip-whitelist</Name>
+        <Title>hapi-auth-ip-whiteli&#x2026;</Title>
+        <RepoName>chamini2/hapi-auth-ip-whitelist</RepoName>
+        <Description>Hapi.js plugin for authentication scheme of accepting connections only from certain IPs</Description>
+        <Owner>chamini2</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>chamini2</Name>
+                <User>chamini2</User>
+                <Url>https://github.com/chamini2</Url>
+                <Location>Caracas, Venezuela</Location>
+                <Email>matteo.ferrando2@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2022-02-14T02:54:56Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="aranajhonny/zogam">
+        <Url>https://github.com/aranajhonny/zogam</Url>
+        <Name>zogam</Name>
+        <Title>zogam</Title>
+        <RepoName>aranajhonny/zogam</RepoName>
+        <Description>[ WIP ] Simple CRM &amp; ERP for http://gandocam.com.ve/ built with Laravel.</Description>
+        <Owner>aranajhonny</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>aranajhonny</Name>
+                <User>aranajhonny</User>
+                <Url>https://github.com/aranajhonny</Url>
+                <Location>Colombia / Venezuela</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; PHP; HTML; Vue; Batchfile; ApacheConf</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2019-04-15T15:40:37Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jobsamuel/ciudades">
+        <Url>https://github.com/jobsamuel/ciudades</Url>
+        <Name>ciudades</Name>
+        <Title>ciudades</Title>
+        <RepoName>jobsamuel/ciudades</RepoName>
+        <Description>Ciudades y Estados Venezolanos renderizados con React.</Description>
+        <Owner>jobsamuel</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jobsamuel</Name>
+                <User>jobsamuel</User>
+                <Url>https://github.com/jobsamuel</Url>
+                <Location>Maracaibo, Venezuela.</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; HTML</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2015-11-05T02:42:46Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="hgouveia/html5multiplayer">
+        <Url>https://github.com/hgouveia/html5multiplayer</Url>
+        <Name>html5multiplayer</Name>
+        <Title>html5multiplayer</Title>
+        <RepoName>hgouveia/html5multiplayer</RepoName>
+        <Description>A simple multiplayer game using HTML5 Canvas in conjuction with nodejs</Description>
+        <Owner>hgouveia</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>hgouveia</Name>
+                <User>hgouveia</User>
+                <Url>https://github.com/hgouveia</Url>
+                <Location>Guatire, Venezuela</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>TypeScript; HTML; Dockerfile; JavaScript</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2022-01-15T18:35:17Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rich-97/todo-app">
+        <Url>https://github.com/rich-97/todo-app</Url>
+        <Name>todo-app</Name>
+        <Title>todo-app</Title>
+        <RepoName>rich-97/todo-app</RepoName>
+        <Description>A simple todo app made with pure javascript using nodejs, ajax and mongodb :white_check_mark:.</Description>
+        <Owner>rich-97</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rich-97</Name>
+                <User>rich-97</User>
+                <Url>https://github.com/rich-97</Url>
+                <Location>Colombia, Santa Marta</Location>
+                <Email>morenoricardo237@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; HTML</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-02-18T21:26:49Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rich-97/todo-app-php">
+        <Url>https://github.com/rich-97/todo-app-php</Url>
+        <Name>todo-app-php</Name>
+        <Title>todo-app-php</Title>
+        <RepoName>rich-97/todo-app-php</RepoName>
+        <Description>Another todo-app make with backbone.js and PHP.</Description>
+        <Owner>rich-97</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rich-97</Name>
+                <User>rich-97</User>
+                <Url>https://github.com/rich-97</Url>
+                <Location>Colombia, Santa Marta</Location>
+                <Email>morenoricardo237@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; PHP; HTML; ApacheConf</LanguageTags>
+        <WatchersCount>1</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-07-12T19:43:24Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jobsamuel/messenger">
+        <Url>https://github.com/jobsamuel/messenger</Url>
+        <Name>messenger</Name>
+        <Title>messenger</Title>
+        <RepoName>jobsamuel/messenger</RepoName>
+        <Description>A Facebook Messenger Bot demo</Description>
+        <Owner>jobsamuel</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jobsamuel</Name>
+                <User>jobsamuel</User>
+                <Url>https://github.com/jobsamuel</Url>
+                <Location>Maracaibo, Venezuela.</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2017-02-09T19:12:15Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="JoaquinAraujo/weather-app">
+        <Url>https://github.com/JoaquinAraujo/weather-app</Url>
+        <Name>weather-app</Name>
+        <Title>weather-app</Title>
+        <RepoName>JoaquinAraujo/weather-app</RepoName>
+        <Description/>
+        <Owner>JoaquinAraujo</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>JoaquinAraujo</Name>
+                <User>JoaquinAraujo</User>
+                <Url>https://github.com/JoaquinAraujo</Url>
+                <Location>Santiago, Chile</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="rich-97/todo-app-plus">
+        <Url>https://github.com/rich-97/todo-app-plus</Url>
+        <Name>todo-app-plus</Name>
+        <Title>todo-app-plus</Title>
+        <RepoName>rich-97/todo-app-plus</RepoName>
+        <Description>Another todo-app make with backbone, express &amp; sequelize.</Description>
+        <Owner>rich-97</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rich-97</Name>
+                <User>rich-97</User>
+                <Url>https://github.com/rich-97</Url>
+                <Location>Colombia, Santa Marta</Location>
+                <Email>morenoricardo237@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; HTML</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-02-18T21:26:50Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jestevez/ethereum-java-wallet">
+        <Url>https://github.com/jestevez/ethereum-java-wallet</Url>
+        <Name>ethereum-java-wallet</Name>
+        <Title>ethereum-java-wallet</Title>
+        <RepoName>jestevez/ethereum-java-wallet</RepoName>
+        <Description>Un ejemplo de monedero escrito en Java usando Web3j</Description>
+        <Owner>jestevez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jestevez</Name>
+                <User>jestevez</User>
+                <Url>https://github.com/jestevez</Url>
+                <Location>Caracas - Venezuela</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>1</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2019-03-29T12:05:46Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Valtiel/EasyFuzzy">
+        <Url>https://github.com/Valtiel/EasyFuzzy</Url>
+        <Name>EasyFuzzy</Name>
+        <Title>EasyFuzzy</Title>
+        <RepoName>Valtiel/EasyFuzzy</RepoName>
+        <Description>Java's library to teach Fuzzy Logic</Description>
+        <Owner>Valtiel</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Valtiel</Name>
+                <User>Valtiel</User>
+                <Url>https://github.com/Valtiel</Url>
+                <Location>Venezuela</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2019-06-25T17:24:46Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Ricardo96r/Simulador-de-memoria-virtual">
+        <Url>https://github.com/Ricardo96r/Simulador-de-memoria-virtual</Url>
+        <Name>Simulador-de-memoria-virtual</Name>
+        <Title>Simulador-de-memoria&#x2026;</Title>
+        <RepoName>Ricardo96r/Simulador-de-memoria-virtual</RepoName>
+        <Description>Simulador de memoria virtual a trav&#xE9;s de paginaci&#xF3;n</Description>
+        <Owner>Ricardo96r</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Ricardo96r</Name>
+                <User>Ricardo96r</User>
+                <Url>https://github.com/Ricardo96r</Url>
+                <Location>Spain</Location>
+                <Email>ricardo96r@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2019-02-04T11:36:37Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jvmartinez/utilsDialog">
+        <Url>https://github.com/jvmartinez/utilsDialog</Url>
+        <Name>utilsDialog</Name>
+        <Title>utilsDialog</Title>
+        <RepoName>jvmartinez/utilsDialog</RepoName>
+        <Description>It is a useful tool for dialogue.</Description>
+        <Owner>jvmartinez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jvmartinez</Name>
+                <User>jvmartinez</User>
+                <Url>https://github.com/jvmartinez</Url>
+                <Location/>
+                <Email>jvmartinez.cslcv@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2018-06-02T05:06:12Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="m-salcedo/Cocos2D">
+        <Url>https://github.com/m-salcedo/Cocos2D</Url>
+        <Name>Cocos2D</Name>
+        <Title>Cocos2D</Title>
+        <RepoName>m-salcedo/Cocos2D</RepoName>
+        <Description>Android + Cocos2d</Description>
+        <Owner>m-salcedo</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>m-salcedo</Name>
+                <User>m-salcedo</User>
+                <Url>https://github.com/m-salcedo</Url>
+                <Location>Medellin, Colombia</Location>
+                <Email>mariangela.salcedo@mercadolibre.com.co</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; Objective-C</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2019-11-17T13:08:19Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="JMEspiz/Practicas-Ovi-2015">
+        <Url>https://github.com/JMEspiz/Practicas-Ovi-2015</Url>
+        <Name>Practicas-Ovi-2015</Name>
+        <Title>Practicas-Ovi-2015</Title>
+        <RepoName>JMEspiz/Practicas-Ovi-2015</RepoName>
+        <Description>Repo para subir ejercicios y practicas para la OVI interna IUTVAL 2015</Description>
+        <Owner>JMEspiz</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>JMEspiz</Name>
+                <User>JMEspiz</User>
+                <Url>https://github.com/JMEspiz</Url>
+                <Location>Venezuela</Location>
+                <Email>josemespiz@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2015-06-22T14:53:42Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jestevez/blackjack21">
+        <Url>https://github.com/jestevez/blackjack21</Url>
+        <Name>blackjack21</Name>
+        <Title>blackjack21</Title>
+        <RepoName>jestevez/blackjack21</RepoName>
+        <Description>El Blackjack, tambi&#xE9;n llamado veintiuno, es un juego de cartas, propio de los casinos con una o m&#xE1;s barajas inglesas de 52 cartas sin los comodines,
+            que consiste en sumar un valor lo m&#xE1;s pr&#xF3;ximo a 21 pero sin pasarse.
+        </Description>
+        <Owner>jestevez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jestevez</Name>
+                <User>jestevez</User>
+                <Url>https://github.com/jestevez</Url>
+                <Location>Caracas - Venezuela</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; JavaScript; CSS; HTML</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2019-11-24T11:24:40Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jafuentest/totem">
+        <Url>https://github.com/jafuentest/totem</Url>
+        <Name>totem</Name>
+        <Title>totem</Title>
+        <RepoName>jafuentest/totem</RepoName>
+        <Description>Proyecto de Desarrollo del Software, Semestre Marzo-Julio 2015</Description>
+        <Owner>jafuentest</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jafuentest</Name>
+                <User>jafuentest</User>
+                <Url>https://github.com/jafuentest</Url>
+                <Location>Caracas, Venezuela</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#; ASP; CSS; JavaScript; PLpgSQL; SQLPL; TeX</LanguageTags>
+        <WatchersCount>10</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2022-02-09T02:34:43Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Adversities/Nutdeep">
+        <Url>https://github.com/Adversities/Nutdeep</Url>
+        <Name>Nutdeep</Name>
+        <Title>Nutdeep</Title>
+        <RepoName>Adversities/Nutdeep</RepoName>
+        <Description/>
+        <Owner>Adversities</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Adversities</Name>
+                <User>Adversities</User>
+                <Url>https://github.com/Adversities</Url>
+                <Location>Venezuela</Location>
+                <Email>jeremi.martini@outlook.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="Adversities/Tanji">
+        <Url>https://github.com/Adversities/Tanji</Url>
+        <Name>Tanji</Name>
+        <Title>Tanji</Title>
+        <RepoName>Adversities/Tanji</RepoName>
+        <Description/>
+        <Owner>Adversities</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Adversities</Name>
+                <User>Adversities</User>
+                <Url>https://github.com/Adversities</Url>
+                <Location>Venezuela</Location>
+                <Email>jeremi.martini@outlook.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="Wgil/2048clone">
+        <Url>https://github.com/Wgil/2048clone</Url>
+        <Name>2048clone</Name>
+        <Title>2048clone</Title>
+        <RepoName>Wgil/2048clone</RepoName>
+        <Description>Clone of the 2048 famous game.</Description>
+        <Owner>Wgil</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Wgil</Name>
+                <User>Wgil</User>
+                <Url>https://github.com/Wgil</Url>
+                <Location>Venezuela</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#</LanguageTags>
+        <WatchersCount>1</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2019-10-19T16:55:36Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="pedro15/UniToolkit">
+        <Url>https://github.com/pedro15/UniToolkit</Url>
+        <Name>UniToolkit</Name>
+        <Title>UniToolkit</Title>
+        <RepoName>pedro15/UniToolkit</RepoName>
+        <Description>Utility toolbox for unity game development.</Description>
+        <Owner>pedro15</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>pedro15</Name>
+                <User>pedro15</User>
+                <Url>https://github.com/pedro15</Url>
+                <Location>From a parallel universe</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#</LanguageTags>
+        <WatchersCount>12</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2022-03-04T07:10:21Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="pedro15/GoRecycler">
+        <Url>https://github.com/pedro15/GoRecycler</Url>
+        <Name>GoRecycler</Name>
+        <Title>GoRecycler</Title>
+        <RepoName>pedro15/GoRecycler</RepoName>
+        <Description>Object Pool Manager for unity3d game engine</Description>
+        <Owner>pedro15</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>pedro15</Name>
+                <User>pedro15</User>
+                <Url>https://github.com/pedro15</Url>
+                <Location>From a parallel universe</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#</LanguageTags>
+        <WatchersCount>11</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2022-01-02T17:03:51Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="pedro15/UniMsg">
+        <Url>https://github.com/pedro15/UniMsg</Url>
+        <Name>UniMsg</Name>
+        <Title>UniMsg</Title>
+        <RepoName>pedro15/UniMsg</RepoName>
+        <Description/>
+        <Owner>pedro15</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>pedro15</Name>
+                <User>pedro15</User>
+                <Url>https://github.com/pedro15</Url>
+                <Location>From a parallel universe</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="jjyepez/reto-webpack">
+        <Url>https://github.com/jjyepez/reto-webpack</Url>
+        <Name>reto-webpack</Name>
+        <Title>reto-webpack</Title>
+        <RepoName>jjyepez/reto-webpack</RepoName>
+        <Description>Reto webpack del curso de Platzi</Description>
+        <Owner>jjyepez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jjyepez</Name>
+                <User>jjyepez</User>
+                <Url>https://github.com/jjyepez</Url>
+                <Location>Bogot&#xE1;, CO.</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>CSS; JavaScript; HTML</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2020-04-27T12:15:36Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jrgarciadev/bubbleiconsweb">
+        <Url>https://github.com/jrgarciadev/bubbleiconsweb</Url>
+        <Name>bubbleiconsweb</Name>
+        <Title>bubbleiconsweb</Title>
+        <RepoName>jrgarciadev/bubbleiconsweb</RepoName>
+        <Description/>
+        <Owner>jrgarciadev</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jrgarciadev</Name>
+                <User>jrgarciadev</User>
+                <Url>https://github.com/jrgarciadev</Url>
+                <Location>Argentina</Location>
+                <Email>jrgarciadev@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="jjyepez/cmc-app">
+        <Url>https://github.com/jjyepez/cmc-app</Url>
+        <Name>cmc-app</Name>
+        <Title>cmc-app</Title>
+        <RepoName>jjyepez/cmc-app</RepoName>
+        <Description>An App that consumes the CoinMarketCap.com API services</Description>
+        <Owner>jjyepez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jjyepez</Name>
+                <User>jjyepez</User>
+                <Url>https://github.com/jjyepez</Url>
+                <Location>Bogot&#xE1;, CO.</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>CSS; JavaScript; HTML</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2018-01-19T08:39:58Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="aitbw/af_maracay">
+        <Url>https://github.com/aitbw/af_maracay</Url>
+        <Name>af_maracay</Name>
+        <Title>af_maracay</Title>
+        <RepoName>aitbw/af_maracay</RepoName>
+        <Description>Web application for the management of the administrative tasks of Alliance Fran&#xE7;aise Maracay</Description>
+        <Owner>aitbw</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>aitbw</Name>
+                <User>aitbw</User>
+                <Url>https://github.com/aitbw</Url>
+                <Location>Bogot&#xE1;, D.C., Colombia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>HTML; Ruby; CSS; JavaScript</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>8</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-10-19T18:44:19Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="gian88/django-ckeditor-amazon-s3">
+        <Url>https://github.com/gian88/django-ckeditor-amazon-s3</Url>
+        <Name>django-ckeditor-amazon-s3</Name>
+        <Title>django-ckeditor-amaz&#x2026;</Title>
+        <RepoName>gian88/django-ckeditor-amazon-s3</RepoName>
+        <Description>Django Ckeditor Amazon S3</Description>
+        <Owner>gian88</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>gian88</Name>
+                <User>gian88</User>
+                <Url>https://github.com/gian88</Url>
+                <Location>Venezuela</Location>
+                <Email>gian88@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>HTML; JavaScript; PHP; Python; CSS; Shell; Perl; Makefile; ApacheConf</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-01-03T08:07:48Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="asosab/asosab.github.io">
+        <Url>https://github.com/asosab/asosab.github.io</Url>
+        <Name>asosab.github.io</Name>
+        <Title>asosab.github.io</Title>
+        <RepoName>asosab/asosab.github.io</RepoName>
+        <Description>Pedazos de c&#xF3;digo de uso cotidiano, apuntes sobre lenguajes de programaci&#xF3;n, bases de datos y tecnolog&#xED;as de la informaci&#xF3;n</Description>
+        <Owner>asosab</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>asosab</Name>
+                <User>asosab</User>
+                <Url>https://github.com/asosab</Url>
+                <Location>Bolivia</Location>
+                <Email>asosab@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>HTML; CSS</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2017-10-16T14:17:54Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="DarkMatterCore/bluedump-mod">
+        <Url>https://github.com/DarkMatterCore/bluedump-mod</Url>
+        <Name>bluedump-mod</Name>
+        <Title>bluedump-mod</Title>
+        <RepoName>DarkMatterCore/bluedump-mod</RepoName>
+        <Description>This is a modification of BlueDump with USB support, full hardware access through AHB, enhanced WAD dumping capabilities and content.bin -&gt; WAD
+            conversion.
+        </Description>
+        <Owner>DarkMatterCore</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>DarkMatterCore</Name>
+                <User>DarkMatterCore</User>
+                <Url>https://github.com/DarkMatterCore</Url>
+                <Location>Madrid, Spain</Location>
+                <Email>pabloacurielz@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C; Makefile; C++; Batchfile</LanguageTags>
+        <WatchersCount>30</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-09-30T01:50:06Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="R3mmurd/ULATeaching">
+        <Url>https://github.com/R3mmurd/ULATeaching</Url>
+        <Name>ULATeaching</Name>
+        <Title>ULATeaching</Title>
+        <RepoName>R3mmurd/ULATeaching</RepoName>
+        <Description>Sample codes used to teach at Universidad de Los Andes, M&#xE9;rida, Venezuela</Description>
+        <Owner>R3mmurd</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>R3mmurd</Name>
+                <User>R3mmurd</User>
+                <Url>https://github.com/R3mmurd</Url>
+                <Location>Medell&#xED;n - Antioquia - Colombia</Location>
+                <Email>aledrums@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C; Python; C++; Makefile; Standard ML</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>13</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2020-07-08T03:41:29Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="DarkMatterCore/sbn64">
+        <Url>https://github.com/DarkMatterCore/sbn64</Url>
+        <Name>sbn64</Name>
+        <Title>sbn64</Title>
+        <RepoName>DarkMatterCore/sbn64</RepoName>
+        <Description>Simple Byteswapper for N64 Saves</Description>
+        <Owner>DarkMatterCore</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>DarkMatterCore</Name>
+                <User>DarkMatterCore</User>
+                <Url>https://github.com/DarkMatterCore</Url>
+                <Location>Madrid, Spain</Location>
+                <Email>pabloacurielz@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C; Makefile</LanguageTags>
+        <WatchersCount>22</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2022-02-17T06:04:53Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="DarkMatterCore/3ds-multinand">
+        <Url>https://github.com/DarkMatterCore/3ds-multinand</Url>
+        <Name>3ds-multinand</Name>
+        <Title>3ds-multinand</Title>
+        <RepoName>DarkMatterCore/3ds-multinand</RepoName>
+        <Description>3DS Multi EmuNAND Creator - Allows the user to inject/extract NAND dumps to/from the storage area reserved in the SD card by tools like Gateway's Launcher.dat
+            and EmuNAND9.
+        </Description>
+        <Owner>DarkMatterCore</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>DarkMatterCore</Name>
+                <User>DarkMatterCore</User>
+                <Url>https://github.com/DarkMatterCore</Url>
+                <Location>Madrid, Spain</Location>
+                <Email>pabloacurielz@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C; Makefile; Batchfile</LanguageTags>
+        <WatchersCount>11</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-10-26T22:17:07Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="TwistedScorpio/OTHire">
+        <Url>https://github.com/TwistedScorpio/OTHire</Url>
+        <Name>OTHire</Name>
+        <Title>OTHire</Title>
+        <RepoName>TwistedScorpio/OTHire</RepoName>
+        <Description>OpenTibia Server for Tibia 7.72</Description>
+        <Owner>TwistedScorpio</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>TwistedScorpio</Name>
+                <User>TwistedScorpio</User>
+                <Url>https://github.com/TwistedScorpio</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; Lua; C; Elixir; Shell; PLpgSQL; M4; Makefile; Roff; Dockerfile</LanguageTags>
+        <WatchersCount>77</WatchersCount>
+        <ForksCount>68</ForksCount>
+        <OpenIssuesCount>11</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2022-02-25T12:30:34Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="brewsterl/RealOTX-7.72">
+        <Url>https://github.com/brewsterl/RealOTX-7.72</Url>
+        <Name>RealOTX-7.72</Name>
+        <Title>RealOTX-7.72</Title>
+        <RepoName>brewsterl/RealOTX-7.72</RepoName>
+        <Description>Real Open Tibia Server based on protocol 7.72 - Engine: OTX Server 2 - Special Thanks(s): TFS Team &amp; Kaiser (mattyx14)</Description>
+        <Owner>brewsterl</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>brewsterl</Name>
+                <User>brewsterl</User>
+                <Url>https://github.com/brewsterl</Url>
+                <Location>Venezuela</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; Lua; C; M4; Shell; Makefile</LanguageTags>
+        <WatchersCount>20</WatchersCount>
+        <ForksCount>18</ForksCount>
+        <OpenIssuesCount>9</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-03-29T12:10:58Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="esmitt/GLFW-with-shaders">
+        <Url>https://github.com/esmitt/GLFW-with-shaders</Url>
+        <Name>GLFW-with-shaders</Name>
+        <Title>GLFW-with-shaders</Title>
+        <RepoName>esmitt/GLFW-with-shaders</RepoName>
+        <Description>It a basic template of GLFW using GLEW to manage shaders in modern OpenGL</Description>
+        <Owner>esmitt</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>esmitt</Name>
+                <User>esmitt</User>
+                <Url>https://github.com/esmitt</Url>
+                <Location>Barcelona, Spain</Location>
+                <Email>esmitt.ramirez@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; C; CMake; GLSL</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-09-01T15:43:43Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="bonetblai/mini-gpt">
+        <Url>https://github.com/bonetblai/mini-gpt</Url>
+        <Name>mini-gpt</Name>
+        <Title>mini-gpt</Title>
+        <RepoName>bonetblai/mini-gpt</RepoName>
+        <Description>Automatically exported from code.google.com/p/mini-gpt</Description>
+        <Owner>bonetblai</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>bonetblai</Name>
+                <User>bonetblai</User>
+                <Url>https://github.com/bonetblai</Url>
+                <Location>Venezuela</Location>
+                <Email>bonetblai@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; Yacc; C; Lex; Shell</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2020-03-17T18:48:19Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="franjaviersans/VRGLSL">
+        <Url>https://github.com/franjaviersans/VRGLSL</Url>
+        <Name>VRGLSL</Name>
+        <Title>VRGLSL</Title>
+        <RepoName>franjaviersans/VRGLSL</RepoName>
+        <Description>A volume rendering using GLSL</Description>
+        <Owner>franjaviersans</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>franjaviersans</Name>
+                <User>franjaviersans</User>
+                <Url>https://github.com/franjaviersans</Url>
+                <Location>Venezuela</Location>
+                <Email>franjaviersans@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; GLSL</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-12-17T13:19:26Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="bonetblai/mdp-engine">
+        <Url>https://github.com/bonetblai/mdp-engine</Url>
+        <Name>mdp-engine</Name>
+        <Title>mdp-engine</Title>
+        <RepoName>bonetblai/mdp-engine</RepoName>
+        <Description>Automatically exported from code.google.com/p/mdp-engine</Description>
+        <Owner>bonetblai</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>bonetblai</Name>
+                <User>bonetblai</User>
+                <Url>https://github.com/bonetblai</Url>
+                <Location>Venezuela</Location>
+                <Email>bonetblai@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; Python; Makefile; Shell</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2022-03-05T12:27:35Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="bonetblai/rollout-iw">
+        <Url>https://github.com/bonetblai/rollout-iw</Url>
+        <Name>rollout-iw</Name>
+        <Title>rollout-iw</Title>
+        <RepoName>bonetblai/rollout-iw</RepoName>
+        <Description>Rollout IW implementation</Description>
+        <Owner>bonetblai</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>bonetblai</Name>
+                <User>bonetblai</User>
+                <Url>https://github.com/bonetblai</Url>
+                <Location>Venezuela</Location>
+                <Email>bonetblai@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; R; Shell; Python; Makefile</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2019-06-13T16:27:21Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="esmitt/RenderPLY">
+        <Url>https://github.com/esmitt/RenderPLY</Url>
+        <Name>RenderPLY</Name>
+        <Title>RenderPLY</Title>
+        <RepoName>esmitt/RenderPLY</RepoName>
+        <Description>Basic code to load two PLY files using GLFW</Description>
+        <Owner>esmitt</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>esmitt</Name>
+                <User>esmitt</User>
+                <Url>https://github.com/esmitt</Url>
+                <Location>Barcelona, Spain</Location>
+                <Email>esmitt.ramirez@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; C; Objective-C; CMake; GLSL</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2022-01-30T03:33:45Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jennydvr/StarTroupial">
+        <Url>https://github.com/jennydvr/StarTroupial</Url>
+        <Name>StarTroupial</Name>
+        <Title>StarTroupial</Title>
+        <RepoName>jennydvr/StarTroupial</RepoName>
+        <Description>Game for Computer Graphics</Description>
+        <Owner>jennydvr</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jennydvr</Name>
+                <User>jennydvr</User>
+                <Url>https://github.com/jennydvr</Url>
+                <Location>United Kingdom</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; C; Perl; Shell</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2016-05-04T04:00:17Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="franjaviersans/GLSLProgramExample">
+        <Url>https://github.com/franjaviersans/GLSLProgramExample</Url>
+        <Name>GLSLProgramExample</Name>
+        <Title>GLSLProgramExample</Title>
+        <RepoName>franjaviersans/GLSLProgramExample</RepoName>
+        <Description>A example project with a GLSL program class</Description>
+        <Owner>franjaviersans</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>franjaviersans</Name>
+                <User>franjaviersans</User>
+                <Url>https://github.com/franjaviersans</Url>
+                <Location>Venezuela</Location>
+                <Email>franjaviersans@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; C#; GLSL; C</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2018-03-17T23:35:59Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="franjaviersans/VRCUDA">
+        <Url>https://github.com/franjaviersans/VRCUDA</Url>
+        <Name>VRCUDA</Name>
+        <Title>VRCUDA</Title>
+        <RepoName>franjaviersans/VRCUDA</RepoName>
+        <Description>Volume rendering using CUDA</Description>
+        <Owner>franjaviersans</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>franjaviersans</Name>
+                <User>franjaviersans</User>
+                <Url>https://github.com/franjaviersans</Url>
+                <Location>Venezuela</Location>
+                <Email>franjaviersans@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; Cuda; GLSL</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-11-13T21:29:25Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="franjaviersans/VRCompute">
+        <Url>https://github.com/franjaviersans/VRCompute</Url>
+        <Name>VRCompute</Name>
+        <Title>VRCompute</Title>
+        <RepoName>franjaviersans/VRCompute</RepoName>
+        <Description>Volume rendering using Compute shader</Description>
+        <Owner>franjaviersans</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>franjaviersans</Name>
+                <User>franjaviersans</User>
+                <Url>https://github.com/franjaviersans</Url>
+                <Location>Venezuela</Location>
+                <Email>franjaviersans@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; C#; GLSL</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-08-29T05:09:41Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="franjaviersans/SkeletalAnimationLoader">
+        <Url>https://github.com/franjaviersans/SkeletalAnimationLoader</Url>
+        <Name>SkeletalAnimationLoader</Name>
+        <Title>SkeletalAnimationLoa&#x2026;</Title>
+        <RepoName>franjaviersans/SkeletalAnimationLoader</RepoName>
+        <Description/>
+        <Owner>franjaviersans</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>franjaviersans</Name>
+                <User>franjaviersans</User>
+                <Url>https://github.com/franjaviersans</Url>
+                <Location>Venezuela</Location>
+                <Email>franjaviersans@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; C; GLSL</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2017-07-20T21:31:55Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jcruzp/JRobotPI">
+        <Url>https://github.com/jcruzp/JRobotPI</Url>
+        <Name>JRobotPI</Name>
+        <Title>JRobotPI</Title>
+        <RepoName>jcruzp/JRobotPI</RepoName>
+        <Description>Raspberry PI Java ME 8 Robot</Description>
+        <Owner>jcruzp</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jcruzp</Name>
+                <User>jcruzp</User>
+                <Url>https://github.com/jcruzp</Url>
+                <Location>Valencia. Venezuela</Location>
+                <Email>joseacruzp@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; Java; Arduino; C; Processing; Objective-C</LanguageTags>
+        <WatchersCount>1</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2020-07-27T02:51:23Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="mogaal/vramsteg">
+        <Url>https://github.com/mogaal/vramsteg</Url>
+        <Name>vramsteg</Name>
+        <Title>vramsteg</Title>
+        <RepoName>mogaal/vramsteg</RepoName>
+        <Description>provide shell scripts with a full-featured progress indicator</Description>
+        <Owner>mogaal</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>mogaal</Name>
+                <User>mogaal</User>
+                <Url>https://github.com/mogaal</Url>
+                <Location>United Kingdom</Location>
+                <Email>garridomota@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; CMake; C</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-12-29T09:04:29Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="esmitt/OGLCube">
+        <Url>https://github.com/esmitt/OGLCube</Url>
+        <Name>OGLCube</Name>
+        <Title>OGLCube</Title>
+        <RepoName>esmitt/OGLCube</RepoName>
+        <Description>A GLUT code to display a simple 3D Cube using OpenGL 4.0</Description>
+        <Owner>esmitt</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>esmitt</Name>
+                <User>esmitt</User>
+                <Url>https://github.com/esmitt</Url>
+                <Location>Barcelona, Spain</Location>
+                <Email>esmitt.ramirez@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; C; Objective-C; GLSL</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-12-16T14:56:36Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="bonetblai/cp2fsc-and-replanner">
+        <Url>https://github.com/bonetblai/cp2fsc-and-replanner</Url>
+        <Name>cp2fsc-and-replanner</Name>
+        <Title>cp2fsc-and-replanner</Title>
+        <RepoName>bonetblai/cp2fsc-and-replanner</RepoName>
+        <Description>Automatically exported from code.google.com/p/cp2fsc-and-replanner</Description>
+        <Owner>bonetblai</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>bonetblai</Name>
+                <User>bonetblai</User>
+                <Url>https://github.com/bonetblai</Url>
+                <Location>Venezuela</Location>
+                <Email>bonetblai@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; Yacc; Python; C; Lex; Shell; Makefile</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-12-01T21:33:02Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="shixzie/nlp">
+        <Url>https://github.com/shixzie/nlp</Url>
+        <Name>nlp</Name>
+        <Title>nlp</Title>
+        <RepoName>shixzie/nlp</RepoName>
+        <Description>[UNMANTEINED] Extract values from strings and fill your structs with nlp.</Description>
+        <Owner>shixzie</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>shixzie</Name>
+                <User>shixzie</User>
+                <Url>https://github.com/shixzie</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Go; Makefile</LanguageTags>
+        <WatchersCount>380</WatchersCount>
+        <ForksCount>33</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2022-03-22T07:06:58Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="AndrusGerman/GoAssembly">
+        <Url>https://github.com/AndrusGerman/GoAssembly</Url>
+        <Name>GoAssembly</Name>
+        <Title>GoAssembly</Title>
+        <RepoName>AndrusGerman/GoAssembly</RepoName>
+        <Description/>
+        <Owner>AndrusGerman</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>AndrusGerman</Name>
+                <User>AndrusGerman</User>
+                <Url>https://github.com/AndrusGerman</Url>
+                <Location>Venezuela</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="angler-lang/angler-lang">
+        <Url>https://github.com/angler-lang/angler-lang</Url>
+        <Name>angler-lang</Name>
+        <Title>angler-lang</Title>
+        <RepoName>angler-lang/angler-lang</RepoName>
+        <Description>The Angler Functional Programming Language</Description>
+        <Owner>angler-lang</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>angler-lang</Name>
+                <User>angler-lang</User>
+                <Url>https://github.com/angler-lang</Url>
+                <Location>Caracas, Venezuela</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Haskell; Yacc; Logos; Nix</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2019-09-17T15:33:50Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="edumntg/Xenobot">
+        <Url>https://github.com/edumntg/Xenobot</Url>
+        <Name>Xenobot</Name>
+        <Title>Xenobot</Title>
+        <RepoName>edumntg/Xenobot</RepoName>
+        <Description/>
+        <Owner>edumntg</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>edumntg</Name>
+                <User>edumntg</User>
+                <Url>https://github.com/edumntg</Url>
+                <Location>Venezuela</Location>
+                <Email>edumntg@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="Residays/cooperative-announcer">
+        <Url>https://github.com/Residays/cooperative-announcer</Url>
+        <Name>cooperative-announcer</Name>
+        <Title>cooperative-announce&#x2026;</Title>
+        <RepoName>Residays/cooperative-announcer</RepoName>
+        <Description/>
+        <Owner>Residays</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Residays</Name>
+                <User>Residays</User>
+                <Url>https://github.com/Residays</Url>
+                <Location>South America, Venezuela (GMT -4:00)</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="Residays/epidemic-prototype">
+        <Url>https://github.com/Residays/epidemic-prototype</Url>
+        <Name>epidemic-prototype</Name>
+        <Title>epidemic-prototype</Title>
+        <RepoName>Residays/epidemic-prototype</RepoName>
+        <Description/>
+        <Owner>Residays</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Residays</Name>
+                <User>Residays</User>
+                <Url>https://github.com/Residays</Url>
+                <Location>South America, Venezuela (GMT -4:00)</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="jorgevmendoza/UITableView-KeyBoard">
+        <Url>https://github.com/jorgevmendoza/UITableView-KeyBoard</Url>
+        <Name>UITableView-KeyBoard</Name>
+        <Title>UITableView-KeyBoard</Title>
+        <RepoName>jorgevmendoza/UITableView-KeyBoard</RepoName>
+        <Description>A simple solution for solving issues with the iPhone Keyboard and a UITableView with several text fields</Description>
+        <Owner>jorgevmendoza</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jorgevmendoza</Name>
+                <User>jorgevmendoza</User>
+                <Url>https://github.com/jorgevmendoza</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2013-10-01T03:44:18Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jorgevmendoza/scroll-Hide">
+        <Url>https://github.com/jorgevmendoza/scroll-Hide</Url>
+        <Name>scroll-Hide</Name>
+        <Title>scroll-Hide</Title>
+        <RepoName>jorgevmendoza/scroll-Hide</RepoName>
+        <Description>A simple implementation of UITableView that hides all the visual elements of the UIViewController while is scrolling</Description>
+        <Owner>jorgevmendoza</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jorgevmendoza</Name>
+                <User>jorgevmendoza</User>
+                <Url>https://github.com/jorgevmendoza</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2015-01-15T03:12:44Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="k0k/Zabbix">
+        <Url>https://github.com/k0k/Zabbix</Url>
+        <Name>Zabbix</Name>
+        <Title>Zabbix</Title>
+        <RepoName>k0k/Zabbix</RepoName>
+        <Description>Useful files and scripts used with Zabbix monitoring system</Description>
+        <Owner>k0k</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>k0k</Name>
+                <User>k0k</User>
+                <Url>https://github.com/k0k</Url>
+                <Location>Venezuela</Location>
+                <Email>wilmer@fedoraproject.org</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Perl</LanguageTags>
+        <WatchersCount>22</WatchersCount>
+        <ForksCount>18</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-09-29T06:10:40Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="joelgomezb/kakapo">
+        <Url>https://github.com/joelgomezb/kakapo</Url>
+        <Name>kakapo</Name>
+        <Title>kakapo</Title>
+        <RepoName>joelgomezb/kakapo</RepoName>
+        <Description>Software to convert document on audio file</Description>
+        <Owner>joelgomezb</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>joelgomezb</Name>
+                <User>joelgomezb</User>
+                <Url>https://github.com/joelgomezb</Url>
+                <Location>Caracas , Venezuela</Location>
+                <Email>joelgomezb@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Perl</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2014-09-08T20:45:21Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Th3-822/rapidleech">
+        <Url>https://github.com/Th3-822/rapidleech</Url>
+        <Name>rapidleech</Name>
+        <Title>rapidleech</Title>
+        <RepoName>Th3-822/rapidleech</RepoName>
+        <Description/>
+        <Owner>Th3-822</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Th3-822</Name>
+                <User>Th3-822</User>
+                <Url>https://github.com/Th3-822</Url>
+                <Location>Venezuela</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; JavaScript; CSS; Hack; HTML</LanguageTags>
+        <WatchersCount>536</WatchersCount>
+        <ForksCount>548</ForksCount>
+        <OpenIssuesCount>96</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2022-03-19T14:19:42Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="cabrerahector/wordpress-popular-posts">
+        <Url>https://github.com/cabrerahector/wordpress-popular-posts</Url>
+        <Name>wordpress-popular-posts</Name>
+        <Title>wordpress-popular-po&#x2026;</Title>
+        <RepoName>cabrerahector/wordpress-popular-posts</RepoName>
+        <Description>WordPress Popular Posts - A highly customizable WordPress widget that displays your most popular posts.</Description>
+        <Owner>cabrerahector</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>cabrerahector</Name>
+                <User>cabrerahector</User>
+                <Url>https://github.com/cabrerahector</Url>
+                <Location>Caracas, Venezuela</Location>
+                <Email>me@cabrerahector.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; JavaScript; CSS</LanguageTags>
+        <WatchersCount>239</WatchersCount>
+        <ForksCount>77</ForksCount>
+        <OpenIssuesCount>7</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2022-03-01T09:13:55Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="cobisja/tad-php">
+        <Url>https://github.com/cobisja/tad-php</Url>
+        <Name>tad-php</Name>
+        <Title>tad-php</Title>
+        <RepoName>cobisja/tad-php</RepoName>
+        <Description>PHP Library for ZK Time &amp; Attendance Devices</Description>
+        <Owner>cobisja</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>cobisja</Name>
+                <User>cobisja</User>
+                <Url>https://github.com/cobisja</Url>
+                <Location>Bolivarian Republic of Venezuela</Location>
+                <Email>jcobis@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>170</WatchersCount>
+        <ForksCount>142</ForksCount>
+        <OpenIssuesCount>61</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2022-03-11T14:47:48Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="cobisja/boothelp">
+        <Url>https://github.com/cobisja/boothelp</Url>
+        <Name>boothelp</Name>
+        <Title>boothelp</Title>
+        <RepoName>cobisja/boothelp</RepoName>
+        <Description>PHP Helpers for Bootstrap</Description>
+        <Owner>cobisja</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>cobisja</Name>
+                <User>cobisja</User>
+                <Url>https://github.com/cobisja</Url>
+                <Location>Bolivarian Republic of Venezuela</Location>
+                <Email>jcobis@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; CSS; JavaScript</LanguageTags>
+        <WatchersCount>27</WatchersCount>
+        <ForksCount>9</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2022-03-24T19:32:08Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="joserafael/venezuela">
+        <Url>https://github.com/joserafael/venezuela</Url>
+        <Name>venezuela</Name>
+        <Title>venezuela</Title>
+        <RepoName>joserafael/venezuela</RepoName>
+        <Description>Estados, municipios, ciudades y parroquias de Venezuela en Mysql para cakephp o cualquier otro framework que use Active Record</Description>
+        <Owner>joserafael</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>joserafael</Name>
+                <User>joserafael</User>
+                <Url>https://github.com/joserafael</Url>
+                <Location>Sao Paulo, Brasil</Location>
+                <Email>joserafael@outlook.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; CSS; Shell; Batchfile; ApacheConf</LanguageTags>
+        <WatchersCount>23</WatchersCount>
+        <ForksCount>10</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-08-27T11:39:51Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="joseayram/utils">
+        <Url>https://github.com/joseayram/utils</Url>
+        <Name>utils</Name>
+        <Title>utils</Title>
+        <RepoName>joseayram/utils</RepoName>
+        <Description>Librer&#xED;as de utilidad general</Description>
+        <Owner>joseayram</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>joseayram</Name>
+                <User>joseayram</User>
+                <Url>https://github.com/joseayram</Url>
+                <Location>San Felipe, Yaracuy, Venezuela</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>15</WatchersCount>
+        <ForksCount>14</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2022-03-08T05:41:55Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="manuelj555/backend_kumbia">
+        <Url>https://github.com/manuelj555/backend_kumbia</Url>
+        <Name>backend_kumbia</Name>
+        <Title>backend_kumbia</Title>
+        <RepoName>manuelj555/backend_kumbia</RepoName>
+        <Description/>
+        <Owner>manuelj555</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>manuelj555</Name>
+                <User>manuelj555</User>
+                <Url>https://github.com/manuelj555</Url>
+                <Location>Venezuela - Aragua</Location>
+                <Email>programador.manuel@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="carlosjfernandes/curso-cf-php-poo">
+        <Url>https://github.com/carlosjfernandes/curso-cf-php-poo</Url>
+        <Name>curso-cf-php-poo</Name>
+        <Title>curso-cf-php-poo</Title>
+        <RepoName>carlosjfernandes/curso-cf-php-poo</RepoName>
+        <Description>Archivos usados durante el curso de POO en PHP para codigofacilito</Description>
+        <Owner>carlosjfernandes</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>carlosjfernandes</Name>
+                <User>carlosjfernandes</User>
+                <Url>https://github.com/carlosjfernandes</Url>
+                <Location>Venezuela</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; JavaScript; CSS; ApacheConf</LanguageTags>
+        <WatchersCount>15</WatchersCount>
+        <ForksCount>29</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-12-08T09:40:46Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="sinner/PhpseclibBundle">
+        <Url>https://github.com/sinner/PhpseclibBundle</Url>
+        <Name>PhpseclibBundle</Name>
+        <Title>PhpseclibBundle</Title>
+        <RepoName>sinner/PhpseclibBundle</RepoName>
+        <Description>PHPSecLib bundle for Symfony is the known library PHPSecLib structured for be a Symfony2 bundle.</Description>
+        <Owner>sinner</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>sinner</Name>
+                <User>sinner</User>
+                <Url>https://github.com/sinner</Url>
+                <Location>Bogota, Colombia</Location>
+                <Email>jgabrielsinner10@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>17</ForksCount>
+        <OpenIssuesCount>8</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2019-03-04T16:20:29Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="oyepez003/YepsuaGeneratorBundle">
+        <Url>https://github.com/oyepez003/YepsuaGeneratorBundle</Url>
+        <Name>YepsuaGeneratorBundle</Name>
+        <Title>YepsuaGeneratorBundl&#x2026;</Title>
+        <RepoName>oyepez003/YepsuaGeneratorBundle</RepoName>
+        <Description>YepsuaGeneratorBundle: The RICH CRUD Generator for Symfony2.</Description>
+        <Owner>oyepez003</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>oyepez003</Name>
+                <User>oyepez003</User>
+                <Url>https://github.com/oyepez003</Url>
+                <Location>Colombia</Location>
+                <Email>oyepez003@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; CSS</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-12-21T04:00:17Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="oyepez003/smartwig">
+        <Url>https://github.com/oyepez003/smartwig</Url>
+        <Name>smartwig</Name>
+        <Title>smartwig</Title>
+        <RepoName>oyepez003/smartwig</RepoName>
+        <Description>Ultimate Components Extension for Twig.</Description>
+        <Owner>oyepez003</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>oyepez003</Name>
+                <User>oyepez003</User>
+                <Url>https://github.com/oyepez003</Url>
+                <Location>Colombia</Location>
+                <Email>oyepez003@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2020-10-03T13:19:53Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Skatox/CrudGen">
+        <Url>https://github.com/Skatox/CrudGen</Url>
+        <Name>CrudGen</Name>
+        <Title>CrudGen</Title>
+        <RepoName>Skatox/CrudGen</RepoName>
+        <Description>A CRUD generator plugin for phpPgAdmin</Description>
+        <Owner>Skatox</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Skatox</Name>
+                <User>Skatox</User>
+                <Url>https://github.com/Skatox</Url>
+                <Location>Cucuta, Colombia</Location>
+                <Email>migueluseche@mozilla-hispano.org</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; CSS; JavaScript</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-12-26T09:57:34Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="manuelj555/UploadExcelBundle">
+        <Url>https://github.com/manuelj555/UploadExcelBundle</Url>
+        <Name>UploadExcelBundle</Name>
+        <Title>UploadExcelBundle</Title>
+        <RepoName>manuelj555/UploadExcelBundle</RepoName>
+        <Description>Bundle para la subida y validaci&#xF3;n de archivos excel</Description>
+        <Owner>manuelj555</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>manuelj555</Name>
+                <User>manuelj555</User>
+                <Url>https://github.com/manuelj555</Url>
+                <Location>Venezuela - Aragua</Location>
+                <Email>programador.manuel@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2014-05-23T23:16:14Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="manuelj555/sf-microkernel-vuejs">
+        <Url>https://github.com/manuelj555/sf-microkernel-vuejs</Url>
+        <Name>sf-microkernel-vuejs</Name>
+        <Title>sf-microkernel-vuejs</Title>
+        <RepoName>manuelj555/sf-microkernel-vuejs</RepoName>
+        <Description/>
+        <Owner>manuelj555</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>manuelj555</Name>
+                <User>manuelj555</User>
+                <Url>https://github.com/manuelj555</Url>
+                <Location>Venezuela - Aragua</Location>
+                <Email>programador.manuel@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="oyepez003/jQuery4PHP">
+        <Url>https://github.com/oyepez003/jQuery4PHP</Url>
+        <Name>jQuery4PHP</Name>
+        <Title>jQuery4PHP</Title>
+        <RepoName>oyepez003/jQuery4PHP</RepoName>
+        <Description>jQuery4PHP ( jQuery for PHP ) is a PHP 5 library. Makes easy writing javascript code (jQuery syntax) using PHP objects. Develops Rich Internet Applications in
+            an easy way without having to know javascript language with the help and power of jQuery.
+        </Description>
+        <Owner>oyepez003</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>oyepez003</Name>
+                <User>oyepez003</User>
+                <Url>https://github.com/oyepez003</Url>
+                <Location>Colombia</Location>
+                <Email>oyepez003@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-12-21T04:00:13Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="manuelj555/DataTable">
+        <Url>https://github.com/manuelj555/DataTable</Url>
+        <Name>DataTable</Name>
+        <Title>DataTable</Title>
+        <RepoName>manuelj555/DataTable</RepoName>
+        <Description>Lib para crear tablas html con el resultado de una consulta ActiveRecord</Description>
+        <Owner>manuelj555</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>manuelj555</Name>
+                <User>manuelj555</User>
+                <Url>https://github.com/manuelj555</Url>
+                <Location>Venezuela - Aragua</Location>
+                <Email>programador.manuel@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2013-12-20T13:56:11Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="styp152/SAEC-">
+        <Url>https://github.com/styp152/SAEC-</Url>
+        <Name>SAEC-</Name>
+        <Title>SAEC-</Title>
+        <RepoName>styp152/SAEC-</RepoName>
+        <Description>Sistema Administrativo para Control de Inventario y Facturaci&#xF3;n</Description>
+        <Owner>styp152</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>styp152</Name>
+                <User>styp152</User>
+                <Url>https://github.com/styp152</Url>
+                <Location>Bogot&#xE1;, Colombia</Location>
+                <Email>styp152@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2016-07-21T02:11:53Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="oyepez003/YepsuaCommonsBundle">
+        <Url>https://github.com/oyepez003/YepsuaCommonsBundle</Url>
+        <Name>YepsuaCommonsBundle</Name>
+        <Title>YepsuaCommonsBundle</Title>
+        <RepoName>oyepez003/YepsuaCommonsBundle</RepoName>
+        <Description>YepsuaCommonsBundle: Yepsua Commons and Utils for Sf2 Framework</Description>
+        <Owner>oyepez003</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>oyepez003</Name>
+                <User>oyepez003</User>
+                <Url>https://github.com/oyepez003</Url>
+                <Location>Colombia</Location>
+                <Email>oyepez003@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2014-07-25T21:28:47Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="carlosjfernandes/curso-laravel-principiantes">
+        <Url>https://github.com/carlosjfernandes/curso-laravel-principiantes</Url>
+        <Name>curso-laravel-principiantes</Name>
+        <Title>curso-laravel-princi&#x2026;</Title>
+        <RepoName>carlosjfernandes/curso-laravel-principiantes</RepoName>
+        <Description>Archivos fuente del curso de Laravel para principiantes</Description>
+        <Owner>carlosjfernandes</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>carlosjfernandes</Name>
+                <User>carlosjfernandes</User>
+                <Url>https://github.com/carlosjfernandes</Url>
+                <Location>Venezuela</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; HTML; ApacheConf; JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2016-10-24T19:55:54Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="manuelj555/WsseServerBundle">
+        <Url>https://github.com/manuelj555/WsseServerBundle</Url>
+        <Name>WsseServerBundle</Name>
+        <Title>WsseServerBundle</Title>
+        <RepoName>manuelj555/WsseServerBundle</RepoName>
+        <Description>Bundle para la autenticaci&#xF3;n de servidores soap usando WSSE</Description>
+        <Owner>manuelj555</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>manuelj555</Name>
+                <User>manuelj555</User>
+                <Url>https://github.com/manuelj555</Url>
+                <Location>Venezuela - Aragua</Location>
+                <Email>programador.manuel@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2016-05-03T21:00:50Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="manuelj555/foro-microkerneltrait">
+        <Url>https://github.com/manuelj555/foro-microkerneltrait</Url>
+        <Name>foro-microkerneltrait</Name>
+        <Title>foro-microkerneltrai&#x2026;</Title>
+        <RepoName>manuelj555/foro-microkerneltrait</RepoName>
+        <Description>Aplicaci&#xF3;n de prueba del MicroKernelTrait de Symfony http://manuelj555.github.io/2016/08/14/foro-micro-kernel-trait-symfony-parte-1.html</Description>
+        <Owner>manuelj555</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>manuelj555</Name>
+                <User>manuelj555</User>
+                <Url>https://github.com/manuelj555</Url>
+                <Location>Venezuela - Aragua</Location>
+                <Email>programador.manuel@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; HTML</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2017-04-01T00:41:35Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="manuelj555/ManuelTranslationBundle">
+        <Url>https://github.com/manuelj555/ManuelTranslationBundle</Url>
+        <Name>ManuelTranslationBundle</Name>
+        <Title>ManuelTranslationBun&#x2026;</Title>
+        <RepoName>manuelj555/ManuelTranslationBundle</RepoName>
+        <Description>Bundle que permite la edici&#xF3;n de etiquetas de traducci&#xF3;n desde la Base de datos</Description>
+        <Owner>manuelj555</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>manuelj555</Name>
+                <User>manuelj555</User>
+                <Url>https://github.com/manuelj555</Url>
+                <Location>Venezuela - Aragua</Location>
+                <Email>programador.manuel@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; PHP; Twig; Vue</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>10</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2022-02-01T19:05:27Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="marcoadasilvaa/yii2-git">
+        <Url>https://github.com/marcoadasilvaa/yii2-git</Url>
+        <Name>yii2-git</Name>
+        <Title>yii2-git</Title>
+        <RepoName>marcoadasilvaa/yii2-git</RepoName>
+        <Description>Display repositories GIT with Yii2 framework</Description>
+        <Owner>marcoadasilvaa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>marcoadasilvaa</Name>
+                <User>marcoadasilvaa</User>
+                <Url>https://github.com/marcoadasilvaa</Url>
+                <Location>Chile</Location>
+                <Email>marcoadasilvaa@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; CSS</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2017-04-15T18:04:00Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="HackingEnVivo/Doxing">
+        <Url>https://github.com/HackingEnVivo/Doxing</Url>
+        <Name>Doxing</Name>
+        <Title>Doxing</Title>
+        <RepoName>HackingEnVivo/Doxing</RepoName>
+        <Description>Espionaje y recopilaci&#xF3;n de Informaci&#xF3;n</Description>
+        <Owner>HackingEnVivo</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>HackingEnVivo</Name>
+                <User>HackingEnVivo</User>
+                <Url>https://github.com/HackingEnVivo</Url>
+                <Location>Per&#xFA; - Venezuela</Location>
+                <Email>hackinglivebooking@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>51</WatchersCount>
+        <ForksCount>43</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2022-03-09T06:29:10Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="iKenshu/pinclone">
+        <Url>https://github.com/iKenshu/pinclone</Url>
+        <Name>pinclone</Name>
+        <Title>pinclone</Title>
+        <RepoName>iKenshu/pinclone</RepoName>
+        <Description>A pinterest clone for Django practice</Description>
+        <Owner>iKenshu</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>iKenshu</Name>
+                <User>iKenshu</User>
+                <Url>https://github.com/iKenshu</Url>
+                <Location>Bogot&#xE1;, Colombia</Location>
+                <Email>kenshumorales@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; CSS; HTML</LanguageTags>
+        <WatchersCount>17</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-01-26T04:56:07Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="CharlyJazz/TalkCode">
+        <Url>https://github.com/CharlyJazz/TalkCode</Url>
+        <Name>TalkCode</Name>
+        <Title>TalkCode</Title>
+        <RepoName>CharlyJazz/TalkCode</RepoName>
+        <Description/>
+        <Owner>CharlyJazz</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>CharlyJazz</Name>
+                <User>CharlyJazz</User>
+                <Url>https://github.com/CharlyJazz</Url>
+                <Location>Cordoba</Location>
+                <Email>carlosjazzc1@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="CharlyJazz/Flask-MVC-Template">
+        <Url>https://github.com/CharlyJazz/Flask-MVC-Template</Url>
+        <Name>Flask-MVC-Template</Name>
+        <Title>Flask-MVC-Template</Title>
+        <RepoName>CharlyJazz/Flask-MVC-Template</RepoName>
+        <Description>Flask-MVC Template It is a template with "batteries included" created for the fast development of applications in the microframework flask :snake:
+        </Description>
+        <Owner>CharlyJazz</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>CharlyJazz</Name>
+                <User>CharlyJazz</User>
+                <Url>https://github.com/CharlyJazz</Url>
+                <Location>Cordoba</Location>
+                <Email>carlosjazzc1@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; HTML; CSS</LanguageTags>
+        <WatchersCount>52</WatchersCount>
+        <ForksCount>24</ForksCount>
+        <OpenIssuesCount>9</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-12-09T16:37:58Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="CharlyJazz/RestFood">
+        <Url>https://github.com/CharlyJazz/RestFood</Url>
+        <Name>RestFood</Name>
+        <Title>RestFood</Title>
+        <RepoName>CharlyJazz/RestFood</RepoName>
+        <Description/>
+        <Owner>CharlyJazz</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>CharlyJazz</Name>
+                <User>CharlyJazz</User>
+                <Url>https://github.com/CharlyJazz</Url>
+                <Location>Cordoba</Location>
+                <Email>carlosjazzc1@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="macagua/collective.spanishdocumentation">
+        <Url>https://github.com/macagua/collective.spanishdocumentation</Url>
+        <Name>collective.spanishdocumentation</Name>
+        <Title>collective.spanishdo&#x2026;</Title>
+        <RepoName>macagua/collective.spanishdocumentation</RepoName>
+        <Description>Mejores Practicas de Plone, es una iniciativa para documentar consejos, receta, manuales sobre buenas practicas en Python/Zope/Plone.</Description>
+        <Owner>macagua</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>macagua</Name>
+                <User>macagua</User>
+                <Url>https://github.com/macagua</Url>
+                <Location>Libertador, M&#xE9;rida, Venezuela</Location>
+                <Email>leonardocaballero@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>133</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2019-08-13T14:53:53Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="macagua/django-local-flavor-ve">
+        <Url>https://github.com/macagua/django-local-flavor-ve</Url>
+        <Name>django-local-flavor-ve</Name>
+        <Title>django-local-flavor-&#x2026;</Title>
+        <RepoName>macagua/django-local-flavor-ve</RepoName>
+        <Description>Django Local Flavor For Venezuela</Description>
+        <Owner>macagua</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>macagua</Name>
+                <User>macagua</User>
+                <Url>https://github.com/macagua</Url>
+                <Location>Libertador, M&#xE9;rida, Venezuela</Location>
+                <Email>leonardocaballero@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>7</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2020-05-12T00:46:24Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="LuisAlejandro/pipsalabim">
+        <Url>https://github.com/LuisAlejandro/pipsalabim</Url>
+        <Name>pipsalabim</Name>
+        <Title>pipsalabim</Title>
+        <RepoName>LuisAlejandro/pipsalabim</RepoName>
+        <Description>An assistant to guess your pip dependencies from your code, without using a requirements file.</Description>
+        <Owner>LuisAlejandro</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>LuisAlejandro</Name>
+                <User>LuisAlejandro</User>
+                <Url>https://github.com/LuisAlejandro</Url>
+                <Location>Maracay, Venezuela</Location>
+                <Email>luis@luisalejandro.org</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; Makefile</LanguageTags>
+        <WatchersCount>15</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>6</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2022-03-24T10:42:35Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="CharlyJazz/Pygame-Dont-touch-the-Spike">
+        <Url>https://github.com/CharlyJazz/Pygame-Dont-touch-the-Spike</Url>
+        <Name>Pygame-Dont-touch-the-Spike</Name>
+        <Title>Pygame-Dont-touch-th&#x2026;</Title>
+        <RepoName>CharlyJazz/Pygame-Dont-touch-the-Spike</RepoName>
+        <Description>A 2d game made in Pygame</Description>
+        <Owner>CharlyJazz</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>CharlyJazz</Name>
+                <User>CharlyJazz</User>
+                <Url>https://github.com/CharlyJazz</Url>
+                <Location>Cordoba</Location>
+                <Email>carlosjazzc1@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>9</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2020-11-12T01:21:41Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="LuisAlejandro/pypicontents">
+        <Url>https://github.com/LuisAlejandro/pypicontents</Url>
+        <Name>pypicontents</Name>
+        <Title>pypicontents</Title>
+        <RepoName>LuisAlejandro/pypicontents</RepoName>
+        <Description>PyPIContents is an application that generates a Module Index from the Python Package Index (PyPI) and also from various versions of the Python Standard
+            Library.
+        </Description>
+        <Owner>LuisAlejandro</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>LuisAlejandro</Name>
+                <User>LuisAlejandro</User>
+                <Url>https://github.com/LuisAlejandro</Url>
+                <Location>Maracay, Venezuela</Location>
+                <Email>luis@luisalejandro.org</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; Makefile</LanguageTags>
+        <WatchersCount>9</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>11</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2022-03-24T10:42:34Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="orvtech/Python-tools-for-twitter">
+        <Url>https://github.com/orvtech/Python-tools-for-twitter</Url>
+        <Name>Python-tools-for-twitter</Name>
+        <Title>Python-tools-for-twi&#x2026;</Title>
+        <RepoName>orvtech/Python-tools-for-twitter</RepoName>
+        <Description/>
+        <Owner>orvtech</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>orvtech</Name>
+                <User>orvtech</User>
+                <Url>https://github.com/orvtech</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="hostelix/personal-IO">
+        <Url>https://github.com/hostelix/personal-IO</Url>
+        <Name>personal-IO</Name>
+        <Title>personal-IO</Title>
+        <RepoName>hostelix/personal-IO</RepoName>
+        <Description>Aplicacion para el control de entrada y salida de personal (Empleados)</Description>
+        <Owner>hostelix</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>hostelix</Name>
+                <User>hostelix</User>
+                <Url>https://github.com/hostelix</Url>
+                <Location>Venezuela, Falcon</Location>
+                <Email>hostelixisrael@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2018-01-08T20:37:04Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="vijoin/SistemadeRegistrodeActivistas">
+        <Url>https://github.com/vijoin/SistemadeRegistrodeActivistas</Url>
+        <Name>SistemadeRegistrodeActivistas</Name>
+        <Title>SistemadeRegistrodeA&#x2026;</Title>
+        <RepoName>vijoin/SistemadeRegistrodeActivistas</RepoName>
+        <Description>Aplicaci&#xF3;n para el registro de activistas de bachaco-ve</Description>
+        <Owner>vijoin</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>vijoin</Name>
+                <User>vijoin</User>
+                <Url>https://github.com/vijoin</Url>
+                <Location>Montevideo, Uruguay</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>7</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2017-12-22T13:33:20Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="dehivix/compilerURG">
+        <Url>https://github.com/dehivix/compilerURG</Url>
+        <Name>compilerURG</Name>
+        <Title>compilerURG</Title>
+        <RepoName>dehivix/compilerURG</RepoName>
+        <Description>Compilador basado en la libreria ply con fines educativos</Description>
+        <Owner>dehivix</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>dehivix</Name>
+                <User>dehivix</User>
+                <Url>https://github.com/dehivix</Url>
+                <Location>Barcelona, Espa&#xF1;a</Location>
+                <Email>dperez@unerg.edu.ve</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-08-12T07:44:05Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="HackingEnVivo/IpScanner">
+        <Url>https://github.com/HackingEnVivo/IpScanner</Url>
+        <Name>IpScanner</Name>
+        <Title>IpScanner</Title>
+        <RepoName>HackingEnVivo/IpScanner</RepoName>
+        <Description>Script hecho en python, para sacar la IP, de las paginas web.</Description>
+        <Owner>HackingEnVivo</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>HackingEnVivo</Name>
+                <User>HackingEnVivo</User>
+                <Url>https://github.com/HackingEnVivo</Url>
+                <Location>Per&#xFA; - Venezuela</Location>
+                <Email>hackinglivebooking@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>9</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2022-03-20T00:36:16Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="macagua/macagua.buildout.pypimirror">
+        <Url>https://github.com/macagua/macagua.buildout.pypimirror</Url>
+        <Name>macagua.buildout.pypimirror</Name>
+        <Title>macagua.buildout.pyp&#x2026;</Title>
+        <RepoName>macagua/macagua.buildout.pypimirror</RepoName>
+        <Description>A buildout configuration for building a complete or a partial PyPI mirror using z3c.pypimirror module</Description>
+        <Owner>macagua</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>macagua</Name>
+                <User>macagua</User>
+                <Url>https://github.com/macagua</Url>
+                <Location>Libertador, M&#xE9;rida, Venezuela</Location>
+                <Email>leonardocaballero@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2019-07-11T22:39:16Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="map0logo/pyspaceinvaders">
+        <Url>https://github.com/map0logo/pyspaceinvaders</Url>
+        <Name>pyspaceinvaders</Name>
+        <Title>pyspaceinvaders</Title>
+        <RepoName>map0logo/pyspaceinvaders</RepoName>
+        <Description>Python Space Invaders</Description>
+        <Owner>map0logo</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>map0logo</Name>
+                <User>map0logo</User>
+                <Url>https://github.com/map0logo</Url>
+                <Location>M&#xE9;rida, Venezuela</Location>
+                <Email>francisco.palm@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; Shell</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-11-08T10:46:11Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="LuisAlejandro/dockershelf">
+        <Url>https://github.com/LuisAlejandro/dockershelf</Url>
+        <Name>dockershelf</Name>
+        <Title>dockershelf</Title>
+        <RepoName>LuisAlejandro/dockershelf</RepoName>
+        <Description>A repository containing useful, lightweight and reliable dockerfiles.</Description>
+        <Owner>LuisAlejandro</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>LuisAlejandro</Name>
+                <User>LuisAlejandro</User>
+                <Url>https://github.com/LuisAlejandro</Url>
+                <Location>Maracay, Venezuela</Location>
+                <Email>luis@luisalejandro.org</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; Shell; Dockerfile; Ruby; JavaScript; Makefile; Smarty; TeX</LanguageTags>
+        <WatchersCount>49</WatchersCount>
+        <ForksCount>11</ForksCount>
+        <OpenIssuesCount>7</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2022-03-24T10:40:06Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="HackingEnVivo/Dangerous">
+        <Url>https://github.com/HackingEnVivo/Dangerous</Url>
+        <Name>Dangerous</Name>
+        <Title>Dangerous</Title>
+        <RepoName>HackingEnVivo/Dangerous</RepoName>
+        <Description>Dangerous para Pentesters...</Description>
+        <Owner>HackingEnVivo</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>HackingEnVivo</Name>
+                <User>HackingEnVivo</User>
+                <Url>https://github.com/HackingEnVivo</Url>
+                <Location>Per&#xFA; - Venezuela</Location>
+                <Email>hackinglivebooking@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; HTML; JavaScript; CSS; Perl; Lua; Batchfile; C; Makefile; Roff; Shell; C++; Objective-C; PHP; PLpgSQL; Ruby</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>9</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-10-09T01:42:30Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="iKenshu/movie-app">
+        <Url>https://github.com/iKenshu/movie-app</Url>
+        <Name>movie-app</Name>
+        <Title>movie-app</Title>
+        <RepoName>iKenshu/movie-app</RepoName>
+        <Description>Movie Reviews - A django project for practice</Description>
+        <Owner>iKenshu</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>iKenshu</Name>
+                <User>iKenshu</User>
+                <Url>https://github.com/iKenshu</Url>
+                <Location>Bogot&#xE1;, Colombia</Location>
+                <Email>kenshumorales@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; HTML; CSS</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>10</ForksCount>
+        <OpenIssuesCount>5</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-07-20T01:09:40Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="macagua/SPREE">
+        <Url>https://github.com/macagua/SPREE</Url>
+        <Name>SPREE</Name>
+        <Title>SPREE</Title>
+        <RepoName>macagua/SPREE</RepoName>
+        <Description>My fork of SPREE, the knowledge exchange network project.</Description>
+        <Owner>macagua</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>macagua</Name>
+                <User>macagua</User>
+                <Url>https://github.com/macagua</Url>
+                <Location>Libertador, M&#xE9;rida, Venezuela</Location>
+                <Email>leonardocaballero@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2019-07-11T23:34:04Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="goidor/django-hacienda">
+        <Url>https://github.com/goidor/django-hacienda</Url>
+        <Name>django-hacienda</Name>
+        <Title>django-hacienda</Title>
+        <RepoName>goidor/django-hacienda</RepoName>
+        <Description/>
+        <Owner>goidor</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>goidor</Name>
+                <User>goidor</User>
+                <Url>https://github.com/goidor</Url>
+                <Location>Venezuela</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="vijoin/l10n_ve_dpt">
+        <Url>https://github.com/vijoin/l10n_ve_dpt</Url>
+        <Name>l10n_ve_dpt</Name>
+        <Title>l10n_ve_dpt</Title>
+        <RepoName>vijoin/l10n_ve_dpt</RepoName>
+        <Description>M&#xF3;dulo Odoo para la localizaci&#xF3;n venezolana de la divisi&#xF3;n pol&#xED;tico-territorial</Description>
+        <Owner>vijoin</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>vijoin</Name>
+                <User>vijoin</User>
+                <Url>https://github.com/vijoin</Url>
+                <Location>Montevideo, Uruguay</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>11</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2017-01-03T18:20:04Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="juventudproductivabicentenaria/unefa">
+        <Url>https://github.com/juventudproductivabicentenaria/unefa</Url>
+        <Name>unefa</Name>
+        <Title>unefa</Title>
+        <RepoName>juventudproductivabicentenaria/unefa</RepoName>
+        <Description>M&#xF3;dulo de los v&#xED;deos tutoriales de youtube.</Description>
+        <Owner>juventudproductivabicentenaria</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>juventudproductivabi&#x2026;</Name>
+                <User>juventudproductivabicentenaria</User>
+                <Url>https://github.com/juventudproductivabicentenaria</Url>
+                <Location>Caracas Venezuela</Location>
+                <Email>juventudproductivabicentenaria@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; XSLT; CSS</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2016-10-16T03:00:13Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="mamcode/python-numerals">
+        <Url>https://github.com/mamcode/python-numerals</Url>
+        <Name>python-numerals</Name>
+        <Title>python-numerals</Title>
+        <RepoName>mamcode/python-numerals</RepoName>
+        <Description>M&#xF3;dulos numerals para convertir un n&#xFA;mero en una cadena literal del n&#xFA;mero. Puede usarse para cantidades de dinero.</Description>
+        <Owner>mamcode</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>mamcode</Name>
+                <User>mamcode</User>
+                <Url>https://github.com/mamcode</Url>
+                <Location>Merida, Venezuela</Location>
+                <Email>manuel@getmadeit.io</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2020-06-11T04:25:38Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="josersosa/Programando_en_R">
+        <Url>https://github.com/josersosa/Programando_en_R</Url>
+        <Name>Programando_en_R</Name>
+        <Title>Programando_en_R</Title>
+        <RepoName>josersosa/Programando_en_R</RepoName>
+        <Description>Traducci&#xF3;n al espa&#xF1;ol del curso R_Programming de swirl</Description>
+        <Owner>josersosa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>josersosa</Name>
+                <User>josersosa</User>
+                <Url>https://github.com/josersosa</Url>
+                <Location>Lima/Per&#xFA;</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>R; Dockerfile</LanguageTags>
+        <WatchersCount>15</WatchersCount>
+        <ForksCount>17</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-05-06T02:24:27Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rrodrigu3z/rails_jqtouch">
+        <Url>https://github.com/rrodrigu3z/rails_jqtouch</Url>
+        <Name>rails_jqtouch</Name>
+        <Title>rails_jqtouch</Title>
+        <RepoName>rrodrigu3z/rails_jqtouch</RepoName>
+        <Description>A Rails plugin to wrap some functionality of jQTouch</Description>
+        <Owner>rrodrigu3z</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rrodrigu3z</Name>
+                <User>rrodrigu3z</User>
+                <Url>https://github.com/rrodrigu3z</Url>
+                <Location>Santiago, Chile</Location>
+                <Email>rrodrigu3z@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>39</WatchersCount>
+        <ForksCount>7</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2019-08-13T14:22:56Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="albertogg/carpetbomb">
+        <Url>https://github.com/albertogg/carpetbomb</Url>
+        <Name>carpetbomb</Name>
+        <Title>carpetbomb</Title>
+        <RepoName>albertogg/carpetbomb</RepoName>
+        <Description>Markdown templates (with .erb) for Ruby on Rails using Redcarpet gem.</Description>
+        <Owner>albertogg</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>albertogg</Name>
+                <User>albertogg</User>
+                <Url>https://github.com/albertogg</Url>
+                <Location>Venezuela</Location>
+                <Email>alberto@albertogrespan.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2018-01-22T08:19:03Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="xploshioOn/clickatellsend">
+        <Url>https://github.com/xploshioOn/clickatellsend</Url>
+        <Name>clickatellsend</Name>
+        <Title>clickatellsend</Title>
+        <RepoName>xploshioOn/clickatellsend</RepoName>
+        <Description>You can use almost every function of the clickatell API in a simple way</Description>
+        <Owner>xploshioOn</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>xploshioOn</Name>
+                <User>xploshioOn</User>
+                <Url>https://github.com/xploshioOn</Url>
+                <Location>Espa&#xF1;a</Location>
+                <Email>humber.m23@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; Shell</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2020-04-11T12:42:56Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="nerionavea/SMSGateway">
+        <Url>https://github.com/nerionavea/SMSGateway</Url>
+        <Name>SMSGateway</Name>
+        <Title>SMSGateway</Title>
+        <RepoName>nerionavea/SMSGateway</RepoName>
+        <Description>A ruby implementation of https://smsgateway.me API</Description>
+        <Owner>nerionavea</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>nerionavea</Name>
+                <User>nerionavea</User>
+                <Url>https://github.com/nerionavea</Url>
+                <Location>Maracaibo - Venezuela</Location>
+                <Email>neriojose5@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2017-12-08T11:29:58Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rafaelje/bullhorn-fastlane">
+        <Url>https://github.com/rafaelje/bullhorn-fastlane</Url>
+        <Name>bullhorn-fastlane</Name>
+        <Title>bullhorn-fastlane</Title>
+        <RepoName>rafaelje/bullhorn-fastlane</RepoName>
+        <Description>Send message to telegram with @bullhorn_bot on fastlane</Description>
+        <Owner>rafaelje</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rafaelje</Name>
+                <User>rafaelje</User>
+                <Url>https://github.com/rafaelje</Url>
+                <Location>Arizona</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2017-10-26T13:21:41Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="albertogg/sinatra-url-shortener-api">
+        <Url>https://github.com/albertogg/sinatra-url-shortener-api</Url>
+        <Name>sinatra-url-shortener-api</Name>
+        <Title>sinatra-url-shortene&#x2026;</Title>
+        <RepoName>albertogg/sinatra-url-shortener-api</RepoName>
+        <Description>Simple Sinatra API for short URLs.</Description>
+        <Owner>albertogg</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>albertogg</Name>
+                <User>albertogg</User>
+                <Url>https://github.com/albertogg</Url>
+                <Location>Venezuela</Location>
+                <Email>alberto@albertogrespan.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2017-07-22T01:28:59Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tigerlinux/tigerlinux-extra-recipes">
+        <Url>https://github.com/tigerlinux/tigerlinux-extra-recipes</Url>
+        <Name>tigerlinux-extra-recipes</Name>
+        <Title>tigerlinux-extra-rec&#x2026;</Title>
+        <RepoName>tigerlinux/tigerlinux-extra-recipes</RepoName>
+        <Description/>
+        <Owner>tigerlinux</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tigerlinux</Name>
+                <User>tigerlinux</User>
+                <Url>https://github.com/tigerlinux</Url>
+                <Location>Galicia, Spain</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Shell; Python</LanguageTags>
+        <WatchersCount>25</WatchersCount>
+        <ForksCount>31</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2020-12-28T12:53:16Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tigerlinux/openstack-mitaka-installer-centos7">
+        <Url>https://github.com/tigerlinux/openstack-mitaka-installer-centos7</Url>
+        <Name>openstack-mitaka-installer-centos7</Name>
+        <Title>openstack-mitaka-ins&#x2026;</Title>
+        <RepoName>tigerlinux/openstack-mitaka-installer-centos7</RepoName>
+        <Description>OpenStack MITAKA Semi-Automated installer for Centos 7</Description>
+        <Owner>tigerlinux</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tigerlinux</Name>
+                <User>tigerlinux</User>
+                <Url>https://github.com/tigerlinux</Url>
+                <Location>Galicia, Spain</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Shell; HTML</LanguageTags>
+        <WatchersCount>15</WatchersCount>
+        <ForksCount>11</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2019-07-20T09:58:03Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tigerlinux/openstack-ocata-installer-centos7">
+        <Url>https://github.com/tigerlinux/openstack-ocata-installer-centos7</Url>
+        <Name>openstack-ocata-installer-centos7</Name>
+        <Title>openstack-ocata-inst&#x2026;</Title>
+        <RepoName>tigerlinux/openstack-ocata-installer-centos7</RepoName>
+        <Description>Unattended/Semi-Automated OpenStack OCATA Installer for Centos 7</Description>
+        <Owner>tigerlinux</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tigerlinux</Name>
+                <User>tigerlinux</User>
+                <Url>https://github.com/tigerlinux</Url>
+                <Location>Galicia, Spain</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Shell; Python; HTML</LanguageTags>
+        <WatchersCount>11</WatchersCount>
+        <ForksCount>11</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-05-21T02:27:49Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tigerlinux/openstack-ocata-installer-ubuntu1604lts">
+        <Url>https://github.com/tigerlinux/openstack-ocata-installer-ubuntu1604lts</Url>
+        <Name>openstack-ocata-installer-ubuntu1604lts</Name>
+        <Title>openstack-ocata-inst&#x2026;</Title>
+        <RepoName>tigerlinux/openstack-ocata-installer-ubuntu1604lts</RepoName>
+        <Description>Unattended/Semi-Automated OpenStack OCATA Installer for Ubuntu 16.04lts</Description>
+        <Owner>tigerlinux</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tigerlinux</Name>
+                <User>tigerlinux</User>
+                <Url>https://github.com/tigerlinux</Url>
+                <Location>Galicia, Spain</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Shell; Python; HTML</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>7</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-03-27T08:10:44Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tigerlinux/openstack-kilo-installer-centos7">
+        <Url>https://github.com/tigerlinux/openstack-kilo-installer-centos7</Url>
+        <Name>openstack-kilo-installer-centos7</Name>
+        <Title>openstack-kilo-insta&#x2026;</Title>
+        <RepoName>tigerlinux/openstack-kilo-installer-centos7</RepoName>
+        <Description>OpenStack KILO Semi-Automated Installer for Centos 7</Description>
+        <Owner>tigerlinux</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tigerlinux</Name>
+                <User>tigerlinux</User>
+                <Url>https://github.com/tigerlinux</Url>
+                <Location>Galicia, Spain</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Shell; HTML</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2018-06-18T21:13:35Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tigerlinux/openstack-mitaka-installer-ubuntu1604lts">
+        <Url>https://github.com/tigerlinux/openstack-mitaka-installer-ubuntu1604lts</Url>
+        <Name>openstack-mitaka-installer-ubuntu1604lts</Name>
+        <Title>openstack-mitaka-ins&#x2026;</Title>
+        <RepoName>tigerlinux/openstack-mitaka-installer-ubuntu1604lts</RepoName>
+        <Description>OpenStack MITAKA Semi-Automated installer for Ubuntu 16.04lts</Description>
+        <Owner>tigerlinux</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tigerlinux</Name>
+                <User>tigerlinux</User>
+                <Url>https://github.com/tigerlinux</Url>
+                <Location>Galicia, Spain</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Shell; Python; HTML</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>8</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2022-03-13T04:15:13Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tigerlinux/openstack-liberty-installer-ubuntu1404lts">
+        <Url>https://github.com/tigerlinux/openstack-liberty-installer-ubuntu1404lts</Url>
+        <Name>openstack-liberty-installer-ubuntu1404lts</Name>
+        <Title>openstack-liberty-in&#x2026;</Title>
+        <RepoName>tigerlinux/openstack-liberty-installer-ubuntu1404lts</RepoName>
+        <Description>OpenStack LIBERTY Semi-Automated Installer for Ubuntu Server 14.04lts</Description>
+        <Owner>tigerlinux</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tigerlinux</Name>
+                <User>tigerlinux</User>
+                <Url>https://github.com/tigerlinux</Url>
+                <Location>Galicia, Spain</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Shell; Python; HTML</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>14</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2017-04-12T00:49:06Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tigerlinux/openstack-newton-installer-centos7">
+        <Url>https://github.com/tigerlinux/openstack-newton-installer-centos7</Url>
+        <Name>openstack-newton-installer-centos7</Name>
+        <Title>openstack-newton-ins&#x2026;</Title>
+        <RepoName>tigerlinux/openstack-newton-installer-centos7</RepoName>
+        <Description>Unattended/Semi-Automated OpenStack NEWTON Installer for Centos 7</Description>
+        <Owner>tigerlinux</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tigerlinux</Name>
+                <User>tigerlinux</User>
+                <Url>https://github.com/tigerlinux</Url>
+                <Location>Galicia, Spain</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Shell; Python; HTML</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>7</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2021-06-29T07:46:46Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tigerlinux/openstack-liberty-installer-centos7">
+        <Url>https://github.com/tigerlinux/openstack-liberty-installer-centos7</Url>
+        <Name>openstack-liberty-installer-centos7</Name>
+        <Title>openstack-liberty-in&#x2026;</Title>
+        <RepoName>tigerlinux/openstack-liberty-installer-centos7</RepoName>
+        <Description>OpenStack LIBERTY Semi-Automated Installer for Centos 7</Description>
+        <Owner>tigerlinux</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tigerlinux</Name>
+                <User>tigerlinux</User>
+                <Url>https://github.com/tigerlinux</Url>
+                <Location>Galicia, Spain</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Shell; HTML</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>7</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2017-04-01T06:17:52Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tigerlinux/openstack-mitaka-installer-ubuntu1404lts">
+        <Url>https://github.com/tigerlinux/openstack-mitaka-installer-ubuntu1404lts</Url>
+        <Name>openstack-mitaka-installer-ubuntu1404lts</Name>
+        <Title>openstack-mitaka-ins&#x2026;</Title>
+        <RepoName>tigerlinux/openstack-mitaka-installer-ubuntu1404lts</RepoName>
+        <Description>OpenStack MITAKA Semi-Automated installer for Ubuntu 14.04lts</Description>
+        <Owner>tigerlinux</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tigerlinux</Name>
+                <User>tigerlinux</User>
+                <Url>https://github.com/tigerlinux</Url>
+                <Location>Galicia, Spain</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Shell; Python; HTML</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2019-05-10T17:55:04Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="phenobarbital/arepalinux-script">
+        <Url>https://github.com/phenobarbital/arepalinux-script</Url>
+        <Name>arepalinux-script</Name>
+        <Title>arepalinux-script</Title>
+        <RepoName>phenobarbital/arepalinux-script</RepoName>
+        <Description>Arepalinux script base (install a Debian GNU/Linux secure server/workstation)</Description>
+        <Owner>phenobarbital</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>phenobarbital</Name>
+                <User>phenobarbital</User>
+                <Url>https://github.com/phenobarbital</Url>
+                <Location>Fuensalida, Toledo, Spain</Location>
+                <Email>jesuslarag@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Shell</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2015-11-03T01:58:40Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="e1th0r/seeddms-install">
+        <Url>https://github.com/e1th0r/seeddms-install</Url>
+        <Name>seeddms-install</Name>
+        <Title>seeddms-install</Title>
+        <RepoName>e1th0r/seeddms-install</RepoName>
+        <Description>Install script for seeddms</Description>
+        <Owner>e1th0r</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>e1th0r</Name>
+                <User>e1th0r</User>
+                <Url>https://github.com/e1th0r</Url>
+                <Location>Chile</Location>
+                <Email>hcolina@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Shell</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2017-06-21T02:06:40Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="phenobarbital/lxc-tools">
+        <Url>https://github.com/phenobarbital/lxc-tools</Url>
+        <Name>lxc-tools</Name>
+        <Title>lxc-tools</Title>
+        <RepoName>phenobarbital/lxc-tools</RepoName>
+        <Description>Xen-tools-like debian template for LXC containers</Description>
+        <Owner>phenobarbital</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>phenobarbital</Name>
+                <User>phenobarbital</User>
+                <Url>https://github.com/phenobarbital</Url>
+                <Location>Fuensalida, Toledo, Spain</Location>
+                <Email>jesuslarag@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Shell; Python</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2016-03-10T04:17:35Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="inukaze/maestro">
+        <Url>https://github.com/inukaze/maestro</Url>
+        <Name>maestro</Name>
+        <Title>maestro</Title>
+        <RepoName>inukaze/maestro</RepoName>
+        <Description/>
+        <Owner>inukaze</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>inukaze</Name>
+                <User>inukaze</User>
+                <Url>https://github.com/inukaze</Url>
+                <Location>Venezuela</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>1</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2019-09-05T19:52:42Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="phenobarbital/debian-bastion">
+        <Url>https://github.com/phenobarbital/debian-bastion</Url>
+        <Name>debian-bastion</Name>
+        <Title>debian-bastion</Title>
+        <RepoName>phenobarbital/debian-bastion</RepoName>
+        <Description>Aseguramiento basico de Debian GNU/Linux</Description>
+        <Owner>phenobarbital</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>phenobarbital</Name>
+                <User>phenobarbital</User>
+                <Url>https://github.com/phenobarbital</Url>
+                <Location>Fuensalida, Toledo, Spain</Location>
+                <Email>jesuslarag@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Shell</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2015-11-03T02:00:07Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="phenobarbital/easy-ldap">
+        <Url>https://github.com/phenobarbital/easy-ldap</Url>
+        <Name>easy-ldap</Name>
+        <Title>easy-ldap</Title>
+        <RepoName>phenobarbital/easy-ldap</RepoName>
+        <Description>Easy installation and configuration of OpenLDAP</Description>
+        <Owner>phenobarbital</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>phenobarbital</Name>
+                <User>phenobarbital</User>
+                <Url>https://github.com/phenobarbital</Url>
+                <Location>Fuensalida, Toledo, Spain</Location>
+                <Email>jesuslarag@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Shell</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2015-11-03T01:59:44Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="linuxshark/Asterisk-CentOS7-Install">
+        <Url>https://github.com/linuxshark/Asterisk-CentOS7-Install</Url>
+        <Name>Asterisk-CentOS7-Install</Name>
+        <Title>Asterisk-CentOS7-Ins&#x2026;</Title>
+        <RepoName>linuxshark/Asterisk-CentOS7-Install</RepoName>
+        <Description>This is an autoinstall asterisk script</Description>
+        <Owner>linuxshark</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>linuxshark</Name>
+                <User>linuxshark</User>
+                <Url>https://github.com/linuxshark</Url>
+                <Location>Santiago de Chile</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Shell</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2019-10-22T22:59:32Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tigerlinux/openstack-queens-installer-centos7">
+        <Url>https://github.com/tigerlinux/openstack-queens-installer-centos7</Url>
+        <Name>openstack-queens-installer-centos7</Name>
+        <Title>openstack-queens-ins&#x2026;</Title>
+        <RepoName>tigerlinux/openstack-queens-installer-centos7</RepoName>
+        <Description>OpenStack Release 17 (QUEENS) Automated installer for Centos 7</Description>
+        <Owner>tigerlinux</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tigerlinux</Name>
+                <User>tigerlinux</User>
+                <Url>https://github.com/tigerlinux</Url>
+                <Location>Galicia, Spain</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Shell; Python; HTML</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2020-04-22T16:20:00Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tigerlinux/openstack-icehouse-installer-ubuntu1404lts">
+        <Url>https://github.com/tigerlinux/openstack-icehouse-installer-ubuntu1404lts</Url>
+        <Name>openstack-icehouse-installer-ubuntu1404lts</Name>
+        <Title>openstack-icehouse-i&#x2026;</Title>
+        <RepoName>tigerlinux/openstack-icehouse-installer-ubuntu1404lts</RepoName>
+        <Description>Instalador semiautomatizado para OpenStack ICEHOUSE sobre Ubuntu Server 14.04LTS</Description>
+        <Owner>tigerlinux</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tigerlinux</Name>
+                <User>tigerlinux</User>
+                <Url>https://github.com/tigerlinux</Url>
+                <Location>Galicia, Spain</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Shell; Python</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2015-04-01T23:32:16Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tigerlinux/openstack-pike-installer-centos7">
+        <Url>https://github.com/tigerlinux/openstack-pike-installer-centos7</Url>
+        <Name>openstack-pike-installer-centos7</Name>
+        <Title>openstack-pike-insta&#x2026;</Title>
+        <RepoName>tigerlinux/openstack-pike-installer-centos7</RepoName>
+        <Description>OpenStack Release 16 (PIKE) Automated installer for Centos 7</Description>
+        <Owner>tigerlinux</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tigerlinux</Name>
+                <User>tigerlinux</User>
+                <Url>https://github.com/tigerlinux</Url>
+                <Location>Galicia, Spain</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Shell; Python; HTML</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2020-04-22T15:48:09Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tigerlinux/openstack-juno-installer-ubuntu14">
+        <Url>https://github.com/tigerlinux/openstack-juno-installer-ubuntu14</Url>
+        <Name>openstack-juno-installer-ubuntu14</Name>
+        <Title>openstack-juno-insta&#x2026;</Title>
+        <RepoName>tigerlinux/openstack-juno-installer-ubuntu14</RepoName>
+        <Description>Instalador desatendido (semi-automatizado) para OpenStack JUNO sobre UBUNTU 14</Description>
+        <Owner>tigerlinux</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tigerlinux</Name>
+                <User>tigerlinux</User>
+                <Url>https://github.com/tigerlinux</Url>
+                <Location>Galicia, Spain</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Shell; Python; ApacheConf; HTML</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2015-04-01T23:31:40Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tigerlinux/openstack-kilo-installer-ubuntu1404lts">
+        <Url>https://github.com/tigerlinux/openstack-kilo-installer-ubuntu1404lts</Url>
+        <Name>openstack-kilo-installer-ubuntu1404lts</Name>
+        <Title>openstack-kilo-insta&#x2026;</Title>
+        <RepoName>tigerlinux/openstack-kilo-installer-ubuntu1404lts</RepoName>
+        <Description>OpenStack KILO Semi-Automated Installer for Ubuntu Server 14.04lts</Description>
+        <Owner>tigerlinux</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tigerlinux</Name>
+                <User>tigerlinux</User>
+                <Url>https://github.com/tigerlinux</Url>
+                <Location>Galicia, Spain</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Shell; Python; HTML</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Venezuela</CountryOrigin>
+        <UpdatedAt>2018-01-26T04:23:10Z</UpdatedAt>
+    </Dependency>
+</Dependencies>

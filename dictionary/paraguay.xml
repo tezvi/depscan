@@ -1,0 +1,3053 @@
+<?xml version="1.0"?>
+<Dependencies>
+    <Dependency name="camilojd/sequeljs">
+        <Url>https://github.com/camilojd/sequeljs</Url>
+        <Name>sequeljs</Name>
+        <Title>sequeljs</Title>
+        <RepoName>camilojd/sequeljs</RepoName>
+        <Description>SQL parser/formatter written in JavaScript</Description>
+        <Owner>camilojd</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>camilojd</Name>
+                <User>camilojd</User>
+                <Url>https://github.com/camilojd</Url>
+                <Location>Berlin</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; CSS; Batchfile; Shell</LanguageTags>
+        <WatchersCount>24</WatchersCount>
+        <ForksCount>8</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2021-04-18T10:46:31Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="cabupy/node-cotizaciones">
+        <Url>https://github.com/cabupy/node-cotizaciones</Url>
+        <Name>node-cotizaciones</Name>
+        <Title>node-cotizaciones</Title>
+        <RepoName>cabupy/node-cotizaciones</RepoName>
+        <Description>Es una API REST desarrollada en NODE.JS para obtener cotizaciones de casas de cambio. En paraguay.</Description>
+        <Owner>cabupy</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>cabupy</Name>
+                <User>cabupy</User>
+                <Url>https://github.com/cabupy</Url>
+                <Location>Paraguay</Location>
+                <Email>cabupy@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>15</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2017-12-14T18:18:00Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="luchobenitez/docscraperpy">
+        <Url>https://github.com/luchobenitez/docscraperpy</Url>
+        <Name>docscraperpy</Name>
+        <Title>docscraperpy</Title>
+        <RepoName>luchobenitez/docscraperpy</RepoName>
+        <Description>Document scraper for .py, anything we can find on the web about documents</Description>
+        <Owner>luchobenitez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>luchobenitez</Name>
+                <User>luchobenitez</User>
+                <Url>https://github.com/luchobenitez</Url>
+                <Location>Paraguay</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2018-07-26T20:43:28Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="mbaez/bubbles-chart">
+        <Url>https://github.com/mbaez/bubbles-chart</Url>
+        <Name>bubbles-chart</Name>
+        <Title>bubbles-chart</Title>
+        <RepoName>mbaez/bubbles-chart</RepoName>
+        <Description>A javascript library to build bubble chart using d3 and d3plus</Description>
+        <Owner>mbaez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>mbaez</Name>
+                <User>mbaez</User>
+                <Url>https://github.com/mbaez</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>mxbg.py@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; CSS</LanguageTags>
+        <WatchersCount>9</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2021-08-16T17:18:02Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="nemesiscodex/openfonacide">
+        <Url>https://github.com/nemesiscodex/openfonacide</Url>
+        <Name>openfonacide</Name>
+        <Title>openfonacide</Title>
+        <RepoName>nemesiscodex/openfonacide</RepoName>
+        <Description>Open Data platform for the fonacide project in Paraguay</Description>
+        <Owner>nemesiscodex</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>nemesiscodex</Name>
+                <User>nemesiscodex</User>
+                <Url>https://github.com/nemesiscodex</Url>
+                <Location>Paraguay</Location>
+                <Email>nemesiscodex@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; HTML; Python; Shell; ApacheConf</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2019-08-13T15:54:06Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="mbaez/elastic-lists">
+        <Url>https://github.com/mbaez/elastic-lists</Url>
+        <Name>elastic-lists</Name>
+        <Title>elastic-lists</Title>
+        <RepoName>mbaez/elastic-lists</RepoName>
+        <Description>A javascript library to build elastic lists</Description>
+        <Owner>mbaez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>mbaez</Name>
+                <User>mbaez</User>
+                <Url>https://github.com/mbaez</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>mxbg.py@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; HTML</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2020-02-05T00:44:43Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="javierpelozo/notas">
+        <Url>https://github.com/javierpelozo/notas</Url>
+        <Name>notas</Name>
+        <Title>notas</Title>
+        <RepoName>javierpelozo/notas</RepoName>
+        <Description>:notebook_with_decorative_cover: App sencilla para guardar y eliminar notas, etc.</Description>
+        <Owner>javierpelozo</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>javierpelozo</Name>
+                <User>javierpelozo</User>
+                <Url>https://github.com/javierpelozo</Url>
+                <Location>Paraguay</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; HTML</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2017-11-10T03:37:18Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="josego85/curso_mapas">
+        <Url>https://github.com/josego85/curso_mapas</Url>
+        <Name>curso_mapas</Name>
+        <Title>curso_mapas</Title>
+        <RepoName>josego85/curso_mapas</RepoName>
+        <Description>Un curso sobre creaci&#xF3;n y desarrollo de mapas. La idea es aprender muchas cosas &#xFA;tiles sobre creaci&#xF3;n de mapas, configurar servidores de mapas,
+            consumir datos OSM, etc; y que les sirva en su vida profesional.
+        </Description>
+        <Owner>josego85</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>josego85</Name>
+                <User>josego85</User>
+                <Url>https://github.com/josego85</Url>
+                <Location>Asunci&#xF3;n - Paraguay</Location>
+                <Email>josego85@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; HTML; PHP; TSQL</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>7</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2020-06-14T01:38:02Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="nemesiscodex/voting-app">
+        <Url>https://github.com/nemesiscodex/voting-app</Url>
+        <Name>voting-app</Name>
+        <Title>voting-app</Title>
+        <RepoName>nemesiscodex/voting-app</RepoName>
+        <Description>FreeCodeCamp Basejump: Build a Voting App</Description>
+        <Owner>nemesiscodex</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>nemesiscodex</Name>
+                <User>nemesiscodex</User>
+                <Url>https://github.com/nemesiscodex</Url>
+                <Location>Paraguay</Location>
+                <Email>nemesiscodex@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; ApacheConf; CSS</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2015-12-30T00:43:27Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="roskoff/nodesterappswatcher">
+        <Url>https://github.com/roskoff/nodesterappswatcher</Url>
+        <Name>nodesterappswatcher</Name>
+        <Title>nodesterappswatcher</Title>
+        <RepoName>roskoff/nodesterappswatcher</RepoName>
+        <Description>Simple extension to watch over your apps hosted on nodester.com!</Description>
+        <Owner>roskoff</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>roskoff</Name>
+                <User>roskoff</User>
+                <Url>https://github.com/roskoff</Url>
+                <Location>Paraguay</Location>
+                <Email>roskoff@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2016-09-05T02:04:08Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="josego85/api-geo-paraguay">
+        <Url>https://github.com/josego85/api-geo-paraguay</Url>
+        <Name>api-geo-paraguay</Name>
+        <Title>api-geo-paraguay</Title>
+        <RepoName>josego85/api-geo-paraguay</RepoName>
+        <Description>API GEO - Paraguay</Description>
+        <Owner>josego85</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>josego85</Name>
+                <User>josego85</User>
+                <Url>https://github.com/josego85</Url>
+                <Location>Asunci&#xF3;n - Paraguay</Location>
+                <Email>josego85@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; Shell</LanguageTags>
+        <WatchersCount>24</WatchersCount>
+        <ForksCount>10</ForksCount>
+        <OpenIssuesCount>4</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2021-11-22T16:06:31Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="mbaez/securityjs">
+        <Url>https://github.com/mbaez/securityjs</Url>
+        <Name>securityjs</Name>
+        <Title>securityjs</Title>
+        <RepoName>mbaez/securityjs</RepoName>
+        <Description>JavaScript library to simplify the management of permissions on HTML&amp;JavaScript applications.</Description>
+        <Owner>mbaez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>mbaez</Name>
+                <User>mbaez</User>
+                <Url>https://github.com/mbaez</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>mxbg.py@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; CSS</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2018-04-23T21:02:21Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="nemesiscodex/codein-chrome-leaderboard">
+        <Url>https://github.com/nemesiscodex/codein-chrome-leaderboard</Url>
+        <Name>codein-chrome-leaderboard</Name>
+        <Title>codein-chrome-leader&#x2026;</Title>
+        <RepoName>nemesiscodex/codein-chrome-leaderboard</RepoName>
+        <Description>Unofficial google code-in leaderboard chrome extension</Description>
+        <Owner>nemesiscodex</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>nemesiscodex</Name>
+                <User>nemesiscodex</User>
+                <Url>https://github.com/nemesiscodex</Url>
+                <Location>Paraguay</Location>
+                <Email>nemesiscodex@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML</LanguageTags>
+        <WatchersCount>1</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2019-12-14T16:25:22Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="demianfe/react-toolbox-reactrouter-mocha-boilerplate">
+        <Url>https://github.com/demianfe/react-toolbox-reactrouter-mocha-boilerplate</Url>
+        <Name>react-toolbox-reactrouter-mocha-boilerplate</Name>
+        <Title>react-toolbox-reactr&#x2026;</Title>
+        <RepoName>demianfe/react-toolbox-reactrouter-mocha-boilerplate</RepoName>
+        <Description/>
+        <Owner>demianfe</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>demianfe</Name>
+                <User>demianfe</User>
+                <Url>https://github.com/demianfe</Url>
+                <Location>Paraguay</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; HTML</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2016-07-16T19:53:36Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ivankoop/Mosquito-Attack-Game">
+        <Url>https://github.com/ivankoop/Mosquito-Attack-Game</Url>
+        <Name>Mosquito-Attack-Game</Name>
+        <Title>Mosquito-Attack-Game</Title>
+        <RepoName>ivankoop/Mosquito-Attack-Game</RepoName>
+        <Description>Global Game Jam 2018 game</Description>
+        <Owner>ivankoop</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ivankoop</Name>
+                <User>ivankoop</User>
+                <Url>https://github.com/ivankoop</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>ivankoop3@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; PHP</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2018-02-19T19:22:09Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="cmelgarejo/api-proxy">
+        <Url>https://github.com/cmelgarejo/api-proxy</Url>
+        <Name>api-proxy</Name>
+        <Title>api-proxy</Title>
+        <RepoName>cmelgarejo/api-proxy</RepoName>
+        <Description>Simple API Proxy project - no storage layer, proxies results from underlaying APIs</Description>
+        <Owner>cmelgarejo</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>cmelgarejo</Name>
+                <User>cmelgarejo</User>
+                <Url>https://github.com/cmelgarejo</Url>
+                <Location>San Lorenzo, Paraguay</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; Dockerfile; Shell</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>5</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2021-08-05T11:54:07Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="mbaez/front-seed">
+        <Url>https://github.com/mbaez/front-seed</Url>
+        <Name>front-seed</Name>
+        <Title>front-seed</Title>
+        <RepoName>mbaez/front-seed</RepoName>
+        <Description>Frontend seed project, using bower and grunt.</Description>
+        <Owner>mbaez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>mbaez</Name>
+                <User>mbaez</User>
+                <Url>https://github.com/mbaez</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>mxbg.py@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; CSS</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2017-05-28T03:49:43Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="roskoff/olimpianextmatch">
+        <Url>https://github.com/roskoff/olimpianextmatch</Url>
+        <Name>olimpianextmatch</Name>
+        <Title>olimpianextmatch</Title>
+        <RepoName>roskoff/olimpianextmatch</RepoName>
+        <Description>Extensi&#xF3;n para Google Chrome que muestra el siguiente partido de Olimpia, con informaci&#xF3;n relevante (precios de entradas, horarios, adversario,
+            etc.)
+        </Description>
+        <Owner>roskoff</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>roskoff</Name>
+                <User>roskoff</User>
+                <Url>https://github.com/roskoff</Url>
+                <Location>Paraguay</Location>
+                <Email>roskoff@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2017-03-01T02:33:55Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jencisopy/JavaBeanStack">
+        <Url>https://github.com/jencisopy/JavaBeanStack</Url>
+        <Name>JavaBeanStack</Name>
+        <Title>JavaBeanStack</Title>
+        <RepoName>jencisopy/JavaBeanStack</RepoName>
+        <Description>Framework para construcci&#xF3;n de aplicaciones Java EE 7 y 8</Description>
+        <Owner>jencisopy</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jencisopy</Name>
+                <User>jencisopy</User>
+                <Url>https://github.com/jencisopy</Url>
+                <Location>Paraguay</Location>
+                <Email>jorge.enciso.r@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; HTML</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2022-01-11T02:03:13Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="hofmanndavid/easylayout">
+        <Url>https://github.com/hofmanndavid/easylayout</Url>
+        <Name>easylayout</Name>
+        <Title>easylayout</Title>
+        <RepoName>hofmanndavid/easylayout</RepoName>
+        <Description>Completely unorthodox but extremely productive API wrappers for Vaadin Layouts</Description>
+        <Owner>hofmanndavid</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>hofmanndavid</Name>
+                <User>hofmanndavid</User>
+                <Url>https://github.com/hofmanndavid</Url>
+                <Location>Asuncion, Paraguay</Location>
+                <Email>hofmanndavid@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2017-10-25T23:46:23Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="pablo/raf">
+        <Url>https://github.com/pablo/raf</Url>
+        <Name>raf</Name>
+        <Title>raf</Title>
+        <RepoName>pablo/raf</RepoName>
+        <Description>Roshka API Framework</Description>
+        <Owner>pablo</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>pablo</Name>
+                <User>pablo</User>
+                <Url>https://github.com/pablo</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>pablo@roshka.com.py</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2020-10-11T19:56:18Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="pablo/NumberTextWatcher">
+        <Url>https://github.com/pablo/NumberTextWatcher</Url>
+        <Name>NumberTextWatcher</Name>
+        <Title>NumberTextWatcher</Title>
+        <RepoName>pablo/NumberTextWatcher</RepoName>
+        <Description/>
+        <Owner>pablo</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>pablo</Name>
+                <User>pablo</User>
+                <Url>https://github.com/pablo</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>pablo@roshka.com.py</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>9</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2016-11-08T21:11:41Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alefq/asistente-eventos">
+        <Url>https://github.com/alefq/asistente-eventos</Url>
+        <Name>asistente-eventos</Name>
+        <Title>asistente-eventos</Title>
+        <RepoName>alefq/asistente-eventos</RepoName>
+        <Description>Prueba de aplicaci&#xF3;n tekoporu</Description>
+        <Owner>alefq</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alefq</Name>
+                <User>alefq</User>
+                <Url>https://github.com/alefq</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>alefeltes@sodep.com.py</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; CSS</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2019-08-13T15:26:16Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Daniel25A/Sistemas">
+        <Url>https://github.com/Daniel25A/Sistemas</Url>
+        <Name>Sistemas</Name>
+        <Title>Sistemas</Title>
+        <RepoName>Daniel25A/Sistemas</RepoName>
+        <Description/>
+        <Owner>Daniel25A</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Daniel25A</Name>
+                <User>Daniel25A</User>
+                <Url>https://github.com/Daniel25A</Url>
+                <Location>Ayolas - Misiones</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="lopezbertoni/SampleAspNetCoreApp">
+        <Url>https://github.com/lopezbertoni/SampleAspNetCoreApp</Url>
+        <Name>SampleAspNetCoreApp</Name>
+        <Title>SampleAspNetCoreApp</Title>
+        <RepoName>lopezbertoni/SampleAspNetCoreApp</RepoName>
+        <Description/>
+        <Owner>lopezbertoni</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>lopezbertoni</Name>
+                <User>lopezbertoni</User>
+                <Url>https://github.com/lopezbertoni</Url>
+                <Location>Paraguay</Location>
+                <Email>federico@greenlight.com.py</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>HTML; C#; CSS; JavaScript; Batchfile</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2019-02-21T09:05:19Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="lopezbertoni/PrintMonitor">
+        <Url>https://github.com/lopezbertoni/PrintMonitor</Url>
+        <Name>PrintMonitor</Name>
+        <Title>PrintMonitor</Title>
+        <RepoName>lopezbertoni/PrintMonitor</RepoName>
+        <Description>App to monitor printer problems</Description>
+        <Owner>lopezbertoni</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>lopezbertoni</Name>
+                <User>lopezbertoni</User>
+                <Url>https://github.com/lopezbertoni</Url>
+                <Location>Paraguay</Location>
+                <Email>federico@greenlight.com.py</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2017-04-20T13:25:28Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="wcs/tepid">
+        <Url>https://github.com/wcs/tepid</Url>
+        <Name>tepid</Name>
+        <Title>tepid</Title>
+        <RepoName>wcs/tepid</RepoName>
+        <Description>Theme I use in my blog</Description>
+        <Owner>wcs</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>wcs</Name>
+                <User>wcs</User>
+                <Url>https://github.com/wcs</Url>
+                <Location>Paraguay</Location>
+                <Email>killos@ereerea.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>CSS; JavaScript</LanguageTags>
+        <WatchersCount>47</WatchersCount>
+        <ForksCount>13</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2021-07-31T02:39:48Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kitsunelli/fsociety-cv">
+        <Url>https://github.com/kitsunelli/fsociety-cv</Url>
+        <Name>fsociety-cv</Name>
+        <Title>fsociety-cv</Title>
+        <RepoName>kitsunelli/fsociety-cv</RepoName>
+        <Description/>
+        <Owner>kitsunelli</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kitsunelli</Name>
+                <User>kitsunelli</User>
+                <Url>https://github.com/kitsunelli</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="flopezpires/iMaVMP">
+        <Url>https://github.com/flopezpires/iMaVMP</Url>
+        <Name>iMaVMP</Name>
+        <Title>iMaVMP</Title>
+        <RepoName>flopezpires/iMaVMP</RepoName>
+        <Description>Interactive Memetic Algorithm for Virtual Machine Placement (iMAVMP)</Description>
+        <Owner>flopezpires</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>flopezpires</Name>
+                <User>flopezpires</User>
+                <Url>https://github.com/flopezpires</Url>
+                <Location>Paraguay</Location>
+                <Email>flopezpires@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C; Shell; Makefile</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2021-05-31T20:32:16Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="garyservin/serial-example">
+        <Url>https://github.com/garyservin/serial-example</Url>
+        <Name>serial-example</Name>
+        <Title>serial-example</Title>
+        <RepoName>garyservin/serial-example</RepoName>
+        <Description>Simple use of http://wjwwood.io/serial/ library with ROS</Description>
+        <Owner>garyservin</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>garyservin</Name>
+                <User>garyservin</User>
+                <Url>https://github.com/garyservin</Url>
+                <Location>Asunci&#xF3;n - Paraguay</Location>
+                <Email>gary@servin.dev</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++</LanguageTags>
+        <WatchersCount>35</WatchersCount>
+        <ForksCount>24</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2022-03-15T13:13:25Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="chilabot/chila">
+        <Url>https://github.com/chilabot/chila</Url>
+        <Name>chila</Name>
+        <Title>chila</Title>
+        <RepoName>chilabot/chila</RepoName>
+        <Description>Chila's Tools</Description>
+        <Owner>chilabot</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>chilabot</Name>
+                <User>chilabot</User>
+                <Url>https://github.com/chilabot</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>chilabot@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; Python; QML; Shell</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2020-07-30T23:55:06Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="matiasinsaurralde/transports">
+        <Url>https://github.com/matiasinsaurralde/transports</Url>
+        <Name>transports</Name>
+        <Title>transports</Title>
+        <RepoName>matiasinsaurralde/transports</RepoName>
+        <Description>A HTTP proxy that aims to support different transports.</Description>
+        <Owner>matiasinsaurralde</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>matiasinsaurralde</Name>
+                <User>matiasinsaurralde</User>
+                <Url>https://github.com/matiasinsaurralde</Url>
+                <Location>Paraguay</Location>
+                <Email>matias@insaurral.de</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Go; Protocol Buffer</LanguageTags>
+        <WatchersCount>95</WatchersCount>
+        <ForksCount>8</ForksCount>
+        <OpenIssuesCount>5</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2022-03-03T15:08:43Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="matiasinsaurralde/go-web-shell">
+        <Url>https://github.com/matiasinsaurralde/go-web-shell</Url>
+        <Name>go-web-shell</Name>
+        <Title>go-web-shell</Title>
+        <RepoName>matiasinsaurralde/go-web-shell</RepoName>
+        <Description>Simple web shell (+web server). Got it running on a rooted Android (checkout Makefile for ARM settings).</Description>
+        <Owner>matiasinsaurralde</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>matiasinsaurralde</Name>
+                <User>matiasinsaurralde</User>
+                <Url>https://github.com/matiasinsaurralde</Url>
+                <Location>Paraguay</Location>
+                <Email>matias@insaurral.de</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Go; Makefile</LanguageTags>
+        <WatchersCount>20</WatchersCount>
+        <ForksCount>10</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2020-09-16T19:15:00Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="matiasinsaurralde/cgo-channels">
+        <Url>https://github.com/matiasinsaurralde/cgo-channels</Url>
+        <Name>cgo-channels</Name>
+        <Title>cgo-channels</Title>
+        <RepoName>matiasinsaurralde/cgo-channels</RepoName>
+        <Description>A quick program to explore the idea of sending data to a Go channel from C.</Description>
+        <Owner>matiasinsaurralde</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>matiasinsaurralde</Name>
+                <User>matiasinsaurralde</User>
+                <Url>https://github.com/matiasinsaurralde</Url>
+                <Location>Paraguay</Location>
+                <Email>matias@insaurral.de</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Go; C</LanguageTags>
+        <WatchersCount>25</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2021-10-08T02:50:52Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="matiasinsaurralde/loudp2p">
+        <Url>https://github.com/matiasinsaurralde/loudp2p</Url>
+        <Name>loudp2p</Name>
+        <Title>loudp2p</Title>
+        <RepoName>matiasinsaurralde/loudp2p</RepoName>
+        <Description>Experimental peer to peer network for music streaming.</Description>
+        <Owner>matiasinsaurralde</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>matiasinsaurralde</Name>
+                <User>matiasinsaurralde</User>
+                <Url>https://github.com/matiasinsaurralde</Url>
+                <Location>Paraguay</Location>
+                <Email>matias@insaurral.de</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Go; Protocol Buffer; Shell</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2018-04-10T16:10:51Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="matiasinsaurralde/go-dbscan">
+        <Url>https://github.com/matiasinsaurralde/go-dbscan</Url>
+        <Name>go-dbscan</Name>
+        <Title>go-dbscan</Title>
+        <RepoName>matiasinsaurralde/go-dbscan</RepoName>
+        <Description>Some implementation of DBSCAN</Description>
+        <Owner>matiasinsaurralde</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>matiasinsaurralde</Name>
+                <User>matiasinsaurralde</User>
+                <Url>https://github.com/matiasinsaurralde</Url>
+                <Location>Paraguay</Location>
+                <Email>matias@insaurral.de</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Go</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2019-08-13T15:26:49Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="matiasinsaurralde/sl">
+        <Url>https://github.com/matiasinsaurralde/sl</Url>
+        <Name>sl</Name>
+        <Title>sl</Title>
+        <RepoName>matiasinsaurralde/sl</RepoName>
+        <Description>Int&#xE9;rprete experimental de SL, basado en Go.</Description>
+        <Owner>matiasinsaurralde</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>matiasinsaurralde</Name>
+                <User>matiasinsaurralde</User>
+                <Url>https://github.com/matiasinsaurralde</Url>
+                <Location>Paraguay</Location>
+                <Email>matias@insaurral.de</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Go; Slash</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2019-07-16T16:38:04Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="matiasinsaurralde/go-lua-benchmark">
+        <Url>https://github.com/matiasinsaurralde/go-lua-benchmark</Url>
+        <Name>go-lua-benchmark</Name>
+        <Title>go-lua-benchmark</Title>
+        <RepoName>matiasinsaurralde/go-lua-benchmark</RepoName>
+        <Description>Comparing the performance of LuaJIT embedded in Go.</Description>
+        <Owner>matiasinsaurralde</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>matiasinsaurralde</Name>
+                <User>matiasinsaurralde</User>
+                <Url>https://github.com/matiasinsaurralde</Url>
+                <Location>Paraguay</Location>
+                <Email>matias@insaurral.de</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Go; Lua</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2019-02-27T03:46:09Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="imfx/FFBackgroundParallax">
+        <Url>https://github.com/imfx/FFBackgroundParallax</Url>
+        <Name>FFBackgroundParallax</Name>
+        <Title>FFBackgroundParallax</Title>
+        <RepoName>imfx/FFBackgroundParallax</RepoName>
+        <Description>Background Parallax is a simple example for parallax scrolling based on several UIScrollViews.</Description>
+        <Owner>imfx</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>imfx</Name>
+                <User>imfx</User>
+                <Url>https://github.com/imfx</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C; Ruby</LanguageTags>
+        <WatchersCount>83</WatchersCount>
+        <ForksCount>13</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2021-08-02T02:25:48Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="imfx/FFDropdownMenu">
+        <Url>https://github.com/imfx/FFDropdownMenu</Url>
+        <Name>FFDropdownMenu</Name>
+        <Title>FFDropdownMenu</Title>
+        <RepoName>imfx/FFDropdownMenu</RepoName>
+        <Description>Dropdown Menu Field using RMPickerViewController</Description>
+        <Owner>imfx</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>imfx</Name>
+                <User>imfx</User>
+                <Url>https://github.com/imfx</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C; Ruby</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2017-09-06T16:19:56Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/LanguageDetector">
+        <Url>https://github.com/crodas/LanguageDetector</Url>
+        <Name>LanguageDetector</Name>
+        <Title>LanguageDetector</Title>
+        <RepoName>crodas/LanguageDetector</RepoName>
+        <Description>PHP Class to detect languages from any free text</Description>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>318</WatchersCount>
+        <ForksCount>66</ForksCount>
+        <OpenIssuesCount>7</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2022-03-23T13:01:24Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/ActiveMongo">
+        <Url>https://github.com/crodas/ActiveMongo</Url>
+        <Name>ActiveMongo</Name>
+        <Title>ActiveMongo</Title>
+        <RepoName>crodas/ActiveMongo</RepoName>
+        <Description>Simple and efficient ActiveRecord data abstraction for MongoDB</Description>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; Shell</LanguageTags>
+        <WatchersCount>148</WatchersCount>
+        <ForksCount>22</ForksCount>
+        <OpenIssuesCount>8</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2021-07-24T09:54:08Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/Haanga">
+        <Url>https://github.com/crodas/Haanga</Url>
+        <Name>Haanga</Name>
+        <Title>Haanga</Title>
+        <RepoName>crodas/Haanga</RepoName>
+        <Description>Template compiler for PHP, Django-style (as much as possible). Pretty efficent by avoiding to have anything at run-time.</Description>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; Yacc; Smarty; HTML; Makefile</LanguageTags>
+        <WatchersCount>141</WatchersCount>
+        <ForksCount>30</ForksCount>
+        <OpenIssuesCount>7</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2021-10-09T01:43:19Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/TextRank">
+        <Url>https://github.com/crodas/TextRank</Url>
+        <Name>TextRank</Name>
+        <Title>TextRank</Title>
+        <RepoName>crodas/TextRank</RepoName>
+        <Description>extract relevant keywords from a given text</Description>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>103</WatchersCount>
+        <ForksCount>24</ForksCount>
+        <OpenIssuesCount>4</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2022-03-21T16:57:21Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/InfluxPHP">
+        <Url>https://github.com/crodas/InfluxPHP</Url>
+        <Name>InfluxPHP</Name>
+        <Title>InfluxPHP</Title>
+        <RepoName>crodas/InfluxPHP</RepoName>
+        <Description>Simple PHP client for InfluxDB</Description>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>61</WatchersCount>
+        <ForksCount>31</ForksCount>
+        <OpenIssuesCount>13</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2021-05-02T06:54:15Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/php-git">
+        <Url>https://github.com/crodas/php-git</Url>
+        <Name>php-git</Name>
+        <Title>php-git</Title>
+        <RepoName>crodas/php-git</RepoName>
+        <Description>Pure PHP script which allows to performs read-only operations plus repositories clone (over HTTP).</Description>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; JavaScript</LanguageTags>
+        <WatchersCount>51</WatchersCount>
+        <ForksCount>9</ForksCount>
+        <OpenIssuesCount>4</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2021-07-27T07:32:43Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/Notoj">
+        <Url>https://github.com/crodas/Notoj</Url>
+        <Name>Notoj</Name>
+        <Title>Notoj</Title>
+        <RepoName>crodas/Notoj</RepoName>
+        <Description>Yet another annotation parser (DocBlocks)</Description>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; Yacc</LanguageTags>
+        <WatchersCount>38</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2020-02-10T14:44:46Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="imroca/Bancard">
+        <Url>https://github.com/imroca/Bancard</Url>
+        <Name>Bancard</Name>
+        <Title>Bancard</Title>
+        <RepoName>imroca/Bancard</RepoName>
+        <Description>Abstract simple Bancard API Client for PHP.</Description>
+        <Owner>imroca</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>imroca</Name>
+                <User>imroca</User>
+                <Url>https://github.com/imroca</Url>
+                <Location>Asuncion, Paraguay</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>38</WatchersCount>
+        <ForksCount>17</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2022-03-08T01:37:46Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/MongoFS">
+        <Url>https://github.com/crodas/MongoFS</Url>
+        <Name>MongoFS</Name>
+        <Title>MongoFS</Title>
+        <RepoName>crodas/MongoFS</RepoName>
+        <Description>PHP Streams Wrappers for MongoDB GridFS</Description>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>23</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2018-02-06T19:44:46Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/phpcluster">
+        <Url>https://github.com/crodas/phpcluster</Url>
+        <Name>phpcluster</Name>
+        <Title>phpcluster</Title>
+        <RepoName>crodas/phpcluster</RepoName>
+        <Description>Unsupervised learning algorithm in PHP</Description>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>16</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2019-08-13T14:22:25Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/textrank-old">
+        <Url>https://github.com/crodas/textrank-old</Url>
+        <Name>textrank-old</Name>
+        <Title>textrank-old</Title>
+        <RepoName>crodas/textrank-old</RepoName>
+        <Description>Class to extract relevant words from a given text</Description>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>12</WatchersCount>
+        <ForksCount>7</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2018-03-05T17:31:00Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/Bancard">
+        <Url>https://github.com/crodas/Bancard</Url>
+        <Name>Bancard</Name>
+        <Title>Bancard</Title>
+        <RepoName>crodas/Bancard</RepoName>
+        <Description>Libreria para pagos con Bancard</Description>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>11</WatchersCount>
+        <ForksCount>8</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2019-12-31T22:01:52Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/Autoloader">
+        <Url>https://github.com/crodas/Autoloader</Url>
+        <Name>Autoloader</Name>
+        <Title>Autoloader</Title>
+        <RepoName>crodas/Autoloader</RepoName>
+        <Description>Proper autoloader for PHP</Description>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; Shell</LanguageTags>
+        <WatchersCount>11</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2020-04-25T09:58:19Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/SQLParser">
+        <Url>https://github.com/crodas/SQLParser</Url>
+        <Name>SQLParser</Name>
+        <Title>SQLParser</Title>
+        <RepoName>crodas/SQLParser</RepoName>
+        <Description>SQL-Parser</Description>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; Yacc; Makefile; PLpgSQL</LanguageTags>
+        <WatchersCount>14</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2021-05-13T03:45:25Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/Dispatcher">
+        <Url>https://github.com/crodas/Dispatcher</Url>
+        <Name>Dispatcher</Name>
+        <Title>Dispatcher</Title>
+        <RepoName>crodas/Dispatcher</RepoName>
+        <Description>Creates an url dispatcher for your project</Description>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; Shell</LanguageTags>
+        <WatchersCount>9</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2016-04-01T13:40:13Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/WatchFiles">
+        <Url>https://github.com/crodas/WatchFiles</Url>
+        <Name>WatchFiles</Name>
+        <Title>WatchFiles</Title>
+        <RepoName>crodas/WatchFiles</RepoName>
+        <Description>Stateless way of watching files and directory for changes</Description>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; Shell</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2016-01-28T21:28:39Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/Artifex">
+        <Url>https://github.com/crodas/Artifex</Url>
+        <Name>Artifex</Name>
+        <Title>Artifex</Title>
+        <RepoName>crodas/Artifex</RepoName>
+        <Description>PHP Code generator for mere mortals</Description>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2019-05-25T18:56:56Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="everdaniel/codeigniter-project-template">
+        <Url>https://github.com/everdaniel/codeigniter-project-template</Url>
+        <Name>codeigniter-project-template</Name>
+        <Title>codeigniter-project-&#x2026;</Title>
+        <RepoName>everdaniel/codeigniter-project-template</RepoName>
+        <Description>A CodeIgniter project template</Description>
+        <Owner>everdaniel</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>everdaniel</Name>
+                <User>everdaniel</User>
+                <Url>https://github.com/everdaniel</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>everdaniel@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; JavaScript</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>10</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2020-06-10T18:14:02Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/Haanga2">
+        <Url>https://github.com/crodas/Haanga2</Url>
+        <Name>Haanga2</Name>
+        <Title>Haanga2</Title>
+        <RepoName>crodas/Haanga2</RepoName>
+        <Description>Clean rewrite of crodas/Haanga :-). This isn't finish. It is just a repository to show the progress. Do not use it yet.</Description>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2013-11-30T03:04:14Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="guhemama/worpdress-comment-reply-email-notification">
+        <Url>https://github.com/guhemama/worpdress-comment-reply-email-notification</Url>
+        <Name>worpdress-comment-reply-email-notification</Name>
+        <Title>worpdress-comment-re&#x2026;</Title>
+        <RepoName>guhemama/worpdress-comment-reply-email-notification</RepoName>
+        <Description>Wordpress plugin that notifies a comment author when his comment receives a reply</Description>
+        <Owner>guhemama</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>guhemama</Name>
+                <User>guhemama</User>
+                <Url>https://github.com/guhemama</Url>
+                <Location>Berlin, Germany</Location>
+                <Email>guhemama@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>14</WatchersCount>
+        <ForksCount>16</ForksCount>
+        <OpenIssuesCount>12</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2021-08-19T07:10:58Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/php-hadoop">
+        <Url>https://github.com/crodas/php-hadoop</Url>
+        <Name>php-hadoop</Name>
+        <Title>php-hadoop</Title>
+        <RepoName>crodas/php-hadoop</RepoName>
+        <Description>Simple PHP set of scripts to wrap Hadoop</Description>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2019-02-18T03:00:27Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/EasySQL">
+        <Url>https://github.com/crodas/EasySQL</Url>
+        <Name>EasySQL</Name>
+        <Title>EasySQL</Title>
+        <RepoName>crodas/EasySQL</RepoName>
+        <Description>Easiest SQL abstraction ever.</Description>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; PLpgSQL; Shell</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2019-09-17T13:23:59Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/ActiveMongo2">
+        <Url>https://github.com/crodas/ActiveMongo2</Url>
+        <Name>ActiveMongo2</Name>
+        <Title>ActiveMongo2</Title>
+        <RepoName>crodas/ActiveMongo2</RepoName>
+        <Description>PHP database abstraction for MongoDB</Description>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; Smarty; Shell</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2018-02-06T19:42:28Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="micayael/com.micayael.blog.ServidorRestSilex">
+        <Url>https://github.com/micayael/com.micayael.blog.ServidorRestSilex</Url>
+        <Name>com.micayael.blog.ServidorRestSilex</Name>
+        <Title>com.micayael.blog.Se&#x2026;</Title>
+        <RepoName>micayael/com.micayael.blog.ServidorRestSilex</RepoName>
+        <Description>Estructura b&#xE1;sica para creaci&#xF3;n de un servidor REST utilizando el microframework Silex</Description>
+        <Owner>micayael</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>micayael</Name>
+                <User>micayael</User>
+                <Url>https://github.com/micayael</Url>
+                <Location>Paraguay</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2018-07-27T13:36:24Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/SimpleView">
+        <Url>https://github.com/crodas/SimpleView</Url>
+        <Name>SimpleView</Name>
+        <Title>SimpleView</Title>
+        <RepoName>crodas/SimpleView</RepoName>
+        <Description>Simple view engine based on Laravel's Blade view Engine</Description>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; Bison; Makefile; CSS</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2015-05-07T17:49:50Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/brhackday">
+        <Url>https://github.com/crodas/brhackday</Url>
+        <Name>brhackday</Name>
+        <Title>brhackday</Title>
+        <RepoName>crodas/brhackday</RepoName>
+        <Description/>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; JavaScript; Shell</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2013-11-29T08:53:27Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/ClassInfo">
+        <Url>https://github.com/crodas/ClassInfo</Url>
+        <Name>ClassInfo</Name>
+        <Title>ClassInfo</Title>
+        <RepoName>crodas/ClassInfo</RepoName>
+        <Description>Get classes and functions defined in a given file</Description>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2018-04-20T14:12:23Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/Eath">
+        <Url>https://github.com/crodas/Eath</Url>
+        <Name>Eath</Name>
+        <Title>Eath</Title>
+        <RepoName>crodas/Eath</RepoName>
+        <Description>Super simple package installer for PHP</Description>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2018-12-11T23:42:14Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/Haanga-web">
+        <Url>https://github.com/crodas/Haanga-web</Url>
+        <Name>Haanga-web</Name>
+        <Title>Haanga-web</Title>
+        <RepoName>crodas/Haanga-web</RepoName>
+        <Description>Haanga Web site source code</Description>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; JavaScript; Shell</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2017-07-29T20:40:01Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/Phar-Builder">
+        <Url>https://github.com/crodas/Phar-Builder</Url>
+        <Name>Phar-Builder</Name>
+        <Title>Phar-Builder</Title>
+        <RepoName>crodas/Phar-Builder</RepoName>
+        <Description>Build Phar like a boss</Description>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2017-01-23T00:06:34Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/framework">
+        <Url>https://github.com/crodas/framework</Url>
+        <Name>framework</Name>
+        <Title>framework</Title>
+        <RepoName>crodas/framework</RepoName>
+        <Description>Tiny framework that I use daily, it is basically my libraries glued all together</Description>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; Perl</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2017-01-02T15:30:52Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/SimpleAssetManager">
+        <Url>https://github.com/crodas/SimpleAssetManager</Url>
+        <Name>SimpleAssetManager</Name>
+        <Title>SimpleAssetManager</Title>
+        <RepoName>crodas/SimpleAssetManager</RepoName>
+        <Description>Extremely simple asset manager for PHP</Description>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2014-11-05T14:02:29Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="pabloacastillo/Wordpress-PaypalPro-Plugin">
+        <Url>https://github.com/pabloacastillo/Wordpress-PaypalPro-Plugin</Url>
+        <Name>Wordpress-PaypalPro-Plugin</Name>
+        <Title>Wordpress-PaypalPro-&#x2026;</Title>
+        <RepoName>pabloacastillo/Wordpress-PaypalPro-Plugin</RepoName>
+        <Description>WebShop to make direct payments from your wordpress to your PaypalPro Account without leaving your site.</Description>
+        <Owner>pabloacastillo</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>pabloacastillo</Name>
+                <User>pabloacastillo</User>
+                <Url>https://github.com/pabloacastillo</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2016-12-02T16:35:50Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="adc91/backend-google-maps">
+        <Url>https://github.com/adc91/backend-google-maps</Url>
+        <Name>backend-google-maps</Name>
+        <Title>backend-google-maps</Title>
+        <RepoName>adc91/backend-google-maps</RepoName>
+        <Description>Plugin to add a Google Maps field in the October CMS Backend Forms</Description>
+        <Owner>adc91</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>adc91</Name>
+                <User>adc91</User>
+                <Url>https://github.com/adc91</Url>
+                <Location>Paraguay</Location>
+                <Email>adc.3191@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; HTML; JavaScript</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2021-09-08T18:44:53Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="bernaldani/QueComemos">
+        <Url>https://github.com/bernaldani/QueComemos</Url>
+        <Name>QueComemos</Name>
+        <Title>QueComemos</Title>
+        <RepoName>bernaldani/QueComemos</RepoName>
+        <Description>Aplicacion de delivery encarnacion</Description>
+        <Owner>bernaldani</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>bernaldani</Name>
+                <User>bernaldani</User>
+                <Url>https://github.com/bernaldani</Url>
+                <Location>Paraguay</Location>
+                <Email>bernaldani@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; CSS; JavaScript; Perl</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2016-10-12T22:30:27Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="pabloacastillo/EmojiOne-integration-for-Contact-Form-7">
+        <Url>https://github.com/pabloacastillo/EmojiOne-integration-for-Contact-Form-7</Url>
+        <Name>EmojiOne-integration-for-Contact-Form-7</Name>
+        <Title>EmojiOne-integration&#x2026;</Title>
+        <RepoName>pabloacastillo/EmojiOne-integration-for-Contact-Form-7</RepoName>
+        <Description>EmojiOne integration for Contact Form 7. The only way to get better answers, is to ask better questions.</Description>
+        <Owner>pabloacastillo</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>pabloacastillo</Name>
+                <User>pabloacastillo</User>
+                <Url>https://github.com/pabloacastillo</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; JavaScript; CSS</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2019-07-10T06:18:09Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/Validator">
+        <Url>https://github.com/crodas/Validator</Url>
+        <Name>Validator</Name>
+        <Title>Validator</Title>
+        <RepoName>crodas/Validator</RepoName>
+        <Description>Generate static validators to validate your data in PHP.</Description>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; Smarty; Shell</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2019-09-17T13:25:42Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="deyperez/ati">
+        <Url>https://github.com/deyperez/ati</Url>
+        <Name>ati</Name>
+        <Title>ati</Title>
+        <RepoName>deyperez/ati</RepoName>
+        <Description>Juntas podemos m&#xE1;s</Description>
+        <Owner>deyperez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>deyperez</Name>
+                <User>deyperez</User>
+                <Url>https://github.com/deyperez</Url>
+                <Location>Paraguay</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; JavaScript; CSS</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2014-11-20T15:15:38Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="crodas/old-Tuicha">
+        <Url>https://github.com/crodas/old-Tuicha</Url>
+        <Name>old-Tuicha</Name>
+        <Title>old-Tuicha</Title>
+        <RepoName>crodas/old-Tuicha</RepoName>
+        <Description>Simple mongodb abstraction for PHP. Tuicha means huge (humongous) in Guarani.</Description>
+        <Owner>crodas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>crodas</Name>
+                <User>crodas</User>
+                <Url>https://github.com/crodas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>crodas@php.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2016-12-18T00:36:22Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Karlheinzniebuhr/pythonbenchmark">
+        <Url>https://github.com/Karlheinzniebuhr/pythonbenchmark</Url>
+        <Name>pythonbenchmark</Name>
+        <Title>pythonbenchmark</Title>
+        <RepoName>Karlheinzniebuhr/pythonbenchmark</RepoName>
+        <Description>A simple Python Benchmark Library</Description>
+        <Owner>Karlheinzniebuhr</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Karlheinzniebuhr</Name>
+                <User>Karlheinzniebuhr</User>
+                <Url>https://github.com/Karlheinzniebuhr</Url>
+                <Location>Paraguay</Location>
+                <Email>karl.booklover@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>79</WatchersCount>
+        <ForksCount>7</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2022-01-31T10:29:56Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tchx84/twitter-gobject">
+        <Url>https://github.com/tchx84/twitter-gobject</Url>
+        <Name>twitter-gobject</Name>
+        <Title>twitter-gobject</Title>
+        <RepoName>tchx84/twitter-gobject</RepoName>
+        <Description>twitter-gobject allows you access Twitter's 1.1 REST API via a set of GObject based objects for easy integration with your GLib2 based code.</Description>
+        <Owner>tchx84</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tchx84</Name>
+                <User>tchx84</User>
+                <Url>https://github.com/tchx84</Url>
+                <Location>Paraguay</Location>
+                <Email>tch@sugarlabs.org</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>10</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2020-12-29T07:56:07Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Karlheinzniebuhr/torshammer">
+        <Url>https://github.com/Karlheinzniebuhr/torshammer</Url>
+        <Name>torshammer</Name>
+        <Title>torshammer</Title>
+        <RepoName>Karlheinzniebuhr/torshammer</RepoName>
+        <Description>A DOS Attack Tool</Description>
+        <Owner>Karlheinzniebuhr</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Karlheinzniebuhr</Name>
+                <User>Karlheinzniebuhr</User>
+                <Url>https://github.com/Karlheinzniebuhr</Url>
+                <Location>Paraguay</Location>
+                <Email>karl.booklover@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>36</WatchersCount>
+        <ForksCount>20</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2022-03-19T22:05:16Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tchx84/grtk">
+        <Url>https://github.com/tchx84/grtk</Url>
+        <Name>grtk</Name>
+        <Title>grtk</Title>
+        <RepoName>tchx84/grtk</RepoName>
+        <Description>Set of convenience scripts that allows developers to interact with redmine from CLI</Description>
+        <Owner>tchx84</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tchx84</Name>
+                <User>tchx84</User>
+                <Url>https://github.com/tchx84</Url>
+                <Location>Paraguay</Location>
+                <Email>tch@sugarlabs.org</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2019-08-13T15:26:01Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="joausaga/reportbytwitter">
+        <Url>https://github.com/joausaga/reportbytwitter</Url>
+        <Name>reportbytwitter</Name>
+        <Title>reportbytwitter</Title>
+        <RepoName>joausaga/reportbytwitter</RepoName>
+        <Description>Platform for collecting citizens' ideas and opinions about public interest issues through hashtag-supported social networks, such as Twitter, Facebook, Google
+            Plus.
+        </Description>
+        <Owner>joausaga</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>joausaga</Name>
+                <User>joausaga</User>
+                <Url>https://github.com/joausaga</Url>
+                <Location>Barcelona, Spain</Location>
+                <Email>jorgesaldivar@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; HTML</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2019-03-18T14:07:34Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Karlheinzniebuhr/Scrap.py">
+        <Url>https://github.com/Karlheinzniebuhr/Scrap.py</Url>
+        <Name>Scrap.py</Name>
+        <Title>Scrap.py</Title>
+        <RepoName>Karlheinzniebuhr/Scrap.py</RepoName>
+        <Description>Colecci&#xF3;n de herramientas para descargar datos p&#xFA;blicos del Paraguay</Description>
+        <Owner>Karlheinzniebuhr</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Karlheinzniebuhr</Name>
+                <User>Karlheinzniebuhr</User>
+                <Url>https://github.com/Karlheinzniebuhr</Url>
+                <Location>Paraguay</Location>
+                <Email>karl.booklover@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2020-07-22T05:00:25Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tchx84/repotools">
+        <Url>https://github.com/tchx84/repotools</Url>
+        <Name>repotools</Name>
+        <Title>repotools</Title>
+        <RepoName>tchx84/repotools</RepoName>
+        <Description>Helper scripts to manage chaotic rpm package repositories</Description>
+        <Owner>tchx84</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tchx84</Name>
+                <User>tchx84</User>
+                <Url>https://github.com/tchx84</Url>
+                <Location>Paraguay</Location>
+                <Email>tch@sugarlabs.org</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; Shell</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2015-12-18T17:47:59Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tchx84/bundletools">
+        <Url>https://github.com/tchx84/bundletools</Url>
+        <Name>bundletools</Name>
+        <Title>bundletools</Title>
+        <RepoName>tchx84/bundletools</RepoName>
+        <Description>Set of scripts to run your own Sugar bundles update server</Description>
+        <Owner>tchx84</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tchx84</Name>
+                <User>tchx84</User>
+                <Url>https://github.com/tchx84</Url>
+                <Location>Paraguay</Location>
+                <Email>tch@sugarlabs.org</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; Shell</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2019-08-13T15:39:42Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="joausaga/social-ideation">
+        <Url>https://github.com/joausaga/social-ideation</Url>
+        <Name>social-ideation</Name>
+        <Title>social-ideation</Title>
+        <RepoName>joausaga/social-ideation</RepoName>
+        <Description>Application that connects idea management platforms with general purpose social networks</Description>
+        <Owner>joausaga</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>joausaga</Name>
+                <User>joausaga</User>
+                <Url>https://github.com/joausaga</Url>
+                <Location>Barcelona, Spain</Location>
+                <Email>jorgesaldivar@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; HTML; CSS; Shell; JavaScript</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2022-01-26T00:59:38Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tchx84/grestful">
+        <Url>https://github.com/tchx84/grestful</Url>
+        <Name>grestful</Name>
+        <Title>grestful</Title>
+        <RepoName>tchx84/grestful</RepoName>
+        <Description>gRESTful helps you integrate RESTful web services with your Glib2 code</Description>
+        <Owner>tchx84</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tchx84</Name>
+                <User>tchx84</User>
+                <Url>https://github.com/tchx84</Url>
+                <Location>Paraguay</Location>
+                <Email>tch@sugarlabs.org</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2013-11-03T02:52:51Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Karlheinzniebuhr/XOR-encryption-demo">
+        <Url>https://github.com/Karlheinzniebuhr/XOR-encryption-demo</Url>
+        <Name>XOR-encryption-demo</Name>
+        <Title>XOR-encryption-demo</Title>
+        <RepoName>Karlheinzniebuhr/XOR-encryption-demo</RepoName>
+        <Description/>
+        <Owner>Karlheinzniebuhr</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Karlheinzniebuhr</Name>
+                <User>Karlheinzniebuhr</User>
+                <Url>https://github.com/Karlheinzniebuhr</Url>
+                <Location>Paraguay</Location>
+                <Email>karl.booklover@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2020-08-11T02:02:50Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ggimenez/IS2-IMPLEMENTACION">
+        <Url>https://github.com/ggimenez/IS2-IMPLEMENTACION</Url>
+        <Name>IS2-IMPLEMENTACION</Name>
+        <Title>IS2-IMPLEMENTACION</Title>
+        <RepoName>ggimenez/IS2-IMPLEMENTACION</RepoName>
+        <Description>Trabajo Pr&#xE1;ctico de IS2 2011 - Pedro - Tony - Gabriel</Description>
+        <Owner>ggimenez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ggimenez</Name>
+                <User>ggimenez</User>
+                <Url>https://github.com/ggimenez</Url>
+                <Location>Paraguay</Location>
+                <Email>gabrielgimenez85@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2016-12-02T16:35:51Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rparrapy/sugar">
+        <Url>https://github.com/rparrapy/sugar</Url>
+        <Name>sugar</Name>
+        <Title>sugar</Title>
+        <RepoName>rparrapy/sugar</RepoName>
+        <Description>The Sugar desktop, with speech recognition support.</Description>
+        <Owner>rparrapy</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rparrapy</Name>
+                <User>rparrapy</User>
+                <Url>https://github.com/rparrapy</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>rodpar07@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; Shell</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2015-02-07T01:49:27Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="joausaga/ideascaly">
+        <Url>https://github.com/joausaga/ideascaly</Url>
+        <Name>ideascaly</Name>
+        <Title>ideascaly</Title>
+        <RepoName>joausaga/ideascaly</RepoName>
+        <Description>IdeaScale RESTful API client written in Python</Description>
+        <Owner>joausaga</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>joausaga</Name>
+                <User>joausaga</User>
+                <Url>https://github.com/joausaga</Url>
+                <Location>Barcelona, Spain</Location>
+                <Email>jorgesaldivar@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2015-07-28T02:27:15Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rparrapy/sugarlistens-livedemo">
+        <Url>https://github.com/rparrapy/sugarlistens-livedemo</Url>
+        <Name>sugarlistens-livedemo</Name>
+        <Title>sugarlistens-livedem&#x2026;</Title>
+        <RepoName>rparrapy/sugarlistens-livedemo</RepoName>
+        <Description>A very simple Sugar Activity for speech recognition testing purposes.</Description>
+        <Owner>rparrapy</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rparrapy</Name>
+                <User>rparrapy</User>
+                <Url>https://github.com/rparrapy</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>rodpar07@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2015-02-07T01:48:54Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rparrapy/wrangler">
+        <Url>https://github.com/rparrapy/wrangler</Url>
+        <Name>wrangler</Name>
+        <Title>wrangler</Title>
+        <RepoName>rparrapy/wrangler</RepoName>
+        <Description>Utility script to convert a given CSV file to geojson. Just tell it where the geo data is and let the magic happen.</Description>
+        <Owner>rparrapy</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rparrapy</Name>
+                <User>rparrapy</User>
+                <Url>https://github.com/rparrapy</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email>rodpar07@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2018-03-03T01:56:39Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tchx84/gpaste">
+        <Url>https://github.com/tchx84/gpaste</Url>
+        <Name>gpaste</Name>
+        <Title>gpaste</Title>
+        <RepoName>tchx84/gpaste</RepoName>
+        <Description>Use fedora pastebin service in your Glib2 code</Description>
+        <Owner>tchx84</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tchx84</Name>
+                <User>tchx84</User>
+                <Url>https://github.com/tchx84</Url>
+                <Location>Paraguay</Location>
+                <Email>tch@sugarlabs.org</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2013-10-09T16:46:46Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tchx84/magic-store">
+        <Url>https://github.com/tchx84/magic-store</Url>
+        <Name>magic-store</Name>
+        <Title>magic-store</Title>
+        <RepoName>tchx84/magic-store</RepoName>
+        <Description>Proof of concept for a network file system based on fuse and xmlrpc</Description>
+        <Owner>tchx84</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tchx84</Name>
+                <User>tchx84</User>
+                <Url>https://github.com/tchx84</Url>
+                <Location>Paraguay</Location>
+                <Email>tch@sugarlabs.org</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; Shell</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2015-04-25T12:57:05Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tchx84/turtleblocksjs-server">
+        <Url>https://github.com/tchx84/turtleblocksjs-server</Url>
+        <Name>turtleblocksjs-server</Name>
+        <Title>turtleblocksjs-serve&#x2026;</Title>
+        <RepoName>tchx84/turtleblocksjs-server</RepoName>
+        <Description>storage server for javascript turtle blocks</Description>
+        <Owner>tchx84</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tchx84</Name>
+                <User>tchx84</User>
+                <Url>https://github.com/tchx84</Url>
+                <Location>Paraguay</Location>
+                <Email>tch@sugarlabs.org</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; Shell</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2018-06-08T13:22:17Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="czayas/agenda">
+        <Url>https://github.com/czayas/agenda</Url>
+        <Name>agenda</Name>
+        <Title>agenda</Title>
+        <RepoName>czayas/agenda</RepoName>
+        <Description>Proyecto de ejemplo para la asignatura Paradigmas de la Programaci&#xF3;n</Description>
+        <Owner>czayas</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>czayas</Name>
+                <User>czayas</User>
+                <Url>https://github.com/czayas</Url>
+                <Location>Asunci&#xF3;n, Paraguay</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2021-08-17T20:34:53Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tchx84/analytics-server">
+        <Url>https://github.com/tchx84/analytics-server</Url>
+        <Name>analytics-server</Name>
+        <Title>analytics-server</Title>
+        <RepoName>tchx84/analytics-server</RepoName>
+        <Description/>
+        <Owner>tchx84</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tchx84</Name>
+                <User>tchx84</User>
+                <Url>https://github.com/tchx84</Url>
+                <Location>Paraguay</Location>
+                <Email>tch@sugarlabs.org</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; Shell</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2017-04-02T15:54:49Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kennym/ideone-ruby-api">
+        <Url>https://github.com/kennym/ideone-ruby-api</Url>
+        <Name>ideone-ruby-api</Name>
+        <Title>ideone-ruby-api</Title>
+        <RepoName>kennym/ideone-ruby-api</RepoName>
+        <Description>A better Ruby gem for the Ideone API</Description>
+        <Owner>kennym</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kennym</Name>
+                <User>kennym</User>
+                <Url>https://github.com/kennym</Url>
+                <Location>Remote</Location>
+                <Email>kenny@kennymeyer.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>15</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2019-08-13T14:47:38Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kennym/annotate-sequel">
+        <Url>https://github.com/kennym/annotate-sequel</Url>
+        <Name>annotate-sequel</Name>
+        <Title>annotate-sequel</Title>
+        <RepoName>kennym/annotate-sequel</RepoName>
+        <Description>Annotate your Sequel models</Description>
+        <Owner>kennym</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kennym</Name>
+                <User>kennym</User>
+                <Url>https://github.com/kennym</Url>
+                <Location>Remote</Location>
+                <Email>kenny@kennymeyer.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>16</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2020-06-09T20:31:30Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="hisapy/UniBD">
+        <Url>https://github.com/hisapy/UniBD</Url>
+        <Name>UniBD</Name>
+        <Title>UniBD</Title>
+        <RepoName>hisapy/UniBD</RepoName>
+        <Description>Repositorio para las clases de Laboratorio de Bases de Datos, Ing. Inform&#xE1;tica, Universidad Nacional de Itap&#xFA;a - Encarnaci&#xF3;n, Paraguay
+        </Description>
+        <Owner>hisapy</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>hisapy</Name>
+                <User>hisapy</User>
+                <Url>https://github.com/hisapy</Url>
+                <Location>Paraguay mostly</Location>
+                <Email>hisa@iporaitech.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; JavaScript; CoffeeScript</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2017-06-07T18:24:05Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="hisapy/uni-bd-2015">
+        <Url>https://github.com/hisapy/uni-bd-2015</Url>
+        <Name>uni-bd-2015</Name>
+        <Title>uni-bd-2015</Title>
+        <RepoName>hisapy/uni-bd-2015</RepoName>
+        <Description>Laboratorio - Bases de Datos - Ingenier&#xED;a Inform&#xE1;tica, UNI</Description>
+        <Owner>hisapy</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>hisapy</Name>
+                <User>hisapy</User>
+                <Url>https://github.com/hisapy</Url>
+                <Location>Paraguay mostly</Location>
+                <Email>hisa@iporaitech.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; HTML; CSS; JavaScript; Gherkin; CoffeeScript</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>9</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2015-05-12T15:37:26Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="hisapy/AdventureWorks2008R2.RoR">
+        <Url>https://github.com/hisapy/AdventureWorks2008R2.RoR</Url>
+        <Name>AdventureWorks2008R2.RoR</Name>
+        <Title>AdventureWorks2008R2&#x2026;</Title>
+        <RepoName>hisapy/AdventureWorks2008R2.RoR</RepoName>
+        <Description>Ruby on Rails application on the SQL Server Adventure Works 2008 R2 database.</Description>
+        <Owner>hisapy</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>hisapy</Name>
+                <User>hisapy</User>
+                <Url>https://github.com/hisapy</Url>
+                <Location>Paraguay mostly</Location>
+                <Email>hisa@iporaitech.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; CoffeeScript; JavaScript</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>11</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2017-06-07T18:24:05Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="movihus/gexip">
+        <Url>https://github.com/movihus/gexip</Url>
+        <Name>gexip</Name>
+        <Title>gexip</Title>
+        <RepoName>movihus/gexip</RepoName>
+        <Description/>
+        <Owner>movihus</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>movihus</Name>
+                <User>movihus</User>
+                <Url>https://github.com/movihus</Url>
+                <Location>Asunci&#xF3;n - Paraguay</Location>
+                <Email>paxthor@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="heimusica/hls-log-monitor">
+        <Url>https://github.com/heimusica/hls-log-monitor</Url>
+        <Name>hls-log-monitor</Name>
+        <Title>hls-log-monitor</Title>
+        <RepoName>heimusica/hls-log-monitor</RepoName>
+        <Description/>
+        <Owner>heimusica</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>heimusica</Name>
+                <User>heimusica</User>
+                <Url>https://github.com/heimusica</Url>
+                <Location>Paraguay</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2018-10-10T02:55:37Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="hisapy/uni-bd-2013">
+        <Url>https://github.com/hisapy/uni-bd-2013</Url>
+        <Name>uni-bd-2013</Name>
+        <Title>uni-bd-2013</Title>
+        <RepoName>hisapy/uni-bd-2013</RepoName>
+        <Description>Repositorio de las clases de Laboratorio de Bases de Datos del a&#xF1;o 2013. Ingenier&#xED;a Inform&#xE1;tica, Universidad Nacional de Itap&#xFA;a.
+        </Description>
+        <Owner>hisapy</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>hisapy</Name>
+                <User>hisapy</User>
+                <Url>https://github.com/hisapy</Url>
+                <Location>Paraguay mostly</Location>
+                <Email>hisa@iporaitech.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>18</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2014-05-30T13:19:14Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kennym/Blogger-to-Jekyll">
+        <Url>https://github.com/kennym/Blogger-to-Jekyll</Url>
+        <Name>Blogger-to-Jekyll</Name>
+        <Title>Blogger-to-Jekyll</Title>
+        <RepoName>kennym/Blogger-to-Jekyll</RepoName>
+        <Description>Convert Blogger articles to Jekyll markdown.</Description>
+        <Owner>kennym</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kennym</Name>
+                <User>kennym</User>
+                <Url>https://github.com/kennym</Url>
+                <Location>Remote</Location>
+                <Email>kenny@kennymeyer.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2017-02-20T15:37:55Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="taniadaniela/calendar">
+        <Url>https://github.com/taniadaniela/calendar</Url>
+        <Name>calendar</Name>
+        <Title>calendar</Title>
+        <RepoName>taniadaniela/calendar</RepoName>
+        <Description>calendar for users</Description>
+        <Owner>taniadaniela</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>taniadaniela</Name>
+                <User>taniadaniela</User>
+                <Url>https://github.com/taniadaniela</Url>
+                <Location>Encarnacion Paraguay</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; JavaScript; CSS; CoffeeScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2014-07-18T01:30:27Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ParAgil/Jahapa">
+        <Url>https://github.com/ParAgil/Jahapa</Url>
+        <Name>Jahapa</Name>
+        <Title>Jahapa</Title>
+        <RepoName>ParAgil/Jahapa</RepoName>
+        <Description/>
+        <Owner>ParAgil</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ParAgil</Name>
+                <User>ParAgil</User>
+                <Url>https://github.com/ParAgil</Url>
+                <Location>Paraguay</Location>
+                <Email>paragilgroup@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2014-01-02T11:29:03Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kennym/ballin-lana">
+        <Url>https://github.com/kennym/ballin-lana</Url>
+        <Name>ballin-lana</Name>
+        <Title>ballin-lana</Title>
+        <RepoName>kennym/ballin-lana</RepoName>
+        <Description/>
+        <Owner>kennym</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kennym</Name>
+                <User>kennym</User>
+                <Url>https://github.com/kennym</Url>
+                <Location>Remote</Location>
+                <Email>kenny@kennymeyer.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2017-02-20T15:37:55Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="neowinx/play-scala-bootstrap">
+        <Url>https://github.com/neowinx/play-scala-bootstrap</Url>
+        <Name>play-scala-bootstrap</Name>
+        <Title>play-scala-bootstrap</Title>
+        <RepoName>neowinx/play-scala-bootstrap</RepoName>
+        <Description>Basic template for Play framework with Twitter Bootstrap 3.0</Description>
+        <Owner>neowinx</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>neowinx</Name>
+                <User>neowinx</User>
+                <Url>https://github.com/neowinx</Url>
+                <Location>Asuncion, Paraguay</Location>
+                <Email>pflores@codelab.com.py</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala; CSS</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2019-11-05T21:54:58Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="zv3/sjs-react-server-prerender">
+        <Url>https://github.com/zv3/sjs-react-server-prerender</Url>
+        <Name>sjs-react-server-prerender</Name>
+        <Title>sjs-react-server-pre&#x2026;</Title>
+        <RepoName>zv3/sjs-react-server-prerender</RepoName>
+        <Description>japgolly's scalajs-react running on a remote nodejs environment for server side rendering (proof of concept)</Description>
+        <Owner>zv3</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>zv3</Name>
+                <User>zv3</User>
+                <Url>https://github.com/zv3</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala; JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2016-11-09T06:57:58Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="AppsBoulevard/ABVideoRangeSlider">
+        <Url>https://github.com/AppsBoulevard/ABVideoRangeSlider</Url>
+        <Name>ABVideoRangeSlider</Name>
+        <Title>ABVideoRangeSlider</Title>
+        <RepoName>AppsBoulevard/ABVideoRangeSlider</RepoName>
+        <Description>Simple video range slider written in Swift 3</Description>
+        <Owner>AppsBoulevard</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>AppsBoulevard</Name>
+                <User>AppsBoulevard</User>
+                <Url>https://github.com/AppsBoulevard</Url>
+                <Location>Paraguay</Location>
+                <Email>hello@appsboulevard.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Swift; Ruby</LanguageTags>
+        <WatchersCount>106</WatchersCount>
+        <ForksCount>66</ForksCount>
+        <OpenIssuesCount>16</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2022-03-17T03:37:59Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="AppsBoulevard/VideoEditorExample">
+        <Url>https://github.com/AppsBoulevard/VideoEditorExample</Url>
+        <Name>VideoEditorExample</Name>
+        <Title>VideoEditorExample</Title>
+        <RepoName>AppsBoulevard/VideoEditorExample</RepoName>
+        <Description>A Swift 3 project example, using ABVideoRangeSlider.</Description>
+        <Owner>AppsBoulevard</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>AppsBoulevard</Name>
+                <User>AppsBoulevard</User>
+                <Url>https://github.com/AppsBoulevard</Url>
+                <Location>Paraguay</Location>
+                <Email>hello@appsboulevard.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Swift; Ruby</LanguageTags>
+        <WatchersCount>10</WatchersCount>
+        <ForksCount>8</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2022-02-01T21:05:33Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="guarani/Collapsible-UINavigationBar">
+        <Url>https://github.com/guarani/Collapsible-UINavigationBar</Url>
+        <Name>Collapsible-UINavigationBar</Name>
+        <Title>Collapsible-UINaviga&#x2026;</Title>
+        <RepoName>guarani/Collapsible-UINavigationBar</RepoName>
+        <Description>A collapsible UINavigationBar</Description>
+        <Owner>guarani</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>guarani</Name>
+                <User>guarani</User>
+                <Url>https://github.com/guarani</Url>
+                <Location>Paraguay</Location>
+                <Email>paulvonschrottky@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Swift</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Paraguay</CountryOrigin>
+        <UpdatedAt>2017-06-19T06:56:09Z</UpdatedAt>
+    </Dependency>
+</Dependencies>

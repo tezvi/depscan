@@ -1,0 +1,1334 @@
+<?xml version="1.0"?>
+<Dependencies>
+    <Dependency name="nenadg/traquer">
+        <Url>https://github.com/nenadg/traquer</Url>
+        <Name>traquer</Name>
+        <Title>traquer</Title>
+        <RepoName>nenadg/traquer</RepoName>
+        <Description>Records and reproduces user's in-page behavior</Description>
+        <Owner>nenadg</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>nenadg</Name>
+                <User>nenadg</User>
+                <Url>https://github.com/nenadg</Url>
+                <Location>Banja Luka, Bosnia and Herzegovina</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; CSS</LanguageTags>
+        <WatchersCount>729</WatchersCount>
+        <ForksCount>37</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2022-02-19T04:53:45Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="dsanel/mongoose-delete">
+        <Url>https://github.com/dsanel/mongoose-delete</Url>
+        <Name>mongoose-delete</Name>
+        <Title>mongoose-delete</Title>
+        <RepoName>dsanel/mongoose-delete</RepoName>
+        <Description>Mongoose Soft Delete Plugin</Description>
+        <Owner>dsanel</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>dsanel</Name>
+                <User>dsanel</User>
+                <Url>https://github.com/dsanel</Url>
+                <Location>Sarajevo, Bosnia and Herzegovina</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; Makefile</LanguageTags>
+        <WatchersCount>297</WatchersCount>
+        <ForksCount>79</ForksCount>
+        <OpenIssuesCount>16</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2022-02-24T14:39:09Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="nenadg/twitter-stream-visualization">
+        <Url>https://github.com/nenadg/twitter-stream-visualization</Url>
+        <Name>twitter-stream-visualization</Name>
+        <Title>twitter-stream-visua&#x2026;</Title>
+        <RepoName>nenadg/twitter-stream-visualization</RepoName>
+        <Description>Visualizing realtime Twitter data using D3.js, node and several other things and libs</Description>
+        <Owner>nenadg</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>nenadg</Name>
+                <User>nenadg</User>
+                <Url>https://github.com/nenadg</Url>
+                <Location>Banja Luka, Bosnia and Herzegovina</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; HTML</LanguageTags>
+        <WatchersCount>67</WatchersCount>
+        <ForksCount>33</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2021-07-12T07:58:53Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="amir-hadzic/uedit">
+        <Url>https://github.com/amir-hadzic/uedit</Url>
+        <Name>uedit</Name>
+        <Title>uedit</Title>
+        <RepoName>amir-hadzic/uedit</RepoName>
+        <Description>Simple cross-browser markdown editor</Description>
+        <Owner>amir-hadzic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>amir-hadzic</Name>
+                <User>amir-hadzic</User>
+                <Url>https://github.com/amir-hadzic</Url>
+                <Location>Sarajevo, Bosnia And Herzegovina</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS</LanguageTags>
+        <WatchersCount>26</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2018-07-08T02:47:44Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="adnanrahic/nodejs-restful-api">
+        <Url>https://github.com/adnanrahic/nodejs-restful-api</Url>
+        <Name>nodejs-restful-api</Name>
+        <Title>nodejs-restful-api</Title>
+        <RepoName>adnanrahic/nodejs-restful-api</RepoName>
+        <Description>How to create a RESTful CRUD API using Nodejs?</Description>
+        <Owner>adnanrahic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>adnanrahic</Name>
+                <User>adnanrahic</User>
+                <Url>https://github.com/adnanrahic</Url>
+                <Location>Sarajevo</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>305</WatchersCount>
+        <ForksCount>164</ForksCount>
+        <OpenIssuesCount>5</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2022-02-18T20:10:21Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="nenadg/otvoreni-budzet">
+        <Url>https://github.com/nenadg/otvoreni-budzet</Url>
+        <Name>otvoreni-budzet</Name>
+        <Title>otvoreni-budzet</Title>
+        <RepoName>nenadg/otvoreni-budzet</RepoName>
+        <Description>Digitalnija verzija bud&#x17E;eta Republike Srpske</Description>
+        <Owner>nenadg</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>nenadg</Name>
+                <User>nenadg</User>
+                <Url>https://github.com/nenadg</Url>
+                <Location>Banja Luka, Bosnia and Herzegovina</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; CSS</LanguageTags>
+        <WatchersCount>9</WatchersCount>
+        <ForksCount>11</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2018-03-19T16:43:10Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="dsanel/mongodg">
+        <Url>https://github.com/dsanel/mongodg</Url>
+        <Name>mongodg</Name>
+        <Title>mongodg</Title>
+        <RepoName>dsanel/mongodg</RepoName>
+        <Description/>
+        <Owner>dsanel</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>dsanel</Name>
+                <User>dsanel</User>
+                <Url>https://github.com/dsanel</Url>
+                <Location>Sarajevo, Bosnia and Herzegovina</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="TheAdnan/focustube">
+        <Url>https://github.com/TheAdnan/focustube</Url>
+        <Name>focustube</Name>
+        <Title>focustube</Title>
+        <RepoName>TheAdnan/focustube</RepoName>
+        <Description>Firefox WebExtension for watching your YouTube videos while scrolling down the comment section</Description>
+        <Owner>TheAdnan</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>TheAdnan</Name>
+                <User>TheAdnan</User>
+                <Url>https://github.com/TheAdnan</Url>
+                <Location>Sarajevo</Location>
+                <Email>adnankicin92@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>15</WatchersCount>
+        <ForksCount>9</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2021-11-27T09:50:40Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="TheAdnan/Botnjak">
+        <Url>https://github.com/TheAdnan/Botnjak</Url>
+        <Name>Botnjak</Name>
+        <Title>Botnjak</Title>
+        <RepoName>TheAdnan/Botnjak</RepoName>
+        <Description>Twitter bot script written in PHP</Description>
+        <Owner>TheAdnan</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>TheAdnan</Name>
+                <User>TheAdnan</User>
+                <Url>https://github.com/TheAdnan</Url>
+                <Location>Sarajevo</Location>
+                <Email>adnankicin92@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>12</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2022-02-12T07:25:06Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="nenadg/jasmine-node-jsdom-extjs-testing-tool">
+        <Url>https://github.com/nenadg/jasmine-node-jsdom-extjs-testing-tool</Url>
+        <Name>jasmine-node-jsdom-extjs-testing-tool</Name>
+        <Title>jasmine-node-jsdom-e&#x2026;</Title>
+        <RepoName>nenadg/jasmine-node-jsdom-extjs-testing-tool</RepoName>
+        <Description>Functional front-end Ext.JS testing automation tool using jasmine-node and jsdom</Description>
+        <Owner>nenadg</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>nenadg</Name>
+                <User>nenadg</User>
+                <Url>https://github.com/nenadg</Url>
+                <Location>Banja Luka, Bosnia and Herzegovina</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; Shell; CSS; Ruby</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2017-09-24T17:11:28Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="adnanrahic/boilerplate-api">
+        <Url>https://github.com/adnanrahic/boilerplate-api</Url>
+        <Name>boilerplate-api</Name>
+        <Title>boilerplate-api</Title>
+        <RepoName>adnanrahic/boilerplate-api</RepoName>
+        <Description>Lightweight Node.js boilerplate API with Docker support, test coverage and circle.ci support.</Description>
+        <Owner>adnanrahic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>adnanrahic</Name>
+                <User>adnanrahic</User>
+                <Url>https://github.com/adnanrahic</Url>
+                <Location>Sarajevo</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; Shell; Dockerfile; HTML</LanguageTags>
+        <WatchersCount>23</WatchersCount>
+        <ForksCount>11</ForksCount>
+        <OpenIssuesCount>5</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2022-02-06T11:26:23Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="stojankukrika/A2ZCMS-LF">
+        <Url>https://github.com/stojankukrika/A2ZCMS-LF</Url>
+        <Name>A2ZCMS-LF</Name>
+        <Title>A2ZCMS-LF</Title>
+        <RepoName>stojankukrika/A2ZCMS-LF</RepoName>
+        <Description>A2Z CMS version with Laravel framework</Description>
+        <Owner>stojankukrika</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>stojankukrika</Name>
+                <User>stojankukrika</User>
+                <Url>https://github.com/stojankukrika</Url>
+                <Location>Bosnia and Herzegovina</Location>
+                <Email>stojan.kukrika@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; PHP</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2018-12-27T08:06:08Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="stojankukrika/A2ZCMS">
+        <Url>https://github.com/stojankukrika/A2ZCMS</Url>
+        <Name>A2ZCMS</Name>
+        <Title>A2ZCMS</Title>
+        <RepoName>stojankukrika/A2ZCMS</RepoName>
+        <Description>A2ZCMS</Description>
+        <Owner>stojankukrika</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>stojankukrika</Name>
+                <User>stojankukrika</User>
+                <Url>https://github.com/stojankukrika</Url>
+                <Location>Bosnia and Herzegovina</Location>
+                <Email>stojan.kukrika@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; PHP</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2019-08-13T15:26:05Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="TheAdnan/BuVRek">
+        <Url>https://github.com/TheAdnan/BuVRek</Url>
+        <Name>BuVRek</Name>
+        <Title>BuVRek</Title>
+        <RepoName>TheAdnan/BuVRek</RepoName>
+        <Description>Virtual Burek created with Mozilla's A-Frame and Three.js</Description>
+        <Owner>TheAdnan</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>TheAdnan</Name>
+                <User>TheAdnan</User>
+                <Url>https://github.com/TheAdnan</Url>
+                <Location>Sarajevo</Location>
+                <Email>adnankicin92@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>HTML; CSS; JavaScript</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>7</ForksCount>
+        <OpenIssuesCount>7</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2018-04-23T19:40:57Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="amir-hadzic/jscommits">
+        <Url>https://github.com/amir-hadzic/jscommits</Url>
+        <Name>jscommits</Name>
+        <Title>jscommits</Title>
+        <RepoName>amir-hadzic/jscommits</RepoName>
+        <Description>Javascript widget for showing latest github commits</Description>
+        <Owner>amir-hadzic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>amir-hadzic</Name>
+                <User>amir-hadzic</User>
+                <Url>https://github.com/amir-hadzic</Url>
+                <Location>Sarajevo, Bosnia And Herzegovina</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2017-10-05T09:26:54Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="elektronika-ba/ctrl-server">
+        <Url>https://github.com/elektronika-ba/ctrl-server</Url>
+        <Name>ctrl-server</Name>
+        <Title>ctrl-server</Title>
+        <RepoName>elektronika-ba/ctrl-server</RepoName>
+        <Description>NodeJS server for the CTRL IoT project</Description>
+        <Owner>elektronika-ba</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>elektronika-ba</Name>
+                <User>elektronika-ba</User>
+                <Url>https://github.com/elektronika-ba</Url>
+                <Location>Bosnia and Herzegovina</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; SQLPL; PLpgSQL</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2015-03-29T19:32:49Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="nenadg/extjs-tag-cloud">
+        <Url>https://github.com/nenadg/extjs-tag-cloud</Url>
+        <Name>extjs-tag-cloud</Name>
+        <Title>extjs-tag-cloud</Title>
+        <RepoName>nenadg/extjs-tag-cloud</RepoName>
+        <Description>Ext JS tag cloud component</Description>
+        <Owner>nenadg</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>nenadg</Name>
+                <User>nenadg</User>
+                <Url>https://github.com/nenadg</Url>
+                <Location>Banja Luka, Bosnia and Herzegovina</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2021-02-18T14:24:18Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="codaxy/wkhtmltopdf">
+        <Url>https://github.com/codaxy/wkhtmltopdf</Url>
+        <Name>wkhtmltopdf</Name>
+        <Title>wkhtmltopdf</Title>
+        <RepoName>codaxy/wkhtmltopdf</RepoName>
+        <Description>C# wrapper around excellent wkhtmltopdf console utility.</Description>
+        <Owner>codaxy</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>codaxy</Name>
+                <User>codaxy</User>
+                <Url>https://github.com/codaxy</Url>
+                <Location>Banja Luka, Bosnia and Herzegovina</Location>
+                <Email>hello@codaxy.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#; Batchfile</LanguageTags>
+        <WatchersCount>255</WatchersCount>
+        <ForksCount>90</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2022-03-07T23:54:35Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="borisdj/EFCore.BulkExtensions">
+        <Url>https://github.com/borisdj/EFCore.BulkExtensions</Url>
+        <Name>EFCore.BulkExtensions</Name>
+        <Title>EFCore.BulkExtension&#x2026;</Title>
+        <RepoName>borisdj/EFCore.BulkExtensions</RepoName>
+        <Description>Entity Framework Core Bulk Batch Extensions in .Net for Insert Update Delete Read (CRUD), Truncate and SaveChanges operations on SQL Server, PostgreSQL,
+            SQLite
+        </Description>
+        <Owner>borisdj</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>borisdj</Name>
+                <User>borisdj</User>
+                <Url>https://github.com/borisdj</Url>
+                <Location>Banja Luka, Bosnia and Herzegovina</Location>
+                <Email>djurdjevicboris@hotmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#; TSQL</LanguageTags>
+        <WatchersCount>2468</WatchersCount>
+        <ForksCount>403</ForksCount>
+        <OpenIssuesCount>34</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2022-03-23T14:11:53Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="codaxy/dextop">
+        <Url>https://github.com/codaxy/dextop</Url>
+        <Name>dextop</Name>
+        <Title>dextop</Title>
+        <RepoName>codaxy/dextop</RepoName>
+        <Description>Dextop is a framework for creating RIA based on .NET and Ext JS</Description>
+        <Owner>codaxy</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>codaxy</Name>
+                <User>codaxy</User>
+                <Url>https://github.com/codaxy</Url>
+                <Location>Banja Luka, Bosnia and Herzegovina</Location>
+                <Email>hello@codaxy.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#; JavaScript; HTML; CSS; Batchfile; ASP</LanguageTags>
+        <WatchersCount>20</WatchersCount>
+        <ForksCount>15</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2019-09-05T19:53:00Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="codaxy/xlio">
+        <Url>https://github.com/codaxy/xlio</Url>
+        <Name>xlio</Name>
+        <Title>xlio</Title>
+        <RepoName>codaxy/xlio</RepoName>
+        <Description>Excel IO Library</Description>
+        <Owner>codaxy</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>codaxy</Name>
+                <User>codaxy</User>
+                <Url>https://github.com/codaxy</Url>
+                <Location>Banja Luka, Bosnia and Herzegovina</Location>
+                <Email>hello@codaxy.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#; Batchfile</LanguageTags>
+        <WatchersCount>14</WatchersCount>
+        <ForksCount>16</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2020-06-15T21:52:30Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="bhrnjica/gpdotnet">
+        <Url>https://github.com/bhrnjica/gpdotnet</Url>
+        <Name>gpdotnet</Name>
+        <Title>gpdotnet</Title>
+        <RepoName>bhrnjica/gpdotnet</RepoName>
+        <Description>GPdotNET is an open source computer program for running tree based genetic programming.</Description>
+        <Owner>bhrnjica</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>bhrnjica</Name>
+                <User>bhrnjica</User>
+                <Url>https://github.com/bhrnjica</Url>
+                <Location>BiH</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#; Smalltalk</LanguageTags>
+        <WatchersCount>11</WatchersCount>
+        <ForksCount>8</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2021-10-24T08:40:55Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="codaxy/codereports">
+        <Url>https://github.com/codaxy/codereports</Url>
+        <Name>codereports</Name>
+        <Title>codereports</Title>
+        <RepoName>codaxy/codereports</RepoName>
+        <Description>Simple but powerful reporting library</Description>
+        <Owner>codaxy</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>codaxy</Name>
+                <User>codaxy</User>
+                <Url>https://github.com/codaxy</Url>
+                <Location>Banja Luka, Bosnia and Herzegovina</Location>
+                <Email>hello@codaxy.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#; CSS; Batchfile</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2018-06-08T01:51:24Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="codaxy/xsd2">
+        <Url>https://github.com/codaxy/xsd2</Url>
+        <Name>xsd2</Name>
+        <Title>xsd2</Title>
+        <RepoName>codaxy/xsd2</RepoName>
+        <Description>Improved version of xsd.exe</Description>
+        <Owner>codaxy</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>codaxy</Name>
+                <User>codaxy</User>
+                <Url>https://github.com/codaxy</Url>
+                <Location>Banja Luka, Bosnia and Herzegovina</Location>
+                <Email>hello@codaxy.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#; Batchfile; PowerShell</LanguageTags>
+        <WatchersCount>26</WatchersCount>
+        <ForksCount>17</ForksCount>
+        <OpenIssuesCount>4</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2022-03-18T04:01:56Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="dzlotrg/umbraco-dictionary-export-import">
+        <Url>https://github.com/dzlotrg/umbraco-dictionary-export-import</Url>
+        <Name>umbraco-dictionary-export-import</Name>
+        <Title>umbraco-dictionary-e&#x2026;</Title>
+        <RepoName>dzlotrg/umbraco-dictionary-export-import</RepoName>
+        <Description>Export / Import dictionary items in umbraco backoffice</Description>
+        <Owner>dzlotrg</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>dzlotrg</Name>
+                <User>dzlotrg</User>
+                <Url>https://github.com/dzlotrg</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#; ASP</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2018-06-08T09:26:40Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="codaxy/dextop-localizer">
+        <Url>https://github.com/codaxy/dextop-localizer</Url>
+        <Name>dextop-localizer</Name>
+        <Title>dextop-localizer</Title>
+        <RepoName>codaxy/dextop-localizer</RepoName>
+        <Description>Localization tool</Description>
+        <Owner>codaxy</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>codaxy</Name>
+                <User>codaxy</User>
+                <Url>https://github.com/codaxy</Url>
+                <Location>Banja Luka, Bosnia and Herzegovina</Location>
+                <Email>hello@codaxy.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#; JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2017-05-18T09:18:40Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="klikaba/cms9">
+        <Url>https://github.com/klikaba/cms9</Url>
+        <Name>cms9</Name>
+        <Title>cms9</Title>
+        <RepoName>klikaba/cms9</RepoName>
+        <Description>CMS Engine for Rails</Description>
+        <Owner>klikaba</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>klikaba</Name>
+                <User>klikaba</User>
+                <Url>https://github.com/klikaba</Url>
+                <Location>Sarajevo, Bosnia and Herzegovina</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>CSS; Ruby; JavaScript; HTML</LanguageTags>
+        <WatchersCount>9</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2017-11-11T19:13:43Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="r3bl/r3bl.github.io">
+        <Url>https://github.com/r3bl/r3bl.github.io</Url>
+        <Name>r3bl.github.io</Name>
+        <Title>r3bl.github.io</Title>
+        <RepoName>r3bl/r3bl.github.io</RepoName>
+        <Description>The code behind my Jekyll-powered blog</Description>
+        <Owner>r3bl</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>r3bl</Name>
+                <User>r3bl</User>
+                <Url>https://github.com/r3bl</Url>
+                <Location>Amsterdam, The Netherlands</Location>
+                <Email>aleksandar@r3bl.me</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>CSS; JavaScript; HTML; Ruby</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2019-10-30T16:54:15Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="AlenR/interactive-resume-ar">
+        <Url>https://github.com/AlenR/interactive-resume-ar</Url>
+        <Name>interactive-resume-ar</Name>
+        <Title>interactive-resume-a&#x2026;</Title>
+        <RepoName>AlenR/interactive-resume-ar</RepoName>
+        <Description>Interactive Resume</Description>
+        <Owner>AlenR</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>AlenR</Name>
+                <User>AlenR</User>
+                <Url>https://github.com/AlenR</Url>
+                <Location>Tuzla Bosnia and Herzegovina</Location>
+                <Email>alen.rahmanovic.zd@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>CSS; HTML; JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2016-02-07T19:17:11Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ArekX/RAGE">
+        <Url>https://github.com/ArekX/RAGE</Url>
+        <Name>RAGE</Name>
+        <Title>RAGE</Title>
+        <RepoName>ArekX/RAGE</RepoName>
+        <Description>R. A. G.E. - Ruby Awesome Game Engine, a 2D Game Engine using Ruby as Interpreter Language for Games!</Description>
+        <Owner>ArekX</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ArekX</Name>
+                <User>ArekX</User>
+                <Url>https://github.com/ArekX</Url>
+                <Location>Bosnia and Herzegovina</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C; C++; Objective-C; Pawn</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>8</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2018-03-26T13:27:38Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Rox-/android_kernel_samsung_s3ve3g">
+        <Url>https://github.com/Rox-/android_kernel_samsung_s3ve3g</Url>
+        <Name>android_kernel_samsung_s3ve3g</Name>
+        <Title>android_kernel_samsu&#x2026;</Title>
+        <RepoName>Rox-/android_kernel_samsung_s3ve3g</RepoName>
+        <Description>Kernel for Samsung Galaxy S3 Neo</Description>
+        <Owner>Rox-</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Rox-</Name>
+                <User>Rox-</User>
+                <Url>https://github.com/Rox-</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C; C++; Assembly; Objective-C; Makefile; Perl; Shell; Bison; Python; TeX; JavaScript; Awk; Scilab; UnrealScript; Scala; ASP; Prolog; Vim script; XSLT
+        </LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>24</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2019-12-08T21:34:24Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="irajkovic/visualization">
+        <Url>https://github.com/irajkovic/visualization</Url>
+        <Name>visualization</Name>
+        <Title>visualization</Title>
+        <RepoName>irajkovic/visualization</RepoName>
+        <Description>Realtime data visualization and control panel with graphical editor. Implemented in C++ and Qt.</Description>
+        <Owner>irajkovic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>irajkovic</Name>
+                <User>irajkovic</User>
+                <Url>https://github.com/irajkovic</Url>
+                <Location>Germany</Location>
+                <Email>iivanrajkovic@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; Python; QMake; Prolog</LanguageTags>
+        <WatchersCount>15</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>5</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2021-01-28T19:54:55Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="adnanh/webhook">
+        <Url>https://github.com/adnanh/webhook</Url>
+        <Name>webhook</Name>
+        <Title>webhook</Title>
+        <RepoName>adnanh/webhook</RepoName>
+        <Description>webhook is a lightweight incoming webhook server to run shell commands</Description>
+        <Owner>adnanh</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>adnanh</Name>
+                <User>adnanh</User>
+                <Url>https://github.com/adnanh</Url>
+                <Location>Sarajevo, Bosnia &amp; Herzegovina</Location>
+                <Email>adnanh@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Go; Makefile</LanguageTags>
+        <WatchersCount>7529</WatchersCount>
+        <ForksCount>645</ForksCount>
+        <OpenIssuesCount>64</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2022-03-23T15:23:58Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="mrakodol/Laravel-5-Bootstrap-3-Starter-Site">
+        <Url>https://github.com/mrakodol/Laravel-5-Bootstrap-3-Starter-Site</Url>
+        <Name>Laravel-5-Bootstrap-3-Starter-Site</Name>
+        <Title>Laravel-5-Bootstrap-&#x2026;</Title>
+        <RepoName>mrakodol/Laravel-5-Bootstrap-3-Starter-Site</RepoName>
+        <Description>Laravel Framework 5 Bootstrap 3 Starter Site is a basic application with news, photo and video galeries.</Description>
+        <Owner>mrakodol</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>mrakodol</Name>
+                <User>mrakodol</User>
+                <Url>https://github.com/mrakodol</Url>
+                <Location>Bosnia and Herzegovina</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; HTML; JavaScript</LanguageTags>
+        <WatchersCount>904</WatchersCount>
+        <ForksCount>425</ForksCount>
+        <OpenIssuesCount>6</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2022-03-06T00:57:55Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="vernes/YiiMailer">
+        <Url>https://github.com/vernes/YiiMailer</Url>
+        <Name>YiiMailer</Name>
+        <Title>YiiMailer</Title>
+        <RepoName>vernes/YiiMailer</RepoName>
+        <Description>Yii extension for sending emails with layouts using PHPMailer</Description>
+        <Owner>vernes</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>vernes</Name>
+                <User>vernes</User>
+                <Url>https://github.com/vernes</Url>
+                <Location>Bosnia and Herzegovina</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>81</WatchersCount>
+        <ForksCount>38</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2022-02-14T15:07:40Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="vernes/PHPReport">
+        <Url>https://github.com/vernes/PHPReport</Url>
+        <Name>PHPReport</Name>
+        <Title>PHPReport</Title>
+        <RepoName>vernes/PHPReport</RepoName>
+        <Description>Library for generating reports from PHP</Description>
+        <Owner>vernes</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>vernes</Name>
+                <User>vernes</User>
+                <Url>https://github.com/vernes</Url>
+                <Location>Bosnia and Herzegovina</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>67</WatchersCount>
+        <ForksCount>50</ForksCount>
+        <OpenIssuesCount>12</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2021-10-15T16:17:39Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="adnanmiljkovic/Google-Contacts-Data-API-PHP">
+        <Url>https://github.com/adnanmiljkovic/Google-Contacts-Data-API-PHP</Url>
+        <Name>Google-Contacts-Data-API-PHP</Name>
+        <Title>Google-Contacts-Data&#x2026;</Title>
+        <RepoName>adnanmiljkovic/Google-Contacts-Data-API-PHP</RepoName>
+        <Description>Get e-mail contacts from Google Contacts Data API with PHP</Description>
+        <Owner>adnanmiljkovic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>adnanmiljkovic</Name>
+                <User>adnanmiljkovic</User>
+                <Url>https://github.com/adnanmiljkovic</Url>
+                <Location>Sarajevo, Bosnia and Herzegovina</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>12</WatchersCount>
+        <ForksCount>7</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2018-02-27T15:19:33Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="mrakodol/admincistart">
+        <Url>https://github.com/mrakodol/admincistart</Url>
+        <Name>admincistart</Name>
+        <Title>admincistart</Title>
+        <RepoName>mrakodol/admincistart</RepoName>
+        <Description>codeigniter admin start project</Description>
+        <Owner>mrakodol</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>mrakodol</Name>
+                <User>mrakodol</User>
+                <Url>https://github.com/mrakodol</Url>
+                <Location>Bosnia and Herzegovina</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; CSS; JavaScript</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2016-09-26T07:29:35Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="aleksandar-todorovic/notes">
+        <Url>https://github.com/aleksandar-todorovic/notes</Url>
+        <Name>notes</Name>
+        <Title>notes</Title>
+        <RepoName>aleksandar-todorovic/notes</RepoName>
+        <Description>A place where I'm sharing my notes on various subjects.</Description>
+        <Owner>aleksandar-todorovic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>aleksandar-todorovic</Name>
+                <User>aleksandar-todorovic</User>
+                <Url>https://github.com/aleksandar-todorovic</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; Shell; C</LanguageTags>
+        <WatchersCount>30</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2022-01-09T02:32:07Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="aleksandar-todorovic/indicator-github">
+        <Url>https://github.com/aleksandar-todorovic/indicator-github</Url>
+        <Name>indicator-github</Name>
+        <Title>indicator-github</Title>
+        <RepoName>aleksandar-todorovic/indicator-github</RepoName>
+        <Description>Simple GitHub notifications indicator for elementary OS Freya, Ubuntu and its derivates.</Description>
+        <Owner>aleksandar-todorovic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>aleksandar-todorovic</Name>
+                <User>aleksandar-todorovic</User>
+                <Url>https://github.com/aleksandar-todorovic</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2021-12-15T22:15:26Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="AmarKalabic/Football-Stream-Finder--Flask-">
+        <Url>https://github.com/AmarKalabic/Football-Stream-Finder--Flask-</Url>
+        <Name>Football-Stream-Finder--Flask-</Name>
+        <Title>Football-Stream-Find&#x2026;</Title>
+        <RepoName>AmarKalabic/Football-Stream-Finder--Flask-</RepoName>
+        <Description>Small Flask app that fetches stream links for football/soccer games</Description>
+        <Owner>AmarKalabic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>AmarKalabic</Name>
+                <User>AmarKalabic</User>
+                <Url>https://github.com/AmarKalabic</Url>
+                <Location>Vienna, Austria</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; HTML</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2019-11-29T15:38:20Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="amarsahinovic/django-project-template">
+        <Url>https://github.com/amarsahinovic/django-project-template</Url>
+        <Name>django-project-template</Name>
+        <Title>django-project-templ&#x2026;</Title>
+        <RepoName>amarsahinovic/django-project-template</RepoName>
+        <Description>Django project template with Zurb Foundation included</Description>
+        <Owner>amarsahinovic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>amarsahinovic</Name>
+                <User>amarsahinovic</User>
+                <Url>https://github.com/amarsahinovic</Url>
+                <Location>Sarajevo, Bosnia and Herzegovina</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; Shell; HTML</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2016-01-22T16:24:15Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="C-REMO/Deobscure-IP-Deobfuscator">
+        <Url>https://github.com/C-REMO/Deobscure-IP-Deobfuscator</Url>
+        <Name>Deobscure-IP-Deobfuscator</Name>
+        <Title>Deobscure-IP-Deobfus&#x2026;</Title>
+        <RepoName>C-REMO/Deobscure-IP-Deobfuscator</RepoName>
+        <Description>IP deobfuscator can be used to convert obfuscated ip back ti it's original dotted value from integer, octal or hexadecimal value (or even combination of
+            those)
+        </Description>
+        <Owner>C-REMO</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>C-REMO</Name>
+                <User>C-REMO</User>
+                <Url>https://github.com/C-REMO</Url>
+                <Location>Bosnia &amp; Herzegovina</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2021-11-14T03:39:11Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="amarsahinovic/gb">
+        <Url>https://github.com/amarsahinovic/gb</Url>
+        <Name>gb</Name>
+        <Title>gb</Title>
+        <RepoName>amarsahinovic/gb</RepoName>
+        <Description>Goto Bookmark</Description>
+        <Owner>amarsahinovic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>amarsahinovic</Name>
+                <User>amarsahinovic</User>
+                <Url>https://github.com/amarsahinovic</Url>
+                <Location>Sarajevo, Bosnia and Herzegovina</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; Shell</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2014-01-14T12:35:24Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="segvic/plugin.video.mojawebtv">
+        <Url>https://github.com/segvic/plugin.video.mojawebtv</Url>
+        <Name>plugin.video.mojawebtv</Name>
+        <Title>plugin.video.mojaweb&#x2026;</Title>
+        <RepoName>segvic/plugin.video.mojawebtv</RepoName>
+        <Description>Moja webTV</Description>
+        <Owner>segvic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>segvic</Name>
+                <User>segvic</User>
+                <Url>https://github.com/segvic</Url>
+                <Location>Bosnia and Herzegovina</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2017-11-16T19:10:06Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="sidonath/room-reservation">
+        <Url>https://github.com/sidonath/room-reservation</Url>
+        <Name>room-reservation</Name>
+        <Title>room-reservation</Title>
+        <RepoName>sidonath/room-reservation</RepoName>
+        <Description/>
+        <Owner>sidonath</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>sidonath</Name>
+                <User>sidonath</User>
+                <Url>https://github.com/sidonath</Url>
+                <Location>Malaga, Spain</Location>
+                <Email>damirz@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; HTML; CSS; JavaScript</LanguageTags>
+        <WatchersCount>28</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2017-07-01T16:10:51Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="hkraji/mx-validator">
+        <Url>https://github.com/hkraji/mx-validator</Url>
+        <Name>mx-validator</Name>
+        <Title>mx-validator</Title>
+        <RepoName>hkraji/mx-validator</RepoName>
+        <Description>Validate emails via MX records</Description>
+        <Owner>hkraji</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>hkraji</Name>
+                <User>hkraji</User>
+                <Url>https://github.com/hkraji</Url>
+                <Location>Sarajevo, Bosnia and Herzegovina</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2016-01-15T12:13:54Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="hkraji/fertilizer">
+        <Url>https://github.com/hkraji/fertilizer</Url>
+        <Name>fertilizer</Name>
+        <Title>fertilizer</Title>
+        <RepoName>hkraji/fertilizer</RepoName>
+        <Description>Set of tasks that allows us to enrich our Rails projects.</Description>
+        <Owner>hkraji</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>hkraji</Name>
+                <User>hkraji</User>
+                <Url>https://github.com/hkraji</Url>
+                <Location>Sarajevo, Bosnia and Herzegovina</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2022-01-12T16:22:55Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="sake92/sbt-hepek">
+        <Url>https://github.com/sake92/sbt-hepek</Url>
+        <Name>sbt-hepek</Name>
+        <Title>sbt-hepek</Title>
+        <RepoName>sake92/sbt-hepek</RepoName>
+        <Description>Sbt plugin for rendering Scala objects to files. And more!</Description>
+        <Owner>sake92</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>sake92</Name>
+                <User>sake92</User>
+                <Url>https://github.com/sake92</Url>
+                <Location>Sarajevo, Bosnia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala</LanguageTags>
+        <WatchersCount>17</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2022-03-19T19:53:30Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="sake92/sake-ba-source">
+        <Url>https://github.com/sake92/sake-ba-source</Url>
+        <Name>sake-ba-source</Name>
+        <Title>sake-ba-source</Title>
+        <RepoName>sake92/sake-ba-source</RepoName>
+        <Description>Source code of sake.ba</Description>
+        <Owner>sake92</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>sake92</Name>
+                <User>sake92</User>
+                <Url>https://github.com/sake92</Url>
+                <Location>Sarajevo, Bosnia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala; CSS; JavaScript</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2021-12-07T15:39:10Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="vladotesanovic/ngSemantic">
+        <Url>https://github.com/vladotesanovic/ngSemantic</Url>
+        <Name>ngSemantic</Name>
+        <Title>ngSemantic</Title>
+        <RepoName>vladotesanovic/ngSemantic</RepoName>
+        <Description>Angular 2 building blocks :package: based on Semantic UI</Description>
+        <Owner>vladotesanovic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>vladotesanovic</Name>
+                <User>vladotesanovic</User>
+                <Url>https://github.com/vladotesanovic</Url>
+                <Location>Sarajevo, Earth</Location>
+                <Email>vlado.tesanovic@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>TypeScript; JavaScript; HTML; CSS</LanguageTags>
+        <WatchersCount>1002</WatchersCount>
+        <ForksCount>155</ForksCount>
+        <OpenIssuesCount>98</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bosnia</CountryOrigin>
+        <UpdatedAt>2022-03-15T06:25:41Z</UpdatedAt>
+    </Dependency>
+</Dependencies>

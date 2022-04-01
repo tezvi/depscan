@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<Dependencies>
+    <Dependency name="webpack/webpack">
+        <Url>https://github.com/webpack/webpack</Url>
+        <Name>webpack</Name>
+        <Title>Webpack</Title>
+        <RepoName>webpack/webpack</RepoName>
+        <Description>A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand.
+            Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+        </Description>
+        <Owner>webpack</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Tobias Koppers</Name>
+                <User>sokra</User>
+                <Url>https://github.com/sokra</Url>
+                <Location>Germany</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; TypeScript; WebAssembly; CSS; CoffeeScript; HTML; Less; Pug; Shell</LanguageTags>
+        <WatchersCount>60706</WatchersCount>
+        <ForksCount>8286</ForksCount>
+        <OpenIssuesCount>294</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Germany</CountryOrigin>
+        <UpdatedAt>2022-03-22T15:12:53Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="justadudewhohacks/face-api.js">
+        <Url>https://github.com/justadudewhohacks/face-api.js</Url>
+        <Name>face-api.js</Name>
+        <Title>face-api.js</Title>
+        <RepoName>justadudewhohacks/face-api.js</RepoName>
+        <Description>JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js</Description>
+        <Owner>justadudewhohacks</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Vincent M&#xFC;hler</Name>
+                <User>justadudewhohacks</User>
+                <Url>https://github.com/justadudewhohacks</Url>
+                <Location>Berlin, Germany</Location>
+                <Email>muehler.v@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>TypeScript; JavaScript</LanguageTags>
+        <WatchersCount>13591</WatchersCount>
+        <ForksCount>3126</ForksCount>
+        <OpenIssuesCount>390</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Germany</CountryOrigin>
+        <UpdatedAt>2022-03-22T11:18:56Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="sharkdp/fd">
+        <Url>https://github.com/sharkdp/fd</Url>
+        <Name>fd</Name>
+        <Title>fd</Title>
+        <RepoName>sharkdp/fd</RepoName>
+        <Description>A simple, fast and user-friendly alternative to 'find'</Description>
+        <Owner>sharkdp</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>David Peter</Name>
+                <User>sharkdp</User>
+                <Url>https://github.com/sharkdp</Url>
+                <Location>Stuttgart, Germany</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Rust; Shell</LanguageTags>
+        <WatchersCount>21047</WatchersCount>
+        <ForksCount>562</ForksCount>
+        <OpenIssuesCount>59</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Germany</CountryOrigin>
+        <UpdatedAt>2022-03-22T15:17:54Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="sebastianbergmann/phpunit">
+        <Url>https://github.com/sebastianbergmann/phpunit</Url>
+        <Name>phpunit</Name>
+        <Title>PHPUnit</Title>
+        <RepoName>sebastianbergmann/phpunit</RepoName>
+        <Description>The PHP Unit Testing framework.</Description>
+        <Owner>sebastianbergmann</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Sebastian Bergmann</Name>
+                <User>sebastianbergmann</User>
+                <Url>https://github.com/sebastianbergmann</Url>
+                <Location>Siegburg, Germany</Location>
+                <Email>sebastian@phpunit.de</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; Smarty</LanguageTags>
+        <WatchersCount>18303</WatchersCount>
+        <ForksCount>2082</ForksCount>
+        <OpenIssuesCount>173</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Germany</CountryOrigin>
+        <UpdatedAt>2022-03-22T15:28:09Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="sebastianbergmann/php-code-coverage">
+        <Url>https://github.com/sebastianbergmann/php-code-coverage</Url>
+        <Name>php-code-coverage</Name>
+        <Title>PHP code coverage</Title>
+        <RepoName>sebastianbergmann/php-code-coverage</RepoName>
+        <Description>Library that provides collection, processing, and rendering functionality for PHP code coverage information.</Description>
+        <Owner>sebastianbergmann</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Sebastian Bergmann</Name>
+                <User>sebastianbergmann</User>
+                <Url>https://github.com/sebastianbergmann</Url>
+                <Location>Siegburg, Germany</Location>
+                <Email>sebastian@phpunit.de</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; HTML; CSS; JavaScript</LanguageTags>
+        <WatchersCount>8196</WatchersCount>
+        <ForksCount>347</ForksCount>
+        <OpenIssuesCount>12</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Germany</CountryOrigin>
+        <UpdatedAt>2022-03-22T14:54:20Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="felixge/httpsnoop">
+        <Url>https://github.com/felixge/httpsnoop</Url>
+        <Name>httpsnoop</Name>
+        <Title>httpsnoop</Title>
+        <RepoName>felixge/httpsnoop</RepoName>
+        <Description>Package httpsnoop provides an easy way to capture http related metrics (i.e. response time, bytes written, and http status code) from your application's
+            http.Handlers.
+        </Description>
+        <Owner>felixge</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Felix Geisend&#xF6;rfer</Name>
+                <User>felixge</User>
+                <Url>https://github.com/felixge</Url>
+                <Location>Berlin, Germany</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Go; Makefile</LanguageTags>
+        <WatchersCount>737</WatchersCount>
+        <ForksCount>32</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Germany</CountryOrigin>
+        <UpdatedAt>2022-03-22T08:17:39Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="mpociot/laravel-apidoc-generator">
+        <Url>https://github.com/mpociot/laravel-apidoc-generator</Url>
+        <Name>laravel-apidoc-generator</Name>
+        <Title>Laravel API Documentation Generator</Title>
+        <RepoName>mpociot/laravel-apidoc-generator</RepoName>
+        <Description>Laravel API Documentation Generator</Description>
+        <Owner>mpociot</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Marcel Pociot</Name>
+                <User>mpociot</User>
+                <Url>https://github.com/mpociot</Url>
+                <Location>Germany</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; Blade</LanguageTags>
+        <WatchersCount>3212</WatchersCount>
+        <ForksCount>596</ForksCount>
+        <OpenIssuesCount>52</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Germany</CountryOrigin>
+        <UpdatedAt>2022-03-19T23:46:52Z</UpdatedAt>
+    </Dependency>
+</Dependencies>

@@ -1,0 +1,4427 @@
+<?xml version="1.0"?>
+<Dependencies>
+    <Dependency name="balena-io/etcher">
+        <Url>https://github.com/balena-io/etcher</Url>
+        <Name>etcher</Name>
+        <Title>etcher</Title>
+        <RepoName>balena-io/etcher</RepoName>
+        <Description>Flash OS images to SD cards &amp; USB drives, safely and easily.</Description>
+        <Owner>balena-io</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>balena-io</Name>
+                <User>balena-io</User>
+                <Url>https://github.com/balena-io</Url>
+                <Location>United States of America</Location>
+                <Email>hello@balena.io</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>TypeScript; Makefile; JavaScript; Shell; CSS; HTML</LanguageTags>
+        <WatchersCount>22555</WatchersCount>
+        <ForksCount>1626</ForksCount>
+        <OpenIssuesCount>352</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2022-03-24T15:18:17Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="boriscy/enano">
+        <Url>https://github.com/boriscy/enano</Url>
+        <Name>enano</Name>
+        <Title>enano</Title>
+        <RepoName>boriscy/enano</RepoName>
+        <Description>Enano is a small CMS written in Ext JS and Ruby on Rails for the backend with and cool FileManager</Description>
+        <Owner>boriscy</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>boriscy</Name>
+                <User>boriscy</User>
+                <Url>https://github.com/boriscy</Url>
+                <Location>Samaipata, Bolivia</Location>
+                <Email>boriscyber@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; Ruby; Shell</LanguageTags>
+        <WatchersCount>13</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2019-08-13T13:45:35Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="boriscy/backbone-rivetsjs">
+        <Url>https://github.com/boriscy/backbone-rivetsjs</Url>
+        <Name>backbone-rivetsjs</Name>
+        <Title>backbone-rivetsjs</Title>
+        <RepoName>boriscy/backbone-rivetsjs</RepoName>
+        <Description>Two way data binding example for Backbone.js with rivets.js</Description>
+        <Owner>boriscy</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>boriscy</Name>
+                <User>boriscy</User>
+                <Url>https://github.com/boriscy</Url>
+                <Location>Samaipata, Bolivia</Location>
+                <Email>boriscyber@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CoffeeScript</LanguageTags>
+        <WatchersCount>10</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2020-12-26T04:25:06Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="boriscy/grider">
+        <Url>https://github.com/boriscy/grider</Url>
+        <Name>grider</Name>
+        <Title>grider</Title>
+        <RepoName>boriscy/grider</RepoName>
+        <Description>jQuery plugin to enable calculations and modifications in a table with data input</Description>
+        <Owner>boriscy</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>boriscy</Name>
+                <User>boriscy</User>
+                <Url>https://github.com/boriscy</Url>
+                <Location>Samaipata, Bolivia</Location>
+                <Email>boriscyber@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; PHP</LanguageTags>
+        <WatchersCount>10</WatchersCount>
+        <ForksCount>7</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2020-07-09T08:51:37Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="luixaviles/curso-angular">
+        <Url>https://github.com/luixaviles/curso-angular</Url>
+        <Name>curso-angular</Name>
+        <Title>curso-angular</Title>
+        <RepoName>luixaviles/curso-angular</RepoName>
+        <Description/>
+        <Owner>luixaviles</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>luixaviles</Name>
+                <User>luixaviles</User>
+                <Url>https://github.com/luixaviles</Url>
+                <Location>Cochabamba, Bolivia</Location>
+                <Email>luis.avilesz@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; ApacheConf; HTML; CSS</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>12</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2016-12-01T15:33:52Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kapit4n/react-seller">
+        <Url>https://github.com/kapit4n/react-seller</Url>
+        <Name>react-seller</Name>
+        <Title>react-seller</Title>
+        <RepoName>kapit4n/react-seller</RepoName>
+        <Description>Web environment to register products, sell products, and handler the stock of the products. ReactJS</Description>
+        <Owner>kapit4n</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kapit4n</Name>
+                <User>kapit4n</User>
+                <Url>https://github.com/kapit4n</Url>
+                <Location>Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; CSS</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>21</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2022-02-15T00:27:38Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="boriscy/almacen">
+        <Url>https://github.com/boriscy/almacen</Url>
+        <Name>almacen</Name>
+        <Title>almacen</Title>
+        <RepoName>boriscy/almacen</RepoName>
+        <Description>Sistema de control de almacenes</Description>
+        <Owner>boriscy</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>boriscy</Name>
+                <User>boriscy</User>
+                <Url>https://github.com/boriscy</Url>
+                <Location>Samaipata, Bolivia</Location>
+                <Email>boriscyber@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; Ruby; Vim script; Shell</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2014-04-27T07:51:22Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="paolo/smithy-describe">
+        <Url>https://github.com/paolo/smithy-describe</Url>
+        <Name>smithy-describe</Name>
+        <Title>smithy-describe</Title>
+        <RepoName>paolo/smithy-describe</RepoName>
+        <Description>A simple describe like syntax for testing meteor packages with Tinytest</Description>
+        <Owner>paolo</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>paolo</Name>
+                <User>paolo</User>
+                <Url>https://github.com/paolo</Url>
+                <Location>Cochabamba, Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2017-07-09T21:51:44Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="severo/well-formed">
+        <Url>https://github.com/severo/well-formed</Url>
+        <Name>well-formed</Name>
+        <Title>well-formed</Title>
+        <RepoName>severo/well-formed</RepoName>
+        <Description/>
+        <Owner>severo</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>severo</Name>
+                <User>severo</User>
+                <Url>https://github.com/severo</Url>
+                <Location>Rennes, France</Location>
+                <Email>severo@rednegra.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; CSS</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2018-08-15T11:43:52Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="carlos-olivera/reactioncommerce-json-importer">
+        <Url>https://github.com/carlos-olivera/reactioncommerce-json-importer</Url>
+        <Name>reactioncommerce-json-importer</Name>
+        <Title>reactioncommerce-jso&#x2026;</Title>
+        <RepoName>carlos-olivera/reactioncommerce-json-importer</RepoName>
+        <Description>JSON parser and importer for Reactioncommerce</Description>
+        <Owner>carlos-olivera</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>carlos-olivera</Name>
+                <User>carlos-olivera</User>
+                <Url>https://github.com/carlos-olivera</Url>
+                <Location>Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2019-04-24T16:36:23Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="juliosguz/initial-layout">
+        <Url>https://github.com/juliosguz/initial-layout</Url>
+        <Name>initial-layout</Name>
+        <Title>initial-layout</Title>
+        <RepoName>juliosguz/initial-layout</RepoName>
+        <Description/>
+        <Owner>juliosguz</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>juliosguz</Name>
+                <User>juliosguz</User>
+                <Url>https://github.com/juliosguz</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>julio.sguz@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="kapit4n/mockupero">
+        <Url>https://github.com/kapit4n/mockupero</Url>
+        <Name>mockupero</Name>
+        <Title>mockupero</Title>
+        <RepoName>kapit4n/mockupero</RepoName>
+        <Description>Collaborative platform to manage mockups, angular 1.3</Description>
+        <Owner>kapit4n</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kapit4n</Name>
+                <User>kapit4n</User>
+                <Url>https://github.com/kapit4n</Url>
+                <Location>Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; CSS; Dockerfile; Batchfile</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>25</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2020-05-15T22:53:27Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="boriscy/bonsaiweb">
+        <Url>https://github.com/boriscy/bonsaiweb</Url>
+        <Name>bonsaiweb</Name>
+        <Title>bonsaiweb</Title>
+        <RepoName>boriscy/bonsaiweb</RepoName>
+        <Description>Web site for bonsaiERP</Description>
+        <Owner>boriscy</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>boriscy</Name>
+                <User>boriscy</User>
+                <Url>https://github.com/boriscy</Url>
+                <Location>Samaipata, Bolivia</Location>
+                <Email>boriscyber@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; Ruby; CoffeeScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2014-02-27T09:47:38Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="chitopolo/React-Node-Starter">
+        <Url>https://github.com/chitopolo/React-Node-Starter</Url>
+        <Name>React-Node-Starter</Name>
+        <Title>React-Node-Starter</Title>
+        <RepoName>chitopolo/React-Node-Starter</RepoName>
+        <Description/>
+        <Owner>chitopolo</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>chitopolo</Name>
+                <User>chitopolo</User>
+                <Url>https://github.com/chitopolo</Url>
+                <Location>Cochabamba, Bolivia</Location>
+                <Email>renejpolo@me.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2019-08-18T16:46:52Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="boriscy/atixtutorextjs">
+        <Url>https://github.com/boriscy/atixtutorextjs</Url>
+        <Name>atixtutorextjs</Name>
+        <Title>atixtutorextjs</Title>
+        <RepoName>boriscy/atixtutorextjs</RepoName>
+        <Description>Tutor de ExtJS para la revistar ATIX</Description>
+        <Owner>boriscy</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>boriscy</Name>
+                <User>boriscy</User>
+                <Url>https://github.com/boriscy</Url>
+                <Location>Samaipata, Bolivia</Location>
+                <Email>boriscyber@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; PHP; Python; Visual Basic</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2019-08-13T13:53:09Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="boriscy/gaspet">
+        <Url>https://github.com/boriscy/gaspet</Url>
+        <Name>gaspet</Name>
+        <Title>gaspet</Title>
+        <RepoName>boriscy/gaspet</RepoName>
+        <Description>Gapet</Description>
+        <Owner>boriscy</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>boriscy</Name>
+                <User>boriscy</User>
+                <Url>https://github.com/boriscy</Url>
+                <Location>Samaipata, Bolivia</Location>
+                <Email>boriscyber@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; Ruby</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2013-10-11T14:03:57Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Veuge/little_projects">
+        <Url>https://github.com/Veuge/little_projects</Url>
+        <Name>little_projects</Name>
+        <Title>little_projects</Title>
+        <RepoName>Veuge/little_projects</RepoName>
+        <Description>Practicing Javascript, too late</Description>
+        <Owner>Veuge</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Veuge</Name>
+                <User>Veuge</User>
+                <Url>https://github.com/Veuge</Url>
+                <Location>La Paz - Bolivia</Location>
+                <Email>veuge.clavijo@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; PHP; HTML; Ruby; Vue; ApacheConf</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2018-01-11T20:29:44Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kapit4n/lb-school-events">
+        <Url>https://github.com/kapit4n/lb-school-events</Url>
+        <Name>lb-school-events</Name>
+        <Title>lb-school-events</Title>
+        <RepoName>kapit4n/lb-school-events</RepoName>
+        <Description>School events API</Description>
+        <Owner>kapit4n</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kapit4n</Name>
+                <User>kapit4n</User>
+                <Url>https://github.com/kapit4n</Url>
+                <Location>Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2019-02-15T08:01:29Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="wolf-mtwo/node-rest-es6">
+        <Url>https://github.com/wolf-mtwo/node-rest-es6</Url>
+        <Name>node-rest-es6</Name>
+        <Title>node-rest-es6</Title>
+        <RepoName>wolf-mtwo/node-rest-es6</RepoName>
+        <Description>A simple seed for web applications, just backend stack, in es6</Description>
+        <Owner>wolf-mtwo</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>wolf-mtwo</Name>
+                <User>wolf-mtwo</User>
+                <Url>https://github.com/wolf-mtwo</Url>
+                <Location>Cbba, Bolivia</Location>
+                <Email>rolf.mtwo@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2019-01-28T04:17:14Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kapit4n/mockupero-api">
+        <Url>https://github.com/kapit4n/mockupero-api</Url>
+        <Name>mockupero-api</Name>
+        <Title>mockupero-api</Title>
+        <RepoName>kapit4n/mockupero-api</RepoName>
+        <Description>REST full api to manage mockups</Description>
+        <Owner>kapit4n</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kapit4n</Name>
+                <User>kapit4n</User>
+                <Url>https://github.com/kapit4n</Url>
+                <Location>Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; Dockerfile; CSS; Batchfile</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2018-10-04T11:15:13Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="boriscy/motoEx">
+        <Url>https://github.com/boriscy/motoEx</Url>
+        <Name>motoEx</Name>
+        <Title>motoEx</Title>
+        <RepoName>boriscy/motoEx</RepoName>
+        <Description>Herramienta f&#xE1;cil para importar de datos desde hoja electr&#xF3;nicas</Description>
+        <Owner>boriscy</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>boriscy</Name>
+                <User>boriscy</User>
+                <Url>https://github.com/boriscy</Url>
+                <Location>Samaipata, Bolivia</Location>
+                <Email>boriscyber@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; Ruby; PHP; Python; Shell</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2013-11-20T14:06:55Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alvareztech/BottomNavigationViewSample">
+        <Url>https://github.com/alvareztech/BottomNavigationViewSample</Url>
+        <Name>BottomNavigationViewSample</Name>
+        <Title>BottomNavigationView&#x2026;</Title>
+        <RepoName>alvareztech/BottomNavigationViewSample</RepoName>
+        <Description>BottomNavigationView Sample</Description>
+        <Owner>alvareztech</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alvareztech</Name>
+                <User>alvareztech</User>
+                <Url>https://github.com/alvareztech</Url>
+                <Location>Bolivia</Location>
+                <Email>daniel@alvarez.tech</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>26</WatchersCount>
+        <ForksCount>10</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2022-02-14T05:01:00Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alvareztech/android-facebook-login">
+        <Url>https://github.com/alvareztech/android-facebook-login</Url>
+        <Name>android-facebook-login</Name>
+        <Title>android-facebook-log&#x2026;</Title>
+        <RepoName>alvareztech/android-facebook-login</RepoName>
+        <Description>Demo Facebook Login Android Application</Description>
+        <Owner>alvareztech</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alvareztech</Name>
+                <User>alvareztech</User>
+                <Url>https://github.com/alvareztech</Url>
+                <Location>Bolivia</Location>
+                <Email>daniel@alvarez.tech</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>20</WatchersCount>
+        <ForksCount>11</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-10-15T13:39:11Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alvareztech/firebase-ui-android-auth-phone">
+        <Url>https://github.com/alvareztech/firebase-ui-android-auth-phone</Url>
+        <Name>firebase-ui-android-auth-phone</Name>
+        <Title>firebase-ui-android-&#x2026;</Title>
+        <RepoName>alvareztech/firebase-ui-android-auth-phone</RepoName>
+        <Description>Demo FirebaseUI Android phone authentication</Description>
+        <Owner>alvareztech</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alvareztech</Name>
+                <User>alvareztech</User>
+                <Url>https://github.com/alvareztech</Url>
+                <Location>Bolivia</Location>
+                <Email>daniel@alvarez.tech</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>10</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2020-04-28T03:03:54Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Gusn8/CodeLab-Kotlin">
+        <Url>https://github.com/Gusn8/CodeLab-Kotlin</Url>
+        <Name>CodeLab-Kotlin</Name>
+        <Title>CodeLab-Kotlin</Title>
+        <RepoName>Gusn8/CodeLab-Kotlin</RepoName>
+        <Description>Ejemplo de uni&#xF3;n de c&#xF3;digo java con kotlin</Description>
+        <Owner>Gusn8</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Gusn8</Name>
+                <User>Gusn8</User>
+                <Url>https://github.com/Gusn8</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; Kotlin</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>13</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2017-09-10T03:25:27Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Gusn8/StudyJam_II_Views_II">
+        <Url>https://github.com/Gusn8/StudyJam_II_Views_II</Url>
+        <Name>StudyJam_II_Views_II</Name>
+        <Title>StudyJam_II_Views_II</Title>
+        <RepoName>Gusn8/StudyJam_II_Views_II</RepoName>
+        <Description>Ejemplo 2 Sobre Vistas.</Description>
+        <Owner>Gusn8</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Gusn8</Name>
+                <User>Gusn8</User>
+                <Url>https://github.com/Gusn8</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>9</WatchersCount>
+        <ForksCount>13</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2020-07-01T22:18:38Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alvareztech/Pokedex">
+        <Url>https://github.com/alvareztech/Pokedex</Url>
+        <Name>Pokedex</Name>
+        <Title>Pokedex</Title>
+        <RepoName>alvareztech/Pokedex</RepoName>
+        <Description>An application that uses Retrofit to consume the Pokeapi API, in addition to loading images with Glide.</Description>
+        <Owner>alvareztech</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alvareztech</Name>
+                <User>alvareztech</User>
+                <Url>https://github.com/alvareztech</Url>
+                <Location>Bolivia</Location>
+                <Email>daniel@alvarez.tech</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>19</WatchersCount>
+        <ForksCount>22</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2022-02-14T04:30:30Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Gusn8/StudyJam_II_Animations">
+        <Url>https://github.com/Gusn8/StudyJam_II_Animations</Url>
+        <Name>StudyJam_II_Animations</Name>
+        <Title>StudyJam_II_Animatio&#x2026;</Title>
+        <RepoName>Gusn8/StudyJam_II_Animations</RepoName>
+        <Description>Repositorio de animaciones b&#xE1;sicas a trav&#xE9;s de XML con uso de la clase Animation.</Description>
+        <Owner>Gusn8</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Gusn8</Name>
+                <User>Gusn8</User>
+                <Url>https://github.com/Gusn8</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>11</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-08-30T15:07:57Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alvareztech/android-crud-room-mvp">
+        <Url>https://github.com/alvareztech/android-crud-room-mvp</Url>
+        <Name>android-crud-room-mvp</Name>
+        <Title>android-crud-room-mv&#x2026;</Title>
+        <RepoName>alvareztech/android-crud-room-mvp</RepoName>
+        <Description>Android CRUD MVP Demo</Description>
+        <Owner>alvareztech</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alvareztech</Name>
+                <User>alvareztech</User>
+                <Url>https://github.com/alvareztech</Url>
+                <Location>Bolivia</Location>
+                <Email>daniel@alvarez.tech</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>23</WatchersCount>
+        <ForksCount>8</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2022-02-09T23:42:12Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alvareztech/TowerOfHanoi">
+        <Url>https://github.com/alvareztech/TowerOfHanoi</Url>
+        <Name>TowerOfHanoi</Name>
+        <Title>TowerOfHanoi</Title>
+        <RepoName>alvareztech/TowerOfHanoi</RepoName>
+        <Description>Graphical solution to the Towers of Hanoi from 1 to 8 pieces in Java.</Description>
+        <Owner>alvareztech</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alvareztech</Name>
+                <User>alvareztech</User>
+                <Url>https://github.com/alvareztech</Url>
+                <Location>Bolivia</Location>
+                <Email>daniel@alvarez.tech</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>8</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2022-01-20T14:39:32Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="andres-vasquez/LegoTbbTIot">
+        <Url>https://github.com/andres-vasquez/LegoTbbTIot</Url>
+        <Name>LegoTbbTIot</Name>
+        <Title>LegoTbbTIot</Title>
+        <RepoName>andres-vasquez/LegoTbbTIot</RepoName>
+        <Description>Android App for Firebase Lego Codelab</Description>
+        <Owner>andres-vasquez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>andres-vasquez</Name>
+                <User>andres-vasquez</User>
+                <Url>https://github.com/andres-vasquez</Url>
+                <Location>La Paz, Bolivia</Location>
+                <Email>andres.vasquez.a@hotmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2017-01-05T19:24:53Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Gusn8/StudyJam_II_CustomViews">
+        <Url>https://github.com/Gusn8/StudyJam_II_CustomViews</Url>
+        <Name>StudyJam_II_CustomViews</Name>
+        <Title>StudyJam_II_CustomVi&#x2026;</Title>
+        <RepoName>Gusn8/StudyJam_II_CustomViews</RepoName>
+        <Description>Repositorio de ejemplo personalizando algunas vistas.</Description>
+        <Owner>Gusn8</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Gusn8</Name>
+                <User>Gusn8</User>
+                <Url>https://github.com/Gusn8</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>11</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-08-30T15:07:54Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="andres-vasquez/AndroidArchTodo">
+        <Url>https://github.com/andres-vasquez/AndroidArchTodo</Url>
+        <Name>AndroidArchTodo</Name>
+        <Title>AndroidArchTodo</Title>
+        <RepoName>andres-vasquez/AndroidArchTodo</RepoName>
+        <Description>Android Architecture Example: TODO</Description>
+        <Owner>andres-vasquez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>andres-vasquez</Name>
+                <User>andres-vasquez</User>
+                <Url>https://github.com/andres-vasquez</Url>
+                <Location>La Paz, Bolivia</Location>
+                <Email>andres.vasquez.a@hotmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-04-14T02:15:02Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alvareztech/EjemploFCM">
+        <Url>https://github.com/alvareztech/EjemploFCM</Url>
+        <Name>EjemploFCM</Name>
+        <Title>EjemploFCM</Title>
+        <RepoName>alvareztech/EjemploFCM</RepoName>
+        <Description>Firebase Cloud Messaging sample.</Description>
+        <Owner>alvareztech</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alvareztech</Name>
+                <User>alvareztech</User>
+                <Url>https://github.com/alvareztech</Url>
+                <Location>Bolivia</Location>
+                <Email>daniel@alvarez.tech</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2022-02-11T01:24:17Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Gusn8/StudyJam_II_Views">
+        <Url>https://github.com/Gusn8/StudyJam_II_Views</Url>
+        <Name>StudyJam_II_Views</Name>
+        <Title>StudyJam_II_Views</Title>
+        <RepoName>Gusn8/StudyJam_II_Views</RepoName>
+        <Description>Ejemplo 1 Study Jam</Description>
+        <Owner>Gusn8</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Gusn8</Name>
+                <User>Gusn8</User>
+                <Url>https://github.com/Gusn8</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>7</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2017-01-22T00:35:58Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="viniciusDSL/CameraView">
+        <Url>https://github.com/viniciusDSL/CameraView</Url>
+        <Name>CameraView</Name>
+        <Title>CameraView</Title>
+        <RepoName>viniciusDSL/CameraView</RepoName>
+        <Description>Android Camera Library to use a camera like a simple widget</Description>
+        <Owner>viniciusDSL</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>viniciusDSL</Name>
+                <User>viniciusDSL</User>
+                <Url>https://github.com/viniciusDSL</Url>
+                <Location>La Paz - Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; Groovy</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2017-07-04T18:42:12Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="viniciusDSL/Google-I-O-extended">
+        <Url>https://github.com/viniciusDSL/Google-I-O-extended</Url>
+        <Name>Google-I-O-extended</Name>
+        <Title>Google-I-O-extended</Title>
+        <RepoName>viniciusDSL/Google-I-O-extended</RepoName>
+        <Description/>
+        <Owner>viniciusDSL</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>viniciusDSL</Name>
+                <User>viniciusDSL</User>
+                <Url>https://github.com/viniciusDSL</Url>
+                <Location>La Paz - Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2019-06-09T00:35:55Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="andres-vasquez/android-mvvm-attendance">
+        <Url>https://github.com/andres-vasquez/android-mvvm-attendance</Url>
+        <Name>android-mvvm-attendance</Name>
+        <Title>android-mvvm-attenda&#x2026;</Title>
+        <RepoName>andres-vasquez/android-mvvm-attendance</RepoName>
+        <Description>Codelab with android Architecture Components</Description>
+        <Owner>andres-vasquez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>andres-vasquez</Name>
+                <User>andres-vasquez</User>
+                <Url>https://github.com/andres-vasquez</Url>
+                <Location>La Paz, Bolivia</Location>
+                <Email>andres.vasquez.a@hotmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2020-07-30T05:03:59Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Gusn8/StudyJam_II_Java_2">
+        <Url>https://github.com/Gusn8/StudyJam_II_Java_2</Url>
+        <Name>StudyJam_II_Java_2</Name>
+        <Title>StudyJam_II_Java_2</Title>
+        <RepoName>Gusn8/StudyJam_II_Java_2</RepoName>
+        <Description/>
+        <Owner>Gusn8</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Gusn8</Name>
+                <User>Gusn8</User>
+                <Url>https://github.com/Gusn8</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>8</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2017-01-22T00:37:13Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alvareztech/FirebaseGoogleSignInAndroid">
+        <Url>https://github.com/alvareztech/FirebaseGoogleSignInAndroid</Url>
+        <Name>FirebaseGoogleSignInAndroid</Name>
+        <Title>FirebaseGoogleSignIn&#x2026;</Title>
+        <RepoName>alvareztech/FirebaseGoogleSignInAndroid</RepoName>
+        <Description>Google Sign-In for Android in Firebase</Description>
+        <Owner>alvareztech</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alvareztech</Name>
+                <User>alvareztech</User>
+                <Url>https://github.com/alvareztech</Url>
+                <Location>Bolivia</Location>
+                <Email>daniel@alvarez.tech</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>13</WatchersCount>
+        <ForksCount>10</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2022-02-11T01:23:03Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="timoteoponce/gitconfig4j">
+        <Url>https://github.com/timoteoponce/gitconfig4j</Url>
+        <Name>gitconfig4j</Name>
+        <Title>gitconfig4j</Title>
+        <RepoName>timoteoponce/gitconfig4j</RepoName>
+        <Description>Configuration management of git-like properties for Java (git gitconfig java).</Description>
+        <Owner>timoteoponce</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>timoteoponce</Name>
+                <User>timoteoponce</User>
+                <Url>https://github.com/timoteoponce</Url>
+                <Location>Santa Cruz, Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2018-08-15T15:37:06Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alvareztech/GoogleSignInAndroid">
+        <Url>https://github.com/alvareztech/GoogleSignInAndroid</Url>
+        <Name>GoogleSignInAndroid</Name>
+        <Title>GoogleSignInAndroid</Title>
+        <RepoName>alvareztech/GoogleSignInAndroid</RepoName>
+        <Description>Simple implementation of authentication with Google in an Android application.</Description>
+        <Owner>alvareztech</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alvareztech</Name>
+                <User>alvareztech</User>
+                <Url>https://github.com/alvareztech</Url>
+                <Location>Bolivia</Location>
+                <Email>daniel@alvarez.tech</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>7</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2022-02-08T20:21:43Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Gusn8/StudyJam_II_Java_1">
+        <Url>https://github.com/Gusn8/StudyJam_II_Java_1</Url>
+        <Name>StudyJam_II_Java_1</Name>
+        <Title>StudyJam_II_Java_1</Title>
+        <RepoName>Gusn8/StudyJam_II_Java_1</RepoName>
+        <Description/>
+        <Owner>Gusn8</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Gusn8</Name>
+                <User>Gusn8</User>
+                <Url>https://github.com/Gusn8</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>7</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2017-01-22T00:37:17Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alvareztech/ChatBluetooth">
+        <Url>https://github.com/alvareztech/ChatBluetooth</Url>
+        <Name>ChatBluetooth</Name>
+        <Title>ChatBluetooth</Title>
+        <RepoName>alvareztech/ChatBluetooth</RepoName>
+        <Description>Un chat haciendo uso de la API Bluetooth basado en la aplicaci&#xF3;n de ejemplo de la documentaci&#xF3;n oficial de Android.</Description>
+        <Owner>alvareztech</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alvareztech</Name>
+                <User>alvareztech</User>
+                <Url>https://github.com/alvareztech</Url>
+                <Location>Bolivia</Location>
+                <Email>daniel@alvarez.tech</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2016-11-06T03:05:45Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="viniciusDSL/One-Cachito">
+        <Url>https://github.com/viniciusDSL/One-Cachito</Url>
+        <Name>One-Cachito</Name>
+        <Title>One-Cachito</Title>
+        <RepoName>viniciusDSL/One-Cachito</RepoName>
+        <Description>Android videogame based on traditional Bolivian game "Cacho Alalay"</Description>
+        <Owner>viniciusDSL</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>viniciusDSL</Name>
+                <User>viniciusDSL</User>
+                <Url>https://github.com/viniciusDSL</Url>
+                <Location>La Paz - Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2020-03-27T22:34:24Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="viniciusDSL/NavigationView-Demo">
+        <Url>https://github.com/viniciusDSL/NavigationView-Demo</Url>
+        <Name>NavigationView-Demo</Name>
+        <Title>NavigationView-Demo</Title>
+        <RepoName>viniciusDSL/NavigationView-Demo</RepoName>
+        <Description>Simple demo of NavigationView android widget</Description>
+        <Owner>viniciusDSL</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>viniciusDSL</Name>
+                <User>viniciusDSL</User>
+                <Url>https://github.com/viniciusDSL</Url>
+                <Location>La Paz - Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2016-08-19T19:49:42Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="andres-vasquez/curso-android-2016">
+        <Url>https://github.com/andres-vasquez/curso-android-2016</Url>
+        <Name>curso-android-2016</Name>
+        <Title>curso-android-2016</Title>
+        <RepoName>andres-vasquez/curso-android-2016</RepoName>
+        <Description>Ejemplos del Curso Android Ine 2016</Description>
+        <Owner>andres-vasquez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>andres-vasquez</Name>
+                <User>andres-vasquez</User>
+                <Url>https://github.com/andres-vasquez</Url>
+                <Location>La Paz, Bolivia</Location>
+                <Email>andres.vasquez.a@hotmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2017-02-21T01:33:28Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alvareztech/SimiDic">
+        <Url>https://github.com/alvareztech/SimiDic</Url>
+        <Name>SimiDic</Name>
+        <Title>SimiDic</Title>
+        <RepoName>alvareztech/SimiDic</RepoName>
+        <Description>Diccionario de lenguas para dispositivos Android.</Description>
+        <Owner>alvareztech</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alvareztech</Name>
+                <User>alvareztech</User>
+                <Url>https://github.com/alvareztech</Url>
+                <Location>Bolivia</Location>
+                <Email>daniel@alvarez.tech</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2015-10-31T22:15:13Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="timoteoponce/totai3capas">
+        <Url>https://github.com/timoteoponce/totai3capas</Url>
+        <Name>totai3capas</Name>
+        <Title>totai3capas</Title>
+        <RepoName>timoteoponce/totai3capas</RepoName>
+        <Description>aplicacion 3 capas</Description>
+        <Owner>timoteoponce</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>timoteoponce</Name>
+                <User>timoteoponce</User>
+                <Url>https://github.com/timoteoponce</Url>
+                <Location>Santa Cruz, Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2020-04-05T17:12:34Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="viniciusDSL/AngryTux">
+        <Url>https://github.com/viniciusDSL/AngryTux</Url>
+        <Name>AngryTux</Name>
+        <Title>AngryTux</Title>
+        <RepoName>viniciusDSL/AngryTux</RepoName>
+        <Description>Example with andengine of a Simple Level Game for Android</Description>
+        <Owner>viniciusDSL</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>viniciusDSL</Name>
+                <User>viniciusDSL</User>
+                <Url>https://github.com/viniciusDSL</Url>
+                <Location>La Paz - Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2016-08-19T19:49:36Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Gusn8/StudyJam_II_CustomListViews">
+        <Url>https://github.com/Gusn8/StudyJam_II_CustomListViews</Url>
+        <Name>StudyJam_II_CustomListViews</Name>
+        <Title>StudyJam_II_CustomLi&#x2026;</Title>
+        <RepoName>Gusn8/StudyJam_II_CustomListViews</RepoName>
+        <Description>Ejemplo basico de uso de ListView antes de ingresar al manejo de RecyclerView.</Description>
+        <Owner>Gusn8</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Gusn8</Name>
+                <User>Gusn8</User>
+                <Url>https://github.com/Gusn8</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2017-01-22T00:36:45Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Gusn8/SJ_A_1_17_Java_3_Intents">
+        <Url>https://github.com/Gusn8/SJ_A_1_17_Java_3_Intents</Url>
+        <Name>SJ_A_1_17_Java_3_Intents</Name>
+        <Title>SJ_A_1_17_Java_3_Int&#x2026;</Title>
+        <RepoName>Gusn8/SJ_A_1_17_Java_3_Intents</RepoName>
+        <Description>Ejemplo b&#xE1;sico de manipulaci&#xF3;n de Intents dentro una aplicaci&#xF3;n Android.</Description>
+        <Owner>Gusn8</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Gusn8</Name>
+                <User>Gusn8</User>
+                <Url>https://github.com/Gusn8</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>1</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-08-30T15:07:45Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Gusn8/PokeLitho">
+        <Url>https://github.com/Gusn8/PokeLitho</Url>
+        <Name>PokeLitho</Name>
+        <Title>PokeLitho</Title>
+        <RepoName>Gusn8/PokeLitho</RepoName>
+        <Description>Demo b&#xE1;sica de creaci&#xF3;n de interfaces de usuario con Litho de Facebook.</Description>
+        <Owner>Gusn8</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Gusn8</Name>
+                <User>Gusn8</User>
+                <Url>https://github.com/Gusn8</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2017-11-22T00:20:21Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Gusn8/StudyJam_II_Multimedia_Insultador">
+        <Url>https://github.com/Gusn8/StudyJam_II_Multimedia_Insultador</Url>
+        <Name>StudyJam_II_Multimedia_Insultador</Name>
+        <Title>StudyJam_II_Multimed&#x2026;</Title>
+        <RepoName>Gusn8/StudyJam_II_Multimedia_Insultador</RepoName>
+        <Description>Simple demo con las caracter&#xED;sticas de SoundPool que me permite reproducir sonidos cortos.</Description>
+        <Owner>Gusn8</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Gusn8</Name>
+                <User>Gusn8</User>
+                <Url>https://github.com/Gusn8</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2017-01-22T00:37:05Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Gusn8/SJ_A_1_17_Java_2">
+        <Url>https://github.com/Gusn8/SJ_A_1_17_Java_2</Url>
+        <Name>SJ_A_1_17_Java_2</Name>
+        <Title>SJ_A_1_17_Java_2</Title>
+        <RepoName>Gusn8/SJ_A_1_17_Java_2</RepoName>
+        <Description>Ejemplo b&#xE1;sico de integraci&#xF3;n de Java en una aplicaci&#xF3;n Android.</Description>
+        <Owner>Gusn8</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Gusn8</Name>
+                <User>Gusn8</User>
+                <Url>https://github.com/Gusn8</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>1</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-08-30T15:07:53Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alvareztech/CNA-Friends">
+        <Url>https://github.com/alvareztech/CNA-Friends</Url>
+        <Name>CNA-Friends</Name>
+        <Title>CNA-Friends</Title>
+        <RepoName>alvareztech/CNA-Friends</RepoName>
+        <Description>Android networking course demo application. Facebook Fresco, RecyclerView.</Description>
+        <Owner>alvareztech</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alvareztech</Name>
+                <User>alvareztech</User>
+                <Url>https://github.com/alvareztech</Url>
+                <Location>Bolivia</Location>
+                <Email>daniel@alvarez.tech</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2022-02-11T01:26:37Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="timoteoponce/paginator">
+        <Url>https://github.com/timoteoponce/paginator</Url>
+        <Name>paginator</Name>
+        <Title>paginator</Title>
+        <RepoName>timoteoponce/paginator</RepoName>
+        <Description>Generic stateless paginator component for Java</Description>
+        <Owner>timoteoponce</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>timoteoponce</Name>
+                <User>timoteoponce</User>
+                <Url>https://github.com/timoteoponce</Url>
+                <Location>Santa Cruz, Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2014-07-21T08:44:13Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Gusn8/StudyJam_II_Multimedia_Player">
+        <Url>https://github.com/Gusn8/StudyJam_II_Multimedia_Player</Url>
+        <Name>StudyJam_II_Multimedia_Player</Name>
+        <Title>StudyJam_II_Multimed&#x2026;</Title>
+        <RepoName>Gusn8/StudyJam_II_Multimedia_Player</RepoName>
+        <Description>Simple demo para mostrar las caracter&#xED;sticas de la clase MediaPlayer para reproducci&#xF3;n de sonidos largos.</Description>
+        <Owner>Gusn8</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Gusn8</Name>
+                <User>Gusn8</User>
+                <Url>https://github.com/Gusn8</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2019-07-16T15:05:36Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Gusn8/kotlin-codelab">
+        <Url>https://github.com/Gusn8/kotlin-codelab</Url>
+        <Name>kotlin-codelab</Name>
+        <Title>kotlin-codelab</Title>
+        <RepoName>Gusn8/kotlin-codelab</RepoName>
+        <Description>Ejemplo impartido en un CodeLab del Google I/O Extended Cochabamba 2017.</Description>
+        <Owner>Gusn8</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Gusn8</Name>
+                <User>Gusn8</User>
+                <Url>https://github.com/Gusn8</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; Kotlin</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2017-06-23T22:40:53Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="timoteoponce/portable-AddressBook">
+        <Url>https://github.com/timoteoponce/portable-AddressBook</Url>
+        <Name>portable-AddressBook</Name>
+        <Title>portable-AddressBook</Title>
+        <RepoName>timoteoponce/portable-AddressBook</RepoName>
+        <Description>MacOs like AddressBook application written in Java</Description>
+        <Owner>timoteoponce</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>timoteoponce</Name>
+                <User>timoteoponce</User>
+                <Url>https://github.com/timoteoponce</Url>
+                <Location>Santa Cruz, Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2014-01-22T01:40:12Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Gusn8/StudyJam_II_Persistencia">
+        <Url>https://github.com/Gusn8/StudyJam_II_Persistencia</Url>
+        <Name>StudyJam_II_Persistencia</Name>
+        <Title>StudyJam_II_Persiste&#x2026;</Title>
+        <RepoName>Gusn8/StudyJam_II_Persistencia</RepoName>
+        <Description>Ejemplo Basico de uso de SharedPreferences, Archivos internos y externos.</Description>
+        <Owner>Gusn8</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Gusn8</Name>
+                <User>Gusn8</User>
+                <Url>https://github.com/Gusn8</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2017-01-22T00:36:39Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tiveor/android-advanced">
+        <Url>https://github.com/tiveor/android-advanced</Url>
+        <Name>android-advanced</Name>
+        <Title>android-advanced</Title>
+        <RepoName>tiveor/android-advanced</RepoName>
+        <Description/>
+        <Owner>tiveor</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tiveor</Name>
+                <User>tiveor</User>
+                <Url>https://github.com/tiveor</Url>
+                <Location>Cochabamba, Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; GLSL</LanguageTags>
+        <WatchersCount>1</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2020-07-18T22:21:59Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Gusn8/StudyJam_II_Intents">
+        <Url>https://github.com/Gusn8/StudyJam_II_Intents</Url>
+        <Name>StudyJam_II_Intents</Name>
+        <Title>StudyJam_II_Intents</Title>
+        <RepoName>Gusn8/StudyJam_II_Intents</RepoName>
+        <Description>Uso de Intents expl&#xED;citos e impl&#xED;citos.</Description>
+        <Owner>Gusn8</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Gusn8</Name>
+                <User>Gusn8</User>
+                <Url>https://github.com/Gusn8</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2020-07-04T15:22:14Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tiveor/android-intermediate">
+        <Url>https://github.com/tiveor/android-intermediate</Url>
+        <Name>android-intermediate</Name>
+        <Title>android-intermediate</Title>
+        <RepoName>tiveor/android-intermediate</RepoName>
+        <Description/>
+        <Owner>tiveor</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tiveor</Name>
+                <User>tiveor</User>
+                <Url>https://github.com/tiveor</Url>
+                <Location>Cochabamba, Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; Ruby; HTML; CSS; JavaScript; CoffeeScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2020-07-18T22:22:05Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Gusn8/SJ_A_1_17_Views_2">
+        <Url>https://github.com/Gusn8/SJ_A_1_17_Views_2</Url>
+        <Name>SJ_A_1_17_Views_2</Name>
+        <Title>SJ_A_1_17_Views_2</Title>
+        <RepoName>Gusn8/SJ_A_1_17_Views_2</RepoName>
+        <Description>Segundo demo del Curso de Android - Android Development for Beginners</Description>
+        <Owner>Gusn8</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Gusn8</Name>
+                <User>Gusn8</User>
+                <Url>https://github.com/Gusn8</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>1</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-08-30T15:07:48Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tonny/slide">
+        <Url>https://github.com/tonny/slide</Url>
+        <Name>slide</Name>
+        <Title>slide</Title>
+        <RepoName>tonny/slide</RepoName>
+        <Description>implementar patrones de disenio en los Slides</Description>
+        <Owner>tonny</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tonny</Name>
+                <User>tonny</User>
+                <Url>https://github.com/tonny</Url>
+                <Location>Cochabamba-Bolivia</Location>
+                <Email>antonio.mq@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2019-08-13T13:47:43Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Gusn8/StudyJam_II_Multimedia_Remix">
+        <Url>https://github.com/Gusn8/StudyJam_II_Multimedia_Remix</Url>
+        <Name>StudyJam_II_Multimedia_Remix</Name>
+        <Title>StudyJam_II_Multimed&#x2026;</Title>
+        <RepoName>Gusn8/StudyJam_II_Multimedia_Remix</RepoName>
+        <Description>Demo de uso de MediaPlayer y SoundPool, implementado en una aplicaci&#xF3;n con sonidos y remixes de sonidos con la frase 'hit' del momento en Bolivia: "Pero
+            no es que te ralles asi".
+        </Description>
+        <Owner>Gusn8</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Gusn8</Name>
+                <User>Gusn8</User>
+                <Url>https://github.com/Gusn8</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2017-01-22T00:36:51Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tonny/patternsinjava">
+        <Url>https://github.com/tonny/patternsinjava</Url>
+        <Name>patternsinjava</Name>
+        <Title>patternsinjava</Title>
+        <RepoName>tonny/patternsinjava</RepoName>
+        <Description>This is a collection of patterns designs examples in java</Description>
+        <Owner>tonny</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tonny</Name>
+                <User>tonny</User>
+                <Url>https://github.com/tonny</Url>
+                <Location>Cochabamba-Bolivia</Location>
+                <Email>antonio.mq@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2019-08-13T13:36:55Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Gusn8/VisionAPIdemo">
+        <Url>https://github.com/Gusn8/VisionAPIdemo</Url>
+        <Name>VisionAPIdemo</Name>
+        <Title>VisionAPIdemo</Title>
+        <RepoName>Gusn8/VisionAPIdemo</RepoName>
+        <Description/>
+        <Owner>Gusn8</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Gusn8</Name>
+                <User>Gusn8</User>
+                <Url>https://github.com/Gusn8</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2017-01-22T00:37:56Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="robertop87/sf-calendario">
+        <Url>https://github.com/robertop87/sf-calendario</Url>
+        <Name>sf-calendario</Name>
+        <Title>sf-calendario</Title>
+        <RepoName>robertop87/sf-calendario</RepoName>
+        <Description>ejercicio de calendario</Description>
+        <Owner>robertop87</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>robertop87</Name>
+                <User>robertop87</User>
+                <Url>https://github.com/robertop87</Url>
+                <Location>Bolivia</Location>
+                <Email>luis.robertop87@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2015-09-19T03:51:18Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="robertop87/solid-course">
+        <Url>https://github.com/robertop87/solid-course</Url>
+        <Name>solid-course</Name>
+        <Title>solid-course</Title>
+        <RepoName>robertop87/solid-course</RepoName>
+        <Description>Source code for the SOLID principles course</Description>
+        <Owner>robertop87</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>robertop87</Name>
+                <User>robertop87</User>
+                <Url>https://github.com/robertop87</Url>
+                <Location>Bolivia</Location>
+                <Email>luis.robertop87@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2018-11-02T23:13:35Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Gusn8/SJ_A_1_17_Java_1">
+        <Url>https://github.com/Gusn8/SJ_A_1_17_Java_1</Url>
+        <Name>SJ_A_1_17_Java_1</Name>
+        <Title>SJ_A_1_17_Java_1</Title>
+        <RepoName>Gusn8/SJ_A_1_17_Java_1</RepoName>
+        <Description>Ejemplo b&#xE1;sico de integraci&#xF3;n de Java en una aplicaci&#xF3;n Android.</Description>
+        <Owner>Gusn8</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Gusn8</Name>
+                <User>Gusn8</User>
+                <Url>https://github.com/Gusn8</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>1</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-08-30T15:07:51Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="MyAPKapp/VistaUIFramework">
+        <Url>https://github.com/MyAPKapp/VistaUIFramework</Url>
+        <Name>VistaUIFramework</Name>
+        <Title>VistaUIFramework</Title>
+        <RepoName>MyAPKapp/VistaUIFramework</RepoName>
+        <Description/>
+        <Owner>MyAPKapp</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>MyAPKapp</Name>
+                <User>MyAPKapp</User>
+                <Url>https://github.com/MyAPKapp</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="uialberto/asm">
+        <Url>https://github.com/uialberto/asm</Url>
+        <Name>asm</Name>
+        <Title>asm</Title>
+        <RepoName>uialberto/asm</RepoName>
+        <Description>ASM. Agente Salvavidas de Mascotas. Aplicaci&#xF3;n web para gestionar el proceso de publicaci&#xF3;n y adopci&#xF3;n de mascotas.</Description>
+        <Owner>uialberto</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>uialberto</Name>
+                <User>uialberto</User>
+                <Url>https://github.com/uialberto</Url>
+                <Location>Santa Cruz de la Sierra, Bolivia</Location>
+                <Email>uialberto@outlook.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2018-11-29T01:41:08Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="gustof1/paraba">
+        <Url>https://github.com/gustof1/paraba</Url>
+        <Name>paraba</Name>
+        <Title>paraba</Title>
+        <RepoName>gustof1/paraba</RepoName>
+        <Description>webs app</Description>
+        <Owner>gustof1</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>gustof1</Name>
+                <User>gustof1</User>
+                <Url>https://github.com/gustof1</Url>
+                <Location>La Paz Bolivia</Location>
+                <Email>gustof123@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>CSS; JavaScript; HTML</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2015-03-09T21:19:13Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="hiro2233/tachus_pi">
+        <Url>https://github.com/hiro2233/tachus_pi</Url>
+        <Name>tachus_pi</Name>
+        <Title>tachus_pi</Title>
+        <RepoName>hiro2233/tachus_pi</RepoName>
+        <Description>Tachus PI compute pi world record. Source from https://bellard.org/pi/pi2700e9/tpi.html</Description>
+        <Owner>hiro2233</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>hiro2233</Name>
+                <User>hiro2233</User>
+                <Url>https://github.com/hiro2233</Url>
+                <Location>Santa Cruz, Bolivia</Location>
+                <Email>htakey@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C</LanguageTags>
+        <WatchersCount>1</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2019-01-22T23:35:23Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alphaonex86/Ultracopier">
+        <Url>https://github.com/alphaonex86/Ultracopier</Url>
+        <Name>Ultracopier</Name>
+        <Title>Ultracopier</Title>
+        <RepoName>alphaonex86/Ultracopier</RepoName>
+        <Description>Ultracopier acts as a replacement for files copy dialogs. Features: play/pause, speed limitation, on-error resume, error/collision management ...</Description>
+        <Owner>alphaonex86</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alphaonex86</Name>
+                <User>alphaonex86</User>
+                <Url>https://github.com/alphaonex86</Url>
+                <Location>Santa cruz de la sierra, Bolivia</Location>
+                <Email>alpha_one_x86@first-world.info</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C; C++; Shell; QMake; M4; Assembly; CMake; CSS; NSIS; Perl; Makefile; HTML; Batchfile</LanguageTags>
+        <WatchersCount>249</WatchersCount>
+        <ForksCount>69</ForksCount>
+        <OpenIssuesCount>10</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2022-03-02T00:09:41Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alphaonex86/CatchChallenger">
+        <Url>https://github.com/alphaonex86/CatchChallenger</Url>
+        <Name>CatchChallenger</Name>
+        <Title>CatchChallenger</Title>
+        <RepoName>alphaonex86/CatchChallenger</RepoName>
+        <Description>CatchChallenger is a MMORPG. JRPG + crafting + TvT + management game</Description>
+        <Owner>alphaonex86</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alphaonex86</Name>
+                <User>alphaonex86</User>
+                <Url>https://github.com/alphaonex86</Url>
+                <Location>Santa cruz de la sierra, Bolivia</Location>
+                <Email>alpha_one_x86@first-world.info</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C; C++; Shell; Python; HTML; QMake; M4; Assembly; CMake; Roff; CSS; Perl; Starlark; Makefile; QML; PHP; Lua; Batchfile; Dockerfile</LanguageTags>
+        <WatchersCount>49</WatchersCount>
+        <ForksCount>11</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2022-01-25T08:36:58Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alphaonex86/debug-devel">
+        <Url>https://github.com/alphaonex86/debug-devel</Url>
+        <Name>debug-devel</Name>
+        <Title>debug-devel</Title>
+        <RepoName>alphaonex86/debug-devel</RepoName>
+        <Description>Testing tools (binary/text) for RS232, QTcpSocket, QLocalSocket</Description>
+        <Owner>alphaonex86</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alphaonex86</Name>
+                <User>alphaonex86</User>
+                <Url>https://github.com/alphaonex86</Url>
+                <Location>Santa cruz de la sierra, Bolivia</Location>
+                <Email>alpha_one_x86@first-world.info</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; C; QMake</LanguageTags>
+        <WatchersCount>11</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2022-01-11T10:11:39Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="binouz/node-skia">
+        <Url>https://github.com/binouz/node-skia</Url>
+        <Name>node-skia</Name>
+        <Title>node-skia</Title>
+        <RepoName>binouz/node-skia</RepoName>
+        <Description>Skia based renderer for nodejs with EGL</Description>
+        <Owner>binouz</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>binouz</Name>
+                <User>binouz</User>
+                <Url>https://github.com/binouz</Url>
+                <Location>Santa cruz de la sierra, Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; Python; Makefile</LanguageTags>
+        <WatchersCount>14</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-04-08T02:15:49Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alphaonex86/Copy-handler">
+        <Url>https://github.com/alphaonex86/Copy-handler</Url>
+        <Name>Copy-handler</Name>
+        <Title>Copy-handler</Title>
+        <RepoName>alphaonex86/Copy-handler</RepoName>
+        <Description>Like ultracopier</Description>
+        <Owner>alphaonex86</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alphaonex86</Name>
+                <User>alphaonex86</User>
+                <Url>https://github.com/alphaonex86</Url>
+                <Location>Santa cruz de la sierra, Bolivia</Location>
+                <Email>alpha_one_x86@first-world.info</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; C; JavaScript; Visual Basic</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2019-02-27T17:01:06Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alexpizarroj/competitive-programming">
+        <Url>https://github.com/alexpizarroj/competitive-programming</Url>
+        <Name>competitive-programming</Name>
+        <Title>competitive-programm&#x2026;</Title>
+        <RepoName>alexpizarroj/competitive-programming</RepoName>
+        <Description>My own solutions to competitive programming exercises.</Description>
+        <Owner>alexpizarroj</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alexpizarroj</Name>
+                <User>alexpizarroj</User>
+                <Url>https://github.com/alexpizarroj</Url>
+                <Location>Santa Cruz, Bolivia</Location>
+                <Email>alex.pizarro.j@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; C; Python; Java; Go; Shell; Haskell; Batchfile; SQLPL; Makefile</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2020-05-04T04:46:02Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jhtan/cp">
+        <Url>https://github.com/jhtan/cp</Url>
+        <Name>cp</Name>
+        <Title>cp</Title>
+        <RepoName>jhtan/cp</RepoName>
+        <Description>Competitive Programming</Description>
+        <Owner>jhtan</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jhtan</Name>
+                <User>jhtan</User>
+                <Url>https://github.com/jhtan</Url>
+                <Location>El Alto / Bolivia</Location>
+                <Email>jhtan@jhtan.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; TeX; Java; Python</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2018-09-26T03:50:01Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alphaonex86/EasyMiner">
+        <Url>https://github.com/alphaonex86/EasyMiner</Url>
+        <Name>EasyMiner</Name>
+        <Title>EasyMiner</Title>
+        <RepoName>alphaonex86/EasyMiner</RepoName>
+        <Description>EasyMiner</Description>
+        <Owner>alphaonex86</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alphaonex86</Name>
+                <User>alphaonex86</User>
+                <Url>https://github.com/alphaonex86</Url>
+                <Location>Santa cruz de la sierra, Bolivia</Location>
+                <Email>alpha_one_x86@first-world.info</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; TypeScript; Prolog</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2022-02-24T10:01:26Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alexpizarroj/acm-icpc-trd">
+        <Url>https://github.com/alexpizarroj/acm-icpc-trd</Url>
+        <Name>acm-icpc-trd</Name>
+        <Title>acm-icpc-trd</Title>
+        <RepoName>alexpizarroj/acm-icpc-trd</RepoName>
+        <Description>ACM-ICPC Team Reference Document</Description>
+        <Owner>alexpizarroj</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alexpizarroj</Name>
+                <User>alexpizarroj</User>
+                <Url>https://github.com/alexpizarroj</Url>
+                <Location>Santa Cruz, Bolivia</Location>
+                <Email>alex.pizarro.j@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; Java; TeX; Python; Batchfile; Shell</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-08-17T15:43:07Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alphaonex86/Catchcopy">
+        <Url>https://github.com/alphaonex86/Catchcopy</Url>
+        <Name>Catchcopy</Name>
+        <Title>Catchcopy</Title>
+        <RepoName>alphaonex86/Catchcopy</RepoName>
+        <Description>To send/receive copy/move list</Description>
+        <Owner>alphaonex86</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alphaonex86</Name>
+                <User>alphaonex86</User>
+                <Url>https://github.com/alphaonex86</Url>
+                <Location>Santa cruz de la sierra, Bolivia</Location>
+                <Email>alpha_one_x86@first-world.info</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; C; QMake</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-01-28T11:00:11Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alphaonex86/QtSignalsSlotsBenchmark">
+        <Url>https://github.com/alphaonex86/QtSignalsSlotsBenchmark</Url>
+        <Name>QtSignalsSlotsBenchmark</Name>
+        <Title>QtSignalsSlotsBenchm&#x2026;</Title>
+        <RepoName>alphaonex86/QtSignalsSlotsBenchmark</RepoName>
+        <Description>QtSignalsSlotsBenchmark</Description>
+        <Owner>alphaonex86</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alphaonex86</Name>
+                <User>alphaonex86</User>
+                <Url>https://github.com/alphaonex86</Url>
+                <Location>Santa cruz de la sierra, Bolivia</Location>
+                <Email>alpha_one_x86@first-world.info</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; Prolog</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2017-04-28T10:12:39Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ebasconp/classeine">
+        <Url>https://github.com/ebasconp/classeine</Url>
+        <Name>classeine</Name>
+        <Title>classeine</Title>
+        <RepoName>ebasconp/classeine</RepoName>
+        <Description/>
+        <Owner>ebasconp</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ebasconp</Name>
+                <User>ebasconp</User>
+                <Url>https://github.com/ebasconp</Url>
+                <Location>Berlin, Germany</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="alphaonex86/OpenTradingPlatform">
+        <Url>https://github.com/alphaonex86/OpenTradingPlatform</Url>
+        <Name>OpenTradingPlatform</Name>
+        <Title>OpenTradingPlatform</Title>
+        <RepoName>alphaonex86/OpenTradingPlatform</RepoName>
+        <Description>Open trading platform</Description>
+        <Owner>alphaonex86</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alphaonex86</Name>
+                <User>alphaonex86</User>
+                <Url>https://github.com/alphaonex86</Url>
+                <Location>Santa cruz de la sierra, Bolivia</Location>
+                <Email>alpha_one_x86@first-world.info</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; CSS; JavaScript; IDL</LanguageTags>
+        <WatchersCount>1</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-05-16T14:28:50Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="carliros/Simple-San-Simon-Functional-Web-Browser">
+        <Url>https://github.com/carliros/Simple-San-Simon-Functional-Web-Browser</Url>
+        <Name>Simple-San-Simon-Functional-Web-Browser</Name>
+        <Title>Simple-San-Simon-Fun&#x2026;</Title>
+        <RepoName>carliros/Simple-San-Simon-Functional-Web-Browser</RepoName>
+        <Description>A Web Browser written with Haskell</Description>
+        <Owner>carliros</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>carliros</Name>
+                <User>carliros</User>
+                <Url>https://github.com/carliros</Url>
+                <Location>Cbba-Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Haskell; CSS</LanguageTags>
+        <WatchersCount>32</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-09-24T01:13:59Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="carliros/Selector">
+        <Url>https://github.com/carliros/Selector</Url>
+        <Name>Selector</Name>
+        <Title>Selector</Title>
+        <RepoName>carliros/Selector</RepoName>
+        <Description>Tesiting selectors of CSS</Description>
+        <Owner>carliros</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>carliros</Name>
+                <User>carliros</User>
+                <Url>https://github.com/carliros</Url>
+                <Location>Cbba-Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Haskell</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2016-05-12T01:30:23Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="carliros/dbjava">
+        <Url>https://github.com/carliros/dbjava</Url>
+        <Name>dbjava</Name>
+        <Title>dbjava</Title>
+        <RepoName>carliros/dbjava</RepoName>
+        <Description>A serializer and deserializer of the Jvm classfile format.</Description>
+        <Owner>carliros</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>carliros</Name>
+                <User>carliros</User>
+                <Url>https://github.com/carliros</Url>
+                <Location>Cbba-Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Haskell</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-09-06T19:45:14Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="carliros/Tree-Box">
+        <Url>https://github.com/carliros/Tree-Box</Url>
+        <Name>Tree-Box</Name>
+        <Title>Tree-Box</Title>
+        <RepoName>carliros/Tree-Box</RepoName>
+        <Description>Tree-Box Css</Description>
+        <Owner>carliros</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>carliros</Name>
+                <User>carliros</User>
+                <Url>https://github.com/carliros</Url>
+                <Location>Cbba-Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Haskell</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2014-05-03T21:23:45Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="PTEz/LumberjackConsole">
+        <Url>https://github.com/PTEz/LumberjackConsole</Url>
+        <Name>LumberjackConsole</Name>
+        <Title>LumberjackConsole</Title>
+        <RepoName>PTEz/LumberjackConsole</RepoName>
+        <Description>On-device CocoaLumberjack console with support for search, adjust levels, copying and more.</Description>
+        <Owner>PTEz</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>PTEz</Name>
+                <User>PTEz</User>
+                <Url>https://github.com/PTEz</Url>
+                <Location>La Paz &#x2013; Bolivia, Geneva &#x2013; Switzerland</Location>
+                <Email>contact@ptez.mobi</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C; Ruby</LanguageTags>
+        <WatchersCount>202</WatchersCount>
+        <ForksCount>45</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2022-02-20T03:08:58Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="PTEz/PTEHorizontalTableView">
+        <Url>https://github.com/PTEz/PTEHorizontalTableView</Url>
+        <Name>PTEHorizontalTableView</Name>
+        <Title>PTEHorizontalTableVi&#x2026;</Title>
+        <RepoName>PTEz/PTEHorizontalTableView</RepoName>
+        <Description>Horizontal UITableView inspired by EasyTableView.</Description>
+        <Owner>PTEz</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>PTEz</Name>
+                <User>PTEz</User>
+                <Url>https://github.com/PTEz</Url>
+                <Location>La Paz &#x2013; Bolivia, Geneva &#x2013; Switzerland</Location>
+                <Email>contact@ptez.mobi</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C; Ruby</LanguageTags>
+        <WatchersCount>75</WatchersCount>
+        <ForksCount>23</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-09-22T17:30:47Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="AndyIbanez/silight">
+        <Url>https://github.com/AndyIbanez/silight</Url>
+        <Name>silight</Name>
+        <Title>silight</Title>
+        <RepoName>AndyIbanez/silight</RepoName>
+        <Description>A small AssistantExtension to make Siri turn on and off your flashlight with voice commands</Description>
+        <Owner>AndyIbanez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>AndyIbanez</Name>
+                <User>AndyIbanez</User>
+                <Url>https://github.com/AndyIbanez</Url>
+                <Location>Bolivia</Location>
+                <Email>glowing-demur0f@icloud.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2016-12-08T02:11:24Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="F3r-n4nd0/ios-compression-video">
+        <Url>https://github.com/F3r-n4nd0/ios-compression-video</Url>
+        <Name>ios-compression-video</Name>
+        <Title>ios-compression-vide&#x2026;</Title>
+        <RepoName>F3r-n4nd0/ios-compression-video</RepoName>
+        <Description/>
+        <Owner>F3r-n4nd0</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>F3r-n4nd0</Name>
+                <User>F3r-n4nd0</User>
+                <Url>https://github.com/F3r-n4nd0</Url>
+                <Location>Santa Cruz, Bolivia</Location>
+                <Email>337n4nd0@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2017-10-30T02:02:35Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="AndyIbanez/Sideswitch-Toggles">
+        <Url>https://github.com/AndyIbanez/Sideswitch-Toggles</Url>
+        <Name>Sideswitch-Toggles</Name>
+        <Title>Sideswitch-Toggles</Title>
+        <RepoName>AndyIbanez/Sideswitch-Toggles</RepoName>
+        <Description>Hook into the iPhone's ringer to let people do whatever they want with it.</Description>
+        <Owner>AndyIbanez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>AndyIbanez</Name>
+                <User>AndyIbanez</User>
+                <Url>https://github.com/AndyIbanez</Url>
+                <Location>Bolivia</Location>
+                <Email>glowing-demur0f@icloud.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C; Logos</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2015-08-23T11:41:17Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="AndyIbanez/TutorialProjects">
+        <Url>https://github.com/AndyIbanez/TutorialProjects</Url>
+        <Name>TutorialProjects</Name>
+        <Title>TutorialProjects</Title>
+        <RepoName>AndyIbanez/TutorialProjects</RepoName>
+        <Description>All the projects for the tutorials I have written.</Description>
+        <Owner>AndyIbanez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>AndyIbanez</Name>
+                <User>AndyIbanez</User>
+                <Url>https://github.com/AndyIbanez</Url>
+                <Location>Bolivia</Location>
+                <Email>glowing-demur0f@icloud.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C; Logos</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-09-27T04:14:50Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="devcarlos/UIColor-HexUtils">
+        <Url>https://github.com/devcarlos/UIColor-HexUtils</Url>
+        <Name>UIColor-HexUtils</Name>
+        <Title>UIColor-HexUtils</Title>
+        <RepoName>devcarlos/UIColor-HexUtils</RepoName>
+        <Description>UIColor Hex Utils Category</Description>
+        <Owner>devcarlos</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>devcarlos</Name>
+                <User>devcarlos</User>
+                <Url>https://github.com/devcarlos</Url>
+                <Location>Chile | Argentina | Bolivia | US</Location>
+                <Email>carlos.alcala@icloud.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Swift; Ruby; Objective-C</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2019-08-10T20:30:23Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="devcarlos/MyClockAlarm">
+        <Url>https://github.com/devcarlos/MyClockAlarm</Url>
+        <Name>MyClockAlarm</Name>
+        <Title>MyClockAlarm</Title>
+        <RepoName>devcarlos/MyClockAlarm</RepoName>
+        <Description>MyClockAlarm is an iOS (iPhone and iPad) based clock alarm with retina display support</Description>
+        <Owner>devcarlos</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>devcarlos</Name>
+                <User>devcarlos</User>
+                <Url>https://github.com/devcarlos</Url>
+                <Location>Chile | Argentina | Bolivia | US</Location>
+                <Email>carlos.alcala@icloud.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2013-12-21T23:50:08Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="DanielTorres1/Webhacks">
+        <Url>https://github.com/DanielTorres1/Webhacks</Url>
+        <Name>Webhacks</Name>
+        <Title>Webhacks</Title>
+        <RepoName>DanielTorres1/Webhacks</RepoName>
+        <Description/>
+        <Owner>DanielTorres1</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>DanielTorres1</Name>
+                <User>DanielTorres1</User>
+                <Url>https://github.com/DanielTorres1</Url>
+                <Location>Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Perl; Makefile; Shell; Python</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-10-26T15:41:40Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="edsonmgoz/asignaciones">
+        <Url>https://github.com/edsonmgoz/asignaciones</Url>
+        <Name>asignaciones</Name>
+        <Title>asignaciones</Title>
+        <RepoName>edsonmgoz/asignaciones</RepoName>
+        <Description>Proyecto de asignacion de tareas desarrollado durante el curso del framework Symfony 2</Description>
+        <Owner>edsonmgoz</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>edsonmgoz</Name>
+                <User>edsonmgoz</User>
+                <Url>https://github.com/edsonmgoz</Url>
+                <Location>Bolivia</Location>
+                <Email>ed@edsonmm.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; HTML; ApacheConf; JavaScript; CSS</LanguageTags>
+        <WatchersCount>33</WatchersCount>
+        <ForksCount>45</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2022-03-24T13:57:56Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="edsonmgoz/restaurante">
+        <Url>https://github.com/edsonmgoz/restaurante</Url>
+        <Name>restaurante</Name>
+        <Title>restaurante</Title>
+        <RepoName>edsonmgoz/restaurante</RepoName>
+        <Description>Repositorio oficial del proyecto Restaurante desarrollado en el Curso de CakePHP</Description>
+        <Owner>edsonmgoz</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>edsonmgoz</Name>
+                <User>edsonmgoz</User>
+                <Url>https://github.com/edsonmgoz</Url>
+                <Location>Bolivia</Location>
+                <Email>ed@edsonmm.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; CSS; JavaScript; Shell; ApacheConf</LanguageTags>
+        <WatchersCount>15</WatchersCount>
+        <ForksCount>24</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2019-04-15T13:19:33Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kplian/pxp">
+        <Url>https://github.com/kplian/pxp</Url>
+        <Name>pxp</Name>
+        <Title>pxp</Title>
+        <RepoName>kplian/pxp</RepoName>
+        <Description>Framework PXP for agile web development</Description>
+        <Owner>kplian</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kplian</Name>
+                <User>kplian</User>
+                <Url>https://github.com/kplian</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>kplian@kplian.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; HTML; JavaScript; PLpgSQL; CSS; C; Less; TypeScript; Hack; Python; Rich Text Format; Shell; Makefile; Roff; ActionScript; Smarty; SCSS; Perl; M4; XSLT;
+            Batchfile
+        </LanguageTags>
+        <WatchersCount>24</WatchersCount>
+        <ForksCount>21</ForksCount>
+        <OpenIssuesCount>18</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2022-01-28T02:42:55Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="seguce92/fullcalendar-laravel">
+        <Url>https://github.com/seguce92/fullcalendar-laravel</Url>
+        <Name>fullcalendar-laravel</Name>
+        <Title>fullcalendar-laravel</Title>
+        <RepoName>seguce92/fullcalendar-laravel</RepoName>
+        <Description>Implements bootstrap fullcalendar with laravel 5.3</Description>
+        <Owner>seguce92</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>seguce92</Name>
+                <User>seguce92</User>
+                <Url>https://github.com/seguce92</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>seguce92@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; HTML; JavaScript; Vue</LanguageTags>
+        <WatchersCount>10</WatchersCount>
+        <ForksCount>8</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2019-05-22T13:39:50Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kplian/sis_contabilidad">
+        <Url>https://github.com/kplian/sis_contabilidad</Url>
+        <Name>sis_contabilidad</Name>
+        <Title>sis_contabilidad</Title>
+        <RepoName>kplian/sis_contabilidad</RepoName>
+        <Description/>
+        <Owner>kplian</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kplian</Name>
+                <User>kplian</User>
+                <Url>https://github.com/kplian</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>kplian@kplian.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; PLpgSQL; Hack; JavaScript; Smarty; HTML; CSS</LanguageTags>
+        <WatchersCount>10</WatchersCount>
+        <ForksCount>12</ForksCount>
+        <OpenIssuesCount>15</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-07-22T21:50:04Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kplian/GEMA-KPLIAN">
+        <Url>https://github.com/kplian/GEMA-KPLIAN</Url>
+        <Name>GEMA-KPLIAN</Name>
+        <Title>GEMA-KPLIAN</Title>
+        <RepoName>kplian/GEMA-KPLIAN</RepoName>
+        <Description>SISTEMA DE MANTENIMIENTO- KPLIAN</Description>
+        <Owner>kplian</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kplian</Name>
+                <User>kplian</User>
+                <Url>https://github.com/kplian</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>kplian@kplian.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>5</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-12-12T16:44:11Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="JDavidVR/magento2_david_es_mx">
+        <Url>https://github.com/JDavidVR/magento2_david_es_mx</Url>
+        <Name>magento2_david_es_mx</Name>
+        <Title>magento2_david_es_mx</Title>
+        <RepoName>JDavidVR/magento2_david_es_mx</RepoName>
+        <Description/>
+        <Owner>JDavidVR</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>JDavidVR</Name>
+                <User>JDavidVR</User>
+                <Url>https://github.com/JDavidVR</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>JDavidVR@hotmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="edsonmgoz/pocake">
+        <Url>https://github.com/edsonmgoz/pocake</Url>
+        <Name>pocake</Name>
+        <Title>pocake</Title>
+        <RepoName>edsonmgoz/pocake</RepoName>
+        <Description>Aplicaci&#xF3;n para guardar enlaces preferidos desarrollado en el curso de CakePHP 3</Description>
+        <Owner>edsonmgoz</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>edsonmgoz</Name>
+                <User>edsonmgoz</User>
+                <Url>https://github.com/edsonmgoz</Url>
+                <Location>Bolivia</Location>
+                <Email>ed@edsonmm.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; Shell; CSS; Batchfile; ApacheConf</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2017-11-28T19:58:55Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="yracnet/php-sms-3g">
+        <Url>https://github.com/yracnet/php-sms-3g</Url>
+        <Name>php-sms-3g</Name>
+        <Title>php-sms-3g</Title>
+        <RepoName>yracnet/php-sms-3g</RepoName>
+        <Description>Send Sms in PHP with modem 3G</Description>
+        <Owner>yracnet</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>yracnet</Name>
+                <User>yracnet</User>
+                <Url>https://github.com/yracnet</Url>
+                <Location>Bolivia</Location>
+                <Email>yracnet</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-08-02T12:19:33Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="edsonmgoz/curso-cakephp">
+        <Url>https://github.com/edsonmgoz/curso-cakephp</Url>
+        <Name>curso-cakephp</Name>
+        <Title>curso-cakephp</Title>
+        <RepoName>edsonmgoz/curso-cakephp</RepoName>
+        <Description>Curso de desarrollo de aplicaciones web con el framework CakePHP</Description>
+        <Owner>edsonmgoz</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>edsonmgoz</Name>
+                <User>edsonmgoz</User>
+                <Url>https://github.com/edsonmgoz</Url>
+                <Location>Bolivia</Location>
+                <Email>ed@edsonmm.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; CSS; Shell; JavaScript</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>11</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2017-05-24T04:07:07Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kplian/sis_ventas_facturacion">
+        <Url>https://github.com/kplian/sis_ventas_facturacion</Url>
+        <Name>sis_ventas_facturacion</Name>
+        <Title>sis_ventas_facturaci&#x2026;</Title>
+        <RepoName>kplian/sis_ventas_facturacion</RepoName>
+        <Description/>
+        <Owner>kplian</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kplian</Name>
+                <User>kplian</User>
+                <Url>https://github.com/kplian</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>kplian@kplian.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; TSQL; PLpgSQL; JavaScript; CSS; Hack</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>14</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-12-12T16:43:08Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kplian/sis_operman">
+        <Url>https://github.com/kplian/sis_operman</Url>
+        <Name>sis_operman</Name>
+        <Title>sis_operman</Title>
+        <RepoName>kplian/sis_operman</RepoName>
+        <Description>Sistema de Operaciones y Mantenimiento</Description>
+        <Owner>kplian</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kplian</Name>
+                <User>kplian</User>
+                <Url>https://github.com/kplian</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>kplian@kplian.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; PLpgSQL</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-12-12T16:43:52Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kplian/sis_adquisiciones">
+        <Url>https://github.com/kplian/sis_adquisiciones</Url>
+        <Name>sis_adquisiciones</Name>
+        <Title>sis_adquisiciones</Title>
+        <RepoName>kplian/sis_adquisiciones</RepoName>
+        <Description/>
+        <Owner>kplian</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kplian</Name>
+                <User>kplian</User>
+                <Url>https://github.com/kplian</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>kplian@kplian.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; TSQL; PLpgSQL; HTML</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>8</ForksCount>
+        <OpenIssuesCount>6</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-12-12T16:43:25Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kplian/sis_kactivos_fijos">
+        <Url>https://github.com/kplian/sis_kactivos_fijos</Url>
+        <Name>sis_kactivos_fijos</Name>
+        <Title>sis_kactivos_fijos</Title>
+        <RepoName>kplian/sis_kactivos_fijos</RepoName>
+        <Description>Gesti&#xF3;n de Activos Fijos Kplian</Description>
+        <Owner>kplian</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kplian</Name>
+                <User>kplian</User>
+                <Url>https://github.com/kplian</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>kplian@kplian.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; PLpgSQL; TSQL</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>27</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-12-12T16:43:27Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jorgenils/zend-framework">
+        <Url>https://github.com/jorgenils/zend-framework</Url>
+        <Name>zend-framework</Name>
+        <Title>zend-framework</Title>
+        <RepoName>jorgenils/zend-framework</RepoName>
+        <Description>A git clone of the popular PHP framwork Zend Framework</Description>
+        <Owner>jorgenils</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jorgenils</Name>
+                <User>jorgenils</User>
+                <Url>https://github.com/jorgenils</Url>
+                <Location>Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2019-08-13T13:40:23Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kplian/sis_cuenta_documentada">
+        <Url>https://github.com/kplian/sis_cuenta_documentada</Url>
+        <Name>sis_cuenta_documentada</Name>
+        <Title>sis_cuenta_documenta&#x2026;</Title>
+        <RepoName>kplian/sis_cuenta_documentada</RepoName>
+        <Description/>
+        <Owner>kplian</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kplian</Name>
+                <User>kplian</User>
+                <Url>https://github.com/kplian</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>kplian@kplian.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; PLpgSQL; TSQL; Hack</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-12-12T16:43:16Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kplian/sis_almacenes">
+        <Url>https://github.com/kplian/sis_almacenes</Url>
+        <Name>sis_almacenes</Name>
+        <Title>sis_almacenes</Title>
+        <RepoName>kplian/sis_almacenes</RepoName>
+        <Description/>
+        <Owner>kplian</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kplian</Name>
+                <User>kplian</User>
+                <Url>https://github.com/kplian</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>kplian@kplian.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; PLpgSQL; TSQL</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>15</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-12-12T16:43:24Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kplian/sis_tesoreria">
+        <Url>https://github.com/kplian/sis_tesoreria</Url>
+        <Name>sis_tesoreria</Name>
+        <Title>sis_tesoreria</Title>
+        <RepoName>kplian/sis_tesoreria</RepoName>
+        <Description/>
+        <Owner>kplian</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kplian</Name>
+                <User>kplian</User>
+                <Url>https://github.com/kplian</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>kplian@kplian.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; PLpgSQL; TSQL</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>11</ForksCount>
+        <OpenIssuesCount>10</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-12-12T16:43:03Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rensi4rn/CCBADMIN">
+        <Url>https://github.com/rensi4rn/CCBADMIN</Url>
+        <Name>CCBADMIN</Name>
+        <Title>CCBADMIN</Title>
+        <RepoName>rensi4rn/CCBADMIN</RepoName>
+        <Description>sistema de administraci&#xF3;n de la CCB</Description>
+        <Owner>rensi4rn</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rensi4rn</Name>
+                <User>rensi4rn</User>
+                <Url>https://github.com/rensi4rn</Url>
+                <Location>Bolivia</Location>
+                <Email>rensi@kplian.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; PLpgSQL; Hack; HTML</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>7</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-10-09T15:38:26Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kplian/sis_presupuestos">
+        <Url>https://github.com/kplian/sis_presupuestos</Url>
+        <Name>sis_presupuestos</Name>
+        <Title>sis_presupuestos</Title>
+        <RepoName>kplian/sis_presupuestos</RepoName>
+        <Description>PRE</Description>
+        <Owner>kplian</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kplian</Name>
+                <User>kplian</User>
+                <Url>https://github.com/kplian</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>kplian@kplian.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; PLpgSQL; TSQL; JavaScript</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>8</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-12-12T16:43:14Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ronytic/colegio">
+        <Url>https://github.com/ronytic/colegio</Url>
+        <Name>colegio</Name>
+        <Title>colegio</Title>
+        <RepoName>ronytic/colegio</RepoName>
+        <Description>Sistema de Acad&#xE9;mico Administrativo de Colegios - Bolivia</Description>
+        <Owner>ronytic</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ronytic</Name>
+                <User>ronytic</User>
+                <Url>https://github.com/ronytic</Url>
+                <Location>La Paz, Bolivia</Location>
+                <Email>ronald.nina.layme@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; JavaScript; CSS; HTML; Shell; Batchfile</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>12</ForksCount>
+        <OpenIssuesCount>6</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-09-16T03:59:36Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kplian/sis_costos">
+        <Url>https://github.com/kplian/sis_costos</Url>
+        <Name>sis_costos</Name>
+        <Title>sis_costos</Title>
+        <RepoName>kplian/sis_costos</RepoName>
+        <Description>sistema de costeo , vaintegrado con sis_contabilidad</Description>
+        <Owner>kplian</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kplian</Name>
+                <User>kplian</User>
+                <Url>https://github.com/kplian</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>kplian@kplian.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; PLpgSQL; JavaScript</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-12-12T16:43:51Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kplian/sis_empresas">
+        <Url>https://github.com/kplian/sis_empresas</Url>
+        <Name>sis_empresas</Name>
+        <Title>sis_empresas</Title>
+        <RepoName>kplian/sis_empresas</RepoName>
+        <Description>sistema para envio de publicidad</Description>
+        <Owner>kplian</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>kplian</Name>
+                <User>kplian</User>
+                <Url>https://github.com/kplian</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>kplian@kplian.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; PLpgSQL</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-12-12T16:44:09Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="carlitux/deoplete-ternjs">
+        <Url>https://github.com/carlitux/deoplete-ternjs</Url>
+        <Name>deoplete-ternjs</Name>
+        <Title>deoplete-ternjs</Title>
+        <RepoName>carlitux/deoplete-ternjs</RepoName>
+        <Description>deoplete.nvim source for javascript</Description>
+        <Owner>carlitux</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>carlitux</Name>
+                <User>carlitux</User>
+                <Url>https://github.com/carlitux</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>lcruzc@linkux-it.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; JavaScript; Vim script</LanguageTags>
+        <WatchersCount>279</WatchersCount>
+        <ForksCount>23</ForksCount>
+        <OpenIssuesCount>5</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2022-02-06T14:11:05Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Snifer/GPT">
+        <Url>https://github.com/Snifer/GPT</Url>
+        <Name>GPT</Name>
+        <Title>GPT</Title>
+        <RepoName>Snifer/GPT</RepoName>
+        <Description>Gadget Pentesting Tool Scripts</Description>
+        <Owner>Snifer</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Snifer</Name>
+                <User>Snifer</User>
+                <Url>https://github.com/Snifer</Url>
+                <Location>Bolivia</Location>
+                <Email>moruno.jose@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>27</WatchersCount>
+        <ForksCount>15</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-03-23T13:07:34Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Snifer/SniferL4bs">
+        <Url>https://github.com/Snifer/SniferL4bs</Url>
+        <Name>SniferL4bs</Name>
+        <Title>SniferL4bs</Title>
+        <RepoName>Snifer/SniferL4bs</RepoName>
+        <Description>Todos los scripts y locuras del Blog SniferL4bs que sean desarrollados vendran en esta peque&#xF1;a secci&#xF3;n dedicada</Description>
+        <Owner>Snifer</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Snifer</Name>
+                <User>Snifer</User>
+                <Url>https://github.com/Snifer</Url>
+                <Location>Bolivia</Location>
+                <Email>moruno.jose@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; Shell</LanguageTags>
+        <WatchersCount>19</WatchersCount>
+        <ForksCount>10</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2022-03-06T15:17:31Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="carlitux/djbuild">
+        <Url>https://github.com/carlitux/djbuild</Url>
+        <Name>djbuild</Name>
+        <Title>djbuild</Title>
+        <RepoName>carlitux/djbuild</RepoName>
+        <Description>Buildout recipe based on djangorecipe,</Description>
+        <Owner>carlitux</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>carlitux</Name>
+                <User>carlitux</User>
+                <Url>https://github.com/carlitux</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>lcruzc@linkux-it.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2019-08-13T14:36:35Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="arielvega/python-mobile">
+        <Url>https://github.com/arielvega/python-mobile</Url>
+        <Name>python-mobile</Name>
+        <Title>python-mobile</Title>
+        <RepoName>arielvega/python-mobile</RepoName>
+        <Description>A python module that handles communication between your app and mobile devices</Description>
+        <Owner>arielvega</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>arielvega</Name>
+                <User>arielvega</User>
+                <Url>https://github.com/arielvega</Url>
+                <Location>Santa Cruz de la Sierra, Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2020-06-08T15:16:15Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="nely/solmujeres">
+        <Url>https://github.com/nely/solmujeres</Url>
+        <Name>solmujeres</Name>
+        <Title>solmujeres</Title>
+        <RepoName>nely/solmujeres</RepoName>
+        <Description>C&#xF3;digo fuente de solmujeres.org</Description>
+        <Owner>nely</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>nely</Name>
+                <User>nely</User>
+                <Url>https://github.com/nely</Url>
+                <Location>Cochabamba- Bolivia</Location>
+                <Email>nelyrm@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2019-08-13T13:35:22Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="carlitux/denite-cool-grep">
+        <Url>https://github.com/carlitux/denite-cool-grep</Url>
+        <Name>denite-cool-grep</Name>
+        <Title>denite-cool-grep</Title>
+        <RepoName>carlitux/denite-cool-grep</RepoName>
+        <Description/>
+        <Owner>carlitux</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>carlitux</Name>
+                <User>carlitux</User>
+                <Url>https://github.com/carlitux</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>lcruzc@linkux-it.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="hmen89/odoo-addons">
+        <Url>https://github.com/hmen89/odoo-addons</Url>
+        <Name>odoo-addons</Name>
+        <Title>odoo-addons</Title>
+        <RepoName>hmen89/odoo-addons</RepoName>
+        <Description>Odoo additional addons</Description>
+        <Owner>hmen89</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>hmen89</Name>
+                <User>hmen89</User>
+                <Url>https://github.com/hmen89</Url>
+                <Location>Bolivia</Location>
+                <Email>hmen@live.co.uk</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; JavaScript; HTML</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2017-02-20T15:34:22Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="nnrcschmdt/congreso">
+        <Url>https://github.com/nnrcschmdt/congreso</Url>
+        <Name>congreso</Name>
+        <Title>congreso</Title>
+        <RepoName>nnrcschmdt/congreso</RepoName>
+        <Description>A simple congress/conference management system in Django.</Description>
+        <Owner>nnrcschmdt</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>nnrcschmdt</Name>
+                <User>nnrcschmdt</User>
+                <Url>https://github.com/nnrcschmdt</Url>
+                <Location>Cochabamba, Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2019-08-13T13:37:43Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="nnrcschmdt/geistesblitze">
+        <Url>https://github.com/nnrcschmdt/geistesblitze</Url>
+        <Name>geistesblitze</Name>
+        <Title>geistesblitze</Title>
+        <RepoName>nnrcschmdt/geistesblitze</RepoName>
+        <Description>a simple Flask application</Description>
+        <Owner>nnrcschmdt</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>nnrcschmdt</Name>
+                <User>nnrcschmdt</User>
+                <Url>https://github.com/nnrcschmdt</Url>
+                <Location>Cochabamba, Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; HTML</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-10-12T12:00:46Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="nnrcschmdt/festival">
+        <Url>https://github.com/nnrcschmdt/festival</Url>
+        <Name>festival</Name>
+        <Title>festival</Title>
+        <RepoName>nnrcschmdt/festival</RepoName>
+        <Description>A simple installfest management system in Django</Description>
+        <Owner>nnrcschmdt</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>nnrcschmdt</Name>
+                <User>nnrcschmdt</User>
+                <Url>https://github.com/nnrcschmdt</Url>
+                <Location>Cochabamba, Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2019-08-13T14:07:36Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="josuemontano/python_intro">
+        <Url>https://github.com/josuemontano/python_intro</Url>
+        <Name>python_intro</Name>
+        <Title>python_intro</Title>
+        <RepoName>josuemontano/python_intro</RepoName>
+        <Description>Introducci&#xF3;n a la computaci&#xF3;n cient&#xED;fica con Python</Description>
+        <Owner>josuemontano</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>josuemontano</Name>
+                <User>josuemontano</User>
+                <Url>https://github.com/josuemontano</Url>
+                <Location>127.0.0.1</Location>
+                <Email>josuemontanoa@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; HTML; CSS</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-05-07T23:27:29Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="josuemontano/API-platform">
+        <Url>https://github.com/josuemontano/API-platform</Url>
+        <Name>API-platform</Name>
+        <Title>API-platform</Title>
+        <RepoName>josuemontano/API-platform</RepoName>
+        <Description>Full stack pyramid sample project ready to deploy with dokku</Description>
+        <Owner>josuemontano</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>josuemontano</Name>
+                <User>josuemontano</User>
+                <Url>https://github.com/josuemontano</Url>
+                <Location>127.0.0.1</Location>
+                <Email>josuemontanoa@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; JavaScript; CSS; HTML; Mako; Shell</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2020-02-18T16:04:57Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="poiesisconsulting/openerp-restaurant">
+        <Url>https://github.com/poiesisconsulting/openerp-restaurant</Url>
+        <Name>openerp-restaurant</Name>
+        <Title>openerp-restaurant</Title>
+        <RepoName>poiesisconsulting/openerp-restaurant</RepoName>
+        <Description>OpenERP addons for restaurant</Description>
+        <Owner>poiesisconsulting</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>poiesisconsulting</Name>
+                <User>poiesisconsulting</User>
+                <Url>https://github.com/poiesisconsulting</Url>
+                <Location>Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; JavaScript; CSS; XSLT; Assembly; C#; PHP; Shell; Ruby</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2015-11-24T08:01:20Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="carlitux/gaebuild">
+        <Url>https://github.com/carlitux/gaebuild</Url>
+        <Name>gaebuild</Name>
+        <Title>gaebuild</Title>
+        <RepoName>carlitux/gaebuild</RepoName>
+        <Description>Buildout recipe based on djbuild for google app engine,</Description>
+        <Owner>carlitux</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>carlitux</Name>
+                <User>carlitux</User>
+                <Url>https://github.com/carlitux</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>lcruzc@linkux-it.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2014-05-12T02:46:00Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="josben/annie">
+        <Url>https://github.com/josben/annie</Url>
+        <Name>annie</Name>
+        <Title>annie</Title>
+        <RepoName>josben/annie</RepoName>
+        <Description>django 1.6 + django-bootstrap-toolkit + django-userena</Description>
+        <Owner>josben</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>josben</Name>
+                <User>josben</User>
+                <Url>https://github.com/josben</Url>
+                <Location>Cochambamba - Bolivia</Location>
+                <Email>josebenjaminp@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2019-07-15T08:47:02Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="carlitux/deoplete-flow">
+        <Url>https://github.com/carlitux/deoplete-flow</Url>
+        <Name>deoplete-flow</Name>
+        <Title>deoplete-flow</Title>
+        <RepoName>carlitux/deoplete-flow</RepoName>
+        <Description>Deprecated in Neovim (LSP and nvim-lsp) - deoplete.nvim source for flowtype</Description>
+        <Owner>carlitux</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>carlitux</Name>
+                <User>carlitux</User>
+                <Url>https://github.com/carlitux</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>lcruzc@linkux-it.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; Vim script</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2019-11-29T13:30:17Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="arielvega/uremix-app-developer-helper">
+        <Url>https://github.com/arielvega/uremix-app-developer-helper</Url>
+        <Name>uremix-app-developer-helper</Name>
+        <Title>uremix-app-developer&#x2026;</Title>
+        <RepoName>arielvega/uremix-app-developer-helper</RepoName>
+        <Description>Uremix's helper code</Description>
+        <Owner>arielvega</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>arielvega</Name>
+                <User>arielvega</User>
+                <Url>https://github.com/arielvega</Url>
+                <Location>Santa Cruz de la Sierra, Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2020-06-08T15:01:30Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="mordaroso/guard-motion">
+        <Url>https://github.com/mordaroso/guard-motion</Url>
+        <Name>guard-motion</Name>
+        <Title>guard-motion</Title>
+        <RepoName>mordaroso/guard-motion</RepoName>
+        <Description>Guard::Motion automatically run your RubyMotion specs (much like autotest)</Description>
+        <Owner>mordaroso</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>mordaroso</Name>
+                <User>mordaroso</User>
+                <Url>https://github.com/mordaroso</Url>
+                <Location>Switzerland</Location>
+                <Email>mordaroso@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>44</WatchersCount>
+        <ForksCount>11</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2022-02-06T14:45:33Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="mordaroso/rubymotion-keychain-example">
+        <Url>https://github.com/mordaroso/rubymotion-keychain-example</Url>
+        <Name>rubymotion-keychain-example</Name>
+        <Title>rubymotion-keychain-&#x2026;</Title>
+        <RepoName>mordaroso/rubymotion-keychain-example</RepoName>
+        <Description>Example RubyMotion App to show how to use the Keychain</Description>
+        <Owner>mordaroso</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>mordaroso</Name>
+                <User>mordaroso</User>
+                <Url>https://github.com/mordaroso</Url>
+                <Location>Switzerland</Location>
+                <Email>mordaroso@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>45</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2018-03-11T16:03:59Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="mordaroso/rubymotion-settings">
+        <Url>https://github.com/mordaroso/rubymotion-settings</Url>
+        <Name>rubymotion-settings</Name>
+        <Title>rubymotion-settings</Title>
+        <RepoName>mordaroso/rubymotion-settings</RepoName>
+        <Description>Example RubyMotion App to show how to create a settings view</Description>
+        <Owner>mordaroso</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>mordaroso</Name>
+                <User>mordaroso</User>
+                <Url>https://github.com/mordaroso</Url>
+                <Location>Switzerland</Location>
+                <Email>mordaroso@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>36</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2017-12-02T04:56:08Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="mordaroso/guard-passenger">
+        <Url>https://github.com/mordaroso/guard-passenger</Url>
+        <Name>guard-passenger</Name>
+        <Title>guard-passenger</Title>
+        <RepoName>mordaroso/guard-passenger</RepoName>
+        <Description>Guard::Passenger automatically restarts passenger when needed</Description>
+        <Owner>mordaroso</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>mordaroso</Name>
+                <User>mordaroso</User>
+                <Url>https://github.com/mordaroso</Url>
+                <Location>Switzerland</Location>
+                <Email>mordaroso@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>13</WatchersCount>
+        <ForksCount>17</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2013-10-10T08:35:08Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="carakan/pronto-credo">
+        <Url>https://github.com/carakan/pronto-credo</Url>
+        <Name>pronto-credo</Name>
+        <Title>pronto-credo</Title>
+        <RepoName>carakan/pronto-credo</RepoName>
+        <Description>pronto runner for credo, a code analysis tool for Elixir programming language</Description>
+        <Owner>carakan</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>carakan</Name>
+                <User>carakan</User>
+                <Url>https://github.com/carakan</Url>
+                <Location>Bolivia</Location>
+                <Email>carakan@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>12</WatchersCount>
+        <ForksCount>9</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2020-08-05T13:43:16Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="owen2345/Camaleon-CMS-Sample">
+        <Url>https://github.com/owen2345/Camaleon-CMS-Sample</Url>
+        <Name>Camaleon-CMS-Sample</Name>
+        <Title>Camaleon-CMS-Sample</Title>
+        <RepoName>owen2345/Camaleon-CMS-Sample</RepoName>
+        <Description/>
+        <Owner>owen2345</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>owen2345</Name>
+                <User>owen2345</User>
+                <Url>https://github.com/owen2345</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>owenperedo@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; HTML; JavaScript; CSS</LanguageTags>
+        <WatchersCount>11</WatchersCount>
+        <ForksCount>15</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2019-12-24T02:55:24Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="carakan/j_tiny_mce">
+        <Url>https://github.com/carakan/j_tiny_mce</Url>
+        <Name>j_tiny_mce</Name>
+        <Title>j_tiny_mce</Title>
+        <RepoName>carakan/j_tiny_mce</RepoName>
+        <Description>tiny mce whith jquery and paperclip for upload pictures</Description>
+        <Owner>carakan</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>carakan</Name>
+                <User>carakan</User>
+                <Url>https://github.com/carakan</Url>
+                <Location>Bolivia</Location>
+                <Email>carakan@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2019-08-13T14:03:54Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="owen2345/camaleon_export_import">
+        <Url>https://github.com/owen2345/camaleon_export_import</Url>
+        <Name>camaleon_export_import</Name>
+        <Title>camaleon_export_impo&#x2026;</Title>
+        <RepoName>owen2345/camaleon_export_import</RepoName>
+        <Description>Permit to export and import the data of Camaleon CMS</Description>
+        <Owner>owen2345</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>owen2345</Name>
+                <User>owen2345</User>
+                <Url>https://github.com/owen2345</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>owenperedo@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; HTML</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-08-13T16:04:25Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="mordaroso/carabiner">
+        <Url>https://github.com/mordaroso/carabiner</Url>
+        <Name>carabiner</Name>
+        <Title>carabiner</Title>
+        <RepoName>mordaroso/carabiner</RepoName>
+        <Description>Rubymotion wrapper for easy access to the keychain</Description>
+        <Owner>mordaroso</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>mordaroso</Name>
+                <User>mordaroso</User>
+                <Url>https://github.com/mordaroso</Url>
+                <Location>Switzerland</Location>
+                <Email>mordaroso@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; Shell</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2013-10-12T03:56:22Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="owen2345/camaleon_oauth">
+        <Url>https://github.com/owen2345/camaleon_oauth</Url>
+        <Name>camaleon_oauth</Name>
+        <Title>camaleon_oauth</Title>
+        <RepoName>owen2345/camaleon_oauth</RepoName>
+        <Description>This is a plugin for Camaleon CMS that support oauth integration</Description>
+        <Owner>owen2345</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>owen2345</Name>
+                <User>owen2345</User>
+                <Url>https://github.com/owen2345</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>owenperedo@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; HTML</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2019-07-04T21:19:42Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="mordaroso/guard-ego">
+        <Url>https://github.com/mordaroso/guard-ego</Url>
+        <Name>guard-ego</Name>
+        <Title>guard-ego</Title>
+        <RepoName>mordaroso/guard-ego</RepoName>
+        <Description>Alter Ego for Guard</Description>
+        <Owner>mordaroso</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>mordaroso</Name>
+                <User>mordaroso</User>
+                <Url>https://github.com/mordaroso</Url>
+                <Location>Switzerland</Location>
+                <Email>mordaroso@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2013-10-10T08:36:19Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="owen2345/camaleon-cms-seo">
+        <Url>https://github.com/owen2345/camaleon-cms-seo</Url>
+        <Name>camaleon-cms-seo</Name>
+        <Title>camaleon-cms-seo</Title>
+        <RepoName>owen2345/camaleon-cms-seo</RepoName>
+        <Description/>
+        <Owner>owen2345</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>owen2345</Name>
+                <User>owen2345</User>
+                <Url>https://github.com/owen2345</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>owenperedo@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; HTML; CSS; JavaScript</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>11</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2021-04-27T08:27:12Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="owen2345/camaleon-post-order-plugin">
+        <Url>https://github.com/owen2345/camaleon-post-order-plugin</Url>
+        <Name>camaleon-post-order-plugin</Name>
+        <Title>camaleon-post-order-&#x2026;</Title>
+        <RepoName>owen2345/camaleon-post-order-plugin</RepoName>
+        <Description>Camaleon Gem that permit you to reorder your contents</Description>
+        <Owner>owen2345</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>owen2345</Name>
+                <User>owen2345</User>
+                <Url>https://github.com/owen2345</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>owenperedo@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; JavaScript; HTML; CSS</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>12</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2020-11-08T10:42:00Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="owen2345/authie">
+        <Url>https://github.com/owen2345/authie</Url>
+        <Name>authie</Name>
+        <Title>authie</Title>
+        <RepoName>owen2345/authie</RepoName>
+        <Description>Authie gem adapted for rails 4</Description>
+        <Owner>owen2345</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>owen2345</Name>
+                <User>owen2345</User>
+                <Url>https://github.com/owen2345</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>owenperedo@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2017-07-11T06:52:51Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="owen2345/cama_subscriber">
+        <Url>https://github.com/owen2345/cama_subscriber</Url>
+        <Name>cama_subscriber</Name>
+        <Title>cama_subscriber</Title>
+        <RepoName>owen2345/cama_subscriber</RepoName>
+        <Description/>
+        <Owner>owen2345</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>owen2345</Name>
+                <User>owen2345</User>
+                <Url>https://github.com/owen2345</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>owenperedo@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>HTML; Ruby</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2022-01-03T08:58:51Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="owen2345/cama_contact_form">
+        <Url>https://github.com/owen2345/cama_contact_form</Url>
+        <Name>cama_contact_form</Name>
+        <Title>cama_contact_form</Title>
+        <RepoName>owen2345/cama_contact_form</RepoName>
+        <Description/>
+        <Owner>owen2345</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>owen2345</Name>
+                <User>owen2345</User>
+                <Url>https://github.com/owen2345</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>owenperedo@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; HTML; CoffeeScript; CSS; JavaScript</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>18</ForksCount>
+        <OpenIssuesCount>11</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2020-11-08T10:41:01Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="carakan/like_comments">
+        <Url>https://github.com/carakan/like_comments</Url>
+        <Name>like_comments</Name>
+        <Title>like_comments</Title>
+        <RepoName>carakan/like_comments</RepoName>
+        <Description>plugin for enabled like and comments for objects, like facebook</Description>
+        <Owner>carakan</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>carakan</Name>
+                <User>carakan</User>
+                <Url>https://github.com/carakan</Url>
+                <Location>Bolivia</Location>
+                <Email>carakan@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2013-11-04T00:13:18Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rolo555/Jewelry">
+        <Url>https://github.com/rolo555/Jewelry</Url>
+        <Name>Jewelry</Name>
+        <Title>Jewelry</Title>
+        <RepoName>rolo555/Jewelry</RepoName>
+        <Description/>
+        <Owner>rolo555</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rolo555</Name>
+                <User>rolo555</User>
+                <Url>https://github.com/rolo555</Url>
+                <Location>Cochabamba, Bolivia</Location>
+                <Email>rolo555@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2013-12-23T04:12:15Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="carakan/scribe_polymorfic">
+        <Url>https://github.com/carakan/scribe_polymorfic</Url>
+        <Name>scribe_polymorfic</Name>
+        <Title>scribe_polymorfic</Title>
+        <RepoName>carakan/scribe_polymorfic</RepoName>
+        <Description>A simple plugin that allows to keep track of the models activity, this a polymorfhic activity tracker</Description>
+        <Owner>carakan</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>carakan</Name>
+                <User>carakan</User>
+                <Url>https://github.com/carakan</Url>
+                <Location>Bolivia</Location>
+                <Email>carakan@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2014-01-30T03:03:44Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rolo555/consulta_pediatrica">
+        <Url>https://github.com/rolo555/consulta_pediatrica</Url>
+        <Name>consulta_pediatrica</Name>
+        <Title>consulta_pediatrica</Title>
+        <RepoName>rolo555/consulta_pediatrica</RepoName>
+        <Description>Sistema para la consulta pedi&#xE1;trica</Description>
+        <Owner>rolo555</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rolo555</Name>
+                <User>rolo555</User>
+                <Url>https://github.com/rolo555</Url>
+                <Location>Cochabamba, Bolivia</Location>
+                <Email>rolo555@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2014-02-11T04:10:11Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="carakan/atix">
+        <Url>https://github.com/carakan/atix</Url>
+        <Name>atix</Name>
+        <Title>atix</Title>
+        <RepoName>carakan/atix</RepoName>
+        <Description>Repositorio de tutorial escrito en la revista atix</Description>
+        <Owner>carakan</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>carakan</Name>
+                <User>carakan</User>
+                <Url>https://github.com/carakan</Url>
+                <Location>Bolivia</Location>
+                <Email>carakan@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; CSS; JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2019-08-13T13:54:00Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rolo555/Pediatria">
+        <Url>https://github.com/rolo555/Pediatria</Url>
+        <Name>Pediatria</Name>
+        <Title>Pediatria</Title>
+        <RepoName>rolo555/Pediatria</RepoName>
+        <Description>Colsultorio Pediatrico</Description>
+        <Owner>rolo555</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rolo555</Name>
+                <User>rolo555</User>
+                <Url>https://github.com/rolo555</Url>
+                <Location>Cochabamba, Bolivia</Location>
+                <Email>rolo555@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2013-10-06T02:31:52Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Walsen/gconfpkg2dirs">
+        <Url>https://github.com/Walsen/gconfpkg2dirs</Url>
+        <Name>gconfpkg2dirs</Name>
+        <Title>gconfpkg2dirs</Title>
+        <RepoName>Walsen/gconfpkg2dirs</RepoName>
+        <Description>Gentoo Portage Configuration Files to Directories</Description>
+        <Owner>Walsen</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Walsen</Name>
+                <User>Walsen</User>
+                <Url>https://github.com/Walsen</Url>
+                <Location>Cochabamba - Bolivia</Location>
+                <Email>srinclan@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2019-08-13T13:39:34Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="carakan/contacts">
+        <Url>https://github.com/carakan/contacts</Url>
+        <Name>contacts</Name>
+        <Title>contacts</Title>
+        <RepoName>carakan/contacts</RepoName>
+        <Description>Simple site for manage contacts.</Description>
+        <Owner>carakan</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>carakan</Name>
+                <User>carakan</User>
+                <Url>https://github.com/carakan</Url>
+                <Location>Bolivia</Location>
+                <Email>carakan@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2018-09-25T14:13:36Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Charles-Hatched/git-alias-bash">
+        <Url>https://github.com/Charles-Hatched/git-alias-bash</Url>
+        <Name>git-alias-bash</Name>
+        <Title>git-alias-bash</Title>
+        <RepoName>Charles-Hatched/git-alias-bash</RepoName>
+        <Description>GIT Aliases Bash</Description>
+        <Owner>Charles-Hatched</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Charles-Hatched</Name>
+                <User>Charles-Hatched</User>
+                <Url>https://github.com/Charles-Hatched</Url>
+                <Location>Cochabamba, Bolivia</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Shell</LanguageTags>
+        <WatchersCount>1</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2019-01-22T23:35:25Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="dev123dev123/JSQMessagesViewControllerExample">
+        <Url>https://github.com/dev123dev123/JSQMessagesViewControllerExample</Url>
+        <Name>JSQMessagesViewControllerExample</Name>
+        <Title>JSQMessagesViewContr&#x2026;</Title>
+        <RepoName>dev123dev123/JSQMessagesViewControllerExample</RepoName>
+        <Description/>
+        <Owner>dev123dev123</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>dev123dev123</Name>
+                <User>dev123dev123</User>
+                <Url>https://github.com/dev123dev123</Url>
+                <Location>Bolivia, Cochabamba</Location>
+                <Email>wilson.balderrama@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Swift; Ruby</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2018-04-17T09:32:33Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="dev123dev123/Ax">
+        <Url>https://github.com/dev123dev123/Ax</Url>
+        <Name>Ax</Name>
+        <Title>Ax</Title>
+        <RepoName>dev123dev123/Ax</RepoName>
+        <Description>An organized way to control the flow of asynchronous executions in Swift.</Description>
+        <Owner>dev123dev123</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>dev123dev123</Name>
+                <User>dev123dev123</User>
+                <Url>https://github.com/dev123dev123</Url>
+                <Location>Bolivia, Cochabamba</Location>
+                <Email>wilson.balderrama@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Swift; Ruby; Objective-C</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Bolivia</CountryOrigin>
+        <UpdatedAt>2017-05-07T17:16:28Z</UpdatedAt>
+    </Dependency>
+</Dependencies>

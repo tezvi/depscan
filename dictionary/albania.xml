@@ -1,0 +1,683 @@
+<?xml version="1.0"?>
+<Dependencies>
+    <Dependency name="adorsys/secure-storage-android">
+        <Url>https://github.com/adorsys/secure-storage-android</Url>
+        <Name>secure-storage-android</Name>
+        <Title>secure-storage-android</Title>
+        <RepoName>adorsys/secure-storage-android</RepoName>
+        <Description>Store strings &amp; credentials securely encrypted on your device</Description>
+        <Owner>adorsys</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Drilon Re&#xE7;ica</Name>
+                <User>drilonrecica</User>
+                <Url>https://github.com/drilonrecica</Url>
+                <Location>Frankfurt</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; Kotlin; Shell</LanguageTags>
+        <WatchersCount>349</WatchersCount>
+        <ForksCount>56</ForksCount>
+        <OpenIssuesCount>14</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Albania</CountryOrigin>
+        <UpdatedAt>2022-02-20T13:36:56Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="adorsys/sms-parser-android">
+        <Url>https://github.com/adorsys/sms-parser-android</Url>
+        <Name>sms-parser-android</Name>
+        <Title>sms-parser-android</Title>
+        <RepoName>adorsys/sms-parser-android</RepoName>
+        <Description>Intercept a sms in your application</Description>
+        <Owner>adorsys</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Drilon Re&#xE7;ica</Name>
+                <User>drilonrecica</User>
+                <Url>https://github.com/drilonrecica</Url>
+                <Location>Frankfurt</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Kotlin; Shell</LanguageTags>
+        <WatchersCount>90</WatchersCount>
+        <ForksCount>24</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Albania</CountryOrigin>
+        <UpdatedAt>2022-03-16T08:26:06Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="astrit/css.gg">
+        <Url>https://github.com/astrit/css.gg</Url>
+        <Name>css.gg</Name>
+        <Title>css.gg</Title>
+        <RepoName>astrit/css.gg</RepoName>
+        <Description>700+ Pure CSS, SVG &amp; Figma UI Icons Available in SVG Sprite, styled-components, NPM &amp; API</Description>
+        <Owner>astrit</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Astrit Malsija</Name>
+                <User>astrit</User>
+                <Url>https://github.com/astrit</Url>
+                <Location>Stockholm, Sweden</Location>
+                <Email>am@astrit.co</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>CSS; JavaScript</LanguageTags>
+        <WatchersCount>8254</WatchersCount>
+        <ForksCount>402</ForksCount>
+        <OpenIssuesCount>48</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Albania</CountryOrigin>
+        <UpdatedAt>2022-03-22T08:04:41Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="redjanym/FCMBundle">
+        <Url>https://github.com/redjanym/FCMBundle</Url>
+        <Name>FCMBundle</Name>
+        <Title>FCMBundle</Title>
+        <RepoName>redjanym/FCMBundle</RepoName>
+        <Description>A Bundle for Symfony projects to send notifications in mobile devices through Firebase Cloud Messaging API</Description>
+        <Owner>redjanym</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Redjan Ymeraj</Name>
+                <User>redjanym</User>
+                <Url>https://github.com/redjanym</Url>
+                <Location>Tirane, Albania</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>43</WatchersCount>
+        <ForksCount>19</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Albania</CountryOrigin>
+        <UpdatedAt>2021-05-21T13:57:06Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="redjanym/php-firebase-cloud-messaging">
+        <Url>https://github.com/redjanym/php-firebase-cloud-messaging</Url>
+        <Name>php-firebase-cloud-messaging</Name>
+        <Title>PHP Firebase Cloud Messaging</Title>
+        <RepoName>redjanym/php-firebase-cloud-messaging</RepoName>
+        <Description>PHP API for Firebase Cloud Messaging from Google</Description>
+        <Owner>redjanym</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Redjan Ymeraj</Name>
+                <User>redjanym</User>
+                <Url>https://github.com/redjanym</Url>
+                <Location>Tirane, Albania</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>32</WatchersCount>
+        <ForksCount>17</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Albania</CountryOrigin>
+        <UpdatedAt>2021-12-23T15:58:43Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="luangjokaj/wordpressify">
+        <Url>https://github.com/luangjokaj/wordpressify</Url>
+        <Name>wordpressify</Name>
+        <Title>WordPressify</Title>
+        <RepoName>luangjokaj/wordpressify</RepoName>
+        <Description>&#x1F388; Automate your WordPress development workflow.</Description>
+        <Owner>luangjokaj</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Luan Gjokaj</Name>
+                <User>luangjokaj</User>
+                <Url>https://github.com/luangjokaj</Url>
+                <Location>Z&#xFC;rich, Switzerland.</Location>
+                <Email>luan@riangle.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; PHP; HTML; CSS</LanguageTags>
+        <WatchersCount>1471</WatchersCount>
+        <ForksCount>127</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Albania</CountryOrigin>
+        <UpdatedAt>2022-03-19T15:01:52Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="luangjokaj/gopablo">
+        <Url>https://github.com/luangjokaj/gopablo</Url>
+        <Name>gopablo</Name>
+        <Title>GoPablo</Title>
+        <RepoName>luangjokaj/gopablo</RepoName>
+        <Description>&#x1F43A; Create optimized static websites.</Description>
+        <Owner>luangjokaj</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Luan Gjokaj</Name>
+                <User/>
+                <Url>https://github.com/luangjokaj/gopablo</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; CSS</LanguageTags>
+        <WatchersCount>172</WatchersCount>
+        <ForksCount>17</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Albania</CountryOrigin>
+        <UpdatedAt>2022-03-05T16:45:42Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="adalenv/htmlson.js">
+        <Url>https://github.com/adalenv/htmlson.js</Url>
+        <Name>htmlson.js</Name>
+        <Title>htmlson.js</Title>
+        <RepoName>adalenv/htmlson.js</RepoName>
+        <Description>Convert JSON array of objects into to HTML table!</Description>
+        <Owner>adalenv</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Adalen Vladi</Name>
+                <User/>
+                <Url>https://github.com/adalenv/htmlson.js</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; CSS</LanguageTags>
+        <WatchersCount>10</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Albania</CountryOrigin>
+        <UpdatedAt>2022-03-01T20:58:34Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="klendi/react-top-loading-bar">
+        <Url>https://github.com/klendi/react-top-loading-bar</Url>
+        <Name>react-top-loading-bar</Name>
+        <Title>react-top-loading-bar</Title>
+        <RepoName>klendi/react-top-loading-bar</RepoName>
+        <Description>A very simple, highly customisable youtube-like react loader component.</Description>
+        <Owner>klendi</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Klendi Goci</Name>
+                <User>klendi</User>
+                <Url>https://github.com/klendi</Url>
+                <Location>Tirana, Albania</Location>
+                <Email>klendigocci@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>TypeScript; JavaScript; CSS; HTML</LanguageTags>
+        <WatchersCount>479</WatchersCount>
+        <ForksCount>46</ForksCount>
+        <OpenIssuesCount>10</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Albania</CountryOrigin>
+        <UpdatedAt>2022-03-22T12:57:50Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Rolanddoda/vue-cli-plugin-gh-pages-auto-deploy">
+        <Url>https://github.com/Rolanddoda/vue-cli-plugin-gh-pages-auto-deploy</Url>
+        <Name>vue-cli-plugin-gh-pages-auto-deploy</Name>
+        <Title>vue-cli-plugin-gh-pages-auto-deploy</Title>
+        <RepoName>Rolanddoda/vue-cli-plugin-gh-pages-auto-deploy</RepoName>
+        <Description/>
+        <Owner>Rolanddoda</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Roland Doda</Name>
+                <User>Rolanddoda</User>
+                <Url>https://github.com/Rolanddoda</Url>
+                <Location>Tirana, Albania</Location>
+                <Email>rolanddoda2014@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>20</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Albania</CountryOrigin>
+        <UpdatedAt>2022-02-23T13:03:11Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Rolanddoda/quasar-ext-gh-pages-auto-deploy">
+        <Url>https://github.com/Rolanddoda/quasar-ext-gh-pages-auto-deploy</Url>
+        <Name>quasar-ext-gh-pages-auto-deploy</Name>
+        <Title>quasar-ext-gh-pages-auto-deploy</Title>
+        <RepoName>Rolanddoda/quasar-ext-gh-pages-auto-deploy</RepoName>
+        <Description/>
+        <Owner>Rolanddoda</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Roland Doda</Name>
+                <User>Rolanddoda</User>
+                <Url>https://github.com/Rolanddoda</Url>
+                <Location>Tirana, Albania</Location>
+                <Email>rolanddoda2014@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>14</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Albania</CountryOrigin>
+        <UpdatedAt>2021-11-25T22:52:58Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="albanian-xrm/early-bound">
+        <Url>https://github.com/albanian-xrm/early-bound</Url>
+        <Name>early-bound</Name>
+        <Title>Albanian Early Bound</Title>
+        <RepoName>albanian-xrm/early-bound</RepoName>
+        <Description>Albanian Early Bound tool for XrmToolBox</Description>
+        <Owner>albanian-xrm</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Betim Beja</Name>
+                <User>betimbeja</User>
+                <Url>https://github.com/betimbeja</Url>
+                <Location>Tirana</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>7</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Albania</CountryOrigin>
+        <UpdatedAt>2022-03-14T18:54:05Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="albanian-xrm/Xrm-Entity-Serializer">
+        <Url>https://github.com/albanian-xrm/Xrm-Entity-Serializer</Url>
+        <Name>Xrm-Entity-Serializer</Name>
+        <Title>Xrm Entity Serializer</Title>
+        <RepoName>albanian-xrm/Xrm-Entity-Serializer</RepoName>
+        <Description>This library can serialize an Microsoft.Xrm.Sdk.Entity to Json and back using Newtonsoft.Json library.</Description>
+        <Owner>albanian-xrm</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Betim Beja</Name>
+                <User>betimbeja</User>
+                <Url>https://github.com/betimbeja</Url>
+                <Location>Tirana</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#; PowerShell</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Albania</CountryOrigin>
+        <UpdatedAt>2021-05-09T15:17:21Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ermirbeqiraj/asp.net-mvc-identity-manager">
+        <Url>https://github.com/ermirbeqiraj/asp.net-mvc-identity-manager</Url>
+        <Name>asp.net-mvc-identity-manager</Name>
+        <Title>asp.net-mvc-identity&#x2026;</Title>
+        <RepoName>ermirbeqiraj/asp.net-mvc-identity-manager</RepoName>
+        <Description/>
+        <Owner>ermirbeqiraj</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ermirbeqiraj</Name>
+                <User>ermirbeqiraj</User>
+                <Url>https://github.com/ermirbeqiraj</Url>
+                <Location>Tirana,Albania</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Albania</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="banago/PHPloy">
+        <Url>https://github.com/banago/PHPloy</Url>
+        <Name>PHPloy</Name>
+        <Title>PHPloy</Title>
+        <RepoName>banago/PHPloy</RepoName>
+        <Description>PHPloy - Incremental Git (S)FTP deployment tool that supports multiple servers, submodules and rollbacks.</Description>
+        <Owner>banago</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>banago</Name>
+                <User>banago</User>
+                <Url>https://github.com/banago</Url>
+                <Location>Vlor&#xEB;, Albania</Location>
+                <Email>banago@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; Shell; Batchfile; Dockerfile</LanguageTags>
+        <WatchersCount>1397</WatchersCount>
+        <ForksCount>188</ForksCount>
+        <OpenIssuesCount>28</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Albania</CountryOrigin>
+        <UpdatedAt>2022-03-24T17:06:53Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="banago/Bridge">
+        <Url>https://github.com/banago/Bridge</Url>
+        <Name>Bridge</Name>
+        <Title>Bridge</Title>
+        <RepoName>banago/Bridge</RepoName>
+        <Description>Brige is a common interface to transfer data through FTP and SFTP protocols.</Description>
+        <Owner>banago</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>banago</Name>
+                <User>banago</User>
+                <Url>https://github.com/banago</Url>
+                <Location>Vlor&#xEB;, Albania</Location>
+                <Email>banago@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>18</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Albania</CountryOrigin>
+        <UpdatedAt>2021-01-18T10:29:17Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="gjergjsheldija/smart-restaurant">
+        <Url>https://github.com/gjergjsheldija/smart-restaurant</Url>
+        <Name>smart-restaurant</Name>
+        <Title>smart-restaurant</Title>
+        <RepoName>gjergjsheldija/smart-restaurant</RepoName>
+        <Description>restaurant management system for handhelds and pos systems</Description>
+        <Owner>gjergjsheldija</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>gjergjsheldija</Name>
+                <User>gjergjsheldija</User>
+                <Url>https://github.com/gjergjsheldija</Url>
+                <Location>Germany</Location>
+                <Email>gjergj@sheldija.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; CSS; JavaScript; Smarty; HTML; ApacheConf</LanguageTags>
+        <WatchersCount>22</WatchersCount>
+        <ForksCount>39</ForksCount>
+        <OpenIssuesCount>4</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Albania</CountryOrigin>
+        <UpdatedAt>2021-11-30T08:43:26Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="dashohoxha/dbox">
+        <Url>https://github.com/dashohoxha/dbox</Url>
+        <Name>dbox</Name>
+        <Title>dbox</Title>
+        <RepoName>dashohoxha/dbox</RepoName>
+        <Description>DrupalBox: A template Drupal project that can be used to seed (create) new Drupal projects quickly and easily. DEPRECATED. Use:
+            https://github.com/docker-scripts/dbox
+        </Description>
+        <Owner>dashohoxha</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>dashohoxha</Name>
+                <User>dashohoxha</User>
+                <Url>https://github.com/dashohoxha</Url>
+                <Location>Tirana, Albania</Location>
+                <Email>dashohoxha@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; Shell; CSS; ApacheConf; Makefile</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Albania</CountryOrigin>
+        <UpdatedAt>2019-07-11T22:56:28Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ArditMustafaraj/IrishJoy">
+        <Url>https://github.com/ArditMustafaraj/IrishJoy</Url>
+        <Name>IrishJoy</Name>
+        <Title>IrishJoy</Title>
+        <RepoName>ArditMustafaraj/IrishJoy</RepoName>
+        <Description>Learn the basics of PHP by building a Photography CMS, as a Real World Application</Description>
+        <Owner>ArditMustafaraj</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ArditMustafaraj</Name>
+                <User>ArditMustafaraj</User>
+                <Url>https://github.com/ArditMustafaraj</Url>
+                <Location>Vienna, Austria</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; JavaScript; CSS</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Albania</CountryOrigin>
+        <UpdatedAt>2021-12-11T21:42:58Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="banago/Base">
+        <Url>https://github.com/banago/Base</Url>
+        <Name>Base</Name>
+        <Title>Base</Title>
+        <RepoName>banago/Base</RepoName>
+        <Description>A developer-friendly WordPress base theme.</Description>
+        <Owner>banago</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>banago</Name>
+                <User>banago</User>
+                <Url>https://github.com/banago</Url>
+                <Location>Vlor&#xEB;, Albania</Location>
+                <Email>banago@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; JavaScript; Shell</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Albania</CountryOrigin>
+        <UpdatedAt>2020-02-26T16:26:49Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="banago/simple-php-website">
+        <Url>https://github.com/banago/simple-php-website</Url>
+        <Name>simple-php-website</Name>
+        <Title>simple-php-website</Title>
+        <RepoName>banago/simple-php-website</RepoName>
+        <Description>An introductory example of how to build a simple and minimal website built with PHP.</Description>
+        <Owner>banago</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>banago</Name>
+                <User>banago</User>
+                <Url>https://github.com/banago</Url>
+                <Location>Vlor&#xEB;, Albania</Location>
+                <Email>banago@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>HTML; PHP; CSS</LanguageTags>
+        <WatchersCount>210</WatchersCount>
+        <ForksCount>541</ForksCount>
+        <OpenIssuesCount>21</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Albania</CountryOrigin>
+        <UpdatedAt>2022-03-11T16:47:16Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="maldoinc/utils">
+        <Url>https://github.com/maldoinc/utils</Url>
+        <Name>utils</Name>
+        <Title>utils</Title>
+        <RepoName>maldoinc/utils</RepoName>
+        <Description/>
+        <Owner>maldoinc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>maldoinc</Name>
+                <User>maldoinc</User>
+                <Url>https://github.com/maldoinc</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Albania</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="banago/CPT-Class">
+        <Url>https://github.com/banago/CPT-Class</Url>
+        <Name>CPT-Class</Name>
+        <Title>CPT-Class</Title>
+        <RepoName>banago/CPT-Class</RepoName>
+        <Description>A PHP class making the process of creating WordPress custom post types &amp; taxonomies as easy as possible.</Description>
+        <Owner>banago</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>banago</Name>
+                <User>banago</User>
+                <Url>https://github.com/banago</Url>
+                <Location>Vlor&#xEB;, Albania</Location>
+                <Email>banago@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Albania</CountryOrigin>
+        <UpdatedAt>2015-11-03T13:41:51Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="dashohoxha/oauth2_loginprovider">
+        <Url>https://github.com/dashohoxha/oauth2_loginprovider</Url>
+        <Name>oauth2_loginprovider</Name>
+        <Title>oauth2_loginprovider</Title>
+        <RepoName>dashohoxha/oauth2_loginprovider</RepoName>
+        <Description>This is a Drupal module that allows users to login to other sites through your site, using OAuth2. (Moved to:
+            https://gitlab.com/dashohoxha-drupal/modules/oauth2_loginprovider)
+        </Description>
+        <Owner>dashohoxha</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>dashohoxha</Name>
+                <User>dashohoxha</User>
+                <Url>https://github.com/dashohoxha</Url>
+                <Location>Tirana, Albania</Location>
+                <Email>dashohoxha@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; Shell; Makefile</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Albania</CountryOrigin>
+        <UpdatedAt>2019-02-10T04:37:26Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="dashohoxha/oauth2_client">
+        <Url>https://github.com/dashohoxha/oauth2_client</Url>
+        <Name>oauth2_client</Name>
+        <Title>oauth2_client</Title>
+        <RepoName>dashohoxha/oauth2_client</RepoName>
+        <Description>Drupal module for OAuth2 clients. (Moved to: https://gitlab.com/dashohoxha-drupal/modules/oauth2_client)</Description>
+        <Owner>dashohoxha</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>dashohoxha</Name>
+                <User>dashohoxha</User>
+                <Url>https://github.com/dashohoxha</Url>
+                <Location>Tirana, Albania</Location>
+                <Email>dashohoxha@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; Shell</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Albania</CountryOrigin>
+        <UpdatedAt>2019-04-11T22:08:41Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="gledi/amortsched">
+        <Url>https://github.com/gledi/amortsched</Url>
+        <Name>amortsched</Name>
+        <Title>amortsched</Title>
+        <RepoName>gledi/amortsched</RepoName>
+        <Description>GDG Tirana App Engine Presentation Sample App - Loan Amortization Schedule Generator</Description>
+        <Owner>gledi</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>gledi</Name>
+                <User>gledi</User>
+                <Url>https://github.com/gledi</Url>
+                <Location>Albania</Location>
+                <Email>gledi.alb@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; JavaScript; CSS; HTML</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Albania</CountryOrigin>
+        <UpdatedAt>2015-09-07T18:16:35Z</UpdatedAt>
+    </Dependency>
+</Dependencies>

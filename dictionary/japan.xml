@@ -1,0 +1,367 @@
+<?xml version="1.0"?>
+<Dependencies>
+    <Dependency name="wasabeef/awesome-android-ui">
+        <Url>https://github.com/wasabeef/awesome-android-ui</Url>
+        <Name>awesome-android-ui</Name>
+        <Title>Awesome Android UI</Title>
+        <RepoName>wasabeef/awesome-android-ui</RepoName>
+        <Description>A curated list of awesome Android UI/UX libraries</Description>
+        <Owner>wasabeef</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Daichi Furiya</Name>
+                <User>wasabeef</User>
+                <Url>https://github.com/wasabeef</Url>
+                <Location>Tokyo, Japan</Location>
+                <Email>dadadada.chop@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>42278</WatchersCount>
+        <ForksCount>10140</ForksCount>
+        <OpenIssuesCount>15</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Japan</CountryOrigin>
+        <UpdatedAt>2022-03-22T15:07:28Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="AtsushiSakai/PythonRobotics">
+        <Url>https://github.com/AtsushiSakai/PythonRobotics</Url>
+        <Name>PythonRobotics</Name>
+        <Title>PythonRobotics</Title>
+        <RepoName>AtsushiSakai/PythonRobotics</RepoName>
+        <Description>Python sample codes for robotics algorithms.</Description>
+        <Owner>AtsushiSakai</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Atsushi Sakai</Name>
+                <User>AtsushiSakai</User>
+                <Url>https://github.com/AtsushiSakai</Url>
+                <Location>Kanagawa, Japan</Location>
+                <Email>asakaig@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; Shell</LanguageTags>
+        <WatchersCount>14747</WatchersCount>
+        <ForksCount>4813</ForksCount>
+        <OpenIssuesCount>13</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Japan</CountryOrigin>
+        <UpdatedAt>2022-03-22T11:45:47Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="wasabeef/recyclerview-animators">
+        <Url>https://github.com/wasabeef/recyclerview-animators</Url>
+        <Name>recyclerview-animators</Name>
+        <Title>RecyclerView Animators</Title>
+        <RepoName>wasabeef/recyclerview-animators</RepoName>
+        <Description>An Android Animation library which easily add itemanimator to RecyclerView items.</Description>
+        <Owner>wasabeef</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Daichi Furiya</Name>
+                <User>wasabeef</User>
+                <Url>https://github.com/wasabeef</Url>
+                <Location>Tokyo, Japan</Location>
+                <Email>dadadada.chop@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Kotlin; Java</LanguageTags>
+        <WatchersCount>10983</WatchersCount>
+        <ForksCount>1965</ForksCount>
+        <OpenIssuesCount>104</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Japan</CountryOrigin>
+        <UpdatedAt>2022-03-19T10:07:13Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="wasabeef/Blurry">
+        <Url>https://github.com/wasabeef/Blurry</Url>
+        <Name>Blurry</Name>
+        <Title>Blurry</Title>
+        <RepoName>wasabeef/Blurry</RepoName>
+        <Description>Blurry is an easy blur library for Android</Description>
+        <Owner>wasabeef</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Daichi Furiya</Name>
+                <User>wasabeef</User>
+                <Url>https://github.com/wasabeef</Url>
+                <Location>Tokyo, Japan</Location>
+                <Email>dadadada.chop@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; Kotlin</LanguageTags>
+        <WatchersCount>5150</WatchersCount>
+        <ForksCount>590</ForksCount>
+        <OpenIssuesCount>83</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Japan</CountryOrigin>
+        <UpdatedAt>2022-03-22T14:26:27Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="wasabeef/glide-transformations">
+        <Url>https://github.com/wasabeef/glide-transformations</Url>
+        <Name>glide-transformations</Name>
+        <Title>Glide Transformations</Title>
+        <RepoName>wasabeef/glide-transformations</RepoName>
+        <Description>An Android transformation library providing a variety of image transformations for Glide.</Description>
+        <Owner>wasabeef</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Daichi Furiya</Name>
+                <User>wasabeef</User>
+                <Url>https://github.com/wasabeef</Url>
+                <Location>Tokyo, Japan</Location>
+                <Email>dadadada.chop@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; Kotlin</LanguageTags>
+        <WatchersCount>9590</WatchersCount>
+        <ForksCount>1408</ForksCount>
+        <OpenIssuesCount>55</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Japan</CountryOrigin>
+        <UpdatedAt>2022-03-22T08:35:33Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="wasabeef/richeditor-android">
+        <Url>https://github.com/wasabeef/richeditor-android</Url>
+        <Name>richeditor-android</Name>
+        <Title>RichEditor</Title>
+        <RepoName>wasabeef/richeditor-android</RepoName>
+        <Description>RichEditor for Android is a beautiful Rich Text WYSIWYG Editor for Android.</Description>
+        <Owner>wasabeef</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Daichi Furiya</Name>
+                <User>wasabeef</User>
+                <Url>https://github.com/wasabeef</Url>
+                <Location>Tokyo, Japan</Location>
+                <Email>dadadada.chop@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; JavaScript; CSS; HTML</LanguageTags>
+        <WatchersCount>5744</WatchersCount>
+        <ForksCount>1149</ForksCount>
+        <OpenIssuesCount>203</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Japan</CountryOrigin>
+        <UpdatedAt>2022-03-21T08:37:11Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="neuecc/UniRx">
+        <Url>https://github.com/neuecc/UniRx</Url>
+        <Name>UniRx</Name>
+        <Title>UniRx</Title>
+        <RepoName>neuecc/UniRx</RepoName>
+        <Description>Reactive Extensions for Unity</Description>
+        <Owner>neuecc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Yoshifumi Kawai</Name>
+                <User>neuecc</User>
+                <Url>https://github.com/neuecc</Url>
+                <Location>Tokyo, Japan</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#; PowerShell; Batchfile</LanguageTags>
+        <WatchersCount>5687</WatchersCount>
+        <ForksCount>783</ForksCount>
+        <OpenIssuesCount>224</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Japan</CountryOrigin>
+        <UpdatedAt>2022-03-22T15:03:45Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="shu223/AnimatedTransitionGallery">
+        <Url>https://github.com/shu223/AnimatedTransitionGallery</Url>
+        <Name>AnimatedTransitionGallery</Name>
+        <Title>AnimatedTransitionGallery</Title>
+        <RepoName>shu223/AnimatedTransitionGallery</RepoName>
+        <Description>A gallery app of custom animated transitions for iOS.</Description>
+        <Owner>shu223</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Shuichi Tsutsumi</Name>
+                <User>shu223</User>
+                <Url>https://github.com/shu223</Url>
+                <Location>Tokyo, Japan</Location>
+                <Email>shuichi0526@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C</LanguageTags>
+        <WatchersCount>2535</WatchersCount>
+        <ForksCount>292</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Japan</CountryOrigin>
+        <UpdatedAt>2022-03-20T02:21:30Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="r9y9/deepvoice3_pytorch">
+        <Url>https://github.com/r9y9/deepvoice3_pytorch</Url>
+        <Name>deepvoice3_pytorch</Name>
+        <Title>Deepvoice3 PyTorch</Title>
+        <RepoName>r9y9/deepvoice3_pytorch</RepoName>
+        <Description>PyTorch implementation of convolutional neural networks-based text-to-speech synthesis models</Description>
+        <Owner>r9y9</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Ryuichi Yamamoto</Name>
+                <User>r9y9</User>
+                <Url>https://github.com/r9y9</Url>
+                <Location>Aichi, Japan</Location>
+                <Email>zryuichi@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; Shell</LanguageTags>
+        <WatchersCount>1689</WatchersCount>
+        <ForksCount>429</ForksCount>
+        <OpenIssuesCount>41</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Japan</CountryOrigin>
+        <UpdatedAt>2022-03-21T21:17:51Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="neuecc/MessagePack-CSharp">
+        <Url>https://github.com/neuecc/MessagePack-CSharp</Url>
+        <Name>MessagePack-CSharp</Name>
+        <Title>MessagePack</Title>
+        <RepoName>neuecc/MessagePack-CSharp</RepoName>
+        <Description>Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]</Description>
+        <Owner>neuecc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Yoshifumi Kawai</Name>
+                <User>neuecc</User>
+                <Url>https://github.com/neuecc</Url>
+                <Location>Tokyo, Japan</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#; PowerShell; Batchfile; Shell</LanguageTags>
+        <WatchersCount>3797</WatchersCount>
+        <ForksCount>536</ForksCount>
+        <OpenIssuesCount>36</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Japan</CountryOrigin>
+        <UpdatedAt>2022-03-22T02:38:01Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rui314/mold">
+        <Url>https://github.com/rui314/mold</Url>
+        <Name>mold</Name>
+        <Title>Mold</Title>
+        <RepoName>rui314/mold</RepoName>
+        <Description>mold: A Modern Linker</Description>
+        <Owner>rui314</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Rui Ueyama</Name>
+                <User>rui314</User>
+                <Url>https://github.com/rui314</Url>
+                <Location>Tokyo, Japan</Location>
+                <Email>rui314@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C++; Shell; Makefile; C</LanguageTags>
+        <WatchersCount>6617</WatchersCount>
+        <ForksCount>212</ForksCount>
+        <OpenIssuesCount>61</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Japan</CountryOrigin>
+        <UpdatedAt>2022-03-22T14:53:48Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="shu223/Pulsator">
+        <Url>https://github.com/shu223/Pulsator</Url>
+        <Name>Pulsator</Name>
+        <Title>Pulse</Title>
+        <RepoName>shu223/Pulsator</RepoName>
+        <Description>Pulse animation for iOS</Description>
+        <Owner>shu223</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Shuichi Tsutsumi</Name>
+                <User>shu223</User>
+                <Url>https://github.com/shu223</Url>
+                <Location>Tokyo, Japan</Location>
+                <Email>shuichi0526@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Swift; Objective-C; Ruby</LanguageTags>
+        <WatchersCount>1325</WatchersCount>
+        <ForksCount>159</ForksCount>
+        <OpenIssuesCount>16</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Japan</CountryOrigin>
+        <UpdatedAt>2022-03-19T15:20:58Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="remote-jp/remote-in-japan">
+        <Url>https://github.com/remote-jp/remote-in-japan</Url>
+        <Name>remote-in-japan</Name>
+        <Title>Remote in Japan</Title>
+        <RepoName>remote-jp/remote-in-japan</RepoName>
+        <Description>Tech companies in Japan that hire remote workers</Description>
+        <Owner>remote-jp</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Yohei Yasukawa</Name>
+                <User>yasulab</User>
+                <Url>https://github.com/yasulab</Url>
+                <Location>CASE Shinjuku, Tokyo</Location>
+                <Email>yohei@yasslab.jp</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>1253</WatchersCount>
+        <ForksCount>227</ForksCount>
+        <OpenIssuesCount>4</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Japan</CountryOrigin>
+        <UpdatedAt>2022-03-15T16:30:38Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="keijiro/Skinner">
+        <Url>https://github.com/keijiro/Skinner</Url>
+        <Name>Skinner</Name>
+        <Title>Skinner</Title>
+        <RepoName>keijiro/Skinner</RepoName>
+        <Description>Special Effects with Skinned Mesh in Unity</Description>
+        <Owner>keijiro</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Keijiro Takahashi</Name>
+                <User>keijiro</User>
+                <Url>https://github.com/keijiro</Url>
+                <Location>Japan</Location>
+                <Email>keijiro@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#; HLSL; ShaderLab</LanguageTags>
+        <WatchersCount>2686</WatchersCount>
+        <ForksCount>363</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Japan</CountryOrigin>
+        <UpdatedAt>2022-03-22T03:57:38Z</UpdatedAt>
+    </Dependency>
+</Dependencies>

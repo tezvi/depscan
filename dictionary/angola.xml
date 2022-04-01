@@ -1,0 +1,1723 @@
+<?xml version="1.0"?>
+<Dependencies>
+    <Dependency name="nicolau-np/HinarioCatolico">
+        <Url>https://github.com/nicolau-np/HinarioCatolico</Url>
+        <Name>HinarioCatolico</Name>
+        <Title>HinarioCatolico</Title>
+        <RepoName>nicolau-np/HinarioCatolico</RepoName>
+        <Description>Hin&#xE1;rio Cat&#xF3;lico, can&#xE7;&#xF5;es e ora&#xE7;&#xF5;es.</Description>
+        <Owner>nicolau-np</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Nicolau NP</Name>
+                <User>nicolau-np</User>
+                <Url>https://github.com/nicolau-np</Url>
+                <Location>Angola</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Dart; Swift; Kotlin; Objective-C</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2021-04-18T10:49:36Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="AlienDev66/camilger-comercial">
+        <Url>https://github.com/AlienDev66/camilger-comercial</Url>
+        <Name>camilger-comercial</Name>
+        <Title>camilger-comercial</Title>
+        <RepoName>AlienDev66/camilger-comercial</RepoName>
+        <Description>Sistema para gest&#xE3;o comercial feito com React js e Node Js.</Description>
+        <Owner>AlienDev66</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Domingos Capitango</Name>
+                <User>AlienDev66</User>
+                <Url>https://github.com/AlienDev66</Url>
+                <Location>Angola</Location>
+                <Email/>
+            </Maintainer>
+            <Maintainer>
+                <Name>Adilson M. Fuxe</Name>
+                <User>adilsonfuxe</User>
+                <Url>https://github.com/adilsonfuxe</Url>
+                <Location>Luanda, Angola</Location>
+                <Email>adilsonfuxe.fuxe@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>TypeScript; HTML; CSS</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>11</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2020-10-27T19:05:04Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="pedromassango/xtimer-flutter-app">
+        <Url>https://github.com/pedromassango/xtimer-flutter-app</Url>
+        <Name>xtimer-flutter-app</Name>
+        <Title>xTimer</Title>
+        <RepoName>pedromassango/xtimer-flutter-app</RepoName>
+        <Description>Flutter timer app</Description>
+        <Owner>pedromassango</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Pedro Massango</Name>
+                <User>pedromassango</User>
+                <Url>https://github.com/pedromassango</Url>
+                <Location>Luanda, Angola</Location>
+                <Email>pedromassango.developer@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Dart; Ruby; Kotlin</LanguageTags>
+        <WatchersCount>269</WatchersCount>
+        <ForksCount>91</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2022-01-30T22:55:54Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="codingdojoangola/cda-app">
+        <Url>https://github.com/codingdojoangola/cda-app</Url>
+        <Name>cda-app</Name>
+        <Title>cda-app</Title>
+        <RepoName>codingdojoangola/cda-app</RepoName>
+        <Description>A App CDA ter&#xE1; como principal objetivo demostrar habilidades e compet&#xEA;ncias individuais e coletivas dos membros do CDA para potencial empregadores,
+            contratadores de freelancers e a sociedade em geral.
+        </Description>
+        <Owner>codingdojoangola</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Coding Dojo Angola</Name>
+                <User>codingdojoangola</User>
+                <Url>https://github.com/codingdojoangola</Url>
+                <Location>Angola</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; Kotlin</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>9</ForksCount>
+        <OpenIssuesCount>6</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2019-03-17T08:52:24Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="somospro/soupro-mobile">
+        <Url>https://github.com/somospro/soupro-mobile</Url>
+        <Name>soupro-mobile</Name>
+        <Title>soupro-mobile</Title>
+        <RepoName>somospro/soupro-mobile</RepoName>
+        <Description>Aplicativo mobile da plataforma Sou Pro</Description>
+        <Owner>somospro</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Sou Pro</Name>
+                <User>somospro</User>
+                <Url>https://github.com/somospro</Url>
+                <Location>Luanda, Angola</Location>
+                <Email>hi@soupro.tech</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Dart; Objective-C; Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2019-10-11T03:07:41Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kurogai/100-redteam-projects">
+        <Url>https://github.com/kurogai/100-redteam-projects</Url>
+        <Name>100-redteam-projects</Name>
+        <Title>100-redteam-projects</Title>
+        <RepoName>kurogai/100-redteam-projects</RepoName>
+        <Description>Projects for security students</Description>
+        <Owner>kurogai</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>H&#xE9;ber J&#xFA;lio</Name>
+                <User>kurogai</User>
+                <Url>https://github.com/kurogai</Url>
+                <Location>Luanda / Angola</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; Ruby; Java</LanguageTags>
+        <WatchersCount>760</WatchersCount>
+        <ForksCount>133</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2022-03-18T07:14:57Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="MartinsSilva/coisas-que-devem-estar-no-header-do-seu-site">
+        <Url>https://github.com/MartinsSilva/coisas-que-devem-estar-no-header-do-seu-site</Url>
+        <Name>coisas-que-devem-estar-no-header-do-seu-site</Name>
+        <Title>coisas-que-devem-estar-no-header-do-seu-site</Title>
+        <RepoName>MartinsSilva/coisas-que-devem-estar-no-header-do-seu-site</RepoName>
+        <Description>uma lista de metacharsets que n&#xE3;o podem faltar no seu site e podem melhorar o seo do mesmo</Description>
+        <Owner>MartinsSilva</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Martins Silva</Name>
+                <User>MartinsSilva</User>
+                <Url>https://github.com/MartinsSilva</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2021-09-09T07:58:09Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kurogai/pentest-checklist">
+        <Url>https://github.com/kurogai/pentest-checklist</Url>
+        <Name>pentest-checklist</Name>
+        <Title>pentest-checklist</Title>
+        <RepoName>kurogai/pentest-checklist</RepoName>
+        <Description>An accurated list of things to test while pentesting</Description>
+        <Owner>kurogai</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>H&#xE9;ber J&#xFA;lio</Name>
+                <User>kurogai</User>
+                <Url>https://github.com/kurogai</Url>
+                <Location>Luanda / Angola</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2022-02-20T08:48:38Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Vue-js-Angola/boas-praticas-do-vue">
+        <Url>https://github.com/Vue-js-Angola/boas-praticas-do-vue</Url>
+        <Name>boas-praticas-do-vue</Name>
+        <Title>boas-praticas-do-vue</Title>
+        <RepoName>Vue-js-Angola/boas-praticas-do-vue</RepoName>
+        <Description>Uma lista de melhores pr&#xE1;ticas e guias de estilo para usar no VueJs.</Description>
+        <Owner>Vue-js-Angola</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Vue-js Angola</Name>
+                <User>Vue-js-Angola</User>
+                <Url>https://github.com/Vue-js-Angola</Url>
+                <Location>Lunda</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2021-07-20T14:17:33Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="MartinsSilva/guia-simplificado-do-git-para-iniciantes">
+        <Url>https://github.com/MartinsSilva/guia-simplificado-do-git-para-iniciantes</Url>
+        <Name>guia-simplificado-do-git-para-iniciantes</Name>
+        <Title>guia-simplificado-do-git-para-iniciantes</Title>
+        <RepoName>MartinsSilva/guia-simplificado-do-git-para-iniciantes</RepoName>
+        <Description>um guia simples com todos os principais comandos para come&#xE7;ar com o Git e Github</Description>
+        <Owner>MartinsSilva</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Martins Silva</Name>
+                <User>MartinsSilva</User>
+                <Url>https://github.com/MartinsSilva</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>1</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2021-03-09T23:58:50Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Community-Dev-Angola/Desafios">
+        <Url>https://github.com/Community-Dev-Angola/Desafios</Url>
+        <Name>Desafios</Name>
+        <Title>Desafios</Title>
+        <RepoName>Community-Dev-Angola/Desafios</RepoName>
+        <Description>Se gostas de desafios e de competir, boas not&#xED;cias: nesta lista que te apresentamos, podes n&#xE3;o s&#xF3; encontrar alguns dos melhores sites para
+            resolver desafios de programa&#xE7;&#xE3;o, como podes aproveitar para aprender e desenvolveres as tuas compet&#xEA;ncias ou at&#xE9; fazeres parte de uma comunidade.
+        </Description>
+        <Owner>Community-Dev-Angola</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>CDA</Name>
+                <User>Community-Dev-Angola</User>
+                <Url>https://github.com/Community-Dev-Angola</Url>
+                <Location>Angola / Luanda</Location>
+                <Email>communitydevangola@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2021-12-16T09:00:37Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Vue-js-Angola/awesome-list-vue-angola">
+        <Url>https://github.com/Vue-js-Angola/awesome-list-vue-angola</Url>
+        <Name>awesome-list-vue-angola</Name>
+        <Title>awesome-list-vue-angola</Title>
+        <RepoName>Vue-js-Angola/awesome-list-vue-angola</RepoName>
+        <Description>uma lista incr&#xED;vel do ecossistema Vue</Description>
+        <Owner>Vue-js-Angola</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Vue-js Angola</Name>
+                <User>Vue-js-Angola</User>
+                <Url>https://github.com/Vue-js-Angola</Url>
+                <Location>Lunda</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2021-07-16T14:39:03Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="pedromassango/my_flutter_challenges">
+        <Url>https://github.com/pedromassango/my_flutter_challenges</Url>
+        <Name>my_flutter_challenges</Name>
+        <Title>my_flutter_challenges</Title>
+        <RepoName>pedromassango/my_flutter_challenges</RepoName>
+        <Description>Flutter project containing all my flutter UI challenges</Description>
+        <Owner>pedromassango</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Pedro Massango</Name>
+                <User>pedromassango</User>
+                <Url>https://github.com/pedromassango</Url>
+                <Location>Luanda, Angola</Location>
+                <Email>pedromassango.developer@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Dart; Swift; Objective-C; Kotlin</LanguageTags>
+        <WatchersCount>791</WatchersCount>
+        <ForksCount>235</ForksCount>
+        <OpenIssuesCount>5</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2022-03-14T15:58:09Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="acidiney/Vue-Study-Content">
+        <Url>https://github.com/acidiney/Vue-Study-Content</Url>
+        <Name>Vue-Study-Content</Name>
+        <Title>Vue-Study-Content</Title>
+        <RepoName>acidiney/Vue-Study-Content</RepoName>
+        <Description>All material about vuejs for your studies in diferents languages</Description>
+        <Owner>acidiney</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Acidiney Dias</Name>
+                <User>acidiney</User>
+                <Url>https://github.com/acidiney</Url>
+                <Location>Luanda, Angola</Location>
+                <Email>hello@acidineydias.me</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2020-02-08T02:45:39Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="acidiney/Rust-Learn">
+        <Url>https://github.com/acidiney/Rust-Learn</Url>
+        <Name>Rust-Learn</Name>
+        <Title>Rust-Learn</Title>
+        <RepoName>acidiney/Rust-Learn</RepoName>
+        <Description>A repository that contains all my study test of rust, following the documentation or other way</Description>
+        <Owner>acidiney</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Acidiney Dias</Name>
+                <User>acidiney</User>
+                <Url>https://github.com/acidiney</Url>
+                <Location>Luanda, Angola</Location>
+                <Email>hello@acidineydias.me</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Rust</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2020-06-03T16:16:57Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="acidiney/learn-adonisjs">
+        <Url>https://github.com/acidiney/learn-adonisjs</Url>
+        <Name>learn-adonisjs</Name>
+        <Title>Learn-Adonis</Title>
+        <RepoName>acidiney/learn-adonisjs</RepoName>
+        <Description>A single repository learn about routing, upload files, controllers, auth with adonis</Description>
+        <Owner>acidiney</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Acidiney Dias</Name>
+                <User>acidiney</User>
+                <Url>https://github.com/acidiney</Url>
+                <Location>Luanda, Angola</Location>
+                <Email>hello@acidineydias.me</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>1</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>4</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2020-07-16T17:01:51Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="codingdojoangola/dojophp">
+        <Url>https://github.com/codingdojoangola/dojophp</Url>
+        <Name>dojophp</Name>
+        <Title>dojophp</Title>
+        <RepoName>codingdojoangola/dojophp</RepoName>
+        <Description>Desafios e metas de estudo PHP</Description>
+        <Owner>codingdojoangola</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Coding Dojo Angola</Name>
+                <User>codingdojoangola</User>
+                <Url>https://github.com/codingdojoangola</Url>
+                <Location>Angola</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; HTML</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>8</ForksCount>
+        <OpenIssuesCount>6</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2017-12-25T09:54:40Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Fimba-Code/map-challenges">
+        <Url>https://github.com/Fimba-Code/map-challenges</Url>
+        <Name>map-challenges</Name>
+        <Title>map-challenges</Title>
+        <RepoName>Fimba-Code/map-challenges</RepoName>
+        <Description>Maps</Description>
+        <Owner>Fimba-Code</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Fimba Code</Name>
+                <User>Fimba-Code</User>
+                <Url>https://github.com/Fimba-Code</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Dart; Swift; TypeScript; Kotlin; JavaScript; Objective-C</LanguageTags>
+        <WatchersCount>9</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>9</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2022-01-08T03:13:37Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Fimba-Code/algorithm-challenge">
+        <Url>https://github.com/Fimba-Code/algorithm-challenge</Url>
+        <Name>algorithm-challenge</Name>
+        <Title>algorithm-challenge</Title>
+        <RepoName>Fimba-Code/algorithm-challenge</RepoName>
+        <Description>Desafio de Algoritmos b&#xE1;sicos, para iniciantes.</Description>
+        <Owner>Fimba-Code</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Fimba Code</Name>
+                <User>Fimba-Code</User>
+                <Url>https://github.com/Fimba-Code</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Go; Python; JavaScript</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2022-01-08T03:16:09Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="JCassio1/Data-Structures-Algorithms">
+        <Url>https://github.com/JCassio1/Data-Structures-Algorithms</Url>
+        <Name>Data-Structures-Algorithms</Name>
+        <Title>Data-Structures-Algorithms</Title>
+        <RepoName>JCassio1/Data-Structures-Algorithms</RepoName>
+        <Description>Data structures and algorithms are very important concepts for every programmer. This is a short tutorial of my experience with algorithms and data
+            structures.
+        </Description>
+        <Owner>JCassio1</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Joselson Dias</Name>
+                <User>JCassio1</User>
+                <Url>https://github.com/JCassio1</Url>
+                <Location>Nottingham</Location>
+                <Email>joselsondias@hotmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Swift</LanguageTags>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2020-11-19T00:05:26Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="backend-ao/vagas">
+        <Url>https://github.com/backend-ao/vagas</Url>
+        <Name>vagas</Name>
+        <Title>vagas</Title>
+        <RepoName>backend-ao/vagas</RepoName>
+        <Description>Reposit&#xF3;rio de vagas - Para publicar uma vaga abra uma issue</Description>
+        <Owner>backend-ao</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Backend Angola</Name>
+                <User>backend-ao</User>
+                <Url>https://github.com/backend-ao</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>22</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>38</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2022-02-04T09:20:54Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="e200/my-flutter-challenges">
+        <Url>https://github.com/e200/my-flutter-challenges</Url>
+        <Name>my-flutter-challenges</Name>
+        <Title>my-flutter-challenges</Title>
+        <RepoName>e200/my-flutter-challenges</RepoName>
+        <Description>All my Flutter Challenges</Description>
+        <Owner>e200</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Eleandro Duzentos</Name>
+                <User>e200</User>
+                <Url>https://github.com/e200</Url>
+                <Location>Lisboa, Portugal</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Dart; CMake; C++; Ruby; HTML; Swift; C; Kotlin; Objective-C</LanguageTags>
+        <WatchersCount>636</WatchersCount>
+        <ForksCount>175</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2022-03-12T14:32:27Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="mcraveiro/referencer">
+        <Url>https://github.com/mcraveiro/referencer</Url>
+        <Name>referencer</Name>
+        <Title>referencer</Title>
+        <RepoName>mcraveiro/referencer</RepoName>
+        <Description>Clone of Gnome Referencer from launchpad</Description>
+        <Owner>mcraveiro</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Marco Craveiro</Name>
+                <User>mcraveiro</User>
+                <Url>https://github.com/mcraveiro</Url>
+                <Location>London, England</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C; C++; Python; HTML; CSS; Shell</LanguageTags>
+        <WatchersCount>1</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2018-04-05T14:44:07Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="eadafonso/Wayami-Framework">
+        <Url>https://github.com/eadafonso/Wayami-Framework</Url>
+        <Name>Wayami-Framework</Name>
+        <Title>Wayami-Framework</Title>
+        <RepoName>eadafonso/Wayami-Framework</RepoName>
+        <Description>Wayami &#xE9; um framework css desenvolvido para agelizar o desenvolvimento de Aplica&#xE7;&#xF5;es Web, Websites.</Description>
+        <Owner>eadafonso</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Edvaldo Afonso</Name>
+                <User>eadafonso</User>
+                <Url>https://github.com/eadafonso</Url>
+                <Location>Angola-Luanda</Location>
+                <Email>eadafonso@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>HTML; CSS; JavaScript</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2021-07-23T07:46:25Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="pedromassango/bottom_navy_bar">
+        <Url>https://github.com/pedromassango/bottom_navy_bar</Url>
+        <Name>bottom_navy_bar</Name>
+        <Title>bottom_navy_bar</Title>
+        <RepoName>pedromassango/bottom_navy_bar</RepoName>
+        <Description>A beautiful and animated bottom navigation</Description>
+        <Owner>pedromassango</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Pedro Massango</Name>
+                <User>pedromassango</User>
+                <Url>https://github.com/pedromassango</Url>
+                <Location>Luanda, Angola</Location>
+                <Email>pedromassango.developer@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Dart; Objective-C; Java</LanguageTags>
+        <WatchersCount>820</WatchersCount>
+        <ForksCount>184</ForksCount>
+        <OpenIssuesCount>30</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2022-03-17T10:02:36Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="pedromassango/titled_navigation_bar">
+        <Url>https://github.com/pedromassango/titled_navigation_bar</Url>
+        <Name>titled_navigation_bar</Name>
+        <Title>titled_navigation_bar</Title>
+        <RepoName>pedromassango/titled_navigation_bar</RepoName>
+        <Description>A beautiful and simple bottom navigation bar with smooth animation when switching selected item.</Description>
+        <Owner>pedromassango</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Pedro Massango</Name>
+                <User>pedromassango</User>
+                <Url>https://github.com/pedromassango</Url>
+                <Location>Luanda, Angola</Location>
+                <Email>pedromassango.developer@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Dart; Objective-C; Kotlin</LanguageTags>
+        <WatchersCount>310</WatchersCount>
+        <ForksCount>56</ForksCount>
+        <OpenIssuesCount>4</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2022-03-19T04:44:44Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="e200/color_generator">
+        <Url>https://github.com/e200/color_generator</Url>
+        <Name>color_generator</Name>
+        <Title>color_generator</Title>
+        <RepoName>e200/color_generator</RepoName>
+        <Description>A simple Flutter color generator app built with Cubit + Freezed.</Description>
+        <Owner>e200</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Eleandro Duzentos</Name>
+                <User>e200</User>
+                <Url>https://github.com/e200</Url>
+                <Location>Lisboa, Portugal</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Dart; Ruby; Swift; Kotlin; Objective-C</LanguageTags>
+        <WatchersCount>35</WatchersCount>
+        <ForksCount>10</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2022-02-24T20:10:38Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="AlexJuca/small-url">
+        <Url>https://github.com/AlexJuca/small-url</Url>
+        <Name>small-url</Name>
+        <Title>small-url</Title>
+        <RepoName>AlexJuca/small-url</RepoName>
+        <Description>Free and Open Source URL Shortener with real time capabilities built with phoenix framework and elixir.</Description>
+        <Owner>AlexJuca</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Alexandre Antonio Juca</Name>
+                <User>AlexJuca</User>
+                <Url>https://github.com/AlexJuca</Url>
+                <Location>Portugal</Location>
+                <Email>corextechnologies@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Elixir; CSS; JavaScript; HTML</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2021-09-21T21:00:30Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Paulo-Lopes-Estevao/kutala-api-gateway">
+        <Url>https://github.com/Paulo-Lopes-Estevao/kutala-api-gateway</Url>
+        <Name>kutala-api-gateway</Name>
+        <Title>kutala-api-gateway</Title>
+        <RepoName>Paulo-Lopes-Estevao/kutala-api-gateway</RepoName>
+        <Description>Kutala is a traffic manager gateway api, controls access to your backend systems and services, 360 from one application.</Description>
+        <Owner>Paulo-Lopes-Estevao</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Paulo Lopes Estev&#xE3;o</Name>
+                <User>Paulo-Lopes-Estevao</User>
+                <Url>https://github.com/Paulo-Lopes-Estevao</Url>
+                <Location>Angola/Luanda</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Go; Dockerfile</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2022-01-08T13:40:28Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="gentildpinto/mangope-api">
+        <Url>https://github.com/gentildpinto/mangope-api</Url>
+        <Name>mangope-api</Name>
+        <Title>mangope-api</Title>
+        <RepoName>gentildpinto/mangope-api</RepoName>
+        <Description>Is an implementation of [AngoProvsAPI](https://github.com/gentildpinto/provincias_de_angola_api) in @Golang</Description>
+        <Owner>gentildpinto</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Gentil Pinto</Name>
+                <User>gentildpinto</User>
+                <Url>https://github.com/gentildpinto</Url>
+                <Location>Luanda, Angola</Location>
+                <Email>gentil.junior.gp@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Go; Makefile; Shell</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2021-11-03T13:41:30Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="git-marcopitra/covidango">
+        <Url>https://github.com/git-marcopitra/covidango</Url>
+        <Name>covidango</Name>
+        <Title>covidango</Title>
+        <RepoName>git-marcopitra/covidango</RepoName>
+        <Description>Site para salvar Angola do COVID-19 - S.O.S. Angola</Description>
+        <Owner>git-marcopitra</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Marco Pitra</Name>
+                <User>git-marcopitra</User>
+                <Url>https://github.com/git-marcopitra</Url>
+                <Location>Luanda, Angola</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; CSS</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2022-02-04T02:42:13Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="MartinsSilva/dicionarius-angola-api">
+        <Url>https://github.com/MartinsSilva/dicionarius-angola-api</Url>
+        <Name>dicionarius-angola-api</Name>
+        <Title>dicionarius-angola-api</Title>
+        <RepoName>MartinsSilva/dicionarius-angola-api</RepoName>
+        <Description>Uma api com verbetes comuns e g&#xED;rias angolanas</Description>
+        <Owner>MartinsSilva</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Martins Silva</Name>
+                <User>MartinsSilva</User>
+                <Url>https://github.com/MartinsSilva</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2021-10-10T23:26:16Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Danguya/Poligloz">
+        <Url>https://github.com/Danguya/Poligloz</Url>
+        <Name>Poligloz</Name>
+        <Title>Poligloz</Title>
+        <RepoName>Danguya/Poligloz</RepoName>
+        <Description>API created to translate texts in any type of system</Description>
+        <Owner>Danguya</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Wilmy Danguya</Name>
+                <User>Danguya</User>
+                <Url>https://github.com/Danguya</Url>
+                <Location>Luanda, Angola</Location>
+                <Email>daniel.yava16@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2020-11-19T16:09:30Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="buzzcode42/covid-tracker">
+        <Url>https://github.com/buzzcode42/covid-tracker</Url>
+        <Name>covid-tracker</Name>
+        <Title>Poligloz</Title>
+        <RepoName>buzzcode42/covid-tracker</RepoName>
+        <Description>Covid-tracker &#xE9; uma app web que informa sobre os casos de Covid no mundo todo.</Description>
+        <Owner>buzzcode42</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Fernando do Santos</Name>
+                <User>buzzcode42</User>
+                <Url>https://github.com/buzzcode42</Url>
+                <Location>Angola/Luanda</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; HTML</LanguageTags>
+        <WatchersCount>1</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>14</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2020-07-10T13:49:45Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="DenisPower1/inter">
+        <Url>https://github.com/DenisPower1/inter</Url>
+        <Name>inter</Name>
+        <Title>inter</Title>
+        <RepoName>DenisPower1/inter</RepoName>
+        <Description>The javascript framework to build highly interactive front-end web applications.</Description>
+        <Owner>DenisPower1</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Denis</Name>
+                <User>DenisPower1</User>
+                <Url>https://github.com/DenisPower1</Url>
+                <Location>Angola/Luanda</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML</LanguageTags>
+        <WatchersCount>53</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2022-03-13T17:04:58Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Fausto95/rn-async-storage-flipper">
+        <Url>https://github.com/Fausto95/rn-async-storage-flipper</Url>
+        <Name>rn-async-storage-flipper</Name>
+        <Title>rn-async-storage-flipper</Title>
+        <RepoName>Fausto95/rn-async-storage-flipper</RepoName>
+        <Description>React Native's Async Storage logger for Flipper</Description>
+        <Owner>Fausto95</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Faustino Kialungila</Name>
+                <User>Fausto95</User>
+                <Url>https://github.com/Fausto95</Url>
+                <Location>Paris, France</Location>
+                <Email>Faustino.kialungila@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; TypeScript</LanguageTags>
+        <WatchersCount>38</WatchersCount>
+        <ForksCount>7</ForksCount>
+        <OpenIssuesCount>12</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2022-02-07T18:35:49Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Fausto95/vscode-swap">
+        <Url>https://github.com/Fausto95/vscode-swap</Url>
+        <Name>vscode-swap</Name>
+        <Title>vscode-swap</Title>
+        <RepoName>Fausto95/vscode-swap</RepoName>
+        <Description>VS Code extension for text swapping</Description>
+        <Owner>Fausto95</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Faustino Kialungila</Name>
+                <User>Fausto95</User>
+                <Url>https://github.com/Fausto95</Url>
+                <Location>Paris, France</Location>
+                <Email>Faustino.kialungila@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>5</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2020-07-21T07:48:29Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Fimba-Code/cipher-challenges">
+        <Url>https://github.com/Fimba-Code/cipher-challenges</Url>
+        <Name>cipher-challenges</Name>
+        <Title>cipher-challenges</Title>
+        <RepoName>Fimba-Code/cipher-challenges</RepoName>
+        <Description>cipher algorithms challenge</Description>
+        <Owner>Fimba-Code</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Fimba Code</Name>
+                <User>Fimba-Code</User>
+                <Url>https://github.com/Fimba-Code</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; C</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2020-05-10T21:22:02Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="joaonzangoII/proxypay-api">
+        <Url>https://github.com/joaonzangoII/proxypay-api</Url>
+        <Name>proxypay-api</Name>
+        <Title>proxypay-api</Title>
+        <RepoName>joaonzangoII/proxypay-api</RepoName>
+        <Description>An API wrapper of ProxyPay API written in Nodejs and &#x2764;&#xFE0F; in Luanda &#x1F1E6;&#x1F1F4;</Description>
+        <Owner>joaonzangoII</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Joao Nzango II</Name>
+                <User>joaonzangoII</User>
+                <Url>https://github.com/joaonzangoII</Url>
+                <Location>Cabinda, Angola &amp; Pretoria, South Africa</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>4</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2020-10-05T23:06:41Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="AlexJuca/macos-monterey">
+        <Url>https://github.com/AlexJuca/macos-monterey</Url>
+        <Name>macos-monterey</Name>
+        <Title>macos-monterey</Title>
+        <RepoName>AlexJuca/macos-monterey</RepoName>
+        <Description>Clone of macOS Monterey that runs in your browser. (website disabled)</Description>
+        <Owner>AlexJuca</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Alexandre Antonio Juca</Name>
+                <User>AlexJuca</User>
+                <Url>https://github.com/AlexJuca</Url>
+                <Location>Portugal</Location>
+                <Email>corextechnologies@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; SCSS; HTML</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>5</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2022-03-20T20:33:41Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="JCassio1/Java-Load-Balancer">
+        <Url>https://github.com/JCassio1/Java-Load-Balancer</Url>
+        <Name>Java-Load-Balancer</Name>
+        <Title>Java-Load-Balancer</Title>
+        <RepoName>JCassio1/Java-Load-Balancer</RepoName>
+        <Description>This is a project that I have created in 2018 for the class of Distributed Network Architecture at the department of Science and Technology at Nottingham Trent
+            University. It is a load balancer created built using Java
+        </Description>
+        <Owner>JCassio1</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Joselson Dias</Name>
+                <User>JCassio1</User>
+                <Url>https://github.com/JCassio1</Url>
+                <Location>Nottingham</Location>
+                <Email>joselsondias@hotmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2020-06-16T19:35:57Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="AlexJuca/Kiyo">
+        <Url>https://github.com/AlexJuca/Kiyo</Url>
+        <Name>Kiyo</Name>
+        <Title>Kiyo</Title>
+        <RepoName>AlexJuca/Kiyo</RepoName>
+        <Description>A simple android permissions library for devices running android marshmallow +</Description>
+        <Owner>AlexJuca</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Alexandre Antonio Juca</Name>
+                <User>AlexJuca</User>
+                <Url>https://github.com/AlexJuca</Url>
+                <Location>Portugal</Location>
+                <Email>corextechnologies@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2020-10-05T21:58:19Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="AlexJuca/BiometricKit">
+        <Url>https://github.com/AlexJuca/BiometricKit</Url>
+        <Name>BiometricKit</Name>
+        <Title>BiometricKit</Title>
+        <RepoName>AlexJuca/BiometricKit</RepoName>
+        <Description>A simple android library for handling the complexities of android fingerprint authentication</Description>
+        <Owner>AlexJuca</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Alexandre Antonio Juca</Name>
+                <User>AlexJuca</User>
+                <Url>https://github.com/AlexJuca</Url>
+                <Location>Portugal</Location>
+                <Email>corextechnologies@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Kotlin; Java</LanguageTags>
+        <WatchersCount>21</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2022-01-24T13:08:51Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ravelinodecastro/covid-19-ao-api">
+        <Url>https://github.com/ravelinodecastro/covid-19-ao-api</Url>
+        <Name>covid-19-ao-api</Name>
+        <Title>covid-19-ao-api</Title>
+        <RepoName>ravelinodecastro/covid-19-ao-api</RepoName>
+        <Description>Covid-19 Ao Api is an Angolan API created to show in real time the information about the cases of the corona virus detected in the Angolan territory.
+        </Description>
+        <Owner>ravelinodecastro</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Ravelino De Castro</Name>
+                <User>ravelinodecastro</User>
+                <Url>https://github.com/ravelinodecastro</Url>
+                <Location>Luanda, Angola</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; Vue; HTML</LanguageTags>
+        <WatchersCount>33</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>8</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2022-03-05T06:20:40Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="givebloodorg/doesangue-core">
+        <Url>https://github.com/givebloodorg/doesangue-core</Url>
+        <Name>doesangue-core</Name>
+        <Title>doesangue-core</Title>
+        <RepoName>givebloodorg/doesangue-core</RepoName>
+        <Description>Online platform that connects people interested in blood donation</Description>
+        <Owner>givebloodorg</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Give Blood</Name>
+                <User>givebloodorg</User>
+                <Url>https://github.com/givebloodorg</Url>
+                <Location>Internet</Location>
+                <Email>info@doesangue.me</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; Blade; Shell</LanguageTags>
+        <WatchersCount>89</WatchersCount>
+        <ForksCount>12</ForksCount>
+        <OpenIssuesCount>6</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2022-02-03T14:02:30Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="linkasoftwares/salespanel">
+        <Url>https://github.com/linkasoftwares/salespanel</Url>
+        <Name>salespanel</Name>
+        <Title>salespanel</Title>
+        <RepoName>linkasoftwares/salespanel</RepoName>
+        <Description>Sales and Report dashboard that gives you the control</Description>
+        <Owner>linkasoftwares</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Linka Softwares</Name>
+                <User>linkasoftwares</User>
+                <Url>https://github.com/linkasoftwares</Url>
+                <Location>Luanda, Angola</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>HTML; Blade; Hack; PHP; Shell; Vue</LanguageTags>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2021-10-14T11:06:04Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="codingdojoangola/portaldev">
+        <Url>https://github.com/codingdojoangola/portaldev</Url>
+        <Name>portaldev</Name>
+        <Title>portaldev</Title>
+        <RepoName>codingdojoangola/portaldev</RepoName>
+        <Description>Plataforma de vagas e contrata&#xE7;&#xE3;o de freelancers em Angola</Description>
+        <Owner>codingdojoangola</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Coding Dojo Angola</Name>
+                <User>codingdojoangola</User>
+                <Url>https://github.com/codingdojoangola</Url>
+                <Location>Angola</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; HTML; ApacheConf; Vue; Shell</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>8</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2020-09-15T03:32:46Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="danieluac/Mucua">
+        <Url>https://github.com/danieluac/Mucua</Url>
+        <Name>Mucua</Name>
+        <Title>Mucua</Title>
+        <RepoName>danieluac/Mucua</RepoName>
+        <Description>Mukua is a new framework for beginning backend of the PHP</Description>
+        <Owner>danieluac</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Daniel AC</Name>
+                <User>danieluac</User>
+                <Url>https://github.com/danieluac</Url>
+                <Location>Luanda, Angola</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; CSS; JavaScript</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2021-07-13T21:19:20Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="danieluac/QueroBukar">
+        <Url>https://github.com/danieluac/QueroBukar</Url>
+        <Name>QueroBukar</Name>
+        <Title>QueroBukar</Title>
+        <RepoName>danieluac/QueroBukar</RepoName>
+        <Description>Library management System, allow add and sell book, show book report, allow studant require book from android app. full crud ---Sistema de gest&#xE3;o de
+            biblioteca, permite o cadastro de livros, gera relat&#xF3;rios, permite que estudantes solicitem livros apartir de app android e que participem de um f&#xF3;rum
+            estudantil.
+        </Description>
+        <Owner>danieluac</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Daniel AC</Name>
+                <User>danieluac</User>
+                <Url>https://github.com/danieluac</Url>
+                <Location>Luanda, Angola</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; CSS; JavaScript; PLpgSQL; TSQL; HTML; Hack</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2020-06-17T14:05:33Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="JCassio1/Backend-Password-Cracker">
+        <Url>https://github.com/JCassio1/Backend-Password-Cracker</Url>
+        <Name>Backend-Password-Cracker</Name>
+        <Title>Backend-Password-Cracker</Title>
+        <RepoName>JCassio1/Backend-Password-Cracker</RepoName>
+        <Description>A simple password cracker tool based in PHP</Description>
+        <Owner>JCassio1</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Joselson Dias</Name>
+                <User>JCassio1</User>
+                <Url>https://github.com/JCassio1</Url>
+                <Location>Nottingham</Location>
+                <Email>joselsondias@hotmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; Python</LanguageTags>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2021-03-18T00:23:28Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kurogai/nero-phishing-server">
+        <Url>https://github.com/kurogai/nero-phishing-server</Url>
+        <Name>nero-phishing-server</Name>
+        <Title>nero-phishing-server</Title>
+        <RepoName>kurogai/nero-phishing-server</RepoName>
+        <Description>An full HTTP server for Phishing. Downloads recursively the entire webpage.</Description>
+        <Owner>kurogai</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>H&#xE9;ber J&#xFA;lio</Name>
+                <User>kurogai</User>
+                <Url>https://github.com/kurogai</Url>
+                <Location>Luanda / Angola</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>103</WatchersCount>
+        <ForksCount>10</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2022-02-20T02:47:44Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="kurogai/deepweb-scappering">
+        <Url>https://github.com/kurogai/deepweb-scappering</Url>
+        <Name>deepweb-scappering</Name>
+        <Title>deep-web-scrapping</Title>
+        <RepoName>kurogai/deepweb-scappering</RepoName>
+        <Description>Discover hidden deepweb pages</Description>
+        <Owner>kurogai</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>H&#xE9;ber J&#xFA;lio</Name>
+                <User>kurogai</User>
+                <Url>https://github.com/kurogai</Url>
+                <Location>Luanda / Angola</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>68</WatchersCount>
+        <ForksCount>11</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2022-03-08T04:42:30Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="amanda-lang/amanda">
+        <Url>https://github.com/amanda-lang/amanda</Url>
+        <Name>amanda</Name>
+        <Title>amanda</Title>
+        <RepoName>amanda-lang/amanda</RepoName>
+        <Description>The Amanda programming language</Description>
+        <Owner>amanda-lang</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Amanda</Name>
+                <User>amanda-lang</User>
+                <Url>https://github.com/amanda-lang</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>19</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2022-02-02T21:33:56Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Paulo-Lopes-Estevao/Api_Identity">
+        <Url>https://github.com/Paulo-Lopes-Estevao/Api_Identity</Url>
+        <Name>Api_Identity</Name>
+        <Title>Api_Identity</Title>
+        <RepoName>Paulo-Lopes-Estevao/Api_Identity</RepoName>
+        <Description>API Indentifaca&#xE7;&#xE3;o do BI e NIF</Description>
+        <Owner>Paulo-Lopes-Estevao</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Paulo Lopes Estev&#xE3;o</Name>
+                <User>Paulo-Lopes-Estevao</User>
+                <Url>https://github.com/Paulo-Lopes-Estevao</Url>
+                <Location>Angola/Luanda</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>12</WatchersCount>
+        <ForksCount>7</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2022-01-22T01:46:22Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="gentildpinto/provincias_de_angola_api">
+        <Url>https://github.com/gentildpinto/provincias_de_angola_api</Url>
+        <Name>provincias_de_angola_api</Name>
+        <Title>provincias_de_angola_api</Title>
+        <RepoName>gentildpinto/provincias_de_angola_api</RepoName>
+        <Description>API desenvolvida para fornecer dados de provincias e municipios do territ&#xF3;rio Angolano</Description>
+        <Owner>gentildpinto</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Gentil Pinto</Name>
+                <User>gentildpinto</User>
+                <Url>https://github.com/gentildpinto</Url>
+                <Location>Luanda, Angola</Location>
+                <Email>gentil.junior.gp@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>23</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2022-02-09T17:29:44Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="gentildpinto/gitfinder">
+        <Url>https://github.com/gentildpinto/gitfinder</Url>
+        <Name>gitfinder</Name>
+        <Title>gitfinder</Title>
+        <RepoName>gentildpinto/gitfinder</RepoName>
+        <Description>A simple tool that allows find GitHub users by his username.</Description>
+        <Owner>gentildpinto</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Gentil Pinto</Name>
+                <User>gentildpinto</User>
+                <Url>https://github.com/gentildpinto</Url>
+                <Location>Luanda, Angola</Location>
+                <Email>gentil.junior.gp@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; Ruby; HTML; SCSS</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2021-10-06T08:54:26Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="helciodev/covid-19-scraper">
+        <Url>https://github.com/helciodev/covid-19-scraper</Url>
+        <Name>covid-19-scraper</Name>
+        <Title>covid-19-scraper</Title>
+        <RepoName>helciodev/covid-19-scraper</RepoName>
+        <Description>This app scrapes for data at https://www.worldometers.info/coronavirus, presents general information in tables and allows the user to search statistics about
+            covid-19 by country.
+        </Description>
+        <Owner>helciodev</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>helcio andre</Name>
+                <User>helciodev</User>
+                <Url>https://github.com/helciodev</Url>
+                <Location>Angola, Luanda</Location>
+                <Email>helcioandre@live.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2021-02-08T17:12:30Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Fimba-Code/CardMotion-SwiftUI">
+        <Url>https://github.com/Fimba-Code/CardMotion-SwiftUI</Url>
+        <Name>CardMotion-SwiftUI</Name>
+        <Title>CardMotion-SwiftUI</Title>
+        <RepoName>Fimba-Code/CardMotion-SwiftUI</RepoName>
+        <Description>Animated digital debit/credit card based in SwiftUI</Description>
+        <Owner>Fimba-Code</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Fimba Code</Name>
+                <User>Fimba-Code</User>
+                <Url>https://github.com/Fimba-Code</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Swift</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2020-11-08T12:30:53Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="JCassio1/Neumorphism">
+        <Url>https://github.com/JCassio1/Neumorphism</Url>
+        <Name>Neumorphism</Name>
+        <Title>Neumorphism</Title>
+        <RepoName>JCassio1/Neumorphism</RepoName>
+        <Description>A new UI design trend that is based on casting inner and outer shadows to give the illusion of extruded shapes</Description>
+        <Owner>JCassio1</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Joselson Dias</Name>
+                <User>JCassio1</User>
+                <Url>https://github.com/JCassio1</Url>
+                <Location>Nottingham</Location>
+                <Email>joselsondias@hotmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Swift</LanguageTags>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2020-08-08T01:23:20Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="JCassio1/SwiftUI-language-localization">
+        <Url>https://github.com/JCassio1/SwiftUI-language-localization</Url>
+        <Name>SwiftUI-language-localization</Name>
+        <Title>SwiftUI-language-localization</Title>
+        <RepoName>JCassio1/SwiftUI-language-localization</RepoName>
+        <Description>The objective of this simple SwiftUI application is making it display its user interface in other languages. It is very simple in SwiftUI and it will be widely
+            adopted in all my future apps. The most difficult aspect will be to make sure that translations are correct and verified by native speakers.
+        </Description>
+        <Owner>JCassio1</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Joselson Dias</Name>
+                <User>JCassio1</User>
+                <Url>https://github.com/JCassio1</Url>
+                <Location>Nottingham</Location>
+                <Email>joselsondias@hotmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Swift</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2022-03-03T13:22:48Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Angola-Api/Angola-Api">
+        <Url>https://github.com/Angola-Api/Angola-Api</Url>
+        <Name>Angola-Api</Name>
+        <Title>Angola-Api</Title>
+        <RepoName>Angola-Api/Angola-Api</RepoName>
+        <Description/>
+        <Owner>Angola-Api</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Lutero Elavoco</Name>
+                <User>luteroelavoco</User>
+                <Url>https://github.com/luteroelavoco</Url>
+                <Location>Brasil</Location>
+                <Email/>
+            </Maintainer>
+            <Maintainer>
+                <Name>Adilson M. Fuxe</Name>
+                <User>adilsonfuxe</User>
+                <Url>https://github.com/adilsonfuxe</Url>
+                <Location>Luanda, Angola</Location>
+                <Email>adilsonfuxe.fuxe@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>TypeScript; HTML; JavaScript</LanguageTags>
+        <WatchersCount>161</WatchersCount>
+        <ForksCount>48</ForksCount>
+        <OpenIssuesCount>8</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2022-03-14T08:34:07Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Fimba-Code/discord-bot">
+        <Url>https://github.com/Fimba-Code/discord-bot</Url>
+        <Name>discord-bot</Name>
+        <Title>discord-bot</Title>
+        <RepoName>Fimba-Code/discord-bot</RepoName>
+        <Description>Fimba Bot &#x1F916;</Description>
+        <Owner>Fimba-Code</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Fimba Code</Name>
+                <User>Fimba-Code</User>
+                <Url>https://github.com/Fimba-Code</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>TypeScript; JavaScript; Shell</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>6</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2020-09-09T08:36:46Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Fausto95/aws-s3">
+        <Url>https://github.com/Fausto95/aws-s3</Url>
+        <Name>aws-s3</Name>
+        <Title>aws-s3</Title>
+        <RepoName>Fausto95/aws-s3</RepoName>
+        <Description>S3Client - A Javascript Library for AWS S3 File Upload</Description>
+        <Owner>Fausto95</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Faustino Kialungila</Name>
+                <User>Fausto95</User>
+                <Url>https://github.com/Fausto95</Url>
+                <Location>Paris, France</Location>
+                <Email>Faustino.kialungila@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>TypeScript</LanguageTags>
+        <WatchersCount>102</WatchersCount>
+        <ForksCount>65</ForksCount>
+        <OpenIssuesCount>47</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2022-03-22T04:36:04Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Fausto95/jw-player-api">
+        <Url>https://github.com/Fausto95/jw-player-api</Url>
+        <Name>jw-player-api</Name>
+        <Title>jw-player-api</Title>
+        <RepoName>Fausto95/jw-player-api</RepoName>
+        <Description>A library wrapper around JW Player API</Description>
+        <Owner>Fausto95</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Faustino Kialungila</Name>
+                <User>Fausto95</User>
+                <Url>https://github.com/Fausto95</Url>
+                <Location>Paris, France</Location>
+                <Email>Faustino.kialungila@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>TypeScript</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2019-03-08T11:28:17Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="e200/developers.ao">
+        <Url>https://github.com/e200/developers.ao</Url>
+        <Name>developers.ao</Name>
+        <Title>developers.ao</Title>
+        <RepoName>e200/developers.ao</RepoName>
+        <Description>Find developers based in Angola.</Description>
+        <Owner>e200</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Eleandro Duzentos</Name>
+                <User>e200</User>
+                <Url>https://github.com/e200</Url>
+                <Location>Lisboa, Portugal</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Vue; JavaScript; SCSS; HTML; Sass</LanguageTags>
+        <WatchersCount>36</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Angola</CountryOrigin>
+        <UpdatedAt>2022-03-02T00:23:02Z</UpdatedAt>
+    </Dependency>
+</Dependencies>

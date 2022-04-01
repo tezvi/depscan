@@ -1,0 +1,3547 @@
+<?xml version="1.0"?>
+<Dependencies>
+    <Dependency name="eriknyk/redux-universal-app">
+        <Url>https://github.com/eriknyk/redux-universal-app</Url>
+        <Name>redux-universal-app</Name>
+        <Title>redux-universal-app</Title>
+        <RepoName>eriknyk/redux-universal-app</RepoName>
+        <Description/>
+        <Owner>eriknyk</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>eriknyk</Name>
+                <User>eriknyk</User>
+                <Url>https://github.com/eriknyk</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email>aortiz.erik@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>37</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2018-12-05T15:02:28Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="juanmnl/react-starter">
+        <Url>https://github.com/juanmnl/react-starter</Url>
+        <Name>react-starter</Name>
+        <Title>react-starter</Title>
+        <RepoName>juanmnl/react-starter</RepoName>
+        <Description>:rocket: Yet another React Starter DevKit :moon:</Description>
+        <Owner>juanmnl</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>juanmnl</Name>
+                <User>juanmnl</User>
+                <Url>https://github.com/juanmnl</Url>
+                <Location>Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; HTML</LanguageTags>
+        <WatchersCount>27</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2020-04-02T23:48:35Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="adrianeguez/Tec_Web_Js_2016_B">
+        <Url>https://github.com/adrianeguez/Tec_Web_Js_2016_B</Url>
+        <Name>Tec_Web_Js_2016_B</Name>
+        <Title>Tec_Web_Js_2016_B</Title>
+        <RepoName>adrianeguez/Tec_Web_Js_2016_B</RepoName>
+        <Description>Curso de Tecnologias Web con Javascript</Description>
+        <Owner>adrianeguez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>adrianeguez</Name>
+                <User>adrianeguez</User>
+                <Url>https://github.com/adrianeguez</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email>adrian.eguez@epn.edu.ec</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; CSS</LanguageTags>
+        <WatchersCount>17</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>4</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-10-28T23:25:41Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="adrianeguez/App-Web-2017-A">
+        <Url>https://github.com/adrianeguez/App-Web-2017-A</Url>
+        <Name>App-Web-2017-A</Name>
+        <Title>App-Web-2017-A</Title>
+        <RepoName>adrianeguez/App-Web-2017-A</RepoName>
+        <Description>Repositorio de la Materia de Aplicaciones Web 2017 A</Description>
+        <Owner>adrianeguez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>adrianeguez</Name>
+                <User>adrianeguez</User>
+                <Url>https://github.com/adrianeguez</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email>adrian.eguez@epn.edu.ec</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; TypeScript; CSS</LanguageTags>
+        <WatchersCount>12</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2017-08-08T01:34:00Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="miwillhite/editable-set">
+        <Url>https://github.com/miwillhite/editable-set</Url>
+        <Name>editable-set</Name>
+        <Title>editable-set</Title>
+        <RepoName>miwillhite/editable-set</RepoName>
+        <Description>A jQuery edit-in-place plugin for editing entire sets of data at once.</Description>
+        <Owner>miwillhite</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>miwillhite</Name>
+                <User>miwillhite</User>
+                <Url>https://github.com/miwillhite</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2020-04-28T04:43:42Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="warpr/turtle-to-jsonld">
+        <Url>https://github.com/warpr/turtle-to-jsonld</Url>
+        <Name>turtle-to-jsonld</Name>
+        <Title>turtle-to-jsonld</Title>
+        <RepoName>warpr/turtle-to-jsonld</RepoName>
+        <Description>Turtle to JSON-LD conversion.</Description>
+        <Owner>warpr</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>warpr</Name>
+                <User>warpr</User>
+                <Url>https://github.com/warpr</Url>
+                <Location>Ecuador</Location>
+                <Email>kuno@frob.nl</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; Shell</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2018-10-31T13:10:41Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="eraad/clementine">
+        <Url>https://github.com/eraad/clementine</Url>
+        <Name>clementine</Name>
+        <Title>clementine</Title>
+        <RepoName>eraad/clementine</RepoName>
+        <Description/>
+        <Owner>eraad</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>eraad</Name>
+                <User>eraad</User>
+                <Url>https://github.com/eraad</Url>
+                <Location>Guayaquil, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="adrianeguez/TWJ-2017-A">
+        <Url>https://github.com/adrianeguez/TWJ-2017-A</Url>
+        <Name>TWJ-2017-A</Name>
+        <Title>TWJ-2017-A</Title>
+        <RepoName>adrianeguez/TWJ-2017-A</RepoName>
+        <Description>Tecnologias Web con JavaScript 2017 A</Description>
+        <Owner>adrianeguez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>adrianeguez</Name>
+                <User>adrianeguez</User>
+                <Url>https://github.com/adrianeguez</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email>adrian.eguez@epn.edu.ec</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; CSS; TypeScript</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2019-04-27T15:06:02Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="mrluc/owl-deepcopy">
+        <Url>https://github.com/mrluc/owl-deepcopy</Url>
+        <Name>owl-deepcopy</Name>
+        <Title>owl-deepcopy</Title>
+        <RepoName>mrluc/owl-deepcopy</RepoName>
+        <Description>Oran Looney's definitive deepCopy.js packaged as a node module.</Description>
+        <Owner>mrluc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>mrluc</Name>
+                <User>mrluc</User>
+                <Url>https://github.com/mrluc</Url>
+                <Location>Minneapolis || Ecuador || PacNW</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2018-10-22T13:22:38Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="franzsilva/FusePokeDex">
+        <Url>https://github.com/franzsilva/FusePokeDex</Url>
+        <Name>FusePokeDex</Name>
+        <Title>FusePokeDex</Title>
+        <RepoName>franzsilva/FusePokeDex</RepoName>
+        <Description>Pokedex Implemented using FuseTools</Description>
+        <Owner>franzsilva</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>franzsilva</Name>
+                <User>franzsilva</User>
+                <Url>https://github.com/franzsilva</Url>
+                <Location>Cuenca, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2018-11-09T04:28:21Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="markoscalderon/bbb-nodejs-client">
+        <Url>https://github.com/markoscalderon/bbb-nodejs-client</Url>
+        <Name>bbb-nodejs-client</Name>
+        <Title>bbb-nodejs-client</Title>
+        <RepoName>markoscalderon/bbb-nodejs-client</RepoName>
+        <Description>BigBlueButton Node.js Client</Description>
+        <Owner>markoscalderon</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>markoscalderon</Name>
+                <User>markoscalderon</User>
+                <Url>https://github.com/markoscalderon</Url>
+                <Location>Guayaquil, Ecuador</Location>
+                <Email>mcmarkos86@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2015-01-12T20:22:04Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="GAumala/gulp-prettier-plugin">
+        <Url>https://github.com/GAumala/gulp-prettier-plugin</Url>
+        <Name>gulp-prettier-plugin</Name>
+        <Title>gulp-prettier-plugin</Title>
+        <RepoName>GAumala/gulp-prettier-plugin</RepoName>
+        <Description>gulp plugin for prettier</Description>
+        <Owner>GAumala</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>GAumala</Name>
+                <User>GAumala</User>
+                <Url>https://github.com/GAumala</Url>
+                <Location>Guayaquil, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; TypeScript</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2019-06-28T16:49:20Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="gugat/jssip-phone">
+        <Url>https://github.com/gugat/jssip-phone</Url>
+        <Name>jssip-phone</Name>
+        <Title>jssip-phone</Title>
+        <RepoName>gugat/jssip-phone</RepoName>
+        <Description>Basic phone with Jssip</Description>
+        <Owner>gugat</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>gugat</Name>
+                <User>gugat</User>
+                <Url>https://github.com/gugat</Url>
+                <Location>Santiago - Chile</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-10-09T15:37:05Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="warpr/databank-couchdb">
+        <Url>https://github.com/warpr/databank-couchdb</Url>
+        <Name>databank-couchdb</Name>
+        <Title>databank-couchdb</Title>
+        <RepoName>warpr/databank-couchdb</RepoName>
+        <Description>This is a couchdb driver for Databank.</Description>
+        <Owner>warpr</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>warpr</Name>
+                <User>warpr</User>
+                <Url>https://github.com/warpr</Url>
+                <Location>Ecuador</Location>
+                <Email>kuno@frob.nl</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2018-02-27T22:32:00Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="eriknyk/jsmin-php">
+        <Url>https://github.com/eriknyk/jsmin-php</Url>
+        <Name>jsmin-php</Name>
+        <Title>jsmin-php</Title>
+        <RepoName>eriknyk/jsmin-php</RepoName>
+        <Description>PHP port of Douglas Crockford's JSMin JavaScript minifier. (Maintained version)</Description>
+        <Owner>eriknyk</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>eriknyk</Name>
+                <User>eriknyk</User>
+                <Url>https://github.com/eriknyk</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email>aortiz.erik@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; PHP</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2015-03-18T00:34:40Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="juanmnl/color-game">
+        <Url>https://github.com/juanmnl/color-game</Url>
+        <Name>color-game</Name>
+        <Title>color-game</Title>
+        <RepoName>juanmnl/color-game</RepoName>
+        <Description>:fries: RGB color challenge. Do you know RGB? :fries:</Description>
+        <Owner>juanmnl</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>juanmnl</Name>
+                <User>juanmnl</User>
+                <Url>https://github.com/juanmnl</Url>
+                <Location>Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; HTML</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-05-21T22:12:20Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="eriknyk/fixed-datatable-infinite-scroll">
+        <Url>https://github.com/eriknyk/fixed-datatable-infinite-scroll</Url>
+        <Name>fixed-datatable-infinite-scroll</Name>
+        <Title>fixed-datatable-infi&#x2026;</Title>
+        <RepoName>eriknyk/fixed-datatable-infinite-scroll</RepoName>
+        <Description/>
+        <Owner>eriknyk</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>eriknyk</Name>
+                <User>eriknyk</User>
+                <Url>https://github.com/eriknyk</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email>aortiz.erik@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2018-08-15T11:33:10Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="miwillhite/editable-set-sample">
+        <Url>https://github.com/miwillhite/editable-set-sample</Url>
+        <Name>editable-set-sample</Name>
+        <Title>editable-set-sample</Title>
+        <RepoName>miwillhite/editable-set-sample</RepoName>
+        <Description>A sample app to demonstrate editableSet and all its glory.</Description>
+        <Owner>miwillhite</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>miwillhite</Name>
+                <User>miwillhite</User>
+                <Url>https://github.com/miwillhite</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; Ruby</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2014-01-18T16:19:29Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="devrchancay/IntroduccionNodejs">
+        <Url>https://github.com/devrchancay/IntroduccionNodejs</Url>
+        <Name>IntroduccionNodejs</Name>
+        <Title>IntroduccionNodejs</Title>
+        <RepoName>devrchancay/IntroduccionNodejs</RepoName>
+        <Description>&#x1F468;&#x200D;&#x1F3EB; Introducci&#xF3;n a NodeJS (con express) - Noders Ecuador (2016)</Description>
+        <Owner>devrchancay</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>devrchancay</Name>
+                <User>devrchancay</User>
+                <Url>https://github.com/devrchancay</Url>
+                <Location>Ecuador, Guayaquil</Location>
+                <Email>hola@ramonchancay.me</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; CSS</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2019-01-24T19:48:51Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="warpr/jslich">
+        <Url>https://github.com/warpr/jslich</Url>
+        <Name>jslich</Name>
+        <Title>jslich</Title>
+        <RepoName>warpr/jslich</RepoName>
+        <Description>JSlich (JavaScript license checker) will be a tool you can use to check whether all the javascript used on on a webpage is properly licensed using free
+            software licenses, in a machine readable way.
+        </Description>
+        <Owner>warpr</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>warpr</Name>
+                <User>warpr</User>
+                <Url>https://github.com/warpr</Url>
+                <Location>Ecuador</Location>
+                <Email>kuno@frob.nl</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; Shell</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2018-02-27T22:31:03Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="patovala/kpos">
+        <Url>https://github.com/patovala/kpos</Url>
+        <Name>kpos</Name>
+        <Title>kpos</Title>
+        <RepoName>patovala/kpos</RepoName>
+        <Description>Punto de Venta (POS) simple usando MEAN</Description>
+        <Owner>patovala</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>patovala</Name>
+                <User>patovala</User>
+                <Url>https://github.com/patovala</Url>
+                <Location>ecuador</Location>
+                <Email>pvalarezo@ioet.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; ApacheConf; CSS</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>10</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2020-10-12T18:17:30Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="GAumala/Facturacion">
+        <Url>https://github.com/GAumala/Facturacion</Url>
+        <Name>Facturacion</Name>
+        <Title>Facturacion</Title>
+        <RepoName>GAumala/Facturacion</RepoName>
+        <Description>Sistema de facturaci&#xF3;n web sencillo escrito con React, Node.js y SQLite 3.</Description>
+        <Owner>GAumala</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>GAumala</Name>
+                <User>GAumala</User>
+                <Url>https://github.com/GAumala</Url>
+                <Location>Guayaquil, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; HTML; Shell; CSS; Makefile</LanguageTags>
+        <WatchersCount>17</WatchersCount>
+        <ForksCount>15</ForksCount>
+        <OpenIssuesCount>37</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2022-01-19T05:32:46Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="marceloandrader/marceloandrader.github.com">
+        <Url>https://github.com/marceloandrader/marceloandrader.github.com</Url>
+        <Name>marceloandrader.github.com</Name>
+        <Title>marceloandrader.gith&#x2026;</Title>
+        <RepoName>marceloandrader/marceloandrader.github.com</RepoName>
+        <Description/>
+        <Owner>marceloandrader</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>marceloandrader</Name>
+                <User>marceloandrader</User>
+                <Url>https://github.com/marceloandrader</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email>marcelo.andrade.r@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="juanmnl/juanmnl.com">
+        <Url>https://github.com/juanmnl/juanmnl.com</Url>
+        <Name>juanmnl.com</Name>
+        <Title>juanmnl.com</Title>
+        <RepoName>juanmnl/juanmnl.com</RepoName>
+        <Description/>
+        <Owner>juanmnl</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>juanmnl</Name>
+                <User>juanmnl</User>
+                <Url>https://github.com/juanmnl</Url>
+                <Location>Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="markoscalderon/hackgye">
+        <Url>https://github.com/markoscalderon/hackgye</Url>
+        <Name>hackgye</Name>
+        <Title>hackgye</Title>
+        <RepoName>markoscalderon/hackgye</RepoName>
+        <Description>guayaquil hackathon site</Description>
+        <Owner>markoscalderon</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>markoscalderon</Name>
+                <User>markoscalderon</User>
+                <Url>https://github.com/markoscalderon</Url>
+                <Location>Guayaquil, Ecuador</Location>
+                <Email>mcmarkos86@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2014-05-05T22:01:11Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="juanmnl/learnJSX">
+        <Url>https://github.com/juanmnl/learnJSX</Url>
+        <Name>learnJSX</Name>
+        <Title>learnJSX</Title>
+        <RepoName>juanmnl/learnJSX</RepoName>
+        <Description>:robot::speech_balloon: babel.js translator</Description>
+        <Owner>juanmnl</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>juanmnl</Name>
+                <User>juanmnl</User>
+                <Url>https://github.com/juanmnl</Url>
+                <Location>Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; HTML</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2018-05-31T04:38:58Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="fizzvr/vr-web">
+        <Url>https://github.com/fizzvr/vr-web</Url>
+        <Name>vr-web</Name>
+        <Title>vr-web</Title>
+        <RepoName>fizzvr/vr-web</RepoName>
+        <Description>A nodejs project &#x2022; FizzVR</Description>
+        <Owner>fizzvr</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>fizzvr</Name>
+                <User>fizzvr</User>
+                <Url>https://github.com/fizzvr</Url>
+                <Location>Ecuador</Location>
+                <Email>fizzvr@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>JavaScript; CSS; HTML</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2019-06-02T11:07:14Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="asantibanez/Patio">
+        <Url>https://github.com/asantibanez/Patio</Url>
+        <Name>Patio</Name>
+        <Title>Patio</Title>
+        <RepoName>asantibanez/Patio</RepoName>
+        <Description>A minimalistic Android view widget for selecting multiple images</Description>
+        <Owner>asantibanez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>asantibanez</Name>
+                <User>asantibanez</User>
+                <Url>https://github.com/asantibanez</Url>
+                <Location>Guayaquil, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>108</WatchersCount>
+        <ForksCount>18</ForksCount>
+        <OpenIssuesCount>6</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-09-25T00:10:18Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="asantibanez/Ranger">
+        <Url>https://github.com/asantibanez/Ranger</Url>
+        <Name>Ranger</Name>
+        <Title>Ranger</Title>
+        <RepoName>asantibanez/Ranger</RepoName>
+        <Description>Android horizontally scrolled DatePicker</Description>
+        <Owner>asantibanez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>asantibanez</Name>
+                <User>asantibanez</User>
+                <Url>https://github.com/asantibanez</Url>
+                <Location>Guayaquil, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>58</WatchersCount>
+        <ForksCount>21</ForksCount>
+        <OpenIssuesCount>5</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2020-07-27T11:34:59Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="asantibanez/Quota">
+        <Url>https://github.com/asantibanez/Quota</Url>
+        <Name>Quota</Name>
+        <Title>Quota</Title>
+        <RepoName>asantibanez/Quota</RepoName>
+        <Description>Quota widget for Android</Description>
+        <Owner>asantibanez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>asantibanez</Name>
+                <User>asantibanez</User>
+                <Url>https://github.com/asantibanez</Url>
+                <Location>Guayaquil, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>32</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-03-17T18:14:49Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ivansanchezvera/TrajectoryClustering">
+        <Url>https://github.com/ivansanchezvera/TrajectoryClustering</Url>
+        <Name>TrajectoryClustering</Name>
+        <Title>TrajectoryClustering</Title>
+        <RepoName>ivansanchezvera/TrajectoryClustering</RepoName>
+        <Description>Several Trajectory and time series clustering Algorithms. Project features a hashing technique to approximate clustering in linear time, using Distance base
+            hashing for DTW. Includes a variation of TRACLUS algorithm for my research project
+        </Description>
+        <Owner>ivansanchezvera</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ivansanchezvera</Name>
+                <User>ivansanchezvera</User>
+                <Url>https://github.com/ivansanchezvera</Url>
+                <Location>Salinas, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>34</WatchersCount>
+        <ForksCount>13</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2022-03-23T02:48:45Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="asantibanez/OAuthWebView">
+        <Url>https://github.com/asantibanez/OAuthWebView</Url>
+        <Name>OAuthWebView</Name>
+        <Title>OAuthWebView</Title>
+        <RepoName>asantibanez/OAuthWebView</RepoName>
+        <Description>WebViews for OAuth Authentication</Description>
+        <Owner>asantibanez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>asantibanez</Name>
+                <User>asantibanez</User>
+                <Url>https://github.com/asantibanez</Url>
+                <Location>Guayaquil, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; Groovy</LanguageTags>
+        <WatchersCount>13</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2015-09-29T10:48:50Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="sauljabin/idempierewsc-java">
+        <Url>https://github.com/sauljabin/idempierewsc-java</Url>
+        <Name>idempierewsc-java</Name>
+        <Title>idempierewsc-java</Title>
+        <RepoName>sauljabin/idempierewsc-java</RepoName>
+        <Description>Web Service Client Java for iDempiere ERP</Description>
+        <Owner>sauljabin</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>sauljabin</Name>
+                <User>sauljabin</User>
+                <Url>https://github.com/sauljabin</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email>sauljabin@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>12</WatchersCount>
+        <ForksCount>15</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-08-12T23:59:06Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="asantibanez/Miveo">
+        <Url>https://github.com/asantibanez/Miveo</Url>
+        <Name>Miveo</Name>
+        <Title>Miveo</Title>
+        <RepoName>asantibanez/Miveo</RepoName>
+        <Description>Vimeo SUPER AWESOME Android App</Description>
+        <Owner>asantibanez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>asantibanez</Name>
+                <User>asantibanez</User>
+                <Url>https://github.com/asantibanez</Url>
+                <Location>Guayaquil, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2017-09-07T13:42:30Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="sauljabin/idempiere-plugin-template">
+        <Url>https://github.com/sauljabin/idempiere-plugin-template</Url>
+        <Name>idempiere-plugin-template</Name>
+        <Title>idempiere-plugin-tem&#x2026;</Title>
+        <RepoName>sauljabin/idempiere-plugin-template</RepoName>
+        <Description/>
+        <Owner>sauljabin</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>sauljabin</Name>
+                <User>sauljabin</User>
+                <Url>https://github.com/sauljabin</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email>sauljabin@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags/>
+        <WatchersCount>0</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt/>
+    </Dependency>
+    <Dependency name="miguetv17/SyncAdapterExample">
+        <Url>https://github.com/miguetv17/SyncAdapterExample</Url>
+        <Name>SyncAdapterExample</Name>
+        <Title>SyncAdapterExample</Title>
+        <RepoName>miguetv17/SyncAdapterExample</RepoName>
+        <Description>Sync adapter example using DBFlow as ORM and its content provider generation tool</Description>
+        <Owner>miguetv17</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>miguetv17</Name>
+                <User>miguetv17</User>
+                <Url>https://github.com/miguetv17</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2018-03-23T13:46:27Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rowanseymour/kwibuka">
+        <Url>https://github.com/rowanseymour/kwibuka</Url>
+        <Name>kwibuka</Name>
+        <Title>kwibuka</Title>
+        <RepoName>rowanseymour/kwibuka</RepoName>
+        <Description>Simple library (and webapp) for converting phone numbers to mnemonic word sequences</Description>
+        <Owner>rowanseymour</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rowanseymour</Name>
+                <User>rowanseymour</User>
+                <Url>https://github.com/rowanseymour</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2014-07-17T07:10:21Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rowanseymour/inshinga">
+        <Url>https://github.com/rowanseymour/inshinga</Url>
+        <Name>inshinga</Name>
+        <Title>inshinga</Title>
+        <RepoName>rowanseymour/inshinga</RepoName>
+        <Description>Experiments in Kinyarwanda verb parsing</Description>
+        <Owner>rowanseymour</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rowanseymour</Name>
+                <User>rowanseymour</User>
+                <Url>https://github.com/rowanseymour</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; Groovy</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2019-01-17T20:57:49Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="asantibanez/udacity-spotify-streamer-stage-2">
+        <Url>https://github.com/asantibanez/udacity-spotify-streamer-stage-2</Url>
+        <Name>udacity-spotify-streamer-stage-2</Name>
+        <Title>udacity-spotify-stre&#x2026;</Title>
+        <RepoName>asantibanez/udacity-spotify-streamer-stage-2</RepoName>
+        <Description/>
+        <Owner>asantibanez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>asantibanez</Name>
+                <User>asantibanez</User>
+                <Url>https://github.com/asantibanez</Url>
+                <Location>Guayaquil, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2016-11-11T21:21:50Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rowanseymour/kumva-sms">
+        <Url>https://github.com/rowanseymour/kumva-sms</Url>
+        <Name>kumva-sms</Name>
+        <Title>kumva-sms</Title>
+        <RepoName>rowanseymour/kumva-sms</RepoName>
+        <Description>SMS proxy for the Kumva dictionary sites</Description>
+        <Owner>rowanseymour</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rowanseymour</Name>
+                <User>rowanseymour</User>
+                <Url>https://github.com/rowanseymour</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2017-06-24T11:39:11Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rowanseymour/imibare-web">
+        <Url>https://github.com/rowanseymour/imibare-web</Url>
+        <Name>imibare-web</Name>
+        <Title>imibare-web</Title>
+        <RepoName>rowanseymour/imibare-web</RepoName>
+        <Description>Web interface to imibare number renderer</Description>
+        <Owner>rowanseymour</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rowanseymour</Name>
+                <User>rowanseymour</User>
+                <Url>https://github.com/rowanseymour</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2017-06-24T11:36:41Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ivansanchezvera/LunchAmigo">
+        <Url>https://github.com/ivansanchezvera/LunchAmigo</Url>
+        <Name>LunchAmigo</Name>
+        <Title>LunchAmigo</Title>
+        <RepoName>ivansanchezvera/LunchAmigo</RepoName>
+        <Description>Mobile App in Android for mingle</Description>
+        <Owner>ivansanchezvera</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ivansanchezvera</Name>
+                <User>ivansanchezvera</User>
+                <Url>https://github.com/ivansanchezvera</Url>
+                <Location>Salinas, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2014-03-23T04:23:17Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="asantibanez/udacity-build-it-bigger">
+        <Url>https://github.com/asantibanez/udacity-build-it-bigger</Url>
+        <Name>udacity-build-it-bigger</Name>
+        <Title>udacity-build-it-big&#x2026;</Title>
+        <RepoName>asantibanez/udacity-build-it-bigger</RepoName>
+        <Description>Udacity Build It Bigger Project</Description>
+        <Owner>asantibanez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>asantibanez</Name>
+                <User>asantibanez</User>
+                <Url>https://github.com/asantibanez</Url>
+                <Location>Guayaquil, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java; HTML</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2016-05-18T07:16:37Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="rowanseymour/kubara">
+        <Url>https://github.com/rowanseymour/kubara</Url>
+        <Name>kubara</Name>
+        <Title>kubara</Title>
+        <RepoName>rowanseymour/kubara</RepoName>
+        <Description>Library for rendering numbers as text in their spoken forms</Description>
+        <Owner>rowanseymour</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>rowanseymour</Name>
+                <User>rowanseymour</User>
+                <Url>https://github.com/rowanseymour</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Java</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2017-06-24T11:34:00Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="georgejecook/UnityTimelineEvents">
+        <Url>https://github.com/georgejecook/UnityTimelineEvents</Url>
+        <Name>UnityTimelineEvents</Name>
+        <Title>UnityTimelineEvents</Title>
+        <RepoName>georgejecook/UnityTimelineEvents</RepoName>
+        <Description>Adds ability to execute arbitrary code, with int, bool, float, string and enum values, at both runtime and edit time, from Unity timelines.</Description>
+        <Owner>georgejecook</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>georgejecook</Name>
+                <User>georgejecook</User>
+                <Url>https://github.com/georgejecook</Url>
+                <Location>Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#</LanguageTags>
+        <WatchersCount>240</WatchersCount>
+        <ForksCount>26</ForksCount>
+        <OpenIssuesCount>8</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2022-03-21T19:29:23Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="georgejecook/xamarinFastCell">
+        <Url>https://github.com/georgejecook/xamarinFastCell</Url>
+        <Name>xamarinFastCell</Name>
+        <Title>xamarinFastCell</Title>
+        <RepoName>georgejecook/xamarinFastCell</RepoName>
+        <Description>fast view cell implementation for iOS that's really performance friendly, yet allows you to write cells in xaml.</Description>
+        <Owner>georgejecook</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>georgejecook</Name>
+                <User>georgejecook</User>
+                <Url>https://github.com/georgejecook</Url>
+                <Location>Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#</LanguageTags>
+        <WatchersCount>39</WatchersCount>
+        <ForksCount>8</ForksCount>
+        <OpenIssuesCount>7</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2019-07-12T07:00:52Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ennerperez/RibbonLib">
+        <Url>https://github.com/ennerperez/RibbonLib</Url>
+        <Name>RibbonLib</Name>
+        <Title>RibbonLib</Title>
+        <RepoName>ennerperez/RibbonLib</RepoName>
+        <Description>Windows Ribbon for WinForms</Description>
+        <Owner>ennerperez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ennerperez</Name>
+                <User>ennerperez</User>
+                <Url>https://github.com/ennerperez</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email>contacto@ennerperez.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#; Batchfile</LanguageTags>
+        <WatchersCount>23</WatchersCount>
+        <ForksCount>14</ForksCount>
+        <OpenIssuesCount>4</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2022-02-23T22:14:22Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ennerperez/msbuild-confuserex">
+        <Url>https://github.com/ennerperez/msbuild-confuserex</Url>
+        <Name>msbuild-confuserex</Name>
+        <Title>msbuild-confuserex</Title>
+        <RepoName>ennerperez/msbuild-confuserex</RepoName>
+        <Description>MSBuild ConfuserEx Target</Description>
+        <Owner>ennerperez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ennerperez</Name>
+                <User>ennerperez</User>
+                <Url>https://github.com/ennerperez</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email>contacto@ennerperez.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#</LanguageTags>
+        <WatchersCount>8</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2020-07-08T12:39:40Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ennerperez/pictograms">
+        <Url>https://github.com/ennerperez/pictograms</Url>
+        <Name>pictograms</Name>
+        <Title>pictograms</Title>
+        <RepoName>ennerperez/pictograms</RepoName>
+        <Description>Fonts based pictograms for .NET</Description>
+        <Owner>ennerperez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ennerperez</Name>
+                <User>ennerperez</User>
+                <Url>https://github.com/ennerperez</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email>contacto@ennerperez.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#; PowerShell; Shell</LanguageTags>
+        <WatchersCount>10</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-11-18T18:45:03Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ennerperez/image-toolkit">
+        <Url>https://github.com/ennerperez/image-toolkit</Url>
+        <Name>image-toolkit</Name>
+        <Title>image-toolkit</Title>
+        <RepoName>ennerperez/image-toolkit</RepoName>
+        <Description>Image Toolkit</Description>
+        <Owner>ennerperez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ennerperez</Name>
+                <User>ennerperez</User>
+                <Url>https://github.com/ennerperez</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email>contacto@ennerperez.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C#; PowerShell; Shell</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2018-09-06T01:59:36Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="c4rlosviteri/credit-card">
+        <Url>https://github.com/c4rlosviteri/credit-card</Url>
+        <Name>credit-card</Name>
+        <Title>credit-card</Title>
+        <RepoName>c4rlosviteri/credit-card</RepoName>
+        <Description>Simple credit card experiment</Description>
+        <Owner>c4rlosviteri</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>c4rlosviteri</Name>
+                <User>c4rlosviteri</User>
+                <Url>https://github.com/c4rlosviteri</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email>c4rlosviteri@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>CSS; HTML; JavaScript</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2016-04-27T19:33:58Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ragutierrez/pythonEcuadorWeb">
+        <Url>https://github.com/ragutierrez/pythonEcuadorWeb</Url>
+        <Name>pythonEcuadorWeb</Name>
+        <Title>pythonEcuadorWeb</Title>
+        <RepoName>ragutierrez/pythonEcuadorWeb</RepoName>
+        <Description/>
+        <Owner>ragutierrez</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ragutierrez</Name>
+                <User>ragutierrez</User>
+                <Url>https://github.com/ragutierrez</Url>
+                <Location>Loja-Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>CSS; JavaScript; HTML</LanguageTags>
+        <WatchersCount>1</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-11-24T14:14:43Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="CursoRUCE/R-Basic">
+        <Url>https://github.com/CursoRUCE/R-Basic</Url>
+        <Name>R-Basic</Name>
+        <Title>R-Basic</Title>
+        <RepoName>CursoRUCE/R-Basic</RepoName>
+        <Description>Curso de R Nivel B&#xE1;sico</Description>
+        <Owner>CursoRUCE</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>CursoRUCE</Name>
+                <User>CursoRUCE</User>
+                <Url>https://github.com/CursoRUCE</Url>
+                <Location>Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>HTML; R</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2015-10-14T23:39:45Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Alejoss/redlibros">
+        <Url>https://github.com/Alejoss/redlibros</Url>
+        <Name>redlibros</Name>
+        <Title>redlibros</Title>
+        <RepoName>Alejoss/redlibros</RepoName>
+        <Description/>
+        <Owner>Alejoss</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Alejoss</Name>
+                <User>Alejoss</User>
+                <Url>https://github.com/Alejoss</Url>
+                <Location>Quito-Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>HTML; Python</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2016-02-26T20:01:08Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="mdleiton/ArqClienteServidorWeb">
+        <Url>https://github.com/mdleiton/ArqClienteServidorWeb</Url>
+        <Name>ArqClienteServidorWeb</Name>
+        <Title>ArqClienteServidorWe&#x2026;</Title>
+        <RepoName>mdleiton/ArqClienteServidorWeb</RepoName>
+        <Description>Este programa permite monitorear los puertos USB de nuestra computadora, detectar la conexi&#xF3;n de nuevos dispositivos USB a traves de un proceso(daemon).
+            Un servidor web solicitar&#xE1; dicha informaci&#xF3;n a este proceso para responder a las solicitudes realizadas por un cliente (escrito en python).
+        </Description>
+        <Owner>mdleiton</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>mdleiton</Name>
+                <User>mdleiton</User>
+                <Url>https://github.com/mdleiton</Url>
+                <Location>Guayaquil, Ecuador</Location>
+                <Email>mau_leiton96@hotmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>C; Python; Makefile</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2022-03-08T12:32:39Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="sebashack/SCalendar">
+        <Url>https://github.com/sebashack/SCalendar</Url>
+        <Name>SCalendar</Name>
+        <Title>SCalendar</Title>
+        <RepoName>sebashack/SCalendar</RepoName>
+        <Description>Deprecated</Description>
+        <Owner>sebashack</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>sebashack</Name>
+                <User>sebashack</User>
+                <Url>https://github.com/sebashack</Url>
+                <Location>Colombia</Location>
+                <Email>sebastian0092@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Haskell; Shell</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2017-09-08T14:00:02Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="sebashack/servantRestfulAPI">
+        <Url>https://github.com/sebashack/servantRestfulAPI</Url>
+        <Name>servantRestfulAPI</Name>
+        <Title>servantRestfulAPI</Title>
+        <RepoName>sebashack/servantRestfulAPI</RepoName>
+        <Description>This is an example of a RestfulAPI made with Servant Haskel and which integrates things like Persistent MySQL, ElasticSearch, JWT, etc...</Description>
+        <Owner>sebashack</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>sebashack</Name>
+                <User>sebashack</User>
+                <Url>https://github.com/sebashack</Url>
+                <Location>Colombia</Location>
+                <Email>sebastian0092@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Haskell</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2018-11-03T16:31:18Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="juanpaucar/vcf">
+        <Url>https://github.com/juanpaucar/vcf</Url>
+        <Name>vcf</Name>
+        <Title>vcf</Title>
+        <RepoName>juanpaucar/vcf</RepoName>
+        <Description>Haskell library to handle VCF (Variant Call Format) files</Description>
+        <Owner>juanpaucar</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>juanpaucar</Name>
+                <User>juanpaucar</User>
+                <Url>https://github.com/juanpaucar</Url>
+                <Location>Quito - Ecuador - Earth Prime</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Haskell</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2019-12-05T09:52:51Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="alx741/graphite">
+        <Url>https://github.com/alx741/graphite</Url>
+        <Name>graphite</Name>
+        <Title>graphite</Title>
+        <RepoName>alx741/graphite</RepoName>
+        <Description>Haskell graphs and networks library</Description>
+        <Owner>alx741</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>alx741</Name>
+                <User>alx741</User>
+                <Url>https://github.com/alx741</Url>
+                <Location>Cuenca, Ecuador</Location>
+                <Email>alx@sillybytes.net</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Haskell; Makefile</LanguageTags>
+        <WatchersCount>31</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2022-02-11T15:21:42Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="sebashack/cloud-haskell-chat">
+        <Url>https://github.com/sebashack/cloud-haskell-chat</Url>
+        <Name>cloud-haskell-chat</Name>
+        <Title>cloud-haskell-chat</Title>
+        <RepoName>sebashack/cloud-haskell-chat</RepoName>
+        <Description>Chat server and client with Cloud Haskell</Description>
+        <Owner>sebashack</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>sebashack</Name>
+                <User>sebashack</User>
+                <Url>https://github.com/sebashack</Url>
+                <Location>Colombia</Location>
+                <Email>sebastian0092@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Haskell</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2020-03-28T23:40:41Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="sebashack/haskellHTTP">
+        <Url>https://github.com/sebashack/haskellHTTP</Url>
+        <Name>haskellHTTP</Name>
+        <Title>haskellHTTP</Title>
+        <RepoName>sebashack/haskellHTTP</RepoName>
+        <Description>An example of using a simple http client in haskell along with AESON</Description>
+        <Owner>sebashack</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>sebashack</Name>
+                <User>sebashack</User>
+                <Url>https://github.com/sebashack</Url>
+                <Location>Colombia</Location>
+                <Email>sebastian0092@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Haskell</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2016-11-01T04:21:27Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="sebashack/JuicyPixelsAndPersistent">
+        <Url>https://github.com/sebashack/JuicyPixelsAndPersistent</Url>
+        <Name>JuicyPixelsAndPersistent</Name>
+        <Title>JuicyPixelsAndPersis&#x2026;</Title>
+        <RepoName>sebashack/JuicyPixelsAndPersistent</RepoName>
+        <Description>And example of using The Servant API framework along with JuicyPixels and Persistent</Description>
+        <Owner>sebashack</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>sebashack</Name>
+                <User>sebashack</User>
+                <Url>https://github.com/sebashack</Url>
+                <Location>Colombia</Location>
+                <Email>sebastian0092@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Haskell</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2016-11-05T19:33:59Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="danielriofrio/AntColonyOptimization">
+        <Url>https://github.com/danielriofrio/AntColonyOptimization</Url>
+        <Name>AntColonyOptimization</Name>
+        <Title>AntColonyOptimizatio&#x2026;</Title>
+        <RepoName>danielriofrio/AntColonyOptimization</RepoName>
+        <Description>A simple ACO implementation for TSP. MATLAB code.</Description>
+        <Owner>danielriofrio</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>danielriofrio</Name>
+                <User>danielriofrio</User>
+                <Url>https://github.com/danielriofrio</Url>
+                <Location>Quito - Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>MATLAB</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2017-05-31T10:26:17Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="diegoserranoa/DSTransparentNavigationBar">
+        <Url>https://github.com/diegoserranoa/DSTransparentNavigationBar</Url>
+        <Name>DSTransparentNavigationBar</Name>
+        <Title>DSTransparentNavigat&#x2026;</Title>
+        <RepoName>diegoserranoa/DSTransparentNavigationBar</RepoName>
+        <Description>Transparent NavigationBar. Objective-C</Description>
+        <Owner>diegoserranoa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>diegoserranoa</Name>
+                <User>diegoserranoa</User>
+                <Url>https://github.com/diegoserranoa</Url>
+                <Location>Los Angeles, CA</Location>
+                <Email>mail@diegoserranoa.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C</LanguageTags>
+        <WatchersCount>206</WatchersCount>
+        <ForksCount>40</ForksCount>
+        <OpenIssuesCount>6</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2022-03-04T12:19:15Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="iFeli/iOS-Essentials">
+        <Url>https://github.com/iFeli/iOS-Essentials</Url>
+        <Name>iOS-Essentials</Name>
+        <Title>iOS-Essentials</Title>
+        <RepoName>iFeli/iOS-Essentials</RepoName>
+        <Description>Source Code for The Essentials of iOS App Development Pearson LiveLessons</Description>
+        <Owner>iFeli</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>iFeli</Name>
+                <User>iFeli</User>
+                <Url>https://github.com/iFeli</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C; JavaScript; Shell</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2018-09-08T12:28:05Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="diegoserranoa/DSFullscreenView">
+        <Url>https://github.com/diegoserranoa/DSFullscreenView</Url>
+        <Name>DSFullscreenView</Name>
+        <Title>DSFullscreenView</Title>
+        <RepoName>diegoserranoa/DSFullscreenView</RepoName>
+        <Description>Animation from a tableViewCell to a fullscreen view.</Description>
+        <Owner>diegoserranoa</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>diegoserranoa</Name>
+                <User>diegoserranoa</User>
+                <Url>https://github.com/diegoserranoa</Url>
+                <Location>Los Angeles, CA</Location>
+                <Email>mail@diegoserranoa.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Objective-C</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2015-01-07T13:55:16Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="elkuku/EasyCreator">
+        <Url>https://github.com/elkuku/EasyCreator</Url>
+        <Name>EasyCreator</Name>
+        <Title>EasyCreator</Title>
+        <RepoName>elkuku/EasyCreator</RepoName>
+        <Description>EasyCreator helps creating extensions for the Joomla! CMS</Description>
+        <Owner>elkuku</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>elkuku</Name>
+                <User>elkuku</User>
+                <Url>https://github.com/elkuku</Url>
+                <Location>Atacames - Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; JavaScript; CSS; HTML; Shell</LanguageTags>
+        <WatchersCount>50</WatchersCount>
+        <ForksCount>23</ForksCount>
+        <OpenIssuesCount>31</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2022-03-19T22:15:32Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="larin/librusec">
+        <Url>https://github.com/larin/librusec</Url>
+        <Name>librusec</Name>
+        <Title>librusec</Title>
+        <RepoName>larin/librusec</RepoName>
+        <Description>librusec module of the library</Description>
+        <Owner>larin</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>larin</Name>
+                <User>larin</User>
+                <Url>https://github.com/larin</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email>lib@rus.ec</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; JavaScript; Shell</LanguageTags>
+        <WatchersCount>32</WatchersCount>
+        <ForksCount>9</ForksCount>
+        <OpenIssuesCount>5</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2020-12-20T15:01:26Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="elkuku/Pizzza">
+        <Url>https://github.com/elkuku/Pizzza</Url>
+        <Name>Pizzza</Name>
+        <Title>Pizzza</Title>
+        <RepoName>elkuku/Pizzza</RepoName>
+        <Description>Connect Joomla! with an Android App</Description>
+        <Owner>elkuku</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>elkuku</Name>
+                <User>elkuku</User>
+                <Url>https://github.com/elkuku</Url>
+                <Location>Atacames - Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; JavaScript; Java</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2020-12-16T23:27:43Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="jameswilson/filename_transliteration">
+        <Url>https://github.com/jameswilson/filename_transliteration</Url>
+        <Name>filename_transliteration</Name>
+        <Title>filename_translitera&#x2026;</Title>
+        <RepoName>jameswilson/filename_transliteration</RepoName>
+        <Description>Drupal 8 filename transliteration</Description>
+        <Owner>jameswilson</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>jameswilson</Name>
+                <User>jameswilson</User>
+                <Url>https://github.com/jameswilson</Url>
+                <Location>Cuenca, Ecuador</Location>
+                <Email>jrwilson3@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2020-07-28T02:15:43Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="frivasto/Igual-o-Diferente">
+        <Url>https://github.com/frivasto/Igual-o-Diferente</Url>
+        <Name>Igual-o-Diferente</Name>
+        <Title>Igual-o-Diferente</Title>
+        <RepoName>frivasto/Igual-o-Diferente</RepoName>
+        <Description>Es un juego con prop&#xF3;sito (GWAP) que ayuda a etiquetar contenido de audio con fines educativos</Description>
+        <Owner>frivasto</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>frivasto</Name>
+                <User>frivasto</User>
+                <Url>https://github.com/frivasto</Url>
+                <Location>Ecuador</Location>
+                <Email>frivasto@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2022-01-11T19:42:25Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Vegeta/fluxer">
+        <Url>https://github.com/Vegeta/fluxer</Url>
+        <Name>fluxer</Name>
+        <Title>fluxer</Title>
+        <RepoName>Vegeta/fluxer</RepoName>
+        <Description>A simple, yet flexible finite state machine for PHP.</Description>
+        <Owner>Vegeta</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Vegeta</Name>
+                <User>Vegeta</User>
+                <Url>https://github.com/Vegeta</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>6</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2022-01-11T13:00:36Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tavo1987/ec-validador-cedula-ruc">
+        <Url>https://github.com/tavo1987/ec-validador-cedula-ruc</Url>
+        <Name>ec-validador-cedula-ruc</Name>
+        <Title>ec-validador-cedula-&#x2026;</Title>
+        <RepoName>tavo1987/ec-validador-cedula-ruc</RepoName>
+        <Description>Paquete para validar cedula o ruc de Ecuador</Description>
+        <Owner>tavo1987</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tavo1987</Name>
+                <User>tavo1987</User>
+                <Url>https://github.com/tavo1987</Url>
+                <Location>Ecuador</Location>
+                <Email>tavo198718@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>10</WatchersCount>
+        <ForksCount>10</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2020-12-08T19:38:18Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="elkuku/KISSKontent">
+        <Url>https://github.com/elkuku/KISSKontent</Url>
+        <Name>KISSKontent</Name>
+        <Title>KISSKontent</Title>
+        <RepoName>elkuku/KISSKontent</RepoName>
+        <Description>A new way to add content to the Joomla! CMS</Description>
+        <Owner>elkuku</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>elkuku</Name>
+                <User>elkuku</User>
+                <Url>https://github.com/elkuku</Url>
+                <Location>Atacames - Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; JavaScript</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-07-05T14:33:37Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="IvonneBurgos/renderedcom">
+        <Url>https://github.com/IvonneBurgos/renderedcom</Url>
+        <Name>renderedcom</Name>
+        <Title>renderedcom</Title>
+        <RepoName>IvonneBurgos/renderedcom</RepoName>
+        <Description/>
+        <Owner>IvonneBurgos</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>IvonneBurgos</Name>
+                <User>IvonneBurgos</User>
+                <Url>https://github.com/IvonneBurgos</Url>
+                <Location>Guayaquil, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; CSS; JavaScript; Makefile; Python</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2018-09-19T14:59:13Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="svyandun/refactoring">
+        <Url>https://github.com/svyandun/refactoring</Url>
+        <Name>refactoring</Name>
+        <Title>refactoring</Title>
+        <RepoName>svyandun/refactoring</RepoName>
+        <Description/>
+        <Owner>svyandun</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>svyandun</Name>
+                <User>svyandun</User>
+                <Url>https://github.com/svyandun</Url>
+                <Location>New York, NY</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2017-07-15T06:03:11Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="elkuku/xml2sql">
+        <Url>https://github.com/elkuku/xml2sql</Url>
+        <Name>xml2sql</Name>
+        <Title>xml2sql</Title>
+        <RepoName>elkuku/xml2sql</RepoName>
+        <Description>Converts XML files to SQL in different formats</Description>
+        <Owner>elkuku</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>elkuku</Name>
+                <User>elkuku</User>
+                <Url>https://github.com/elkuku</Url>
+                <Location>Atacames - Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-12-19T14:04:34Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="elkuku/ConsoleTable">
+        <Url>https://github.com/elkuku/ConsoleTable</Url>
+        <Name>ConsoleTable</Name>
+        <Title>ConsoleTable</Title>
+        <RepoName>elkuku/ConsoleTable</RepoName>
+        <Description/>
+        <Owner>elkuku</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>elkuku</Name>
+                <User>elkuku</User>
+                <Url>https://github.com/elkuku</Url>
+                <Location>Atacames - Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2014-06-12T01:04:45Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="elkuku/JeJoo">
+        <Url>https://github.com/elkuku/JeJoo</Url>
+        <Name>JeJoo</Name>
+        <Title>JeJoo</Title>
+        <RepoName>elkuku/JeJoo</RepoName>
+        <Description>JEJoo =&gt; Just Enough Joomla!</Description>
+        <Owner>elkuku</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>elkuku</Name>
+                <User>elkuku</User>
+                <Url>https://github.com/elkuku</Url>
+                <Location>Atacames - Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>1</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>true</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-09-23T13:52:10Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="bmtt7/php-learning">
+        <Url>https://github.com/bmtt7/php-learning</Url>
+        <Name>php-learning</Name>
+        <Title>php-learning</Title>
+        <RepoName>bmtt7/php-learning</RepoName>
+        <Description>:books: Reposit&#xF3;rio dedicado para armazenar estudos e exerc&#xED;cios do livro do Rasmus Lerdorf - Programming PHP</Description>
+        <Owner>bmtt7</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>bmtt7</Name>
+                <User>bmtt7</User>
+                <Url>https://github.com/bmtt7</Url>
+                <Location>Ecuador/Pichincha/Quito-City</Location>
+                <Email>bryantinoco7@outlook.es</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP; CSS</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2018-01-24T05:27:33Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="elkuku/g11n">
+        <Url>https://github.com/elkuku/g11n</Url>
+        <Name>g11n</Name>
+        <Title>g11n</Title>
+        <RepoName>elkuku/g11n</RepoName>
+        <Description>G11n is a custom language handler.</Description>
+        <Owner>elkuku</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>elkuku</Name>
+                <User>elkuku</User>
+                <Url>https://github.com/elkuku</Url>
+                <Location>Atacames - Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2019-04-05T07:26:12Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="tavo1987/ec-laravel-validator">
+        <Url>https://github.com/tavo1987/ec-laravel-validator</Url>
+        <Name>ec-laravel-validator</Name>
+        <Title>ec-laravel-validator</Title>
+        <RepoName>tavo1987/ec-laravel-validator</RepoName>
+        <Description>Peque&#xF1;o paquete de validaciones personalizadas para Laravel</Description>
+        <Owner>tavo1987</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>tavo1987</Name>
+                <User>tavo1987</User>
+                <Url>https://github.com/tavo1987</Url>
+                <Location>Ecuador</Location>
+                <Email>tavo198718@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>PHP</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2020-11-07T02:02:07Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="VAUTPL/Number_Detection">
+        <Url>https://github.com/VAUTPL/Number_Detection</Url>
+        <Name>Number_Detection</Name>
+        <Title>Number_Detection</Title>
+        <RepoName>VAUTPL/Number_Detection</RepoName>
+        <Description>Number Detection with Python and OpenCV</Description>
+        <Owner>VAUTPL</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>VAUTPL</Name>
+                <User>VAUTPL</User>
+                <Url>https://github.com/VAUTPL</Url>
+                <Location>Loja, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>28</WatchersCount>
+        <ForksCount>23</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-11-21T16:42:19Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="VAUTPL/Detecting-lines">
+        <Url>https://github.com/VAUTPL/Detecting-lines</Url>
+        <Name>Detecting-lines</Name>
+        <Title>Detecting-lines</Title>
+        <RepoName>VAUTPL/Detecting-lines</RepoName>
+        <Description>Detection of lines using opencv and python</Description>
+        <Owner>VAUTPL</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>VAUTPL</Name>
+                <User>VAUTPL</User>
+                <Url>https://github.com/VAUTPL</Url>
+                <Location>Loja, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>20</WatchersCount>
+        <ForksCount>17</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2020-06-22T00:00:26Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="Wolfant/ansible-jbossCli">
+        <Url>https://github.com/Wolfant/ansible-jbossCli</Url>
+        <Name>ansible-jbossCli</Name>
+        <Title>ansible-jbossCli</Title>
+        <RepoName>Wolfant/ansible-jbossCli</RepoName>
+        <Description>Jboss cli module for ansible</Description>
+        <Owner>Wolfant</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>Wolfant</Name>
+                <User>Wolfant</User>
+                <Url>https://github.com/Wolfant</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>12</WatchersCount>
+        <ForksCount>12</ForksCount>
+        <OpenIssuesCount>4</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2022-02-09T12:17:42Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="qihqi/bottlerest">
+        <Url>https://github.com/qihqi/bottlerest</Url>
+        <Name>bottlerest</Name>
+        <Title>bottlerest</Title>
+        <RepoName>qihqi/bottlerest</RepoName>
+        <Description>Rest API Framework for Bottle</Description>
+        <Owner>qihqi</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>qihqi</Name>
+                <User>qihqi</User>
+                <Url>https://github.com/qihqi</Url>
+                <Location>Guayaquil, Ecuador</Location>
+                <Email>qihan.dev@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2020-11-15T01:25:43Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="VAUTPL/NUMBERS_DETECTION_1">
+        <Url>https://github.com/VAUTPL/NUMBERS_DETECTION_1</Url>
+        <Name>NUMBERS_DETECTION_1</Name>
+        <Title>NUMBERS_DETECTION_1</Title>
+        <RepoName>VAUTPL/NUMBERS_DETECTION_1</RepoName>
+        <Description>Program that detects an electric meter numbers with Python and OpenCV</Description>
+        <Owner>VAUTPL</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>VAUTPL</Name>
+                <User>VAUTPL</User>
+                <Url>https://github.com/VAUTPL</Url>
+                <Location>Loja, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>10</WatchersCount>
+        <ForksCount>11</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-07-08T08:28:58Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="qihqi/henryFACT">
+        <Url>https://github.com/qihqi/henryFACT</Url>
+        <Name>henryFACT</Name>
+        <Title>henryFACT</Title>
+        <RepoName>qihqi/henryFACT</RepoName>
+        <Description>Programa de facturacion basado en Django con clientes de puntos de venta y cajeros escrito en Java</Description>
+        <Owner>qihqi</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>qihqi</Name>
+                <User>qihqi</User>
+                <Url>https://github.com/qihqi</Url>
+                <Location>Guayaquil, Ecuador</Location>
+                <Email>qihan.dev@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; Java; JavaScript; CSS; Shell</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2018-01-28T19:36:09Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="stsewd/fbcm">
+        <Url>https://github.com/stsewd/fbcm</Url>
+        <Name>fbcm</Name>
+        <Title>fbcm</Title>
+        <RepoName>stsewd/fbcm</RepoName>
+        <Description>Football Championship Manager using flask and PonyORM</Description>
+        <Owner>stsewd</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>stsewd</Name>
+                <User>stsewd</User>
+                <Url>https://github.com/stsewd</Url>
+                <Location>Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; HTML; SQLPL; JavaScript; CSS; Makefile</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2019-10-13T00:54:26Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="stsewd/bookpy">
+        <Url>https://github.com/stsewd/bookpy</Url>
+        <Name>bookpy</Name>
+        <Title>bookpy</Title>
+        <RepoName>stsewd/bookpy</RepoName>
+        <Description>Renames your e-books for better organization.</Description>
+        <Owner>stsewd</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>stsewd</Name>
+                <User>stsewd</User>
+                <Url>https://github.com/stsewd</Url>
+                <Location>Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; Makefile</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-01-13T19:50:39Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="VAUTPL/Detection_of_cars_and_lines">
+        <Url>https://github.com/VAUTPL/Detection_of_cars_and_lines</Url>
+        <Name>Detection_of_cars_and_lines</Name>
+        <Title>Detection_of_cars_an&#x2026;</Title>
+        <RepoName>VAUTPL/Detection_of_cars_and_lines</RepoName>
+        <Description>Detection of cars and lines with Python and OpenCV</Description>
+        <Owner>VAUTPL</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>VAUTPL</Name>
+                <User>VAUTPL</User>
+                <Url>https://github.com/VAUTPL</Url>
+                <Location>Loja, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2019-12-01T02:29:45Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="VAUTPL/Pedestrian_Detection_2">
+        <Url>https://github.com/VAUTPL/Pedestrian_Detection_2</Url>
+        <Name>Pedestrian_Detection_2</Name>
+        <Title>Pedestrian_Detection&#x2026;</Title>
+        <RepoName>VAUTPL/Pedestrian_Detection_2</RepoName>
+        <Description>Program that detects pedestrians and accounts, using OpenCV in Python</Description>
+        <Owner>VAUTPL</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>VAUTPL</Name>
+                <User>VAUTPL</User>
+                <Url>https://github.com/VAUTPL</Url>
+                <Location>Loja, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-06-15T08:58:59Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="stsewd/ucuenca.py">
+        <Url>https://github.com/stsewd/ucuenca.py</Url>
+        <Name>ucuenca.py</Name>
+        <Title>ucuenca.py</Title>
+        <RepoName>stsewd/ucuenca.py</RepoName>
+        <Description>Librer&#xED;a de Python para la API de la Universidad de Cuenca</Description>
+        <Owner>stsewd</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>stsewd</Name>
+                <User>stsewd</User>
+                <Url>https://github.com/stsewd</Url>
+                <Location>Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python; Makefile</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2019-02-22T05:18:57Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="stsewd/deoplete-plugin">
+        <Url>https://github.com/stsewd/deoplete-plugin</Url>
+        <Name>deoplete-plugin</Name>
+        <Title>deoplete-plugin</Title>
+        <RepoName>stsewd/deoplete-plugin</RepoName>
+        <Description>Deoplete source for plugins</Description>
+        <Owner>stsewd</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>stsewd</Name>
+                <User>stsewd</User>
+                <Url>https://github.com/stsewd</Url>
+                <Location>Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Python</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2018-02-08T17:09:26Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="sourcestatlab/R-demos">
+        <Url>https://github.com/sourcestatlab/R-demos</Url>
+        <Name>R-demos</Name>
+        <Title>R-demos</Title>
+        <RepoName>sourcestatlab/R-demos</RepoName>
+        <Description>Posibles Aplicaciones del Lenguaje R. Demos</Description>
+        <Owner>sourcestatlab</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>sourcestatlab</Name>
+                <User>sourcestatlab</User>
+                <Url>https://github.com/sourcestatlab</Url>
+                <Location>Ecuador</Location>
+                <Email>sourcestatlab@hotmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>R; Scheme</LanguageTags>
+        <WatchersCount>2</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2015-07-03T03:41:18Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="olabini/paipr">
+        <Url>https://github.com/olabini/paipr</Url>
+        <Name>paipr</Name>
+        <Title>paipr</Title>
+        <RepoName>olabini/paipr</RepoName>
+        <Description>Paradigms of Artificial Intelligence Programming (in Ruby)</Description>
+        <Owner>olabini</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>olabini</Name>
+                <User>olabini</User>
+                <Url>https://github.com/olabini</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>210</WatchersCount>
+        <ForksCount>24</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-01-05T18:09:26Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="invisiblellama/repub">
+        <Url>https://github.com/invisiblellama/repub</Url>
+        <Name>repub</Name>
+        <Title>repub</Title>
+        <RepoName>invisiblellama/repub</RepoName>
+        <Description>Simple HTML to ePub converter.</Description>
+        <Owner>invisiblellama</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>invisiblellama</Name>
+                <User>invisiblellama</User>
+                <Url>https://github.com/invisiblellama</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>71</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2020-04-30T00:37:35Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="olabini/bumble">
+        <Url>https://github.com/olabini/bumble</Url>
+        <Name>bumble</Name>
+        <Title>bumble</Title>
+        <RepoName>olabini/bumble</RepoName>
+        <Description>A small data wrapper for Google DataStore - intended for use with Google App Engine</Description>
+        <Owner>olabini</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>olabini</Name>
+                <User>olabini</User>
+                <Url>https://github.com/olabini</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>50</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2019-08-13T14:16:14Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="olabini/yarbl">
+        <Url>https://github.com/olabini/yarbl</Url>
+        <Name>yarbl</Name>
+        <Title>yarbl</Title>
+        <RepoName>olabini/yarbl</RepoName>
+        <Description>Yet Another Ruby Blog - For Google App Engine</Description>
+        <Owner>olabini</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>olabini</Name>
+                <User>olabini</User>
+                <Url>https://github.com/olabini</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; Shell; JavaScript</LanguageTags>
+        <WatchersCount>43</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-03-04T13:43:56Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="olabini/beeu">
+        <Url>https://github.com/olabini/beeu</Url>
+        <Name>beeu</Name>
+        <Title>beeu</Title>
+        <RepoName>olabini/beeu</RepoName>
+        <Description>A small wrapper for Google User Service - Intended for use with Google App Engine</Description>
+        <Owner>olabini</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>olabini</Name>
+                <User>olabini</User>
+                <Url>https://github.com/olabini</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>33</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2019-08-13T14:16:14Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="olabini/ribs">
+        <Url>https://github.com/olabini/ribs</Url>
+        <Name>ribs</Name>
+        <Title>ribs</Title>
+        <RepoName>olabini/ribs</RepoName>
+        <Description>Ribs is a Ruby DAO/ORM framework built on top of Hibernate, running on JRuby.</Description>
+        <Owner>olabini</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>olabini</Name>
+                <User>olabini</User>
+                <Url>https://github.com/olabini</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; Java</LanguageTags>
+        <WatchersCount>21</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2019-08-13T13:32:20Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="olabini/xample">
+        <Url>https://github.com/olabini/xample</Url>
+        <Name>xample</Name>
+        <Title>xample</Title>
+        <RepoName>olabini/xample</RepoName>
+        <Description>Xample is Xample-Text and Xample-Code which will both be DSLs for creating DSLs</Description>
+        <Owner>olabini</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>olabini</Name>
+                <User>olabini</User>
+                <Url>https://github.com/olabini</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>15</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2019-08-13T13:24:57Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="olabini/jtestr">
+        <Url>https://github.com/olabini/jtestr</Url>
+        <Name>jtestr</Name>
+        <Title>jtestr</Title>
+        <RepoName>olabini/jtestr</RepoName>
+        <Description>The new official repository for JtestR</Description>
+        <Owner>olabini</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>olabini</Name>
+                <User>olabini</User>
+                <Url>https://github.com/olabini</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; Java</LanguageTags>
+        <WatchersCount>12</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2019-06-15T04:12:07Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="joselo/cesri">
+        <Url>https://github.com/joselo/cesri</Url>
+        <Name>cesri</Name>
+        <Title>cesri</Title>
+        <RepoName>joselo/cesri</RepoName>
+        <Description>Cesri es una Gema Ruby que permite consumir los servicios Web de Comprobantes Electr&#xF3;nicos del Servicio de Rentas Internas, para fines de la facturaci&#xF3;n
+            electr&#xF3;nica en Ecuador.
+        </Description>
+        <Owner>joselo</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>joselo</Name>
+                <User>joselo</User>
+                <Url>https://github.com/joselo</Url>
+                <Location>Quito - Ecuador</Location>
+                <Email>joseloc@gmail.com</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby; Shell</LanguageTags>
+        <WatchersCount>7</WatchersCount>
+        <ForksCount>7</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-11-16T22:00:08Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="macool/id_ecuador">
+        <Url>https://github.com/macool/id_ecuador</Url>
+        <Name>id_ecuador</Name>
+        <Title>id_ecuador</Title>
+        <RepoName>macool/id_ecuador</RepoName>
+        <Description>gema para validar c&#xE9;dula o RUC de Ecuador</Description>
+        <Owner>macool</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>macool</Name>
+                <User>macool</User>
+                <Url>https://github.com/macool</Url>
+                <Location>Quito, Ecuador</Location>
+                <Email>a@macool.me</Email>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-08-10T19:52:01Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="invisiblellama/has_settings">
+        <Url>https://github.com/invisiblellama/has_settings</Url>
+        <Name>has_settings</Name>
+        <Title>has_settings</Title>
+        <RepoName>invisiblellama/has_settings</RepoName>
+        <Description>Rails plugin that allows attaching arbitrary set of settings to a model, with inheritance.</Description>
+        <Owner>invisiblellama</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>invisiblellama</Name>
+                <User>invisiblellama</User>
+                <Url>https://github.com/invisiblellama</Url>
+                <Location/>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Ruby</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2022-03-25T09:01:28Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/Binding.scala">
+        <Url>https://github.com/ThoughtWorksInc/Binding.scala</Url>
+        <Name>Binding.scala</Name>
+        <Title>Binding.scala</Title>
+        <RepoName>ThoughtWorksInc/Binding.scala</RepoName>
+        <Description>Reactive data-binding for Scala</Description>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala; Roff</LanguageTags>
+        <WatchersCount>1543</WatchersCount>
+        <ForksCount>107</ForksCount>
+        <OpenIssuesCount>39</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2022-03-24T06:03:26Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/DeepLearning.scala">
+        <Url>https://github.com/ThoughtWorksInc/DeepLearning.scala</Url>
+        <Name>DeepLearning.scala</Name>
+        <Title>DeepLearning.scala</Title>
+        <RepoName>ThoughtWorksInc/DeepLearning.scala</RepoName>
+        <Description>A simple library for creating complex neural networks</Description>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala</LanguageTags>
+        <WatchersCount>760</WatchersCount>
+        <ForksCount>89</ForksCount>
+        <OpenIssuesCount>33</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2022-03-01T12:17:29Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/each">
+        <Url>https://github.com/ThoughtWorksInc/each</Url>
+        <Name>each</Name>
+        <Title>each</Title>
+        <RepoName>ThoughtWorksInc/each</RepoName>
+        <Description>A macro library that converts native imperative syntax to scalaz's monadic expressions</Description>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala</LanguageTags>
+        <WatchersCount>249</WatchersCount>
+        <ForksCount>27</ForksCount>
+        <OpenIssuesCount>34</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-12-10T18:51:23Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/Compute.scala">
+        <Url>https://github.com/ThoughtWorksInc/Compute.scala</Url>
+        <Name>Compute.scala</Name>
+        <Title>Compute.scala</Title>
+        <RepoName>ThoughtWorksInc/Compute.scala</RepoName>
+        <Description>Scientific computing with N-dimensional arrays</Description>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala; Shell</LanguageTags>
+        <WatchersCount>198</WatchersCount>
+        <ForksCount>20</ForksCount>
+        <OpenIssuesCount>43</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2022-01-03T03:59:59Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/Dsl.scala">
+        <Url>https://github.com/ThoughtWorksInc/Dsl.scala</Url>
+        <Name>Dsl.scala</Name>
+        <Title>Dsl.scala</Title>
+        <RepoName>ThoughtWorksInc/Dsl.scala</RepoName>
+        <Description>A framework to create embedded Domain-Specific Languages in Scala</Description>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala</LanguageTags>
+        <WatchersCount>237</WatchersCount>
+        <ForksCount>27</ForksCount>
+        <OpenIssuesCount>15</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2022-03-24T01:37:50Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/sbt-api-mappings">
+        <Url>https://github.com/ThoughtWorksInc/sbt-api-mappings</Url>
+        <Name>sbt-api-mappings</Name>
+        <Title>sbt-api-mappings</Title>
+        <RepoName>ThoughtWorksInc/sbt-api-mappings</RepoName>
+        <Description>An Sbt plugin that fills apiMappings for common Scala libraries.</Description>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala</LanguageTags>
+        <WatchersCount>83</WatchersCount>
+        <ForksCount>15</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2022-03-19T17:46:29Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/todo">
+        <Url>https://github.com/ThoughtWorksInc/todo</Url>
+        <Name>todo</Name>
+        <Title>todo</Title>
+        <RepoName>ThoughtWorksInc/todo</RepoName>
+        <Description>Binding.scala &#x2022; TodoMVC</Description>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala</LanguageTags>
+        <WatchersCount>56</WatchersCount>
+        <ForksCount>5</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-12-23T13:50:06Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/enableIf.scala">
+        <Url>https://github.com/ThoughtWorksInc/enableIf.scala</Url>
+        <Name>enableIf.scala</Name>
+        <Title>enableIf.scala</Title>
+        <RepoName>ThoughtWorksInc/enableIf.scala</RepoName>
+        <Description>A library that toggles Scala code at compile-time, like #if in C/C++</Description>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala</LanguageTags>
+        <WatchersCount>61</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2022-03-22T02:05:25Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/template.scala">
+        <Url>https://github.com/ThoughtWorksInc/template.scala</Url>
+        <Name>template.scala</Name>
+        <Title>template.scala</Title>
+        <RepoName>ThoughtWorksInc/template.scala</RepoName>
+        <Description>C++ Flavored Template Metaprogramming in Scala</Description>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala</LanguageTags>
+        <WatchersCount>40</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2020-11-18T09:23:26Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/RAII.scala">
+        <Url>https://github.com/ThoughtWorksInc/RAII.scala</Url>
+        <Name>RAII.scala</Name>
+        <Title>RAII.scala</Title>
+        <RepoName>ThoughtWorksInc/RAII.scala</RepoName>
+        <Description>Resource Acquisition Is Initialization</Description>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala</LanguageTags>
+        <WatchersCount>31</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>14</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-12-17T09:44:43Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/future.scala">
+        <Url>https://github.com/ThoughtWorksInc/future.scala</Url>
+        <Name>future.scala</Name>
+        <Title>future.scala</Title>
+        <RepoName>ThoughtWorksInc/future.scala</RepoName>
+        <Description>Stack-safe asynchronous programming</Description>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala</LanguageTags>
+        <WatchersCount>36</WatchersCount>
+        <ForksCount>7</ForksCount>
+        <OpenIssuesCount>27</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-12-28T05:05:44Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/sbt-best-practice">
+        <Url>https://github.com/ThoughtWorksInc/sbt-best-practice</Url>
+        <Name>sbt-best-practice</Name>
+        <Title>sbt-best-practice</Title>
+        <RepoName>ThoughtWorksInc/sbt-best-practice</RepoName>
+        <Description>Configure common build settings for a Scala project</Description>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala</LanguageTags>
+        <WatchersCount>47</WatchersCount>
+        <ForksCount>8</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2022-01-03T08:51:55Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/Import.scala">
+        <Url>https://github.com/ThoughtWorksInc/Import.scala</Url>
+        <Name>Import.scala</Name>
+        <Title>Import.scala</Title>
+        <RepoName>ThoughtWorksInc/Import.scala</RepoName>
+        <Description>A Scala compiler plugin for magic imports</Description>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala</LanguageTags>
+        <WatchersCount>26</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-07-30T09:06:59Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/feature.scala">
+        <Url>https://github.com/ThoughtWorksInc/feature.scala</Url>
+        <Name>feature.scala</Name>
+        <Title>feature.scala</Title>
+        <RepoName>ThoughtWorksInc/feature.scala</RepoName>
+        <Description>Access Scala language features on the type-level</Description>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala</LanguageTags>
+        <WatchersCount>28</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>31</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-05-19T02:08:53Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/implicit-dependent-type">
+        <Url>https://github.com/ThoughtWorksInc/implicit-dependent-type</Url>
+        <Name>implicit-dependent-type</Name>
+        <Title>implicit-dependent-t&#x2026;</Title>
+        <RepoName>ThoughtWorksInc/implicit-dependent-type</RepoName>
+        <Description/>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala</LanguageTags>
+        <WatchersCount>21</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-11-14T22:18:34Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/sbt-scala-js-map">
+        <Url>https://github.com/ThoughtWorksInc/sbt-scala-js-map</Url>
+        <Name>sbt-scala-js-map</Name>
+        <Title>sbt-scala-js-map</Title>
+        <RepoName>ThoughtWorksInc/sbt-scala-js-map</RepoName>
+        <Description>A Sbt plugin that configures source mapping for Scala.js projects hosted on Github</Description>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala</LanguageTags>
+        <WatchersCount>29</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>3</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2022-02-22T18:46:13Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/sbt-example">
+        <Url>https://github.com/ThoughtWorksInc/sbt-example</Url>
+        <Name>sbt-example</Name>
+        <Title>sbt-example</Title>
+        <RepoName>ThoughtWorksInc/sbt-example</RepoName>
+        <Description>Run Scaladoc as unit tests</Description>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala</LanguageTags>
+        <WatchersCount>30</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2022-02-02T06:51:51Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/Extractor.scala">
+        <Url>https://github.com/ThoughtWorksInc/Extractor.scala</Url>
+        <Name>Extractor.scala</Name>
+        <Title>Extractor.scala</Title>
+        <RepoName>ThoughtWorksInc/Extractor.scala</RepoName>
+        <Description>Make PartialFunction and extractors composable</Description>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala</LanguageTags>
+        <WatchersCount>22</WatchersCount>
+        <ForksCount>4</ForksCount>
+        <OpenIssuesCount>28</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2020-04-25T22:35:09Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/tryt.scala">
+        <Url>https://github.com/ThoughtWorksInc/tryt.scala</Url>
+        <Name>tryt.scala</Name>
+        <Title>tryt.scala</Title>
+        <RepoName>ThoughtWorksInc/tryt.scala</RepoName>
+        <Description>Monad transformers for exception handling</Description>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala</LanguageTags>
+        <WatchersCount>17</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>2</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2022-01-03T08:35:45Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/ZeroCost.scala">
+        <Url>https://github.com/ThoughtWorksInc/ZeroCost.scala</Url>
+        <Name>ZeroCost.scala</Name>
+        <Title>ZeroCost.scala</Title>
+        <RepoName>ThoughtWorksInc/ZeroCost.scala</RepoName>
+        <Description>Zero-cost Abstractions in Scala</Description>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala</LanguageTags>
+        <WatchersCount>9</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-03-11T14:49:53Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/Constructor.scala">
+        <Url>https://github.com/ThoughtWorksInc/Constructor.scala</Url>
+        <Name>Constructor.scala</Name>
+        <Title>Constructor.scala</Title>
+        <RepoName>ThoughtWorksInc/Constructor.scala</RepoName>
+        <Description>Mixin classes and traits dynamically</Description>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala</LanguageTags>
+        <WatchersCount>10</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2018-03-21T14:07:08Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/sbt-ammonite-classpath">
+        <Url>https://github.com/ThoughtWorksInc/sbt-ammonite-classpath</Url>
+        <Name>sbt-ammonite-classpath</Name>
+        <Title>sbt-ammonite-classpa&#x2026;</Title>
+        <RepoName>ThoughtWorksInc/sbt-ammonite-classpath</RepoName>
+        <Description>Export the classpath for Ammonite and Almond</Description>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala</LanguageTags>
+        <WatchersCount>29</WatchersCount>
+        <ForksCount>3</ForksCount>
+        <OpenIssuesCount>9</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2022-02-03T19:29:50Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/Binding.scala-website">
+        <Url>https://github.com/ThoughtWorksInc/Binding.scala-website</Url>
+        <Name>Binding.scala-website</Name>
+        <Title>Binding.scala-websit&#x2026;</Title>
+        <RepoName>ThoughtWorksInc/Binding.scala-website</RepoName>
+        <Description/>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala; Shell</LanguageTags>
+        <WatchersCount>9</WatchersCount>
+        <ForksCount>2</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2018-04-19T07:09:06Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/DesignPattern.scala">
+        <Url>https://github.com/ThoughtWorksInc/DesignPattern.scala</Url>
+        <Name>DesignPattern.scala</Name>
+        <Title>DesignPattern.scala</Title>
+        <RepoName>ThoughtWorksInc/DesignPattern.scala</RepoName>
+        <Description>Functional Programming Design Patterns</Description>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala; Java; Shell</LanguageTags>
+        <WatchersCount>16</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-06-11T02:58:11Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/Q.scala">
+        <Url>https://github.com/ThoughtWorksInc/Q.scala</Url>
+        <Name>Q.scala</Name>
+        <Title>Q.scala</Title>
+        <RepoName>ThoughtWorksInc/Q.scala</RepoName>
+        <Description>Convert any value to code</Description>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala</LanguageTags>
+        <WatchersCount>12</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-05-19T02:11:02Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/Binding.scala-play-template">
+        <Url>https://github.com/ThoughtWorksInc/Binding.scala-play-template</Url>
+        <Name>Binding.scala-play-template</Name>
+        <Title>Binding.scala-play-t&#x2026;</Title>
+        <RepoName>ThoughtWorksInc/Binding.scala-play-template</RepoName>
+        <Description/>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala; HTML</LanguageTags>
+        <WatchersCount>5</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>false</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2018-01-10T02:22:20Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/akka-http-rpc">
+        <Url>https://github.com/ThoughtWorksInc/akka-http-rpc</Url>
+        <Name>akka-http-rpc</Name>
+        <Title>akka-http-rpc</Title>
+        <RepoName>ThoughtWorksInc/akka-http-rpc</RepoName>
+        <Description>Turn akka-http to a RPC server</Description>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2019-04-02T09:02:16Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/TypeOf.scala">
+        <Url>https://github.com/ThoughtWorksInc/TypeOf.scala</Url>
+        <Name>TypeOf.scala</Name>
+        <Title>TypeOf.scala</Title>
+        <RepoName>ThoughtWorksInc/TypeOf.scala</RepoName>
+        <Description>Create types from expressions</Description>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala</LanguageTags>
+        <WatchersCount>4</WatchersCount>
+        <ForksCount>0</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2018-03-02T16:23:57Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/Binding.scala-activator-template">
+        <Url>https://github.com/ThoughtWorksInc/Binding.scala-activator-template</Url>
+        <Name>Binding.scala-activator-template</Name>
+        <Title>Binding.scala-activa&#x2026;</Title>
+        <RepoName>ThoughtWorksInc/Binding.scala-activator-template</RepoName>
+        <Description/>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala; HTML</LanguageTags>
+        <WatchersCount>3</WatchersCount>
+        <ForksCount>1</ForksCount>
+        <OpenIssuesCount>1</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2018-02-05T13:10:45Z</UpdatedAt>
+    </Dependency>
+    <Dependency name="ThoughtWorksInc/streaming-data-pipeline">
+        <Url>https://github.com/ThoughtWorksInc/streaming-data-pipeline</Url>
+        <Name>streaming-data-pipeline</Name>
+        <Title>streaming-data-pipel&#x2026;</Title>
+        <RepoName>ThoughtWorksInc/streaming-data-pipeline</RepoName>
+        <Description>Streaming pipeline repo for data engineering training program</Description>
+        <Owner>ThoughtWorksInc</Owner>
+        <Maintainers>
+            <Maintainer>
+                <Name>ThoughtWorksInc</Name>
+                <User>ThoughtWorksInc</User>
+                <Url>https://github.com/ThoughtWorksInc</Url>
+                <Location>Earth</Location>
+                <Email/>
+            </Maintainer>
+        </Maintainers>
+        <LanguageTags>Scala; Shell; Java; Python; Dockerfile; PLSQL</LanguageTags>
+        <WatchersCount>9</WatchersCount>
+        <ForksCount>6</ForksCount>
+        <OpenIssuesCount>0</OpenIssuesCount>
+        <Archived>false</Archived>
+        <HasIssues>true</HasIssues>
+        <License/>
+        <CountryOrigin>Ecuador</CountryOrigin>
+        <UpdatedAt>2021-12-12T13:06:45Z</UpdatedAt>
+    </Dependency>
+</Dependencies>
